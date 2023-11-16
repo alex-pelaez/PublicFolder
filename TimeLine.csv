@@ -1,3 +1,6 @@
-100,./mastercards/1-Archer Queen.png
-200,./mastercards/95-Sparky.png
-300,./mastercards/90-Skeleton Army.png
+ally,100, ./mastercards/1-Archer Queen.png
+ally,200, ./mastercards/95-Sparky.png
+ally,300,./mastercards/90-Skeleton Army.png
+enemy,150, ./mastercards/1-Archer Queen.png
+enemy,210, ./mastercards/95-Sparky.png
+enemy,330,./mastercards/90-Skeleton Army.png
