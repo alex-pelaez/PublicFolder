@@ -1,0 +1,438 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00225,Fireball,30,,,Three Musketeers,98,Archer Queen,1,,,,6,False,False,0,0.0
+00240,Fireball,30,,,Three Musketeers,98,Archer Queen,1,,,,6,False,False,0,0.0
+00255,Fireball,30,,,Three Musketeers,98,Archer Queen,1,,,2,6,False,False,0,0.0
+00270,Fireball,30,Inferno Tower,57,Three Musketeers,98,Archer Queen,1,,,2,7,False,False,0,0.0
+00285,Fireball,30,Giant,36,Three Musketeers,98,Archer Queen,1,Inferno Tower,57,2,7,True,False,0,5.0
+00300,Fireball,30,Battle Healer,10,Three Musketeers,98,Archer Queen,1,Giant,36,2,7,True,False,0,5.0
+00315,Fireball,30,Giant,36,Three Musketeers,98,Archer Queen,1,Battle Healer,10,2,7,True,False,0,4.0
+00330,Fireball,30,Barbarian Hut,7,Tesla,96,Archer Queen,1,Three Musketeers,98,3,7,True,False,0,9.0
+00345,Fireball,30,Battle Healer,10,Tesla,96,Archer Queen,1,Barbarian Hut,7,2,7,True,False,0,6.0
+00360,Fireball,30,Battle Healer,10,Tesla,96,Archer Queen,1,,,,8,False,False,0,0.0
+00375,Fireball,30,Barbarian Hut,7,Tesla,96,Archer Queen,1,Battle Healer,10,2,8,True,False,0,4.0
+00390,Fireball,30,Battle Healer,10,Tesla,96,Archer Queen,1,Barbarian Hut,7,2,8,True,False,0,6.0
+00405,Fireball,30,Flying Machine,33,Tesla,96,Three Musketeers,98,Archer Queen,1,4,8,True,False,0,5.0
+00420,Fireball,30,Battle Healer,10,Tesla,96,Archer Queen,1,Three Musketeers,98,4,8,True,False,0,9.0
+00435,Fireball,30,Archer Queen,1,Tesla,96,Archer Queen,1,Battle Healer,10,2,9,True,False,0,4.0
+00450,Fireball,30,Flying Machine,33,Tesla,96,Archer Queen,1,Archer Queen,1,2,9,True,False,0,5.0
+00465,Fireball,30,Archer Queen,1,Three Musketeers,98,Archer Queen,1,Tesla,96,3,9,True,False,0,4.0
+00480,Fireball,30,Inferno Tower,57,Tesla,96,Three Musketeers,98,Archer Queen,1,4,9,True,False,0,5.0
+00495,Fireball,30,Inferno Tower,57,Three Musketeers,98,Elixir Collector,26,Three Musketeers,98,4,9,True,False,0,9.0
+00510,Fireball,30,Battle Healer,10,Three Musketeers,98,Archer Queen,1,Elixir Collector,26,4,9,True,False,0,6.0
+00525,Fireball,30,Archer Queen,1,Three Musketeers,98,Archer Queen,1,Battle Healer,10,2,10,True,False,0,4.0
+00540,Fireball,30,Archer Queen,1,Three Musketeers,98,Archer Queen,1,,,,10,False,False,0,0.0
+00555,Fireball,30,Archer Queen,1,Three Musketeers,98,Archer Queen,1,,,,10,False,False,0,0.0
+00570,Fireball,30,Archer Queen,1,Three Musketeers,98,Archer Queen,1,,,,10,False,False,0,0.0
+00585,Fireball,30,Archer Queen,1,Three Musketeers,98,Archer Queen,1,,,,10,False,False,0,0.0
+00600,Fireball,30,Archer Queen,1,Tesla,96,Archer Queen,1,Three Musketeers,98,3,10,True,False,0,9.0
+00615,Fireball,30,Archer Queen,1,Tesla,96,Archer Queen,1,,,,10,False,False,0,0.0
+00630,Fireball,30,Archer Queen,1,Tesla,96,Archer Queen,1,,,,10,False,False,0,0.0
+00645,Fireball,30,Archer Queen,1,Tesla,96,Archer Queen,1,,,,10,False,False,0,0.0
+00660,Fireball,30,Battle Healer,10,Tesla,96,Archer Queen,1,Archer Queen,1,2,10,True,False,0,5.0
+00675,Fireball,30,Battle Healer,10,Tesla,96,Archer Queen,1,,,,10,False,False,0,0.0
+00690,Fireball,30,Battle Healer,10,Tesla,96,Archer Queen,1,,,,3,False,True,7,0.0
+00705,Fireball,30,Battle Healer,10,Tesla,96,Archer Queen,1,,,,3,False,False,0,0.0
+00720,Fireball,30,Battle Healer,10,Tesla,96,Archer Queen,1,,,,3,False,False,0,0.0
+00735,Fireball,30,Battle Healer,10,Tesla,96,Archer Queen,1,,,,3,False,False,0,0.0
+00750,Fireball,30,Battle Healer,10,Tesla,96,Archer Queen,1,,,,3,False,False,0,0.0
+00765,Fireball,30,Baby Dragon,3,Three Musketeers,98,Archer Queen,1,Tesla,96,3,4,True,False,0,4.0
+00780,Fireball,30,Baby Dragon,3,Three Musketeers,98,Archer Queen,1,,,,4,False,False,0,0.0
+00795,Fireball,30,Baby Dragon,3,Three Musketeers,98,Archer Queen,1,,,,4,False,False,0,0.0
+00810,Fireball,30,Baby Dragon,3,Three Musketeers,98,Archer Queen,1,,,,4,False,False,0,0.0
+00825,Fireball,30,Baby Dragon,3,Three Musketeers,98,Archer Queen,1,,,,4,False,False,0,0.0
+00840,Fireball,30,Baby Dragon,3,Three Musketeers,98,Archer Queen,1,,,,4,False,False,0,0.0
+00855,Fireball,30,Baby Dragon,3,Three Musketeers,98,Archer Queen,1,,,,5,False,False,0,0.0
+00870,Fireball,30,Clone,17,Three Musketeers,98,Archer Queen,1,Baby Dragon,3,2,5,True,False,0,4.0
+00885,Fireball,30,Clone,17,Three Musketeers,98,Archer Queen,1,,,,5,False,False,0,0.0
+00900,Fireball,30,Clone,17,Three Musketeers,98,Archer Queen,1,,,,5,False,False,0,0.0
+00915,Fireball,30,Clone,17,Three Musketeers,98,Archer Queen,1,,,,5,False,False,0,0.0
+00930,Fireball,30,Royal Ghost,85,Three Musketeers,98,Archer Queen,1,Clone,17,2,5,True,False,0,3.0
+00945,Fireball,30,Baby Dragon,3,Three Musketeers,98,Archer Queen,1,Royal Ghost,85,2,6,True,False,0,3.0
+00960,Fireball,30,Baby Dragon,3,Three Musketeers,98,Archer Queen,1,,,,6,False,False,0,0.0
+00975,Fireball,30,Baby Dragon,3,Three Musketeers,98,Archer Queen,1,,,,6,False,False,0,0.0
+00990,Fireball,30,Baby Dragon,3,Three Musketeers,98,Archer Queen,1,,,,6,False,False,0,0.0
+01005,Fireball,30,Baby Dragon,3,Three Musketeers,98,Archer Queen,1,,,,6,False,False,0,0.0
+01020,Fireball,30,Baby Dragon,3,Tesla,96,Archer Queen,1,Three Musketeers,98,3,7,True,False,0,9.0
+01035,Fireball,30,Baby Dragon,3,Tesla,96,Archer Queen,1,,,,3,False,True,4,0.0
+01050,Fireball,30,Baby Dragon,3,Tesla,96,Archer Queen,1,,,,3,False,False,0,0.0
+01065,Fireball,30,Baby Dragon,3,Tesla,96,Archer Queen,1,,,,3,False,False,0,0.0
+01080,Fireball,30,Baby Dragon,3,Tesla,96,Archer Queen,1,,,,3,False,False,0,0.0
+01095,Fireball,30,Arrows,2,Tesla,96,Archer Queen,1,Baby Dragon,3,2,3,True,False,0,4.0
+01110,Fireball,30,Clone,17,Fireball,30,Archer Queen,1,Tesla,96,3,4,True,False,0,4.0
+01125,Fireball,30,Baby Dragon,3,Fireball,30,Archer Queen,1,Clone,17,2,4,True,False,0,3.0
+01140,Fireball,30,Baby Dragon,3,Fireball,30,Archer Queen,1,,,,4,False,False,0,0.0
+01155,Fireball,30,Baby Dragon,3,Fireball,30,Archer Queen,1,,,,4,False,False,0,0.0
+01170,Fireball,30,Baby Dragon,3,Fireball,30,Archer Queen,1,,,,4,False,False,0,0.0
+01185,Fireball,30,Royal Ghost,85,Fireball,30,Firecracker,31,Archer Queen,1,4,5,True,False,0,5.0
+01275,Fireball,30,Royal Ghost,85,Fireball,30,Firecracker,31,,,,2,False,True,3,0.0
+01290,Fireball,30,Royal Ghost,85,Fireball,30,Firecracker,31,,,,2,False,False,0,0.0
+01305,Fireball,30,Royal Ghost,85,Fireball,30,Firecracker,31,,,,2,False,False,0,0.0
+01320,Fireball,30,Royal Ghost,85,Fireball,30,Firecracker,31,,,,2,False,False,0,0.0
+01335,Fireball,30,Royal Ghost,85,Fireball,30,Firecracker,31,,,,2,False,False,0,0.0
+01350,Fireball,30,Royal Ghost,85,Fireball,30,Firecracker,31,,,,2,False,False,0,0.0
+01365,Fireball,30,Three Musketeers,98,Fireball,30,Archer Queen,1,Firecracker,31,4,3,True,False,0,3.0
+01380,Fireball,30,Three Musketeers,98,Fireball,30,Archer Queen,1,,,,3,False,False,0,0.0
+01530,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,Archer Queen,1,4,2,True,True,1,5.0
+01545,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,,,,2,False,False,0,0.0
+01560,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,,,,2,False,False,0,0.0
+01575,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,,,,2,False,False,0,0.0
+01590,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,,,,2,False,False,0,0.0
+01605,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+01620,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+01635,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+01650,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+01665,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+01680,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+01695,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,,,,4,False,False,0,0.0
+01710,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,,,,4,False,False,0,0.0
+01860,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,,,,2,False,True,2,0.0
+01875,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,,,,2,False,False,0,0.0
+01890,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,,,,2,False,False,0,0.0
+01905,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,,,,2,False,False,0,0.0
+02025,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,,,,2,False,False,0,0.0
+02040,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,,,,2,False,False,0,0.0
+02055,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,,,,2,False,False,0,0.0
+02070,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,,,,2,False,False,0,0.0
+02085,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,,,,2,False,False,0,0.0
+02100,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,,,,2,False,False,0,0.0
+02115,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+02130,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+02145,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+02160,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+02175,Fireball,30,Three Musketeers,98,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+02190,Three Musketeers,98,Three Musketeers,98,Fireball,30,Lightning,60,Fireball,30,1,4,True,False,0,4.0
+02205,Three Musketeers,98,Three Musketeers,98,Fireball,30,Lightning,60,,,,4,False,False,0,0.0
+02220,Three Musketeers,98,Three Musketeers,98,Fireball,30,Lightning,60,,,,4,False,False,0,0.0
+02235,Three Musketeers,98,Three Musketeers,98,Fireball,30,Lightning,60,,,,4,False,False,0,0.0
+02250,Three Musketeers,98,Bats,9,Fireball,30,Lightning,60,Three Musketeers,98,2,4,True,False,0,9.0
+02265,Three Musketeers,98,Three Musketeers,98,Fireball,30,Lightning,60,Bats,9,2,4,True,False,0,2.0
+02280,Three Musketeers,98,Bats,9,Fireball,30,Lightning,60,Three Musketeers,98,2,5,True,False,0,9.0
+02295,Three Musketeers,98,Bats,9,Fireball,30,Lightning,60,,,,5,False,False,0,0.0
+02310,Tesla,96,Three Musketeers,98,Fireball,30,Lightning,60,Bats,9,2,5,True,False,0,2.0
+02325,Tesla,96,Three Musketeers,98,Fireball,30,Lightning,60,,,,5,False,False,0,0.0
+02340,Three Musketeers,98,Three Musketeers,98,Fireball,30,Lightning,60,Tesla,96,1,5,True,False,0,4.0
+02355,Three Musketeers,98,Three Musketeers,98,Fireball,30,Lightning,60,,,,5,False,False,0,0.0
+02370,Three Musketeers,98,Three Musketeers,98,Fireball,30,Lightning,60,,,,6,False,False,0,0.0
+02385,Three Musketeers,98,Three Musketeers,98,Fireball,30,Lightning,60,,,,6,False,False,0,0.0
+02400,Three Musketeers,98,Three Musketeers,98,Fireball,30,Lightning,60,,,,6,False,False,0,0.0
+02415,Three Musketeers,98,Three Musketeers,98,Fireball,30,Lightning,60,,,,6,False,False,0,0.0
+02430,Three Musketeers,98,Three Musketeers,98,Fireball,30,Lightning,60,,,,6,False,False,0,0.0
+02445,Three Musketeers,98,Three Musketeers,98,Inferno Tower,57,Lightning,60,Fireball,30,3,7,True,False,0,4.0
+02460,Three Musketeers,98,Three Musketeers,98,Giant,36,Lightning,60,Inferno Tower,57,3,7,True,False,0,5.0
+02475,Three Musketeers,98,Three Musketeers,98,Giant,36,Lightning,60,,,,7,False,False,0,0.0
+02490,Three Musketeers,98,Three Musketeers,98,Battle Healer,10,Lightning,60,Giant,36,3,7,True,False,0,5.0
+02505,Three Musketeers,98,Three Musketeers,98,Battle Healer,10,Lightning,60,,,,7,False,False,0,0.0
+02520,Three Musketeers,98,Three Musketeers,98,Battle Healer,10,Lightning,60,,,,7,False,False,0,0.0
+02535,Three Musketeers,98,Three Musketeers,98,Battle Healer,10,Lightning,60,,,,8,False,False,0,0.0
+02550,Three Musketeers,98,Three Musketeers,98,Battle Healer,10,Lightning,60,,,,8,False,False,0,0.0
+02565,Three Musketeers,98,Three Musketeers,98,Giant,36,Lightning,60,Battle Healer,10,3,8,True,False,0,4.0
+02580,Three Musketeers,98,Three Musketeers,98,Inferno Tower,57,Lightning,60,Giant,36,3,8,True,False,0,5.0
+02595,Three Musketeers,98,Three Musketeers,98,Inferno Tower,57,Lightning,60,,,,8,False,False,0,0.0
+02610,Three Musketeers,98,Three Musketeers,98,Inferno Tower,57,Lightning,60,,,,9,False,False,0,0.0
+02625,Three Musketeers,98,Three Musketeers,98,Battle Healer,10,Lightning,60,Inferno Tower,57,3,9,True,False,0,5.0
+02640,Three Musketeers,98,Three Musketeers,98,Battle Healer,10,Lightning,60,,,,9,False,False,0,0.0
+02655,Three Musketeers,98,Three Musketeers,98,Inferno Tower,57,Lightning,60,Battle Healer,10,3,9,True,False,0,4.0
+02670,Three Musketeers,98,Three Musketeers,98,Inferno Tower,57,Lightning,60,,,,9,False,False,0,0.0
+02685,Three Musketeers,98,Three Musketeers,98,Archer Queen,1,Lightning,60,Inferno Tower,57,3,9,True,False,0,5.0
+02700,Three Musketeers,98,Baby Dragon,3,Flying Machine,33,Lightning,60,Archer Queen,1,3,7,True,True,2,5.0
+02715,Three Musketeers,98,Baby Dragon,3,Battle Healer,10,Lightning,60,Flying Machine,33,3,7,True,False,0,4.0
+02730,Three Musketeers,98,Baby Dragon,3,Inferno Tower,57,Lightning,60,Battle Healer,10,3,7,True,False,0,4.0
+02745,Three Musketeers,98,Baby Dragon,3,Giant,36,Lightning,60,Inferno Tower,57,3,7,True,False,0,5.0
+02760,Three Musketeers,98,Baby Dragon,3,Valkyrie,101,Lightning,60,Giant,36,3,7,True,False,0,5.0
+02775,Three Musketeers,98,Baby Dragon,3,Giant,36,Lightning,60,Valkyrie,101,3,7,True,False,0,4.0
+02790,Three Musketeers,98,Baby Dragon,3,Giant,36,Lightning,60,,,,8,False,False,0,0.0
+02805,Three Musketeers,98,Baby Dragon,3,Flying Machine,33,Lightning,60,Giant,36,3,8,True,False,0,5.0
+02820,Three Musketeers,98,Baby Dragon,3,Battle Healer,10,Lightning,60,Flying Machine,33,3,8,True,False,0,4.0
+02835,Three Musketeers,98,Baby Dragon,3,Battle Healer,10,Lightning,60,,,,8,False,False,0,0.0
+02850,Three Musketeers,98,Baby Dragon,3,Battle Healer,10,Lightning,60,,,,8,False,False,0,0.0
+02865,Three Musketeers,98,Baby Dragon,3,Archer Queen,1,Lightning,60,Battle Healer,10,3,9,True,False,0,4.0
+02880,Three Musketeers,98,Baby Dragon,3,Archer Queen,1,Lightning,60,,,,9,False,False,0,0.0
+02895,Three Musketeers,98,Baby Dragon,3,Archer Queen,1,Lightning,60,,,,9,False,False,0,0.0
+02910,Three Musketeers,98,Baby Dragon,3,Archer Queen,1,Lightning,60,,,,9,False,False,0,0.0
+02925,Three Musketeers,98,Baby Dragon,3,Archer Queen,1,Lightning,60,,,,2,False,True,7,0.0
+02940,Three Musketeers,98,Baby Dragon,3,Archer Queen,1,Lightning,60,,,,2,False,False,0,0.0
+02955,Three Musketeers,98,Baby Dragon,3,Archer Queen,1,Lightning,60,,,,3,False,False,0,0.0
+02970,Three Musketeers,98,Baby Dragon,3,Archer Queen,1,Lightning,60,,,,3,False,False,0,0.0
+02985,Three Musketeers,98,Baby Dragon,3,Archer Queen,1,Lightning,60,,,,3,False,False,0,0.0
+03000,Three Musketeers,98,Baby Dragon,3,Archer Queen,1,Lightning,60,,,,3,False,False,0,0.0
+03015,Three Musketeers,98,Baby Dragon,3,Archer Queen,1,Lightning,60,,,,3,False,False,0,0.0
+03030,Three Musketeers,98,Baby Dragon,3,Archer Queen,1,Lightning,60,,,,4,False,False,0,0.0
+03045,Three Musketeers,98,Clone,17,Archer Queen,1,Lightning,60,Baby Dragon,3,2,4,True,False,0,4.0
+03060,Three Musketeers,98,Baby Dragon,3,Archer Queen,1,Lightning,60,Clone,17,2,4,True,False,0,3.0
+03075,Three Musketeers,98,Baby Dragon,3,Archer Queen,1,Lightning,60,,,,4,False,False,0,0.0
+03090,Three Musketeers,98,Clone,17,Archer Queen,1,Lightning,60,Baby Dragon,3,2,4,True,False,0,4.0
+03105,Three Musketeers,98,Baby Dragon,3,Archer Queen,1,Lightning,60,Clone,17,2,4,True,False,0,3.0
+03120,Three Musketeers,98,Baby Dragon,3,Archer Queen,1,Lightning,60,,,,5,False,False,0,0.0
+03135,Three Musketeers,98,Baby Dragon,3,Archer Queen,1,Lightning,60,,,,5,False,False,0,0.0
+03150,Three Musketeers,98,Baby Dragon,3,Archer Queen,1,Lightning,60,,,,5,False,False,0,0.0
+03165,Three Musketeers,98,Baby Dragon,3,Archer Queen,1,Lightning,60,,,,5,False,False,0,0.0
+03180,Three Musketeers,98,Baby Dragon,3,Archer Queen,1,Lightning,60,,,,5,False,False,0,0.0
+03195,Three Musketeers,98,Baby Dragon,3,Archer Queen,1,Lightning,60,,,,5,False,False,0,0.0
+03210,Three Musketeers,98,Baby Dragon,3,Elixir Collector,26,Lightning,60,Archer Queen,1,3,6,True,False,0,5.0
+03225,Three Musketeers,98,Baby Dragon,3,Elixir Collector,26,Lightning,60,,,,2,False,True,4,0.0
+03240,Three Musketeers,98,Baby Dragon,3,Elixir Collector,26,Lightning,60,,,,2,False,False,0,0.0
+03255,Three Musketeers,98,Baby Dragon,3,Elixir Collector,26,Lightning,60,,,,2,False,False,0,0.0
+03270,Three Musketeers,98,Baby Dragon,3,Elixir Collector,26,Lightning,60,,,,2,False,False,0,0.0
+03285,Three Musketeers,98,Baby Dragon,3,Three Musketeers,98,Lightning,60,Elixir Collector,26,3,3,True,False,0,6.0
+03300,Three Musketeers,98,Baby Dragon,3,Three Musketeers,98,Lightning,60,,,,3,False,False,0,0.0
+03315,Three Musketeers,98,Baby Dragon,3,Three Musketeers,98,Lightning,60,,,,3,False,False,0,0.0
+03330,Three Musketeers,98,Baby Dragon,3,Three Musketeers,98,Lightning,60,,,,3,False,False,0,0.0
+03345,Three Musketeers,98,Baby Dragon,3,Three Musketeers,98,Lightning,60,,,,3,False,False,0,0.0
+03450,Three Musketeers,98,Baby Dragon,3,Fireball,30,Lightning,60,Three Musketeers,98,3,2,True,True,1,9.0
+03465,Three Musketeers,98,Baby Dragon,3,Fireball,30,Lightning,60,,,,2,False,False,0,0.0
+03480,Three Musketeers,98,Baby Dragon,3,Fireball,30,Lightning,60,,,,2,False,False,0,0.0
+03495,Three Musketeers,98,Baby Dragon,3,Fireball,30,Lightning,60,,,,2,False,False,0,0.0
+03510,Three Musketeers,98,Baby Dragon,3,Fireball,30,Lightning,60,,,,2,False,False,0,0.0
+03525,Three Musketeers,98,Baby Dragon,3,Fireball,30,Lightning,60,,,,2,False,False,0,0.0
+03540,Three Musketeers,98,Baby Dragon,3,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+03555,Three Musketeers,98,Baby Dragon,3,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+03570,Three Musketeers,98,Baby Dragon,3,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+03585,Three Musketeers,98,Baby Dragon,3,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+03600,Three Musketeers,98,Baby Dragon,3,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+03615,Three Musketeers,98,Baby Dragon,3,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+03630,Three Musketeers,98,Fireball,30,Fireball,30,Lightning,60,Baby Dragon,3,2,4,True,False,0,4.0
+03645,Three Musketeers,98,Fireball,30,Fireball,30,Lightning,60,,,,4,False,False,0,0.0
+03795,Three Musketeers,98,Fireball,30,Fireball,30,Lightning,60,,,,3,False,True,1,0.0
+03810,Three Musketeers,98,Fireball,30,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+03825,Three Musketeers,98,Fireball,30,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+03840,Three Musketeers,98,Fireball,30,Fireball,30,Lightning,60,,,,4,False,False,0,0.0
+03855,Three Musketeers,98,Fireball,30,Fireball,30,Lightning,60,,,,4,False,False,0,0.0
+03870,Three Musketeers,98,Fireball,30,Fireball,30,Lightning,60,,,,4,False,False,0,0.0
+03885,Three Musketeers,98,Fireball,30,Fireball,30,Lightning,60,,,,5,False,False,0,0.0
+03900,Three Musketeers,98,Fireball,30,Fireball,30,Lightning,60,,,,5,False,False,0,0.0
+03915,Three Musketeers,98,Fireball,30,Fireball,30,Lightning,60,,,,6,False,False,0,0.0
+03930,Three Musketeers,98,Fireball,30,Fireball,30,Lightning,60,,,,6,False,False,0,0.0
+03945,Three Musketeers,98,Fireball,30,Fireball,30,Lightning,60,,,,6,False,False,0,0.0
+03960,Three Musketeers,98,Fireball,30,Fireball,30,Lightning,60,,,,7,False,False,0,0.0
+03975,Three Musketeers,98,Fireball,30,Fireball,30,Lightning,60,,,,7,False,False,0,0.0
+03990,Three Musketeers,98,Fireball,30,Fireball,30,Lightning,60,,,,7,False,False,0,0.0
+04005,Three Musketeers,98,Fireball,30,Fireball,30,Lightning,60,,,,8,False,False,0,0.0
+04020,Three Musketeers,98,Fireball,30,Fireball,30,Lightning,60,,,,8,False,False,0,0.0
+04035,Three Musketeers,98,Fireball,30,Fireball,30,Lightning,60,,,,6,False,True,2,0.0
+04050,Three Musketeers,98,Fireball,30,Battle Healer,10,Lightning,60,Fireball,30,3,7,True,False,0,4.0
+04065,Three Musketeers,98,Fireball,30,Inferno Tower,57,Lightning,60,Battle Healer,10,3,7,True,False,0,4.0
+04080,Three Musketeers,98,Fireball,30,Inferno Tower,57,Lightning,60,,,,7,False,False,0,0.0
+04095,Three Musketeers,98,Fireball,30,Inferno Tower,57,Lightning,60,,,,7,False,False,0,0.0
+04110,Three Musketeers,98,Fireball,30,Inferno Tower,57,Lightning,60,,,,8,False,False,0,0.0
+04125,Three Musketeers,98,Fireball,30,Inferno Tower,57,Lightning,60,,,,9,False,False,0,0.0
+04140,Three Musketeers,98,Fireball,30,Inferno Tower,57,Lightning,60,,,,9,False,False,0,0.0
+04155,Three Musketeers,98,Fireball,30,Inferno Tower,57,Lightning,60,,,,9,False,False,0,0.0
+04170,Three Musketeers,98,Fireball,30,Battle Healer,10,Lightning,60,Inferno Tower,57,3,10,True,False,0,5.0
+04185,P.E.K.K.A.,75,Fireball,30,Battle Healer,10,Lightning,60,Three Musketeers,98,1,10,True,False,0,9.0
+04200,Baby Dragon,3,Fireball,30,Archer Queen,1,Lightning,60,Battle Healer,10,3,10,True,False,0,4.0
+04215,Baby Dragon,3,Fireball,30,Flying Machine,33,Lightning,60,Archer Queen,1,3,7,True,True,3,5.0
+04230,Baby Dragon,3,Fireball,30,Flying Machine,33,Lightning,60,,,,8,False,False,0,0.0
+04245,Baby Dragon,3,Fireball,30,Battle Healer,10,Lightning,60,Flying Machine,33,3,8,True,False,0,4.0
+04260,Baby Dragon,3,Fireball,30,Battle Healer,10,Lightning,60,,,,8,False,False,0,0.0
+04275,Baby Dragon,3,Fireball,30,Battle Healer,10,Lightning,60,,,,2,False,True,6,0.0
+04290,Baby Dragon,3,Fireball,30,Battle Healer,10,Lightning,60,,,,2,False,False,0,0.0
+04305,Baby Dragon,3,Fireball,30,Battle Healer,10,Lightning,60,,,,2,False,False,0,0.0
+04320,Baby Dragon,3,Fireball,30,Archer Queen,1,Lightning,60,Battle Healer,10,3,3,True,False,0,4.0
+04335,Baby Dragon,3,Fireball,30,Archer Queen,1,Lightning,60,,,,3,False,False,0,0.0
+04350,Baby Dragon,3,Fireball,30,Archer Queen,1,Lightning,60,,,,4,False,False,0,0.0
+04365,Baby Dragon,3,Fireball,30,Archer Queen,1,Lightning,60,,,,4,False,False,0,0.0
+04380,Baby Dragon,3,Fireball,30,Archer Queen,1,Lightning,60,,,,4,False,False,0,0.0
+04440,Baby Dragon,3,Fireball,30,Archer Queen,1,Lightning,60,,,,2,False,True,2,0.0
+04455,Baby Dragon,3,Fireball,30,Archer Queen,1,Lightning,60,,,,2,False,False,0,0.0
+04470,Baby Dragon,3,Fireball,30,Archer Queen,1,Lightning,60,,,,2,False,False,0,0.0
+04485,Baby Dragon,3,Fireball,30,Elixir Collector,26,Lightning,60,Archer Queen,1,3,3,True,False,0,5.0
+04500,Baby Dragon,3,Fireball,30,Elixir Collector,26,Lightning,60,,,,3,False,False,0,0.0
+04515,Baby Dragon,3,Fireball,30,Archer Queen,1,Lightning,60,Elixir Collector,26,3,3,True,False,0,6.0
+04560,Baby Dragon,3,Fireball,30,Fireball,30,Lightning,60,Archer Queen,1,3,2,True,True,1,5.0
+04575,Baby Dragon,3,Fireball,30,Fireball,30,Lightning,60,,,,2,False,False,0,0.0
+04590,Baby Dragon,3,Fireball,30,Fireball,30,Lightning,60,,,,2,False,False,0,0.0
+04605,Baby Dragon,3,Fireball,30,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+04620,Baby Dragon,3,Fireball,30,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+04635,Baby Dragon,3,Fireball,30,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+04650,Baby Dragon,3,Fireball,30,Fireball,30,Lightning,60,,,,2,False,True,1,0.0
+04665,Baby Dragon,3,Fireball,30,Fireball,30,Lightning,60,,,,2,False,False,0,0.0
+04680,Baby Dragon,3,Fireball,30,Fireball,30,Lightning,60,,,,2,False,False,0,0.0
+04695,Baby Dragon,3,Fireball,30,Fireball,30,Three Musketeers,98,Lightning,60,4,3,True,False,0,6.0
+04710,Baby Dragon,3,Fireball,30,Rage,80,Three Musketeers,98,Fireball,30,3,3,True,False,0,4.0
+04770,Baby Dragon,3,Fireball,30,Rage,80,Three Musketeers,98,,,,3,False,False,0,0.0
+04785,Baby Dragon,3,Fireball,30,Rage,80,Three Musketeers,98,,,,3,False,False,0,0.0
+04800,Baby Dragon,3,Fireball,30,Rage,80,Three Musketeers,98,,,,3,False,False,0,0.0
+04815,Three Musketeers,98,Fireball,30,Rage,80,Three Musketeers,98,Baby Dragon,3,1,4,True,False,0,4.0
+04830,Three Musketeers,98,Fireball,30,Rage,80,Three Musketeers,98,,,,4,False,False,0,0.0
+04845,Three Musketeers,98,Fireball,30,Rage,80,Three Musketeers,98,,,,4,False,False,0,0.0
+04860,Three Musketeers,98,Fireball,30,Rage,80,Three Musketeers,98,,,,5,False,False,0,0.0
+04875,Three Musketeers,98,Fireball,30,Rage,80,Three Musketeers,98,,,,5,False,False,0,0.0
+04890,Three Musketeers,98,Fireball,30,Rage,80,Three Musketeers,98,,,,5,False,False,0,0.0
+04905,Three Musketeers,98,Fireball,30,Rage,80,Three Musketeers,98,,,,6,False,False,0,0.0
+04920,Three Musketeers,98,Fireball,30,Rage,80,Three Musketeers,98,,,,6,False,False,0,0.0
+04935,Three Musketeers,98,Fireball,30,Rage,80,Three Musketeers,98,,,,6,False,False,0,0.0
+04950,Three Musketeers,98,Fireball,30,Inferno Tower,57,Three Musketeers,98,Rage,80,3,7,True,False,0,2.0
+04965,Three Musketeers,98,Fireball,30,Inferno Tower,57,Baby Dragon,3,Three Musketeers,98,4,4,True,True,3,9.0
+04980,Three Musketeers,98,Fireball,30,Inferno Tower,57,Baby Dragon,3,,,,5,False,False,0,0.0
+04995,Three Musketeers,98,Fireball,30,Inferno Tower,57,Clone,17,Baby Dragon,3,4,5,True,False,0,4.0
+05010,Three Musketeers,98,Fireball,30,Inferno Tower,57,Clone,17,,,,5,False,False,0,0.0
+05025,Three Musketeers,98,Fireball,30,Inferno Tower,57,Clone,17,,,,6,False,False,0,0.0
+05040,Three Musketeers,98,Fireball,30,Inferno Tower,57,Clone,17,,,,6,False,False,0,0.0
+05055,Three Musketeers,98,Fireball,30,Inferno Tower,57,Clone,17,,,,6,False,False,0,0.0
+05070,Three Musketeers,98,Fireball,30,Battle Healer,10,Baby Dragon,3,Clone,17,4,7,True,False,0,3.0
+05085,Tesla,96,Fireball,30,Battle Healer,10,Clone,17,Baby Dragon,3,4,7,True,False,0,4.0
+05100,Tesla,96,Fireball,30,Fire Spirit,29,Royal Ghost,85,Clone,17,4,7,True,False,0,3.0
+05115,Three Musketeers,98,Fireball,30,Fire Spirit,29,Royal Ghost,85,Tesla,96,1,8,True,False,0,4.0
+05130,Three Musketeers,98,Fireball,30,Flying Machine,33,Baby Dragon,3,Royal Ghost,85,4,8,True,False,0,3.0
+05145,Three Musketeers,98,Fireball,30,Archer Queen,1,Baby Dragon,3,Flying Machine,33,3,8,True,False,0,4.0
+05160,Three Musketeers,98,Archer Queen,1,Archer Queen,1,Baby Dragon,3,Fireball,30,2,5,True,True,3,4.0
+05175,Three Musketeers,98,Archer Queen,1,Archer Queen,1,Baby Dragon,3,,,,5,False,False,0,0.0
+05190,Three Musketeers,98,Archer Queen,1,Archer Queen,1,Baby Dragon,3,,,,6,False,False,0,0.0
+05205,Three Musketeers,98,Archer Queen,1,Archer Queen,1,Baby Dragon,3,,,,6,False,False,0,0.0
+05220,Three Musketeers,98,Archer Queen,1,Archer Queen,1,Baby Dragon,3,,,,6,False,False,0,0.0
+05235,Three Musketeers,98,Archer Queen,1,Archer Queen,1,Baby Dragon,3,,,,7,False,False,0,0.0
+05250,Three Musketeers,98,Archer Queen,1,Inferno Tower,57,Clone,17,Baby Dragon,3,4,7,True,False,0,4.0
+05265,Three Musketeers,98,Archer Queen,1,Battle Healer,10,Clone,17,Inferno Tower,57,3,7,True,False,0,5.0
+05280,Three Musketeers,98,Archer Queen,1,Inferno Tower,57,Baby Dragon,3,Clone,17,4,8,True,False,0,3.0
+05295,Three Musketeers,98,Archer Queen,1,Inferno Tower,57,Baby Dragon,3,,,,8,False,False,0,0.0
+05310,Three Musketeers,98,Archer Queen,1,Battle Healer,10,Baby Dragon,3,Inferno Tower,57,3,8,True,False,0,5.0
+05325,Three Musketeers,98,Archer Queen,1,Inferno Tower,57,Royal Ghost,85,Baby Dragon,3,4,9,True,False,0,4.0
+05340,Three Musketeers,98,Archer Queen,1,Inferno Tower,57,Baby Dragon,3,Royal Ghost,85,4,9,True,False,0,3.0
+05355,Three Musketeers,98,Archer Queen,1,Inferno Tower,57,Lightning,60,Baby Dragon,3,4,6,True,True,3,4.0
+05370,Three Musketeers,98,Archer Queen,1,Inferno Tower,57,Lightning,60,,,,6,False,False,0,0.0
+05385,Three Musketeers,98,Archer Queen,1,Inferno Tower,57,Lightning,60,,,,6,False,False,0,0.0
+05400,Three Musketeers,98,Archer Queen,1,Battle Healer,10,Lightning,60,Inferno Tower,57,3,7,True,False,0,5.0
+05415,Three Musketeers,98,Archer Queen,1,Flying Machine,33,Lightning,60,Battle Healer,10,3,8,True,False,0,4.0
+05430,Three Musketeers,98,Archer Queen,1,Flying Machine,33,Lightning,60,,,,8,False,False,0,0.0
+05445,Three Musketeers,98,Archer Queen,1,Flying Machine,33,Lightning,60,,,,8,False,False,0,0.0
+05460,Three Musketeers,98,Archer Queen,1,Flying Machine,33,Lightning,60,,,,8,False,False,0,0.0
+05475,Three Musketeers,98,Archer Queen,1,Flying Machine,33,Lightning,60,,,,8,False,False,0,0.0
+05490,Three Musketeers,98,Archer Queen,1,Inferno Tower,57,Lightning,60,Flying Machine,33,3,9,True,False,0,4.0
+05505,Three Musketeers,98,Archer Queen,1,Fireball,30,Lightning,60,Inferno Tower,57,3,2,True,True,7,5.0
+05520,Three Musketeers,98,Archer Queen,1,Fireball,30,Lightning,60,,,,2,False,False,0,0.0
+05535,Three Musketeers,98,Archer Queen,1,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+05550,Three Musketeers,98,Archer Queen,1,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+05565,Three Musketeers,98,Archer Queen,1,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+05580,Three Musketeers,98,Archer Queen,1,Fireball,30,Lightning,60,,,,4,False,False,0,0.0
+05595,Three Musketeers,98,Archer Queen,1,Fireball,30,Lightning,60,,,,4,False,False,0,0.0
+05610,Three Musketeers,98,Archer Queen,1,Fireball,30,Lightning,60,,,,5,False,False,0,0.0
+05625,Three Musketeers,98,Archer Queen,1,Fireball,30,Lightning,60,,,,5,False,False,0,0.0
+05655,Three Musketeers,98,Archer Queen,1,Fireball,30,Lightning,60,,,,2,False,True,3,0.0
+05670,Three Musketeers,98,Archer Queen,1,Fireball,30,Lightning,60,,,,2,False,False,0,0.0
+05685,Three Musketeers,98,Archer Queen,1,Fireball,30,Lightning,60,,,,2,False,False,0,0.0
+05700,Three Musketeers,98,Elixir Collector,26,Fireball,30,Lightning,60,Archer Queen,1,2,3,True,False,0,5.0
+05715,Three Musketeers,98,Archer Queen,1,Fireball,30,Lightning,60,Elixir Collector,26,2,3,True,False,0,6.0
+05790,Three Musketeers,98,Archer Queen,1,Fireball,30,Lightning,60,,,,2,False,True,1,0.0
+05805,Three Musketeers,98,Archer Queen,1,Fireball,30,Lightning,60,,,,2,False,False,0,0.0
+05820,Three Musketeers,98,Archer Queen,1,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+05835,Bats,9,Archer Queen,1,Fireball,30,Lightning,60,Three Musketeers,98,1,3,True,False,0,9.0
+05850,Three Musketeers,98,Archer Queen,1,Fireball,30,Lightning,60,Bats,9,1,3,True,False,0,2.0
+05865,Three Musketeers,98,Fireball,30,Fireball,30,Lightning,60,Archer Queen,1,2,4,True,False,0,5.0
+05880,Three Musketeers,98,Fireball,30,Fireball,30,Lightning,60,,,,4,False,False,0,0.0
+05895,Three Musketeers,98,Fireball,30,Fireball,30,Lightning,60,,,,2,False,True,2,0.0
+05910,Three Musketeers,98,Fireball,30,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+05925,Three Musketeers,98,Fireball,30,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+05940,Three Musketeers,98,Fireball,30,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+05955,Three Musketeers,98,Fireball,30,Fireball,30,Baby Dragon,3,Lightning,60,4,4,True,False,0,6.0
+05970,Three Musketeers,98,Fireball,30,Fireball,30,Baby Dragon,3,,,,4,False,False,0,0.0
+05985,Three Musketeers,98,Fireball,30,Fireball,30,Baby Dragon,3,,,,4,False,False,0,0.0
+06000,Three Musketeers,98,Fireball,30,Fireball,30,Baby Dragon,3,,,,5,False,False,0,0.0
+06015,Three Musketeers,98,Fireball,30,Fireball,30,Baby Dragon,3,,,,5,False,False,0,0.0
+06030,Three Musketeers,98,Fireball,30,Fireball,30,Baby Dragon,3,,,,6,False,False,0,0.0
+06045,Three Musketeers,98,Fireball,30,Fireball,30,Baby Dragon,3,,,,6,False,False,0,0.0
+06060,Three Musketeers,98,Fireball,30,Fireball,30,Clone,17,Baby Dragon,3,4,6,True,False,0,4.0
+06075,Three Musketeers,98,Fireball,30,Fireball,30,Clone,17,,,,7,False,False,0,0.0
+06090,Three Musketeers,98,Fireball,30,Fireball,30,Baby Dragon,3,Clone,17,4,7,True,False,0,3.0
+06105,Three Musketeers,98,Fireball,30,Fireball,30,Baby Dragon,3,,,,7,False,False,0,0.0
+06120,Three Musketeers,98,Fireball,30,Fireball,30,Baby Dragon,3,,,,8,False,False,0,0.0
+06135,Three Musketeers,98,Fireball,30,Fireball,30,Baby Dragon,3,,,,8,False,False,0,0.0
+06150,Three Musketeers,98,Fireball,30,Fireball,30,Baby Dragon,3,,,,8,False,False,0,0.0
+06165,Three Musketeers,98,Fireball,30,Fireball,30,Mother Witch,72,Baby Dragon,3,4,5,True,True,3,4.0
+06180,Three Musketeers,98,Fireball,30,Fireball,30,Mother Witch,72,,,,5,False,False,0,0.0
+06195,Three Musketeers,98,Fireball,30,Fireball,30,Mother Witch,72,,,,5,False,False,0,0.0
+06210,Three Musketeers,98,Fireball,30,Fireball,30,Mother Witch,72,,,,6,False,False,0,0.0
+06225,Three Musketeers,98,Fireball,30,Fireball,30,Mother Witch,72,,,,6,False,False,0,0.0
+06240,Three Musketeers,98,Fireball,30,Fireball,30,Flying Machine,33,Mother Witch,72,4,7,True,False,0,4.0
+06255,Three Musketeers,98,Fireball,30,Fireball,30,Flying Machine,33,,,,7,False,False,0,0.0
+06270,Three Musketeers,98,Fireball,30,Fireball,30,Flying Machine,33,,,,7,False,False,0,0.0
+06285,Three Musketeers,98,Fireball,30,Fireball,30,Flying Machine,33,,,,8,False,False,0,0.0
+06300,Three Musketeers,98,Fireball,30,Fireball,30,Flying Machine,33,,,,8,False,False,0,0.0
+06315,Three Musketeers,98,Fireball,30,Fireball,30,Flying Machine,33,,,,8,False,False,0,0.0
+06330,Three Musketeers,98,Fireball,30,Fireball,30,Inferno Tower,57,Flying Machine,33,4,9,True,False,0,4.0
+06345,Three Musketeers,98,Fireball,30,Fireball,30,Inferno Tower,57,,,,2,False,True,7,0.0
+06360,Three Musketeers,98,Fireball,30,Fireball,30,Inferno Tower,57,,,,2,False,False,0,0.0
+06375,Three Musketeers,98,Fireball,30,Fireball,30,Inferno Tower,57,,,,3,False,False,0,0.0
+06390,Three Musketeers,98,Fireball,30,Fireball,30,Inferno Tower,57,,,,3,False,False,0,0.0
+06405,Three Musketeers,98,Fireball,30,Fireball,30,Inferno Tower,57,,,,3,False,False,0,0.0
+06420,Three Musketeers,98,Fireball,30,Fireball,30,Three Musketeers,98,Inferno Tower,57,4,4,True,False,0,5.0
+06435,Three Musketeers,98,Fireball,30,Fireball,30,Three Musketeers,98,,,,4,False,False,0,0.0
+06450,Three Musketeers,98,Fireball,30,Fireball,30,Three Musketeers,98,,,,5,False,False,0,0.0
+06465,Three Musketeers,98,Fireball,30,Fireball,30,Tesla,96,Three Musketeers,98,4,5,True,False,0,9.0
+06480,Three Musketeers,98,Fireball,30,Musketeer,73,Tesla,96,Fireball,30,3,1,True,True,4,4.0
+06495,Three Musketeers,98,Fireball,30,Fireball,30,Tesla,96,Musketeer,73,3,2,True,False,0,4.0
+06510,Three Musketeers,98,Fireball,30,Fireball,30,Tesla,96,,,,2,False,False,0,0.0
+06525,Three Musketeers,98,Fireball,30,Fireball,30,Tesla,96,,,,2,False,False,0,0.0
+06540,Three Musketeers,98,Three Musketeers,98,Fireball,30,Tesla,96,Fireball,30,2,3,True,False,0,4.0
+06555,Three Musketeers,98,Archer Queen,1,Fireball,30,Tesla,96,Three Musketeers,98,2,3,True,False,0,9.0
+06570,Three Musketeers,98,Archer Queen,1,Fireball,30,Tesla,96,,,,3,False,False,0,0.0
+06630,Three Musketeers,98,Lightning,60,Fireball,30,Tesla,96,Archer Queen,1,2,2,True,True,1,5.0
+06645,Three Musketeers,98,Lightning,60,Fireball,30,Tesla,96,,,,2,False,False,0,0.0
+06705,Three Musketeers,98,Lightning,60,Fireball,30,Tesla,96,,,,2,False,False,0,0.0
+06720,Three Musketeers,98,Lightning,60,Fireball,30,Tesla,96,,,,2,False,False,0,0.0
+06735,Three Musketeers,98,Mother Witch,72,Fireball,30,Tesla,96,Lightning,60,2,3,True,False,0,6.0
+06840,Three Musketeers,98,Mother Witch,72,Fireball,30,Tesla,96,,,,3,False,False,0,0.0
+06855,Three Musketeers,98,Mother Witch,72,Fireball,30,Tesla,96,,,,3,False,False,0,0.0
+06870,Three Musketeers,98,Mother Witch,72,Baby Dragon,3,Three Musketeers,98,Tesla,96,4,4,True,False,0,4.0
+06885,Three Musketeers,98,Mother Witch,72,Baby Dragon,3,Three Musketeers,98,,,,4,False,False,0,0.0
+06900,Three Musketeers,98,Mother Witch,72,Baby Dragon,3,Three Musketeers,98,,,,4,False,False,0,0.0
+06915,Three Musketeers,98,Mother Witch,72,Baby Dragon,3,Tesla,96,Three Musketeers,98,4,5,True,False,0,9.0
+06930,Three Musketeers,98,Mother Witch,72,Baby Dragon,3,Tesla,96,,,,5,False,False,0,0.0
+06945,Three Musketeers,98,Mother Witch,72,Baby Dragon,3,Tesla,96,,,,5,False,False,0,0.0
+06960,Three Musketeers,98,Mother Witch,72,Baby Dragon,3,Tesla,96,,,,6,False,False,0,0.0
+06975,Three Musketeers,98,Mother Witch,72,Baby Dragon,3,Tesla,96,,,,6,False,False,0,0.0
+06990,Three Musketeers,98,Mother Witch,72,Baby Dragon,3,Tesla,96,,,,6,False,False,0,0.0
+07005,Three Musketeers,98,Battle Healer,10,Baby Dragon,3,Three Musketeers,98,Tesla,96,4,7,True,False,0,4.0
+07020,Three Musketeers,98,Battle Healer,10,Baby Dragon,3,Three Musketeers,98,,,,7,False,False,0,0.0
+07035,Three Musketeers,98,Inferno Tower,57,Baby Dragon,3,Three Musketeers,98,Battle Healer,10,2,7,True,False,0,4.0
+07050,Three Musketeers,98,Battle Healer,10,Royal Ghost,85,Three Musketeers,98,Baby Dragon,3,3,8,True,False,0,4.0
+07065,Three Musketeers,98,Inferno Tower,57,Baby Dragon,3,Three Musketeers,98,Royal Ghost,85,3,8,True,False,0,3.0
+07080,Three Musketeers,98,Inferno Tower,57,Fireball,30,Tesla,96,Three Musketeers,98,4,5,True,True,3,9.0
+07095,Three Musketeers,98,Inferno Tower,57,Fireball,30,Tesla,96,,,,5,False,False,0,0.0
+07110,Three Musketeers,98,Inferno Tower,57,Fireball,30,Three Musketeers,98,Tesla,96,4,5,True,False,0,4.0
+07125,Three Musketeers,98,Inferno Tower,57,Fireball,30,Three Musketeers,98,,,,6,False,False,0,0.0
+07140,Three Musketeers,98,Inferno Tower,57,Fireball,30,Three Musketeers,98,,,,6,False,False,0,0.0
+07155,Three Musketeers,98,Inferno Tower,57,Fireball,30,Tesla,96,Three Musketeers,98,4,6,True,False,0,9.0
+07170,Three Musketeers,98,Archer Queen,1,Fireball,30,Tesla,96,Inferno Tower,57,2,7,True,False,0,5.0
+07185,Three Musketeers,98,Archer Queen,1,Fireball,30,Tesla,96,,,,7,False,False,0,0.0
+07200,Three Musketeers,98,Giant,36,Fireball,30,Three Musketeers,98,Tesla,96,4,7,True,False,0,4.0
+07215,Three Musketeers,98,Giant,36,Fireball,30,Tesla,96,Three Musketeers,98,4,8,True,False,0,9.0
+07230,Three Musketeers,98,Giant,36,Fireball,30,Three Musketeers,98,Tesla,96,4,8,True,False,0,4.0
+07245,Three Musketeers,98,Giant,36,Fireball,30,Archer Queen,1,Three Musketeers,98,4,4,True,True,4,9.0
+07260,Three Musketeers,98,Giant,36,Fireball,30,Archer Queen,1,,,,5,False,False,0,0.0
+07290,Three Musketeers,98,Giant,36,Fireball,30,Archer Queen,1,,,,2,False,True,3,0.0
+07305,Three Musketeers,98,Giant,36,Fireball,30,Archer Queen,1,,,,2,False,False,0,0.0
+07320,Three Musketeers,98,Giant,36,Fireball,30,Archer Queen,1,,,,2,False,False,0,0.0
+07335,Three Musketeers,98,Giant,36,Fireball,30,Archer Queen,1,,,,3,False,False,0,0.0
+07350,Three Musketeers,98,Giant,36,Fireball,30,Elixir Collector,26,Archer Queen,1,4,3,True,False,0,5.0
+07365,Three Musketeers,98,Giant,36,Fireball,30,Three Musketeers,98,Elixir Collector,26,4,3,True,False,0,6.0
+07380,Three Musketeers,98,Giant,36,Fireball,30,Archer Queen,1,Three Musketeers,98,4,4,True,False,0,9.0
+07395,Three Musketeers,98,Giant,36,Arrows,2,Mother Witch,72,Archer Queen,1,4,4,True,False,0,5.0
+07410,Three Musketeers,98,Giant,36,Fireball,30,Lightning,60,Mother Witch,72,4,2,True,True,2,4.0
+07425,Three Musketeers,98,Giant,36,Fireball,30,Lightning,60,,,,2,False,False,0,0.0
+07440,Three Musketeers,98,Giant,36,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+07455,Three Musketeers,98,Giant,36,Fireball,30,Lightning,60,,,,3,False,False,0,0.0
+07470,Three Musketeers,98,Giant,36,Fireball,30,Lightning,60,,,,4,False,False,0,0.0
+07485,Three Musketeers,98,Giant,36,Fireball,30,Lightning,60,,,,5,False,False,0,0.0
+07500,Three Musketeers,98,Giant,36,Fireball,30,Lightning,60,,,,5,False,False,0,0.0
+07515,Three Musketeers,98,Giant,36,Fireball,30,Lightning,60,,,,6,False,False,0,0.0
+07530,Three Musketeers,98,Giant,36,Fireball,30,Lightning,60,,,,6,False,False,0,0.0
+07545,Three Musketeers,98,Inferno Tower,57,Fireball,30,Lightning,60,Giant,36,2,7,True,False,0,5.0
+07560,Three Musketeers,98,Battle Healer,10,Fireball,30,Lightning,60,Inferno Tower,57,2,8,True,False,0,5.0
+07575,Three Musketeers,98,Battle Healer,10,Fireball,30,Lightning,60,,,,8,False,False,0,0.0
+07590,Three Musketeers,98,Battle Healer,10,Fireball,30,Lightning,60,,,,8,False,False,0,0.0
+07605,Three Musketeers,98,Battle Healer,10,Fireball,30,Lightning,60,,,,9,False,False,0,0.0
+07620,Three Musketeers,98,Inferno Tower,57,Fireball,30,Lightning,60,Battle Healer,10,2,9,True,False,0,4.0
+07635,Three Musketeers,98,Inferno Tower,57,Fireball,30,Lightning,60,,,,10,False,False,0,0.0
+07650,Three Musketeers,98,Battle Healer,10,Mother Witch,72,Lightning,60,Fireball,30,3,8,True,True,2,4.0
+07665,Three Musketeers,98,Battle Healer,10,Baby Dragon,3,Lightning,60,Mother Witch,72,3,8,True,False,0,4.0
+07680,Three Musketeers,98,Inferno Tower,57,Baby Dragon,3,Lightning,60,Battle Healer,10,2,9,True,False,0,4.0
+07695,Three Musketeers,98,Inferno Tower,57,Baby Dragon,3,Lightning,60,,,,9,False,False,0,0.0
+07710,Three Musketeers,98,Battle Healer,10,Baby Dragon,3,Lightning,60,Inferno Tower,57,2,10,True,False,0,5.0
+07725,Three Musketeers,98,Inferno Tower,57,Baby Dragon,3,Lightning,60,Battle Healer,10,2,10,True,False,0,4.0
+07740,Three Musketeers,98,Inferno Tower,57,Baby Dragon,3,Lightning,60,,,,8,False,True,2,0.0
+07755,Three Musketeers,98,Inferno Tower,57,Baby Dragon,3,Lightning,60,,,,8,False,False,0,0.0
+07770,Fireball,30,Inferno Tower,57,Baby Dragon,3,Lightning,60,Three Musketeers,98,1,5,True,True,3,9.0
+07785,Fireball,30,Inferno Tower,57,Baby Dragon,3,Lightning,60,,,,5,False,False,0,0.0
+07800,Fireball,30,Inferno Tower,57,Baby Dragon,3,Lightning,60,,,,6,False,False,0,0.0
+07815,Fireball,30,Inferno Tower,57,Baby Dragon,3,Lightning,60,,,,7,False,False,0,0.0
+07830,Archer Queen,1,Inferno Tower,57,Musketeer,73,Lightning,60,Baby Dragon,3,3,3,True,True,4,4.0
