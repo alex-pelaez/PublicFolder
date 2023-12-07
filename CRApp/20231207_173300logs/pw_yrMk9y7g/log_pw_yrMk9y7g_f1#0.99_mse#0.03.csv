@@ -1,0 +1,509 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00225,Goblins,44.0,,,Mini P.E.K.K.A,66.0,Miner,65.0,,,,6,False,False,0.0,0.0
+00240,Goblins,44.0,,,Mini P.E.K.K.A,66.0,Miner,65.0,,,,6,False,False,0.0,0.0
+00255,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,2.0,6,True,False,0.0,0.0
+00270,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,7,False,False,0.0,0.0
+00285,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,7,False,False,0.0,0.0
+00300,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,7,False,False,0.0,0.0
+00315,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,7,False,False,0.0,0.0
+00330,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,7,False,False,0.0,0.0
+00345,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,7,False,False,0.0,0.0
+00360,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,8,False,False,0.0,0.0
+00375,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,8,False,False,0.0,0.0
+00390,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,8,False,False,0.0,0.0
+00405,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,8,False,False,0.0,0.0
+00420,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,8,False,False,0.0,0.0
+00435,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,9,False,False,0.0,0.0
+00450,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,9,False,False,0.0,0.0
+00465,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,9,False,False,0.0,0.0
+00480,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,9,False,False,0.0,0.0
+00495,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,9,False,False,0.0,0.0
+00510,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,9,False,False,0.0,0.0
+00525,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,10,False,False,0.0,0.0
+00540,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,10,False,False,0.0,0.0
+00555,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,10,False,False,0.0,0.0
+00570,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,10,False,False,0.0,0.0
+00585,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,10,False,False,0.0,0.0
+00600,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,10,False,False,0.0,0.0
+00615,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,10,False,False,0.0,0.0
+00630,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,10,False,False,0.0,0.0
+00645,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,10,False,False,0.0,0.0
+00660,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,10,False,False,0.0,0.0
+00675,Goblins,44.0,Lava Hound,58.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,10,False,False,0.0,0.0
+00690,Goblins,44.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,Miner,65.0,Lava Hound,58.0,2.0,3,True,True,7.0,7.0
+00705,Goblins,44.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,3,False,False,0.0,0.0
+00720,Goblins,44.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,3,False,False,0.0,0.0
+00735,Goblins,44.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,3,False,False,0.0,0.0
+00750,Goblins,44.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,3,False,False,0.0,0.0
+00765,Goblins,44.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,4,False,False,0.0,0.0
+00780,Goblins,44.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,4,False,False,0.0,0.0
+00795,Goblins,44.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,4,False,False,0.0,0.0
+00810,Goblins,44.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,4,False,False,0.0,0.0
+00825,Goblins,44.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,4,False,False,0.0,0.0
+00840,Goblins,44.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,4,False,False,0.0,0.0
+00855,Goblins,44.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,5,False,False,0.0,0.0
+00870,Goblins,44.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,5,False,False,0.0,0.0
+00885,Goblins,44.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,5,False,False,0.0,0.0
+00900,Goblins,44.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,5,False,False,0.0,0.0
+00915,Goblins,44.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,5,False,False,0.0,0.0
+00930,Goblins,44.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,5,False,False,0.0,0.0
+00945,Goblins,44.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,6,False,False,0.0,0.0
+00960,Goblins,44.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,6,False,False,0.0,0.0
+00975,Goblins,44.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,6,False,False,0.0,0.0
+00990,Goblins,44.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,6,False,False,0.0,0.0
+01005,Goblins,44.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,6,False,False,0.0,0.0
+01020,Goblins,44.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,Miner,65.0,,,,7,False,False,0.0,0.0
+01035,Goblins,44.0,Baby Dragon,2.0,Fireball,29.0,Miner,65.0,Mini P.E.K.K.A,66.0,3.0,3,True,True,4.0,4.0
+01050,Goblins,44.0,Baby Dragon,2.0,Fireball,29.0,Miner,65.0,,,,3,False,False,0.0,0.0
+01065,Goblins,44.0,Baby Dragon,2.0,Fireball,29.0,Miner,65.0,,,,3,False,False,0.0,0.0
+01080,Goblins,44.0,Baby Dragon,2.0,Fireball,29.0,Miner,65.0,,,,3,False,False,0.0,0.0
+01095,Goblins,44.0,Baby Dragon,2.0,Fireball,29.0,Miner,65.0,,,,3,False,False,0.0,0.0
+01110,Goblins,44.0,Baby Dragon,2.0,Fireball,29.0,Miner,65.0,,,,4,False,False,0.0,0.0
+01125,Goblins,44.0,Baby Dragon,2.0,Fireball,29.0,Miner,65.0,,,,4,False,False,0.0,0.0
+01140,Goblins,44.0,Baby Dragon,2.0,Fireball,29.0,Miner,65.0,,,,4,False,False,0.0,0.0
+01155,Goblins,44.0,Baby Dragon,2.0,Fireball,29.0,Miner,65.0,,,,4,False,False,0.0,0.0
+01170,Goblins,44.0,Baby Dragon,2.0,Fireball,29.0,Miner,65.0,,,,4,False,False,0.0,0.0
+01185,Goblins,44.0,Baby Dragon,2.0,Fireball,29.0,Miner,65.0,,,,5,False,False,0.0,0.0
+01200,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Miner,65.0,Baby Dragon,2.0,2.0,1,True,True,4.0,4.0
+01215,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Miner,65.0,,,,1,False,False,0.0,0.0
+01230,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Miner,65.0,,,,1,False,False,0.0,0.0
+01245,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Miner,65.0,,,,1,False,False,0.0,0.0
+01260,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Miner,65.0,,,,1,False,False,0.0,0.0
+01275,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Miner,65.0,,,,2,False,False,0.0,0.0
+01290,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Miner,65.0,,,,2,False,False,0.0,0.0
+01305,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Miner,65.0,,,,2,False,False,0.0,0.0
+01320,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Miner,65.0,,,,2,False,False,0.0,0.0
+01335,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Miner,65.0,,,,2,False,False,0.0,0.0
+01350,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Miner,65.0,,,,2,False,False,0.0,0.0
+01365,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Miner,65.0,,,,3,False,False,0.0,0.0
+01380,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Miner,65.0,,,,3,False,False,0.0,0.0
+01395,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Zap,106.0,Miner,65.0,4.0,0,True,True,3.0,3.0
+01410,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Zap,106.0,,,,0,False,False,0.0,0.0
+01425,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Zap,106.0,,,,0,False,False,0.0,0.0
+01440,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Zap,106.0,,,,1,False,False,0.0,0.0
+01455,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Zap,106.0,,,,1,False,False,0.0,0.0
+01470,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Zap,106.0,,,,1,False,False,0.0,0.0
+01485,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Zap,106.0,,,,1,False,False,0.0,0.0
+01500,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Zap,106.0,,,,1,False,False,0.0,0.0
+01515,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Zap,106.0,,,,1,False,False,0.0,0.0
+01530,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Zap,106.0,,,,2,False,False,0.0,0.0
+01545,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Zap,106.0,,,,2,False,False,0.0,0.0
+01560,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Zap,106.0,,,,2,False,False,0.0,0.0
+01575,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Zap,106.0,,,,2,False,False,0.0,0.0
+01590,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Zap,106.0,,,,2,False,False,0.0,0.0
+01605,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Zap,106.0,,,,3,False,False,0.0,0.0
+01620,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Zap,106.0,,,,3,False,False,0.0,0.0
+01635,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Zap,106.0,,,,3,False,False,0.0,0.0
+01650,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Zap,106.0,,,,3,False,False,0.0,0.0
+01665,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Zap,106.0,,,,3,False,False,0.0,0.0
+01680,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Zap,106.0,,,,3,False,False,0.0,0.0
+01695,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Zap,106.0,,,,4,False,False,0.0,0.0
+01710,Goblins,44.0,Mega Minion,63.0,Fireball,29.0,Zap,106.0,,,,4,False,False,0.0,0.0
+01725,Goblins,44.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,Fireball,29.0,3.0,0,True,True,4.0,4.0
+01740,Goblins,44.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,0,False,False,0.0,0.0
+01755,Goblins,44.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,0,False,False,0.0,0.0
+01770,Goblins,44.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,0,False,False,0.0,0.0
+01785,Goblins,44.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,1,False,False,0.0,0.0
+01800,Goblins,44.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,1,False,False,0.0,0.0
+01815,Goblins,44.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,1,False,False,0.0,0.0
+01830,Goblins,44.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,1,False,False,0.0,0.0
+01845,Goblins,44.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,1,False,False,0.0,0.0
+01860,Goblins,44.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,2,False,False,0.0,0.0
+01875,Goblins,44.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,2,False,False,0.0,0.0
+01890,Goblins,44.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,2,False,False,0.0,0.0
+01905,Goblins,44.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,2,False,False,0.0,0.0
+01920,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,Goblins,44.0,1.0,0,True,True,2.0,2.0
+01935,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,0,False,False,0.0,0.0
+01950,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,1,False,False,0.0,0.0
+01965,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,1,False,False,0.0,0.0
+01980,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,1,False,False,0.0,0.0
+01995,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,1,False,False,0.0,0.0
+02010,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,1,False,False,0.0,0.0
+02025,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,2,False,False,0.0,0.0
+02040,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,2,False,False,0.0,0.0
+02055,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,2,False,False,0.0,0.0
+02070,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,2,False,False,0.0,0.0
+02085,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,2,False,False,0.0,0.0
+02100,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,2,False,False,0.0,0.0
+02115,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,3,False,False,0.0,0.0
+02130,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,3,False,False,0.0,0.0
+02145,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,3,False,False,0.0,0.0
+02160,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,3,False,False,0.0,0.0
+02175,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,3,False,False,0.0,0.0
+02190,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,4,False,False,0.0,0.0
+02205,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,4,False,False,0.0,0.0
+02220,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,4,False,False,0.0,0.0
+02235,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,4,False,False,0.0,0.0
+02250,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,4,False,False,0.0,0.0
+02265,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,4,False,False,0.0,0.0
+02280,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,5,False,False,0.0,0.0
+02295,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,5,False,False,0.0,0.0
+02310,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,5,False,False,0.0,0.0
+02325,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,5,False,False,0.0,0.0
+02340,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,5,False,False,0.0,0.0
+02355,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,5,False,False,0.0,0.0
+02370,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,6,False,False,0.0,0.0
+02385,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,6,False,False,0.0,0.0
+02400,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,6,False,False,0.0,0.0
+02415,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,6,False,False,0.0,0.0
+02430,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,6,False,False,0.0,0.0
+02445,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,7,False,False,0.0,0.0
+02460,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,7,False,False,0.0,0.0
+02475,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,7,False,False,0.0,0.0
+02490,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,7,False,False,0.0,0.0
+02505,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,7,False,False,0.0,0.0
+02520,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,7,False,False,0.0,0.0
+02535,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,8,False,False,0.0,0.0
+02550,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,8,False,False,0.0,0.0
+02565,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,8,False,False,0.0,0.0
+02580,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,8,False,False,0.0,0.0
+02595,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,8,False,False,0.0,0.0
+02610,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,9,False,False,0.0,0.0
+02625,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,9,False,False,0.0,0.0
+02640,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,9,False,False,0.0,0.0
+02655,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,9,False,False,0.0,0.0
+02670,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,9,False,False,0.0,0.0
+02685,Mini P.E.K.K.A,66.0,Mega Minion,63.0,Lava Hound,58.0,Zap,106.0,,,,9,False,False,0.0,0.0
+02700,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Lava Hound,58.0,Zap,106.0,Mega Minion,63.0,2.0,7,True,True,2.0,3.0
+02715,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Lava Hound,58.0,Zap,106.0,,,,7,False,False,0.0,0.0
+02730,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Lava Hound,58.0,Zap,106.0,,,,7,False,False,0.0,0.0
+02745,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Lava Hound,58.0,Zap,106.0,,,,7,False,False,0.0,0.0
+02760,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Lava Hound,58.0,Zap,106.0,,,,7,False,False,0.0,0.0
+02775,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Lava Hound,58.0,Zap,106.0,,,,7,False,False,0.0,0.0
+02790,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Lava Hound,58.0,Zap,106.0,,,,8,False,False,0.0,0.0
+02805,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Lava Hound,58.0,Zap,106.0,,,,8,False,False,0.0,0.0
+02820,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Lava Hound,58.0,Zap,106.0,,,,8,False,False,0.0,0.0
+02835,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Lava Hound,58.0,Zap,106.0,,,,8,False,False,0.0,0.0
+02850,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Lava Hound,58.0,Zap,106.0,,,,8,False,False,0.0,0.0
+02865,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Lava Hound,58.0,Zap,106.0,,,,9,False,False,0.0,0.0
+02880,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Lava Hound,58.0,Zap,106.0,,,,9,False,False,0.0,0.0
+02895,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Lava Hound,58.0,Zap,106.0,,,,9,False,False,0.0,0.0
+02910,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Lava Hound,58.0,Zap,106.0,,,,9,False,False,0.0,0.0
+02925,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Miner,65.0,Zap,106.0,Lava Hound,58.0,3.0,2,True,True,7.0,7.0
+02940,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Miner,65.0,Zap,106.0,,,,2,False,False,0.0,0.0
+02955,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Miner,65.0,Zap,106.0,,,,3,False,False,0.0,0.0
+02970,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Miner,65.0,Zap,106.0,,,,3,False,False,0.0,0.0
+02985,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Miner,65.0,Zap,106.0,,,,3,False,False,0.0,0.0
+03000,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Miner,65.0,Zap,106.0,,,,3,False,False,0.0,0.0
+03015,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Miner,65.0,Zap,106.0,,,,3,False,False,0.0,0.0
+03030,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Miner,65.0,Zap,106.0,,,,4,False,False,0.0,0.0
+03045,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Miner,65.0,Zap,106.0,,,,4,False,False,0.0,0.0
+03060,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Miner,65.0,Zap,106.0,,,,4,False,False,0.0,0.0
+03075,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Miner,65.0,Zap,106.0,,,,4,False,False,0.0,0.0
+03090,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Miner,65.0,Zap,106.0,,,,4,False,False,0.0,0.0
+03105,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Miner,65.0,Zap,106.0,,,,4,False,False,0.0,0.0
+03120,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Miner,65.0,Zap,106.0,,,,5,False,False,0.0,0.0
+03135,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Miner,65.0,Zap,106.0,,,,5,False,False,0.0,0.0
+03150,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Miner,65.0,Zap,106.0,,,,5,False,False,0.0,0.0
+03165,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Miner,65.0,Zap,106.0,,,,5,False,False,0.0,0.0
+03180,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Miner,65.0,Zap,106.0,,,,5,False,False,0.0,0.0
+03195,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Miner,65.0,Zap,106.0,,,,5,False,False,0.0,0.0
+03210,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,Miner,65.0,Zap,106.0,,,,6,False,False,0.0,0.0
+03225,Mini P.E.K.K.A,66.0,Fireball,29.0,Miner,65.0,Zap,106.0,Baby Dragon,2.0,2.0,2,True,True,4.0,4.0
+03240,Mini P.E.K.K.A,66.0,Fireball,29.0,Miner,65.0,Zap,106.0,,,,2,False,False,0.0,0.0
+03255,Mini P.E.K.K.A,66.0,Fireball,29.0,Miner,65.0,Zap,106.0,,,,2,False,False,0.0,0.0
+03270,Mini P.E.K.K.A,66.0,Fireball,29.0,Miner,65.0,Zap,106.0,,,,2,False,False,0.0,0.0
+03285,Mini P.E.K.K.A,66.0,Fireball,29.0,Miner,65.0,Zap,106.0,,,,3,False,False,0.0,0.0
+03300,Mini P.E.K.K.A,66.0,Fireball,29.0,Miner,65.0,Zap,106.0,,,,3,False,False,0.0,0.0
+03315,Mini P.E.K.K.A,66.0,Fireball,29.0,Miner,65.0,Zap,106.0,,,,3,False,False,0.0,0.0
+03330,Mini P.E.K.K.A,66.0,Fireball,29.0,Miner,65.0,Zap,106.0,,,,3,False,False,0.0,0.0
+03345,Mini P.E.K.K.A,66.0,Fireball,29.0,Miner,65.0,Zap,106.0,,,,3,False,False,0.0,0.0
+03360,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,Miner,65.0,3.0,0,True,True,3.0,3.0
+03375,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,1,False,False,0.0,0.0
+03390,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,1,False,False,0.0,0.0
+03405,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,1,False,False,0.0,0.0
+03420,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,1,False,False,0.0,0.0
+03435,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,1,False,False,0.0,0.0
+03450,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,2,False,False,0.0,0.0
+03465,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,2,False,False,0.0,0.0
+03480,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,2,False,False,0.0,0.0
+03495,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,2,False,False,0.0,0.0
+03510,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,2,False,False,0.0,0.0
+03525,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,2,False,False,0.0,0.0
+03540,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,3,False,False,0.0,0.0
+03555,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,3,False,False,0.0,0.0
+03570,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,3,False,False,0.0,0.0
+03585,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,3,False,False,0.0,0.0
+03600,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,3,False,False,0.0,0.0
+03615,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,3,False,False,0.0,0.0
+03630,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,4,False,False,0.0,0.0
+03645,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,4,False,False,0.0,0.0
+03660,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,Mini P.E.K.K.A,66.0,1.0,0,True,True,4.0,4.0
+03675,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,0,False,False,0.0,0.0
+03690,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,0,False,False,0.0,0.0
+03705,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,1,False,False,0.0,0.0
+03720,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,1,False,False,0.0,0.0
+03735,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,1,False,False,0.0,0.0
+03750,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,1,False,False,0.0,0.0
+03765,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,1,False,False,0.0,0.0
+03780,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,1,False,False,0.0,0.0
+03795,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,3,False,False,0.0,0.0
+03810,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,3,False,False,0.0,0.0
+03825,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,3,False,False,0.0,0.0
+03840,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,4,False,False,0.0,0.0
+03855,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,4,False,False,0.0,0.0
+03870,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,4,False,False,0.0,0.0
+03885,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,5,False,False,0.0,0.0
+03900,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,5,False,False,0.0,0.0
+03915,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,6,False,False,0.0,0.0
+03930,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,6,False,False,0.0,0.0
+03945,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,6,False,False,0.0,0.0
+03960,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,7,False,False,0.0,0.0
+03975,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,7,False,False,0.0,0.0
+03990,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,7,False,False,0.0,0.0
+04005,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,8,False,False,0.0,0.0
+04020,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,8,False,False,0.0,0.0
+04035,Mega Minion,63.0,Fireball,29.0,Lava Hound,58.0,Zap,106.0,Goblins,44.0,3.0,6,True,True,2.0,2.0
+04050,Mega Minion,63.0,Fireball,29.0,Lava Hound,58.0,Zap,106.0,,,,7,False,False,0.0,0.0
+04065,Mega Minion,63.0,Fireball,29.0,Lava Hound,58.0,Zap,106.0,,,,7,False,False,0.0,0.0
+04080,Mega Minion,63.0,Fireball,29.0,Lava Hound,58.0,Zap,106.0,,,,7,False,False,0.0,0.0
+04095,Mega Minion,63.0,Fireball,29.0,Lava Hound,58.0,Zap,106.0,,,,7,False,False,0.0,0.0
+04110,Mega Minion,63.0,Fireball,29.0,Lava Hound,58.0,Zap,106.0,,,,8,False,False,0.0,0.0
+04125,Mega Minion,63.0,Fireball,29.0,Lava Hound,58.0,Zap,106.0,,,,9,False,False,0.0,0.0
+04140,Mega Minion,63.0,Fireball,29.0,Lava Hound,58.0,Zap,106.0,,,,9,False,False,0.0,0.0
+04155,Mega Minion,63.0,Fireball,29.0,Lava Hound,58.0,Zap,106.0,,,,9,False,False,0.0,0.0
+04170,Mega Minion,63.0,Fireball,29.0,Lava Hound,58.0,Zap,106.0,,,,10,False,False,0.0,0.0
+04185,Baby Dragon,2.0,Fireball,29.0,Lava Hound,58.0,Zap,106.0,Mega Minion,63.0,1.0,10,True,True,3.0,3.0
+04200,Baby Dragon,2.0,Fireball,29.0,Lava Hound,58.0,Zap,106.0,,,,10,False,False,0.0,0.0
+04215,Baby Dragon,2.0,Fireball,29.0,Lava Hound,58.0,Zap,106.0,,,,7,False,False,0.0,0.0
+04230,Baby Dragon,2.0,Fireball,29.0,Lava Hound,58.0,Zap,106.0,,,,8,False,False,0.0,0.0
+04245,Baby Dragon,2.0,Fireball,29.0,Lava Hound,58.0,Zap,106.0,,,,8,False,False,0.0,0.0
+04260,Baby Dragon,2.0,Fireball,29.0,Lava Hound,58.0,Zap,106.0,,,,8,False,False,0.0,0.0
+04275,Baby Dragon,2.0,Fireball,29.0,Miner,65.0,Zap,106.0,Lava Hound,58.0,3.0,2,True,True,6.0,7.0
+04290,Baby Dragon,2.0,Fireball,29.0,Miner,65.0,Zap,106.0,,,,2,False,False,0.0,0.0
+04305,Baby Dragon,2.0,Fireball,29.0,Miner,65.0,Zap,106.0,,,,2,False,False,0.0,0.0
+04320,Baby Dragon,2.0,Fireball,29.0,Miner,65.0,Zap,106.0,,,,3,False,False,0.0,0.0
+04335,Baby Dragon,2.0,Fireball,29.0,Miner,65.0,Zap,106.0,,,,3,False,False,0.0,0.0
+04350,Baby Dragon,2.0,Fireball,29.0,Miner,65.0,Zap,106.0,,,,4,False,False,0.0,0.0
+04365,Baby Dragon,2.0,Fireball,29.0,Miner,65.0,Zap,106.0,,,,4,False,False,0.0,0.0
+04380,Baby Dragon,2.0,Fireball,29.0,Miner,65.0,Zap,106.0,,,,4,False,False,0.0,0.0
+04395,Mini P.E.K.K.A,66.0,Fireball,29.0,Miner,65.0,Zap,106.0,Baby Dragon,2.0,1.0,1,True,True,3.0,4.0
+04410,Mini P.E.K.K.A,66.0,Fireball,29.0,Miner,65.0,Zap,106.0,,,,1,False,False,0.0,0.0
+04425,Mini P.E.K.K.A,66.0,Fireball,29.0,Miner,65.0,Zap,106.0,,,,1,False,False,0.0,0.0
+04440,Mini P.E.K.K.A,66.0,Fireball,29.0,Miner,65.0,Zap,106.0,,,,2,False,False,0.0,0.0
+04455,Mini P.E.K.K.A,66.0,Fireball,29.0,Miner,65.0,Zap,106.0,,,,2,False,False,0.0,0.0
+04470,Mini P.E.K.K.A,66.0,Fireball,29.0,Miner,65.0,Zap,106.0,,,,2,False,False,0.0,0.0
+04485,Mini P.E.K.K.A,66.0,Fireball,29.0,Miner,65.0,Zap,106.0,,,,3,False,False,0.0,0.0
+04500,Mini P.E.K.K.A,66.0,Fireball,29.0,Miner,65.0,Zap,106.0,,,,3,False,False,0.0,0.0
+04515,Mini P.E.K.K.A,66.0,Fireball,29.0,Miner,65.0,Zap,106.0,,,,3,False,False,0.0,0.0
+04530,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,Miner,65.0,3.0,1,True,True,2.0,3.0
+04545,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,1,False,False,0.0,0.0
+04560,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,2,False,False,0.0,0.0
+04575,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,2,False,False,0.0,0.0
+04590,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,2,False,False,0.0,0.0
+04605,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,3,False,False,0.0,0.0
+04620,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,3,False,False,0.0,0.0
+04635,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,3,False,False,0.0,0.0
+04650,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Mega Minion,63.0,Zap,106.0,4.0,2,True,True,1.0,2.0
+04665,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Mega Minion,63.0,,,,2,False,False,0.0,0.0
+04680,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Mega Minion,63.0,,,,2,False,False,0.0,0.0
+04695,Mini P.E.K.K.A,66.0,Fireball,29.0,Goblins,44.0,Mega Minion,63.0,,,,3,False,False,0.0,0.0
+04710,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Mega Minion,63.0,Goblins,44.0,3.0,3,True,True,2.0,2.0
+04725,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Mega Minion,63.0,,,,1,False,False,0.0,0.0
+04740,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Mega Minion,63.0,,,,2,False,False,0.0,0.0
+04755,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Mega Minion,63.0,,,,2,False,False,0.0,0.0
+04770,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Mega Minion,63.0,,,,3,False,False,0.0,0.0
+04785,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Mega Minion,63.0,,,,3,False,False,0.0,0.0
+04800,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Mega Minion,63.0,,,,3,False,False,0.0,0.0
+04815,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Mega Minion,63.0,,,,4,False,False,0.0,0.0
+04830,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Mega Minion,63.0,,,,4,False,False,0.0,0.0
+04845,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Mega Minion,63.0,,,,4,False,False,0.0,0.0
+04860,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Mega Minion,63.0,,,,5,False,False,0.0,0.0
+04875,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Mega Minion,63.0,,,,5,False,False,0.0,0.0
+04890,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Mega Minion,63.0,,,,5,False,False,0.0,0.0
+04905,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Mega Minion,63.0,,,,6,False,False,0.0,0.0
+04920,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Mega Minion,63.0,,,,6,False,False,0.0,0.0
+04935,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Mega Minion,63.0,,,,6,False,False,0.0,0.0
+04950,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Mega Minion,63.0,,,,7,False,False,0.0,0.0
+04965,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Baby Dragon,2.0,Mega Minion,63.0,4.0,4,True,True,3.0,3.0
+04980,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Baby Dragon,2.0,,,,5,False,False,0.0,0.0
+04995,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Baby Dragon,2.0,,,,5,False,False,0.0,0.0
+05010,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Baby Dragon,2.0,,,,5,False,False,0.0,0.0
+05025,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Baby Dragon,2.0,,,,6,False,False,0.0,0.0
+05040,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Baby Dragon,2.0,,,,6,False,False,0.0,0.0
+05055,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Baby Dragon,2.0,,,,6,False,False,0.0,0.0
+05070,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Baby Dragon,2.0,,,,7,False,False,0.0,0.0
+05085,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Baby Dragon,2.0,,,,7,False,False,0.0,0.0
+05100,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Baby Dragon,2.0,,,,7,False,False,0.0,0.0
+05115,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Baby Dragon,2.0,,,,8,False,False,0.0,0.0
+05130,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Baby Dragon,2.0,,,,8,False,False,0.0,0.0
+05145,Mini P.E.K.K.A,66.0,Fireball,29.0,Lava Hound,58.0,Baby Dragon,2.0,,,,8,False,False,0.0,0.0
+05160,Mini P.E.K.K.A,66.0,Miner,65.0,Lava Hound,58.0,Baby Dragon,2.0,Fireball,29.0,2.0,5,True,True,3.0,4.0
+05175,Mini P.E.K.K.A,66.0,Miner,65.0,Lava Hound,58.0,Baby Dragon,2.0,,,,5,False,False,0.0,0.0
+05190,Mini P.E.K.K.A,66.0,Miner,65.0,Lava Hound,58.0,Baby Dragon,2.0,,,,6,False,False,0.0,0.0
+05205,Mini P.E.K.K.A,66.0,Miner,65.0,Lava Hound,58.0,Baby Dragon,2.0,,,,6,False,False,0.0,0.0
+05220,Mini P.E.K.K.A,66.0,Miner,65.0,Lava Hound,58.0,Baby Dragon,2.0,,,,6,False,False,0.0,0.0
+05235,Mini P.E.K.K.A,66.0,Miner,65.0,Lava Hound,58.0,Baby Dragon,2.0,,,,7,False,False,0.0,0.0
+05250,Mini P.E.K.K.A,66.0,Miner,65.0,Lava Hound,58.0,Baby Dragon,2.0,,,,7,False,False,0.0,0.0
+05265,Mini P.E.K.K.A,66.0,Miner,65.0,Lava Hound,58.0,Baby Dragon,2.0,,,,7,False,False,0.0,0.0
+05280,Mini P.E.K.K.A,66.0,Miner,65.0,Lava Hound,58.0,Baby Dragon,2.0,,,,8,False,False,0.0,0.0
+05295,Mini P.E.K.K.A,66.0,Miner,65.0,Lava Hound,58.0,Baby Dragon,2.0,,,,8,False,False,0.0,0.0
+05310,Mini P.E.K.K.A,66.0,Miner,65.0,Lava Hound,58.0,Baby Dragon,2.0,,,,8,False,False,0.0,0.0
+05325,Mini P.E.K.K.A,66.0,Miner,65.0,Lava Hound,58.0,Baby Dragon,2.0,,,,9,False,False,0.0,0.0
+05340,Mini P.E.K.K.A,66.0,Miner,65.0,Lava Hound,58.0,Baby Dragon,2.0,,,,9,False,False,0.0,0.0
+05355,Mini P.E.K.K.A,66.0,Miner,65.0,Lava Hound,58.0,Zap,106.0,Baby Dragon,2.0,4.0,6,True,True,3.0,4.0
+05370,Mini P.E.K.K.A,66.0,Miner,65.0,Lava Hound,58.0,Zap,106.0,,,,6,False,False,0.0,0.0
+05385,Mini P.E.K.K.A,66.0,Miner,65.0,Lava Hound,58.0,Zap,106.0,,,,6,False,False,0.0,0.0
+05400,Mini P.E.K.K.A,66.0,Miner,65.0,Lava Hound,58.0,Zap,106.0,,,,7,False,False,0.0,0.0
+05415,Mini P.E.K.K.A,66.0,Miner,65.0,Lava Hound,58.0,Zap,106.0,,,,8,False,False,0.0,0.0
+05430,Mini P.E.K.K.A,66.0,Miner,65.0,Lava Hound,58.0,Zap,106.0,,,,8,False,False,0.0,0.0
+05445,Mini P.E.K.K.A,66.0,Miner,65.0,Lava Hound,58.0,Zap,106.0,,,,8,False,False,0.0,0.0
+05460,Mini P.E.K.K.A,66.0,Miner,65.0,Lava Hound,58.0,Zap,106.0,,,,8,False,False,0.0,0.0
+05475,Mini P.E.K.K.A,66.0,Miner,65.0,Lava Hound,58.0,Zap,106.0,,,,8,False,False,0.0,0.0
+05490,Mini P.E.K.K.A,66.0,Miner,65.0,Lava Hound,58.0,Zap,106.0,,,,9,False,False,0.0,0.0
+05505,Mini P.E.K.K.A,66.0,Miner,65.0,Goblins,44.0,Zap,106.0,Lava Hound,58.0,3.0,2,True,True,7.0,7.0
+05520,Mini P.E.K.K.A,66.0,Miner,65.0,Goblins,44.0,Zap,106.0,,,,2,False,False,0.0,0.0
+05535,Mini P.E.K.K.A,66.0,Miner,65.0,Goblins,44.0,Zap,106.0,,,,3,False,False,0.0,0.0
+05550,Mini P.E.K.K.A,66.0,Miner,65.0,Goblins,44.0,Zap,106.0,,,,3,False,False,0.0,0.0
+05565,Mini P.E.K.K.A,66.0,Miner,65.0,Goblins,44.0,Zap,106.0,,,,3,False,False,0.0,0.0
+05580,Mini P.E.K.K.A,66.0,Miner,65.0,Goblins,44.0,Zap,106.0,,,,4,False,False,0.0,0.0
+05595,Mini P.E.K.K.A,66.0,Miner,65.0,Goblins,44.0,Zap,106.0,,,,4,False,False,0.0,0.0
+05610,Mini P.E.K.K.A,66.0,Miner,65.0,Goblins,44.0,Zap,106.0,,,,5,False,False,0.0,0.0
+05625,Mini P.E.K.K.A,66.0,Miner,65.0,Goblins,44.0,Zap,106.0,,,,5,False,False,0.0,0.0
+05640,Mega Minion,63.0,Miner,65.0,Goblins,44.0,Zap,106.0,Mini P.E.K.K.A,66.0,1.0,1,True,True,4.0,4.0
+05655,Mega Minion,63.0,Miner,65.0,Goblins,44.0,Zap,106.0,,,,2,False,False,0.0,0.0
+05670,Mega Minion,63.0,Miner,65.0,Goblins,44.0,Zap,106.0,,,,2,False,False,0.0,0.0
+05685,Mega Minion,63.0,Miner,65.0,Goblins,44.0,Zap,106.0,,,,2,False,False,0.0,0.0
+05700,Mega Minion,63.0,Miner,65.0,Goblins,44.0,Zap,106.0,,,,3,False,False,0.0,0.0
+05715,Mega Minion,63.0,Miner,65.0,Goblins,44.0,Zap,106.0,,,,3,False,False,0.0,0.0
+05730,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,Miner,65.0,2.0,0,True,True,3.0,3.0
+05745,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,1,False,False,0.0,0.0
+05760,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,1,False,False,0.0,0.0
+05775,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,1,False,False,0.0,0.0
+05790,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,2,False,False,0.0,0.0
+05805,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,2,False,False,0.0,0.0
+05820,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,3,False,False,0.0,0.0
+05835,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,3,False,False,0.0,0.0
+05850,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,3,False,False,0.0,0.0
+05865,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,4,False,False,0.0,0.0
+05880,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Zap,106.0,,,,4,False,False,0.0,0.0
+05895,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Baby Dragon,2.0,Zap,106.0,4.0,2,True,True,2.0,2.0
+05910,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Baby Dragon,2.0,,,,3,False,False,0.0,0.0
+05925,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Baby Dragon,2.0,,,,3,False,False,0.0,0.0
+05940,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Baby Dragon,2.0,,,,3,False,False,0.0,0.0
+05955,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Baby Dragon,2.0,,,,4,False,False,0.0,0.0
+05970,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Baby Dragon,2.0,,,,4,False,False,0.0,0.0
+05985,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Baby Dragon,2.0,,,,4,False,False,0.0,0.0
+06000,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Baby Dragon,2.0,,,,5,False,False,0.0,0.0
+06015,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Baby Dragon,2.0,,,,5,False,False,0.0,0.0
+06030,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Baby Dragon,2.0,,,,6,False,False,0.0,0.0
+06045,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Baby Dragon,2.0,,,,6,False,False,0.0,0.0
+06060,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Baby Dragon,2.0,,,,6,False,False,0.0,0.0
+06075,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Baby Dragon,2.0,,,,7,False,False,0.0,0.0
+06090,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Baby Dragon,2.0,,,,7,False,False,0.0,0.0
+06105,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Baby Dragon,2.0,,,,7,False,False,0.0,0.0
+06120,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Baby Dragon,2.0,,,,8,False,False,0.0,0.0
+06135,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Baby Dragon,2.0,,,,8,False,False,0.0,0.0
+06150,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Baby Dragon,2.0,,,,8,False,False,0.0,0.0
+06165,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Lava Hound,58.0,Baby Dragon,2.0,4.0,5,True,True,3.0,4.0
+06180,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Lava Hound,58.0,,,,5,False,False,0.0,0.0
+06195,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Lava Hound,58.0,,,,5,False,False,0.0,0.0
+06210,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Lava Hound,58.0,,,,6,False,False,0.0,0.0
+06225,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Lava Hound,58.0,,,,6,False,False,0.0,0.0
+06240,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Lava Hound,58.0,,,,7,False,False,0.0,0.0
+06255,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Lava Hound,58.0,,,,7,False,False,0.0,0.0
+06270,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Lava Hound,58.0,,,,7,False,False,0.0,0.0
+06285,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Lava Hound,58.0,,,,8,False,False,0.0,0.0
+06300,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Lava Hound,58.0,,,,8,False,False,0.0,0.0
+06315,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Lava Hound,58.0,,,,8,False,False,0.0,0.0
+06330,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Lava Hound,58.0,,,,9,False,False,0.0,0.0
+06345,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Mini P.E.K.K.A,66.0,Lava Hound,58.0,4.0,2,True,True,7.0,7.0
+06360,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Mini P.E.K.K.A,66.0,,,,2,False,False,0.0,0.0
+06375,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Mini P.E.K.K.A,66.0,,,,3,False,False,0.0,0.0
+06390,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Mini P.E.K.K.A,66.0,,,,3,False,False,0.0,0.0
+06405,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Mini P.E.K.K.A,66.0,,,,3,False,False,0.0,0.0
+06420,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Mini P.E.K.K.A,66.0,,,,4,False,False,0.0,0.0
+06435,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Mini P.E.K.K.A,66.0,,,,4,False,False,0.0,0.0
+06450,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Mini P.E.K.K.A,66.0,,,,5,False,False,0.0,0.0
+06465,Mega Minion,63.0,Fireball,29.0,Goblins,44.0,Mini P.E.K.K.A,66.0,,,,5,False,False,0.0,0.0
+06480,Mega Minion,63.0,Miner,65.0,Goblins,44.0,Mini P.E.K.K.A,66.0,Fireball,29.0,2.0,1,True,True,4.0,4.0
+06495,Mega Minion,63.0,Miner,65.0,Goblins,44.0,Mini P.E.K.K.A,66.0,,,,2,False,False,0.0,0.0
+06510,Mega Minion,63.0,Miner,65.0,Goblins,44.0,Mini P.E.K.K.A,66.0,,,,2,False,False,0.0,0.0
+06525,Mega Minion,63.0,Miner,65.0,Goblins,44.0,Mini P.E.K.K.A,66.0,,,,2,False,False,0.0,0.0
+06540,Mega Minion,63.0,Miner,65.0,Goblins,44.0,Mini P.E.K.K.A,66.0,,,,3,False,False,0.0,0.0
+06555,Mega Minion,63.0,Miner,65.0,Goblins,44.0,Mini P.E.K.K.A,66.0,,,,3,False,False,0.0,0.0
+06570,Mega Minion,63.0,Miner,65.0,Goblins,44.0,Mini P.E.K.K.A,66.0,,,,3,False,False,0.0,0.0
+06585,Mega Minion,63.0,Zap,106.0,Goblins,44.0,Mini P.E.K.K.A,66.0,Miner,65.0,2.0,1,True,True,2.0,3.0
+06600,Mega Minion,63.0,Zap,106.0,Goblins,44.0,Mini P.E.K.K.A,66.0,,,,1,False,False,0.0,0.0
+06615,Mega Minion,63.0,Zap,106.0,Goblins,44.0,Mini P.E.K.K.A,66.0,,,,1,False,False,0.0,0.0
+06630,Mega Minion,63.0,Zap,106.0,Goblins,44.0,Mini P.E.K.K.A,66.0,,,,2,False,False,0.0,0.0
+06645,Mega Minion,63.0,Zap,106.0,Goblins,44.0,Mini P.E.K.K.A,66.0,,,,2,False,False,0.0,0.0
+06660,Mega Minion,63.0,Zap,106.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,Goblins,44.0,3.0,2,True,True,1.0,2.0
+06675,Mega Minion,63.0,Zap,106.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,,,,1,False,False,0.0,0.0
+06690,Mega Minion,63.0,Zap,106.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,,,,1,False,False,0.0,0.0
+06705,Mega Minion,63.0,Zap,106.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,,,,2,False,False,0.0,0.0
+06720,Mega Minion,63.0,Zap,106.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,,,,2,False,False,0.0,0.0
+06735,Mega Minion,63.0,Lava Hound,58.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,Zap,106.0,2.0,3,True,True,2.0,2.0
+06750,Mega Minion,63.0,Lava Hound,58.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,,,,3,False,False,0.0,0.0
+06765,Mega Minion,63.0,Lava Hound,58.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,,,,1,False,False,0.0,0.0
+06780,Mega Minion,63.0,Lava Hound,58.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,,,,1,False,False,0.0,0.0
+06795,Mega Minion,63.0,Lava Hound,58.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,,,,2,False,False,0.0,0.0
+06810,Mega Minion,63.0,Lava Hound,58.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,,,,2,False,False,0.0,0.0
+06825,Mega Minion,63.0,Lava Hound,58.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,,,,2,False,False,0.0,0.0
+06840,Mega Minion,63.0,Lava Hound,58.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,,,,3,False,False,0.0,0.0
+06855,Mega Minion,63.0,Lava Hound,58.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,,,,3,False,False,0.0,0.0
+06870,Mega Minion,63.0,Lava Hound,58.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,,,,4,False,False,0.0,0.0
+06885,Mega Minion,63.0,Lava Hound,58.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,,,,4,False,False,0.0,0.0
+06900,Mega Minion,63.0,Lava Hound,58.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,,,,4,False,False,0.0,0.0
+06915,Mega Minion,63.0,Lava Hound,58.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,,,,5,False,False,0.0,0.0
+06930,Mega Minion,63.0,Lava Hound,58.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,,,,5,False,False,0.0,0.0
+06945,Mega Minion,63.0,Lava Hound,58.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,,,,5,False,False,0.0,0.0
+06960,Mega Minion,63.0,Lava Hound,58.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,,,,6,False,False,0.0,0.0
+06975,Mega Minion,63.0,Lava Hound,58.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,,,,6,False,False,0.0,0.0
+06990,Mega Minion,63.0,Lava Hound,58.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,,,,6,False,False,0.0,0.0
+07005,Mega Minion,63.0,Lava Hound,58.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,,,,7,False,False,0.0,0.0
+07020,Mega Minion,63.0,Lava Hound,58.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,,,,7,False,False,0.0,0.0
+07035,Mega Minion,63.0,Lava Hound,58.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,,,,7,False,False,0.0,0.0
+07050,Mega Minion,63.0,Lava Hound,58.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,,,,8,False,False,0.0,0.0
+07065,Mega Minion,63.0,Lava Hound,58.0,Baby Dragon,2.0,Mini P.E.K.K.A,66.0,,,,8,False,False,0.0,0.0
+07080,Mega Minion,63.0,Lava Hound,58.0,Fireball,29.0,Mini P.E.K.K.A,66.0,Baby Dragon,2.0,3.0,5,True,True,3.0,4.0
+07095,Mega Minion,63.0,Lava Hound,58.0,Fireball,29.0,Mini P.E.K.K.A,66.0,,,,5,False,False,0.0,0.0
+07110,Mega Minion,63.0,Lava Hound,58.0,Fireball,29.0,Mini P.E.K.K.A,66.0,,,,5,False,False,0.0,0.0
+07125,Mega Minion,63.0,Lava Hound,58.0,Fireball,29.0,Mini P.E.K.K.A,66.0,,,,6,False,False,0.0,0.0
+07140,Mega Minion,63.0,Lava Hound,58.0,Fireball,29.0,Mini P.E.K.K.A,66.0,,,,6,False,False,0.0,0.0
+07155,Mega Minion,63.0,Lava Hound,58.0,Fireball,29.0,Mini P.E.K.K.A,66.0,,,,6,False,False,0.0,0.0
+07170,Mega Minion,63.0,Lava Hound,58.0,Fireball,29.0,Mini P.E.K.K.A,66.0,,,,7,False,False,0.0,0.0
+07185,Mega Minion,63.0,Lava Hound,58.0,Fireball,29.0,Mini P.E.K.K.A,66.0,,,,7,False,False,0.0,0.0
+07200,Mega Minion,63.0,Lava Hound,58.0,Fireball,29.0,Mini P.E.K.K.A,66.0,,,,7,False,False,0.0,0.0
+07215,Mega Minion,63.0,Lava Hound,58.0,Fireball,29.0,Mini P.E.K.K.A,66.0,,,,8,False,False,0.0,0.0
+07230,Mega Minion,63.0,Lava Hound,58.0,Fireball,29.0,Mini P.E.K.K.A,66.0,,,,8,False,False,0.0,0.0
+07245,Mega Minion,63.0,Lava Hound,58.0,Fireball,29.0,Miner,65.0,Mini P.E.K.K.A,66.0,4.0,4,True,True,4.0,4.0
+07260,Mega Minion,63.0,Lava Hound,58.0,Fireball,29.0,Miner,65.0,,,,5,False,False,0.0,0.0
+07275,Mega Minion,63.0,Lava Hound,58.0,Goblins,44.0,Miner,65.0,Fireball,29.0,3.0,7,True,True,5.0,4.0
+07290,Mega Minion,63.0,Lava Hound,58.0,Goblins,44.0,Miner,65.0,,,,2,False,False,0.0,0.0
+07305,Mega Minion,63.0,Lava Hound,58.0,Goblins,44.0,Miner,65.0,,,,2,False,False,0.0,0.0
+07320,Mega Minion,63.0,Lava Hound,58.0,Goblins,44.0,Miner,65.0,,,,2,False,False,0.0,0.0
+07335,Mega Minion,63.0,Lava Hound,58.0,Goblins,44.0,Miner,65.0,,,,3,False,False,0.0,0.0
+07350,Mega Minion,63.0,Lava Hound,58.0,Goblins,44.0,Miner,65.0,,,,3,False,False,0.0,0.0
+07365,Mega Minion,63.0,Lava Hound,58.0,Goblins,44.0,Miner,65.0,,,,3,False,False,0.0,0.0
+07380,Mega Minion,63.0,Lava Hound,58.0,Goblins,44.0,Miner,65.0,,,,4,False,False,0.0,0.0
+07395,Mega Minion,63.0,Lava Hound,58.0,Goblins,44.0,Zap,106.0,Miner,65.0,4.0,4,True,True,2.0,3.0
+07410,Mega Minion,63.0,Lava Hound,58.0,Goblins,44.0,Zap,106.0,,,,2,False,False,0.0,0.0
+07425,Mega Minion,63.0,Lava Hound,58.0,Goblins,44.0,Zap,106.0,,,,2,False,False,0.0,0.0
+07440,Mega Minion,63.0,Lava Hound,58.0,Goblins,44.0,Zap,106.0,,,,3,False,False,0.0,0.0
+07455,Mega Minion,63.0,Lava Hound,58.0,Goblins,44.0,Zap,106.0,,,,3,False,False,0.0,0.0
+07470,Mega Minion,63.0,Lava Hound,58.0,Goblins,44.0,Zap,106.0,,,,4,False,False,0.0,0.0
+07485,Mega Minion,63.0,Lava Hound,58.0,Goblins,44.0,Zap,106.0,,,,5,False,False,0.0,0.0
+07500,Mega Minion,63.0,Lava Hound,58.0,Goblins,44.0,Zap,106.0,,,,5,False,False,0.0,0.0
+07515,Mega Minion,63.0,Lava Hound,58.0,Goblins,44.0,Zap,106.0,,,,6,False,False,0.0,0.0
+07530,Mega Minion,63.0,Lava Hound,58.0,Goblins,44.0,Zap,106.0,,,,6,False,False,0.0,0.0
+07545,Mega Minion,63.0,Lava Hound,58.0,Goblins,44.0,Zap,106.0,,,,7,False,False,0.0,0.0
+07560,Mega Minion,63.0,Lava Hound,58.0,Goblins,44.0,Zap,106.0,,,,8,False,False,0.0,0.0
+07575,Mega Minion,63.0,Lava Hound,58.0,Goblins,44.0,Zap,106.0,,,,8,False,False,0.0,0.0
+07590,Mega Minion,63.0,Lava Hound,58.0,Goblins,44.0,Zap,106.0,,,,8,False,False,0.0,0.0
+07605,Mega Minion,63.0,Lava Hound,58.0,Goblins,44.0,Zap,106.0,,,,9,False,False,0.0,0.0
+07620,Mega Minion,63.0,Lava Hound,58.0,Goblins,44.0,Zap,106.0,,,,9,False,False,0.0,0.0
+07635,Mega Minion,63.0,Lava Hound,58.0,Goblins,44.0,Zap,106.0,,,,10,False,False,0.0,0.0
+07650,Mega Minion,63.0,Lava Hound,58.0,Baby Dragon,2.0,Zap,106.0,Goblins,44.0,3.0,8,True,True,2.0,2.0
+07665,Mega Minion,63.0,Lava Hound,58.0,Baby Dragon,2.0,Zap,106.0,,,,8,False,False,0.0,0.0
+07680,Mega Minion,63.0,Lava Hound,58.0,Baby Dragon,2.0,Zap,106.0,,,,9,False,False,0.0,0.0
+07695,Mega Minion,63.0,Lava Hound,58.0,Baby Dragon,2.0,Zap,106.0,,,,9,False,False,0.0,0.0
+07710,Mini P.E.K.K.A,66.0,Lava Hound,58.0,Baby Dragon,2.0,Zap,106.0,Mega Minion,63.0,1.0,10,True,True,2.0,3.0
+07725,Mini P.E.K.K.A,66.0,Lava Hound,58.0,Baby Dragon,2.0,Zap,106.0,,,,10,False,False,0.0,0.0
+07740,Mini P.E.K.K.A,66.0,Lava Hound,58.0,Baby Dragon,2.0,Zap,106.0,,,,8,False,False,0.0,0.0
+07755,Mini P.E.K.K.A,66.0,Lava Hound,58.0,Baby Dragon,2.0,Zap,106.0,,,,8,False,False,0.0,0.0
+07770,Fireball,29.0,Lava Hound,58.0,Baby Dragon,2.0,Zap,106.0,Mini P.E.K.K.A,66.0,1.0,5,True,True,3.0,4.0
+07785,Fireball,29.0,Lava Hound,58.0,Baby Dragon,2.0,Zap,106.0,,,,5,False,False,0.0,0.0
+07800,Fireball,29.0,Lava Hound,58.0,Baby Dragon,2.0,Zap,106.0,,,,6,False,False,0.0,0.0
+07815,Fireball,29.0,Lava Hound,58.0,Baby Dragon,2.0,Zap,106.0,,,,7,False,False,0.0,0.0
+07830,Miner,65.0,Lava Hound,58.0,Baby Dragon,2.0,Zap,106.0,Fireball,29.0,1.0,3,True,True,4.0,4.0
