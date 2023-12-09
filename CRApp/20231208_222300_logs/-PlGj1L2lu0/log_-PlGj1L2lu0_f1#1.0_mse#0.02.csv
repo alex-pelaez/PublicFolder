@@ -1,0 +1,400 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00360,Goblin Hut,44.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00375,Goblin Hut,44.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00390,Goblin Hut,44.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00405,Goblin Hut,44.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00420,Goblin Hut,44.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00435,Goblin Hut,44.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00450,Goblin Hut,44.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00465,Goblin Hut,44.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00480,Goblin Hut,44.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00495,Goblin Hut,44.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00510,Goblin Hut,44.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00525,Goblin Hut,44.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00540,Goblin Hut,44.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00555,Goblin Hut,44.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00570,Electro Dragon,21.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,Goblin Hut,44.0,1.0,5,True,True,5.0,5.0
+00585,Electro Dragon,21.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+00600,Electro Dragon,21.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+00615,Electro Dragon,21.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+00630,Electro Dragon,21.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+00645,Electro Dragon,21.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+00660,Electro Dragon,21.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+00675,Electro Dragon,21.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+00690,Electro Dragon,21.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+00705,Electro Dragon,21.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+00720,Electro Dragon,21.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+00735,Electro Dragon,21.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00750,Electro Dragon,21.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00765,Electro Dragon,21.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00780,Electro Dragon,21.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00795,Electro Dragon,21.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00810,Electro Dragon,21.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00825,Electro Dragon,21.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00840,Electro Dragon,21.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00855,Electro Dragon,21.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00870,Electro Dragon,21.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00885,Electro Dragon,21.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00900,Electro Dragon,21.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00915,Electro Dragon,21.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00930,Electro Dragon,21.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00945,Electro Dragon,21.0,Barbarian Barrel,6.0,Battle Healer,10.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00960,Electro Dragon,21.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,Battle Healer,10.0,3.0,5,True,True,4.0,4.0
+00975,Electro Dragon,21.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+00990,Electro Dragon,21.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01005,Electro Dragon,21.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01020,Electro Dragon,21.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01035,Electro Dragon,21.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01050,Electro Dragon,21.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01065,Electro Dragon,21.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01080,Electro Dragon,21.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01095,Electro Dragon,21.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01110,Electro Dragon,21.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01125,Electro Dragon,21.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01140,Electro Dragon,21.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01155,Electro Dragon,21.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01170,Electro Dragon,21.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01185,Electro Dragon,21.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01200,Electro Dragon,21.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01215,Electro Dragon,21.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01230,Electro Dragon,21.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+01245,Electro Dragon,21.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+01260,Electro Dragon,21.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+01275,Electro Dragon,21.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+01290,Electro Dragon,21.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+01305,Electro Dragon,21.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+01320,Electro Dragon,21.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+01335,Elixir Golem,27.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,Electro Dragon,21.0,1.0,5,True,True,5.0,5.0
+01350,Elixir Golem,27.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01365,Elixir Golem,27.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01380,Elixir Golem,27.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01395,Elixir Golem,27.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01410,Elixir Golem,27.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01425,Elixir Golem,27.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01440,Elixir Golem,27.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01455,Elixir Golem,27.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01470,Elixir Golem,27.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01485,Elixir Golem,27.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01500,Baby Dragon,3.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,Elixir Golem,27.0,1.0,4,True,True,2.0,3.0
+01515,Baby Dragon,3.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01530,Baby Dragon,3.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01545,Baby Dragon,3.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01560,Baby Dragon,3.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01575,Baby Dragon,3.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01590,Baby Dragon,3.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01605,Baby Dragon,3.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01620,Baby Dragon,3.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01635,Baby Dragon,3.0,Barbarian Barrel,6.0,Goblin Hut,44.0,Tornado,101.0,Earthquake,20.0,3.0,2,True,True,3.0,3.0
+01650,Baby Dragon,3.0,Barbarian Barrel,6.0,Goblin Hut,44.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01665,Baby Dragon,3.0,Barbarian Barrel,6.0,Goblin Hut,44.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01680,Baby Dragon,3.0,Barbarian Barrel,6.0,Goblin Hut,44.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01695,Baby Dragon,3.0,Barbarian Barrel,6.0,Goblin Hut,44.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01710,Baby Dragon,3.0,Barbarian Barrel,6.0,Goblin Hut,44.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01725,Baby Dragon,3.0,Barbarian Barrel,6.0,Goblin Hut,44.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01740,Baby Dragon,3.0,Barbarian Barrel,6.0,Goblin Hut,44.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01755,Baby Dragon,3.0,Barbarian Barrel,6.0,Goblin Hut,44.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01770,Baby Dragon,3.0,Barbarian Barrel,6.0,Goblin Hut,44.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01785,Baby Dragon,3.0,Barbarian Barrel,6.0,Goblin Hut,44.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01800,Baby Dragon,3.0,Barbarian Barrel,6.0,Goblin Hut,44.0,Battle Healer,10.0,Tornado,101.0,4.0,1,True,True,3.0,3.0
+01815,Baby Dragon,3.0,Barbarian Barrel,6.0,Goblin Hut,44.0,Battle Healer,10.0,,,,1,False,False,0.0,0.0
+01830,Baby Dragon,3.0,Barbarian Barrel,6.0,Goblin Hut,44.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+01845,Baby Dragon,3.0,Barbarian Barrel,6.0,Goblin Hut,44.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+01860,Baby Dragon,3.0,Barbarian Barrel,6.0,Goblin Hut,44.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+01875,Baby Dragon,3.0,Barbarian Barrel,6.0,Goblin Hut,44.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+01890,Baby Dragon,3.0,Barbarian Barrel,6.0,Goblin Hut,44.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+01905,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,Barbarian Barrel,6.0,2.0,0,True,True,2.0,2.0
+01920,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,1,False,False,0.0,0.0
+01935,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,1,False,False,0.0,0.0
+01950,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,1,False,False,0.0,0.0
+01965,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,1,False,False,0.0,0.0
+01980,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,1,False,False,0.0,0.0
+01995,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+02010,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+02025,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+02040,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+02055,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+02070,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+02085,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+02100,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+02115,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+02130,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+02145,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+02160,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+02175,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+02190,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+02205,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+02220,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+02235,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+02250,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+02265,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+02280,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+02295,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+02310,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+02325,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+02340,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+02355,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+02370,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+02385,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+02400,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+02415,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+02430,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+02445,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+02460,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+02475,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+02490,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+02505,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+02520,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+02535,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+02550,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+02565,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+02580,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+02595,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+02610,Baby Dragon,3.0,Electro Dragon,21.0,Goblin Hut,44.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+02625,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,Goblin Hut,44.0,3.0,4,True,True,5.0,5.0
+02640,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+02655,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+02670,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+02685,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+02700,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+02715,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+02730,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+02745,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+02760,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+02775,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+02790,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+02805,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+02820,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+02835,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+02850,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+02865,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+02880,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+02895,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+02910,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+02925,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+02940,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+02955,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+02970,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+02985,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+03000,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+03015,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+03030,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+03045,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+03060,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+03075,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Earthquake,20.0,Battle Healer,10.0,4.0,5,True,True,4.0,4.0
+03090,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+03105,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+03120,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+03135,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,Earthquake,20.0,4.0,3,True,True,3.0,3.0
+03150,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03165,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03180,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03195,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03210,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03225,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03240,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03255,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03270,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03285,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03300,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03315,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03330,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03345,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03360,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03375,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03390,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03405,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03420,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03435,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03450,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03465,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03480,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03495,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03510,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03525,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03540,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03555,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03570,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03585,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03600,Baby Dragon,3.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+03615,Barbarian Barrel,6.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,Baby Dragon,3.0,1.0,5,True,True,4.0,4.0
+03630,Barbarian Barrel,6.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03645,Barbarian Barrel,6.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03660,Barbarian Barrel,6.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03675,Goblin Hut,44.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,Barbarian Barrel,6.0,1.0,4,True,True,1.0,2.0
+03690,Goblin Hut,44.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03705,Goblin Hut,44.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03720,Goblin Hut,44.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03735,Goblin Hut,44.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03750,Goblin Hut,44.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03765,Goblin Hut,44.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03780,Goblin Hut,44.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03795,Goblin Hut,44.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03810,Goblin Hut,44.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03825,Goblin Hut,44.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03840,Goblin Hut,44.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03855,Goblin Hut,44.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03870,Battle Healer,10.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,Goblin Hut,44.0,1.0,2,True,True,5.0,5.0
+03885,Battle Healer,10.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03900,Battle Healer,10.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03915,Battle Healer,10.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03930,Battle Healer,10.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03945,Battle Healer,10.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03960,Battle Healer,10.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03975,Battle Healer,10.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03990,Battle Healer,10.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+04005,Battle Healer,10.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+04020,Battle Healer,10.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+04035,Battle Healer,10.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+04050,Battle Healer,10.0,Electro Dragon,21.0,Earthquake,20.0,Tornado,101.0,Elixir Golem,27.0,3.0,4,True,True,2.0,3.0
+04065,Battle Healer,10.0,Electro Dragon,21.0,Earthquake,20.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04080,Battle Healer,10.0,Electro Dragon,21.0,Earthquake,20.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04095,Battle Healer,10.0,Electro Dragon,21.0,Earthquake,20.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+04110,Battle Healer,10.0,Electro Dragon,21.0,Baby Dragon,3.0,Tornado,101.0,Earthquake,20.0,3.0,2,True,True,3.0,3.0
+04125,Battle Healer,10.0,Electro Dragon,21.0,Baby Dragon,3.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+04140,Battle Healer,10.0,Electro Dragon,21.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04155,Battle Healer,10.0,Electro Dragon,21.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04170,Battle Healer,10.0,Electro Dragon,21.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04185,Battle Healer,10.0,Electro Dragon,21.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04200,Battle Healer,10.0,Electro Dragon,21.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04215,Battle Healer,10.0,Electro Dragon,21.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04230,Battle Healer,10.0,Electro Dragon,21.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+04245,Battle Healer,10.0,Electro Dragon,21.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+04260,Battle Healer,10.0,Electro Dragon,21.0,Barbarian Barrel,6.0,Tornado,101.0,Baby Dragon,3.0,3.0,1,True,True,4.0,4.0
+04275,Battle Healer,10.0,Electro Dragon,21.0,Barbarian Barrel,6.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+04290,Battle Healer,10.0,Electro Dragon,21.0,Barbarian Barrel,6.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+04305,Battle Healer,10.0,Electro Dragon,21.0,Barbarian Barrel,6.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04320,Battle Healer,10.0,Electro Dragon,21.0,Barbarian Barrel,6.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04335,Battle Healer,10.0,Electro Dragon,21.0,Barbarian Barrel,6.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04350,Battle Healer,10.0,Electro Dragon,21.0,Barbarian Barrel,6.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04365,Battle Healer,10.0,Electro Dragon,21.0,Barbarian Barrel,6.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04380,Battle Healer,10.0,Electro Dragon,21.0,Barbarian Barrel,6.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04395,Battle Healer,10.0,Electro Dragon,21.0,Barbarian Barrel,6.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+04410,Battle Healer,10.0,Electro Dragon,21.0,Barbarian Barrel,6.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+04425,Battle Healer,10.0,Electro Dragon,21.0,Barbarian Barrel,6.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+04440,Battle Healer,10.0,Electro Dragon,21.0,Barbarian Barrel,6.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+04455,Battle Healer,10.0,Electro Dragon,21.0,Barbarian Barrel,6.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+04470,Battle Healer,10.0,Electro Dragon,21.0,Barbarian Barrel,6.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+04485,Battle Healer,10.0,Electro Dragon,21.0,Barbarian Barrel,6.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04500,Battle Healer,10.0,Electro Dragon,21.0,Barbarian Barrel,6.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04515,Battle Healer,10.0,Electro Dragon,21.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+04530,Battle Healer,10.0,Electro Dragon,21.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+04545,Battle Healer,10.0,Electro Dragon,21.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+04560,Battle Healer,10.0,Electro Dragon,21.0,Barbarian Barrel,6.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+04575,Battle Healer,10.0,Electro Dragon,21.0,Goblin Hut,44.0,Tornado,101.0,Barbarian Barrel,6.0,3.0,7,True,True,2.0,2.0
+04590,Battle Healer,10.0,Electro Dragon,21.0,Goblin Hut,44.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04605,Battle Healer,10.0,Electro Dragon,21.0,Goblin Hut,44.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+04620,Battle Healer,10.0,Electro Dragon,21.0,Goblin Hut,44.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+04635,Battle Healer,10.0,Electro Dragon,21.0,Goblin Hut,44.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+04650,Battle Healer,10.0,Electro Dragon,21.0,Goblin Hut,44.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+04665,Battle Healer,10.0,Electro Dragon,21.0,Goblin Hut,44.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+04680,Battle Healer,10.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,Goblin Hut,44.0,3.0,5,True,True,4.0,5.0
+04695,Battle Healer,10.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+04710,Battle Healer,10.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+04725,Battle Healer,10.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+04740,Battle Healer,10.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+04755,Battle Healer,10.0,Electro Dragon,21.0,Elixir Golem,27.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+04770,Battle Healer,10.0,Electro Dragon,21.0,Earthquake,20.0,Tornado,101.0,Elixir Golem,27.0,3.0,4,True,True,2.0,3.0
+04785,Battle Healer,10.0,Electro Dragon,21.0,Earthquake,20.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04800,Battle Healer,10.0,Electro Dragon,21.0,Earthquake,20.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04815,Battle Healer,10.0,Electro Dragon,21.0,Earthquake,20.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+04830,Battle Healer,10.0,Electro Dragon,21.0,Earthquake,20.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+04845,Battle Healer,10.0,Electro Dragon,21.0,Earthquake,20.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+04860,Battle Healer,10.0,Electro Dragon,21.0,Earthquake,20.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+04875,Battle Healer,10.0,Electro Dragon,21.0,Earthquake,20.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+04890,Battle Healer,10.0,Electro Dragon,21.0,Earthquake,20.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04905,Battle Healer,10.0,Electro Dragon,21.0,Earthquake,20.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04920,Battle Healer,10.0,Electro Dragon,21.0,Earthquake,20.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04935,Battle Healer,10.0,Electro Dragon,21.0,Earthquake,20.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+04950,Battle Healer,10.0,Baby Dragon,3.0,Earthquake,20.0,Tornado,101.0,Electro Dragon,21.0,2.0,3,True,True,5.0,5.0
+04965,Battle Healer,10.0,Baby Dragon,3.0,Earthquake,20.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04980,Battle Healer,10.0,Baby Dragon,3.0,Earthquake,20.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04995,Battle Healer,10.0,Baby Dragon,3.0,Earthquake,20.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+05010,Battle Healer,10.0,Baby Dragon,3.0,Earthquake,20.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+05025,Battle Healer,10.0,Baby Dragon,3.0,Earthquake,20.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+05040,Battle Healer,10.0,Baby Dragon,3.0,Earthquake,20.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+05055,Battle Healer,10.0,Baby Dragon,3.0,Earthquake,20.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+05070,Battle Healer,10.0,Baby Dragon,3.0,Earthquake,20.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+05085,Battle Healer,10.0,Baby Dragon,3.0,Earthquake,20.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+05100,Battle Healer,10.0,Baby Dragon,3.0,Earthquake,20.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+05115,Battle Healer,10.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,Baby Dragon,3.0,2.0,3,True,True,4.0,4.0
+05130,Battle Healer,10.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+05145,Battle Healer,10.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+05160,Battle Healer,10.0,Barbarian Barrel,6.0,Earthquake,20.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+05175,Battle Healer,10.0,Barbarian Barrel,6.0,Goblin Hut,44.0,Tornado,101.0,Earthquake,20.0,3.0,1,True,True,3.0,3.0
+05190,Battle Healer,10.0,Barbarian Barrel,6.0,Goblin Hut,44.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+05205,Battle Healer,10.0,Barbarian Barrel,6.0,Goblin Hut,44.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+05220,Battle Healer,10.0,Barbarian Barrel,6.0,Goblin Hut,44.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+05235,Battle Healer,10.0,Barbarian Barrel,6.0,Goblin Hut,44.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+05250,Battle Healer,10.0,Barbarian Barrel,6.0,Goblin Hut,44.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+05265,Battle Healer,10.0,Elixir Golem,27.0,Goblin Hut,44.0,Tornado,101.0,Barbarian Barrel,6.0,2.0,1,True,True,2.0,2.0
+05280,Battle Healer,10.0,Elixir Golem,27.0,Goblin Hut,44.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+05295,Battle Healer,10.0,Elixir Golem,27.0,Goblin Hut,44.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+05310,Battle Healer,10.0,Elixir Golem,27.0,Goblin Hut,44.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+05325,Battle Healer,10.0,Elixir Golem,27.0,Goblin Hut,44.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+05340,Battle Healer,10.0,Elixir Golem,27.0,Goblin Hut,44.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+05355,Battle Healer,10.0,Elixir Golem,27.0,Goblin Hut,44.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+05370,Battle Healer,10.0,Elixir Golem,27.0,Goblin Hut,44.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+05385,Battle Healer,10.0,Elixir Golem,27.0,Goblin Hut,44.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+05400,Battle Healer,10.0,Elixir Golem,27.0,Goblin Hut,44.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+05415,Battle Healer,10.0,Elixir Golem,27.0,Goblin Hut,44.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+05430,Battle Healer,10.0,Electro Dragon,21.0,Goblin Hut,44.0,Tornado,101.0,Elixir Golem,27.0,2.0,2,True,True,3.0,3.0
+05445,Battle Healer,10.0,Electro Dragon,21.0,Goblin Hut,44.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+05460,Battle Healer,10.0,Electro Dragon,21.0,Goblin Hut,44.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+05475,Battle Healer,10.0,Electro Dragon,21.0,Goblin Hut,44.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+05490,Battle Healer,10.0,Electro Dragon,21.0,Goblin Hut,44.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+05505,Battle Healer,10.0,Electro Dragon,21.0,Goblin Hut,44.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+05520,Battle Healer,10.0,Electro Dragon,21.0,Goblin Hut,44.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+05535,Battle Healer,10.0,Electro Dragon,21.0,Goblin Hut,44.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+05550,Battle Healer,10.0,Electro Dragon,21.0,Goblin Hut,44.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+05565,Battle Healer,10.0,Electro Dragon,21.0,Goblin Hut,44.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+05580,Battle Healer,10.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,Electro Dragon,21.0,2.0,1,True,True,5.0,5.0
+05595,Battle Healer,10.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+05610,Battle Healer,10.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+05625,Battle Healer,10.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+05640,Battle Healer,10.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+05655,Battle Healer,10.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+05670,Battle Healer,10.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+05685,Battle Healer,10.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+05700,Battle Healer,10.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+05715,Battle Healer,10.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+05730,Earthquake,20.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,Battle Healer,10.0,1.0,0,True,True,4.0,4.0
+05745,Earthquake,20.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+05760,Earthquake,20.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+05775,Earthquake,20.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+05790,Earthquake,20.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+05805,Earthquake,20.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+05820,Earthquake,20.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+05835,Earthquake,20.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+05850,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,Earthquake,20.0,1.0,0,True,True,3.0,3.0
+05865,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+05880,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+05895,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+05910,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+05925,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+05940,Elixir Golem,27.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,Barbarian Barrel,6.0,1.0,0,True,True,2.0,2.0
+05955,Elixir Golem,27.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+05970,Elixir Golem,27.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+05985,Elixir Golem,27.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+06000,Elixir Golem,27.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+06015,Elixir Golem,27.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+06030,Elixir Golem,27.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+06045,Elixir Golem,27.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+06060,Elixir Golem,27.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+06075,Elixir Golem,27.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+06090,Electro Dragon,21.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,Elixir Golem,27.0,1.0,1,True,True,3.0,3.0
+06105,Electro Dragon,21.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+06120,Electro Dragon,21.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+06135,Electro Dragon,21.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+06150,Electro Dragon,21.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+06165,Electro Dragon,21.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+06180,Electro Dragon,21.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+06195,Electro Dragon,21.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+06210,Electro Dragon,21.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+06225,Electro Dragon,21.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+06240,Electro Dragon,21.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+06255,Electro Dragon,21.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+06270,Electro Dragon,21.0,Baby Dragon,3.0,Goblin Hut,44.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+06285,Electro Dragon,21.0,Baby Dragon,3.0,Goblin Hut,44.0,Battle Healer,10.0,Tornado,101.0,4.0,3,True,True,2.0,3.0
+06300,Electro Dragon,21.0,Baby Dragon,3.0,Goblin Hut,44.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+06315,Electro Dragon,21.0,Baby Dragon,3.0,Goblin Hut,44.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+06330,Electro Dragon,21.0,Baby Dragon,3.0,Goblin Hut,44.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0

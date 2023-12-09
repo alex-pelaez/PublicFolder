@@ -1,0 +1,410 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+00255,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+00270,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+00285,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+00300,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+00315,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+00330,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+00345,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+00360,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+00375,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+00390,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+00405,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+00420,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+00435,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+00450,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+00465,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+00480,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+00495,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+00510,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+00525,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+00540,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+00555,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+00570,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+00585,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+00600,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+00615,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+00630,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+00645,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+00660,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+00675,Zap,107.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+00690,Sparky,95.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,Zap,107.0,1.0,8,True,True,2.0,2.0
+00705,Sparky,95.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+00720,Sparky,95.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+00735,Sparky,95.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+00750,Sparky,95.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+00765,Sparky,95.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+00780,Sparky,95.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+00795,Sparky,95.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+00810,Sparky,95.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+00825,Sparky,95.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+00840,Sparky,95.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+00855,Sparky,95.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+00870,Sparky,95.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+00885,Sparky,95.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+00900,Sparky,95.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+00915,Sparky,95.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+00930,Sparky,95.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+00945,Sparky,95.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+00960,Sparky,95.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+00975,Sparky,95.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+00990,Sparky,95.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+01005,Sparky,95.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+01020,Sparky,95.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+01035,Sparky,95.0,Musketeer,73.0,Fireball,30.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+01050,Sparky,95.0,Zap,107.0,Fireball,30.0,Goblin Giant,43.0,Musketeer,73.0,2.0,6,True,True,4.0,4.0
+01065,Sparky,95.0,Goblin Drill,41.0,Fireball,30.0,Goblin Giant,43.0,Zap,107.0,2.0,6,True,False,0.0,2.0
+01080,Sparky,95.0,Goblin Drill,41.0,Fireball,30.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+01095,Sparky,95.0,Goblin Drill,41.0,Fireball,30.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+01110,Sparky,95.0,Goblin Drill,41.0,Fireball,30.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+01125,Sparky,95.0,Goblin Drill,41.0,Fireball,30.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+01140,Sparky,95.0,Goblin Drill,41.0,Fireball,30.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+01155,Sparky,95.0,Goblin Drill,41.0,Fireball,30.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+01170,Sparky,95.0,Goblin Drill,41.0,Fireball,30.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+01185,Sparky,95.0,Goblin Drill,41.0,Fireball,30.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+01200,Sparky,95.0,Goblin Drill,41.0,Fireball,30.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+01215,Sparky,95.0,Goblin Drill,41.0,Fireball,30.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+01230,Sparky,95.0,Goblin Drill,41.0,Fireball,30.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+01245,Sparky,95.0,Goblin Drill,41.0,Fireball,30.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+01260,Sparky,95.0,Goblin Drill,41.0,Fireball,30.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+01275,Sparky,95.0,Goblin Drill,41.0,Fireball,30.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+01290,Sparky,95.0,Goblin Drill,41.0,Fireball,30.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+01305,Sparky,95.0,Goblin Drill,41.0,Fireball,30.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+01320,Sparky,95.0,Goblin Drill,41.0,Fireball,30.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+01335,Sparky,95.0,Goblin Drill,41.0,Fireball,30.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+01350,Sparky,95.0,Goblin Drill,41.0,Fireball,30.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+01365,Sparky,95.0,Goblin Drill,41.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,Fireball,30.0,3.0,5,True,True,4.0,4.0
+01380,Sparky,95.0,Goblin Drill,41.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+01395,Sparky,95.0,Goblin Drill,41.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+01410,Sparky,95.0,Goblin Drill,41.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+01425,Sparky,95.0,Goblin Drill,41.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+01440,Sparky,95.0,Goblin Drill,41.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+01455,Sparky,95.0,Goblin Drill,41.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+01470,Sparky,95.0,Goblin Drill,41.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+01485,Sparky,95.0,Goblin Drill,41.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+01500,Sparky,95.0,Goblin Drill,41.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+01515,Sparky,95.0,Goblin Drill,41.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+01530,Sparky,95.0,Goblin Drill,41.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+01545,Sparky,95.0,Goblin Drill,41.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+01560,Sparky,95.0,Goblin Drill,41.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+01575,Sparky,95.0,Goblin Drill,41.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+01590,Sparky,95.0,Goblin Drill,41.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+01605,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,Goblin Drill,41.0,2.0,8,True,False,0.0,4.0
+01620,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+01635,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+01650,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+01665,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+01680,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+01695,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,True,3.0,0.0
+01710,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+01725,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+01740,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+01755,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+01770,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+01785,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+01800,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+01815,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+01830,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+01845,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+01860,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+01875,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+01890,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+01905,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+01920,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+01935,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+01950,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+01965,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+01980,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+01995,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+02010,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+02025,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+02040,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+02055,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+02070,Sparky,95.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+02085,Zap,107.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,Sparky,95.0,1.0,4,True,True,6.0,6.0
+02100,Zap,107.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,4,False,False,0.0,0.0
+02115,Zap,107.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,4,False,False,0.0,0.0
+02130,Zap,107.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,4,False,False,0.0,0.0
+02145,Zap,107.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,4,False,False,0.0,0.0
+02160,Zap,107.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,5,False,False,0.0,0.0
+02175,Zap,107.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,5,False,False,0.0,0.0
+02190,Zap,107.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,5,False,False,0.0,0.0
+02205,Zap,107.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,5,False,False,0.0,0.0
+02220,Zap,107.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,5,False,False,0.0,0.0
+02235,Zap,107.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,5,False,False,0.0,0.0
+02250,Zap,107.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+02265,Zap,107.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+02280,Zap,107.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+02295,Zap,107.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+02310,Zap,107.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+02325,Zap,107.0,Musketeer,73.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,Heal Spirit,50.0,2.0,6,True,False,0.0,1.0
+02340,Zap,107.0,Musketeer,73.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+02355,Zap,107.0,Musketeer,73.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+02370,Zap,107.0,Musketeer,73.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+02385,Zap,107.0,Musketeer,73.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+02400,Zap,107.0,Musketeer,73.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+02415,Zap,107.0,Musketeer,73.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+02430,Zap,107.0,Musketeer,73.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+02445,Zap,107.0,Musketeer,73.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+02460,Zap,107.0,Musketeer,73.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+02475,Zap,107.0,Musketeer,73.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+02490,Zap,107.0,Musketeer,73.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+02505,Zap,107.0,Musketeer,73.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+02520,Zap,107.0,Musketeer,73.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+02535,Zap,107.0,Musketeer,73.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+02550,Zap,107.0,Musketeer,73.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+02565,Zap,107.0,Musketeer,73.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+02580,Zap,107.0,Musketeer,73.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+02595,Zap,107.0,Musketeer,73.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+02610,Zap,107.0,Musketeer,73.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+02625,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,Musketeer,73.0,2.0,5,True,True,4.0,4.0
+02640,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,5,False,False,0.0,0.0
+02655,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,5,False,False,0.0,0.0
+02670,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+02685,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+02700,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+02715,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+02730,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+02745,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+02760,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+02775,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+02790,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+02805,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+02820,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+02835,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+02850,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+02865,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+02880,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+02895,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+02910,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+02925,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+02940,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+02955,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+02970,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+02985,Goblin Drill,41.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,Zap,107.0,1.0,7,True,True,2.0,2.0
+03000,Goblin Drill,41.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+03015,Goblin Drill,41.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+03030,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,Goblin Drill,41.0,1.0,8,True,False,0.0,4.0
+03045,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+03060,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+03075,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+03090,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+03105,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+03120,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+03135,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+03150,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+03165,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,True,2.0,0.0
+03180,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+03195,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+03210,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+03225,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+03240,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+03255,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+03270,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+03285,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+03300,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+03315,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+03330,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+03345,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+03360,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+03375,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+03390,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+03405,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+03420,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+03435,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+03450,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+03465,Sparky,95.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+03480,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,Sparky,95.0,1.0,4,True,True,6.0,6.0
+03495,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,4,False,False,0.0,0.0
+03510,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,4,False,False,0.0,0.0
+03525,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,4,False,False,0.0,0.0
+03540,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,4,False,False,0.0,0.0
+03555,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,5,False,False,0.0,0.0
+03570,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,5,False,False,0.0,0.0
+03585,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,5,False,False,0.0,0.0
+03600,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,5,False,False,0.0,0.0
+03615,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,5,False,False,0.0,0.0
+03630,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,5,False,False,0.0,0.0
+03645,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+03660,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+03675,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+03690,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+03705,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+03720,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+03735,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+03750,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+03765,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+03780,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+03795,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+03810,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+03825,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+03840,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+03855,Musketeer,73.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,Heal Spirit,50.0,1.0,9,True,False,0.0,1.0
+03870,Musketeer,73.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+03885,Musketeer,73.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+03900,Musketeer,73.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+03915,Musketeer,73.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+03930,Musketeer,73.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+03945,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,Musketeer,73.0,1.0,6,True,True,4.0,4.0
+03960,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+03975,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+03990,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+04005,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+04020,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+04035,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+04050,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+04065,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+04080,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+04095,Zap,107.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+04110,Zap,107.0,Fireball,30.0,Goblin Drill,41.0,Goblin Giant,43.0,Mini P.E.K.K.A,67.0,3.0,6,True,True,3.0,4.0
+04125,Zap,107.0,Fireball,30.0,Goblin Drill,41.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+04140,Zap,107.0,Fireball,30.0,Goblin Drill,41.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+04155,Zap,107.0,Fireball,30.0,Goblin Drill,41.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+04170,Zap,107.0,Fireball,30.0,Goblin Drill,41.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+04185,Zap,107.0,Fireball,30.0,Goblin Drill,41.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+04200,Zap,107.0,Fireball,30.0,Goblin Drill,41.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+04215,Zap,107.0,Fireball,30.0,Goblin Drill,41.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+04230,Zap,107.0,Fireball,30.0,Goblin Drill,41.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+04245,Zap,107.0,Fireball,30.0,Goblin Drill,41.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+04260,Zap,107.0,Fireball,30.0,Goblin Drill,41.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+04275,Zap,107.0,Fireball,30.0,Goblin Drill,41.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+04290,Zap,107.0,Fireball,30.0,Goblin Drill,41.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+04305,Zap,107.0,Fireball,30.0,Goblin Drill,41.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+04320,Zap,107.0,Fireball,30.0,Heal Spirit,50.0,Sparky,95.0,Goblin Giant,43.0,4.0,4,True,True,6.0,6.0
+04335,Zap,107.0,Fireball,30.0,Heal Spirit,50.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+04350,Zap,107.0,Fireball,30.0,Heal Spirit,50.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+04365,Zap,107.0,Fireball,30.0,Heal Spirit,50.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+04380,Zap,107.0,Fireball,30.0,Heal Spirit,50.0,Sparky,95.0,,,,2,False,True,3.0,0.0
+04395,Zap,107.0,Fireball,30.0,Heal Spirit,50.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+04410,Zap,107.0,Fireball,30.0,Heal Spirit,50.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+04425,Zap,107.0,Fireball,30.0,Heal Spirit,50.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+04440,Zap,107.0,Fireball,30.0,Musketeer,73.0,Sparky,95.0,Heal Spirit,50.0,3.0,3,True,False,0.0,1.0
+04455,Zap,107.0,Fireball,30.0,Musketeer,73.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+04470,Zap,107.0,Fireball,30.0,Musketeer,73.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+04485,Zap,107.0,Fireball,30.0,Musketeer,73.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+04500,Zap,107.0,Fireball,30.0,Musketeer,73.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+04515,Zap,107.0,Fireball,30.0,Musketeer,73.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+04530,Zap,107.0,Fireball,30.0,Musketeer,73.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+04545,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Sparky,95.0,Zap,107.0,1.0,3,True,True,2.0,2.0
+04560,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+04575,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+04590,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+04605,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+04620,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+04635,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+04650,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+04665,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+04680,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+04695,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+04710,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+04725,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+04740,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+04755,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+04770,Mini P.E.K.K.A,67.0,Fireball,30.0,Goblin Drill,41.0,Goblin Giant,43.0,Sparky,95.0,4.0,2,True,True,6.0,6.0
+04785,Mini P.E.K.K.A,67.0,Fireball,30.0,Goblin Drill,41.0,Goblin Giant,43.0,,,,3,False,False,0.0,0.0
+04800,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,Goblin Drill,41.0,3.0,3,True,False,0.0,4.0
+04815,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,4,False,False,0.0,0.0
+04830,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,4,False,False,0.0,0.0
+04845,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,4,False,False,0.0,0.0
+04860,Mini P.E.K.K.A,67.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,Fireball,30.0,2.0,1,True,True,3.0,4.0
+04875,Mini P.E.K.K.A,67.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,1,False,False,0.0,0.0
+04890,Mini P.E.K.K.A,67.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,1,False,False,0.0,0.0
+04905,Mini P.E.K.K.A,67.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,2,False,False,0.0,0.0
+04920,Mini P.E.K.K.A,67.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,2,False,False,0.0,0.0
+04935,Mini P.E.K.K.A,67.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,2,False,False,0.0,0.0
+04950,Mini P.E.K.K.A,67.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,3,False,False,0.0,0.0
+04965,Mini P.E.K.K.A,67.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,3,False,False,0.0,0.0
+04980,Mini P.E.K.K.A,67.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,3,False,False,0.0,0.0
+04995,Mini P.E.K.K.A,67.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,4,False,False,0.0,0.0
+05010,Mini P.E.K.K.A,67.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,4,False,False,0.0,0.0
+05025,Heal Spirit,50.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,Mini P.E.K.K.A,67.0,1.0,1,True,True,3.0,4.0
+05040,Heal Spirit,50.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,1,False,False,0.0,0.0
+05055,Heal Spirit,50.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,1,False,False,0.0,0.0
+05070,Heal Spirit,50.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,2,False,False,0.0,0.0
+05085,Zap,107.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,Heal Spirit,50.0,1.0,1,True,True,1.0,1.0
+05100,Zap,107.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,1,False,False,0.0,0.0
+05115,Zap,107.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,2,False,False,0.0,0.0
+05130,Zap,107.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,2,False,False,0.0,0.0
+05145,Zap,107.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,2,False,False,0.0,0.0
+05160,Zap,107.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,3,False,False,0.0,0.0
+05175,Zap,107.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,3,False,False,0.0,0.0
+05190,Zap,107.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,3,False,False,0.0,0.0
+05205,Zap,107.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,4,False,False,0.0,0.0
+05220,Zap,107.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,4,False,False,0.0,0.0
+05235,Sparky,95.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,Zap,107.0,1.0,2,True,True,2.0,2.0
+05250,Sparky,95.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,3,False,False,0.0,0.0
+05265,Sparky,95.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,3,False,False,0.0,0.0
+05280,Sparky,95.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,4,False,False,0.0,0.0
+05295,Sparky,95.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,4,False,False,0.0,0.0
+05310,Sparky,95.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,4,False,False,0.0,0.0
+05325,Sparky,95.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,5,False,False,0.0,0.0
+05340,Sparky,95.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,5,False,False,0.0,0.0
+05355,Sparky,95.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,5,False,False,0.0,0.0
+05370,Sparky,95.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+05385,Sparky,95.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+05400,Sparky,95.0,Goblin Drill,41.0,Musketeer,73.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+05415,Sparky,95.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,Goblin Drill,41.0,2.0,7,True,False,0.0,4.0
+05430,Sparky,95.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+05445,Sparky,95.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+05460,Sparky,95.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+05475,Sparky,95.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+05490,Sparky,95.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,6,False,True,2.0,0.0
+05505,Sparky,95.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+05520,Sparky,95.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+05535,Sparky,95.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+05550,Sparky,95.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+05565,Sparky,95.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+05580,Sparky,95.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+05595,Sparky,95.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+05610,Sparky,95.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+05625,Sparky,95.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+05640,Sparky,95.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+05655,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,Sparky,95.0,1.0,3,True,True,6.0,6.0
+05670,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,4,False,False,0.0,0.0
+05685,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,4,False,False,0.0,0.0
+05700,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,5,False,False,0.0,0.0
+05715,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,5,False,False,0.0,0.0
+05730,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,5,False,False,0.0,0.0
+05745,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+05760,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+05775,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+05790,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+05805,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+05820,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Heal Spirit,50.0,Goblin Giant,43.0,4.0,1,True,True,6.0,6.0
+05835,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+05850,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+05865,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+05880,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+05895,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+05910,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+05925,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+05940,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+05955,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+05970,Mini P.E.K.K.A,67.0,Fireball,30.0,Musketeer,73.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+05985,Mini P.E.K.K.A,67.0,Zap,107.0,Heal Spirit,50.0,Heal Spirit,50.0,Musketeer,73.0,3.0,3,True,True,2.0,4.0
+06000,Mini P.E.K.K.A,67.0,Zap,107.0,Musketeer,73.0,Heal Spirit,50.0,Heal Spirit,50.0,3.0,2,True,True,1.0,1.0
+06015,Mini P.E.K.K.A,67.0,Zap,107.0,Musketeer,73.0,Goblin Drill,41.0,Heal Spirit,50.0,4.0,1,True,True,1.0,1.0
+06030,Mini P.E.K.K.A,67.0,Zap,107.0,Musketeer,73.0,Goblin Drill,41.0,,,,1,False,False,0.0,0.0
+06045,Mini P.E.K.K.A,67.0,Zap,107.0,Musketeer,73.0,Goblin Drill,41.0,,,,2,False,False,0.0,0.0
+06060,Mini P.E.K.K.A,67.0,Zap,107.0,Musketeer,73.0,Goblin Drill,41.0,,,,2,False,False,0.0,0.0
+06075,Mini P.E.K.K.A,67.0,Zap,107.0,Musketeer,73.0,Goblin Drill,41.0,,,,2,False,False,0.0,0.0
+06090,Mini P.E.K.K.A,67.0,Zap,107.0,Musketeer,73.0,Goblin Drill,41.0,,,,3,False,False,0.0,0.0
+06105,Mini P.E.K.K.A,67.0,Zap,107.0,Musketeer,73.0,Goblin Drill,41.0,,,,3,False,False,0.0,0.0
+06120,Mini P.E.K.K.A,67.0,Zap,107.0,Musketeer,73.0,Goblin Drill,41.0,,,,4,False,False,0.0,0.0
+06135,Mini P.E.K.K.A,67.0,Zap,107.0,Musketeer,73.0,Goblin Drill,41.0,,,,4,False,False,0.0,0.0
+06150,Mini P.E.K.K.A,67.0,Zap,107.0,Musketeer,73.0,Goblin Drill,41.0,,,,4,False,False,0.0,0.0
+06165,Mini P.E.K.K.A,67.0,Zap,107.0,Musketeer,73.0,Goblin Drill,41.0,,,,5,False,False,0.0,0.0
+06180,Mini P.E.K.K.A,67.0,Zap,107.0,Musketeer,73.0,Goblin Drill,41.0,,,,5,False,False,0.0,0.0
+06195,Mini P.E.K.K.A,67.0,Sparky,95.0,Musketeer,73.0,Goblin Drill,41.0,Zap,107.0,2.0,3,True,True,2.0,2.0
+06210,Mini P.E.K.K.A,67.0,Sparky,95.0,Musketeer,73.0,Goblin Drill,41.0,,,,4,False,False,0.0,0.0
+06225,Mini P.E.K.K.A,67.0,Sparky,95.0,Musketeer,73.0,Goblin Drill,41.0,,,,4,False,False,0.0,0.0
+06240,Mini P.E.K.K.A,67.0,Sparky,95.0,Musketeer,73.0,Goblin Drill,41.0,,,,4,False,False,0.0,0.0
+06255,Mini P.E.K.K.A,67.0,Sparky,95.0,Musketeer,73.0,Goblin Drill,41.0,,,,5,False,False,0.0,0.0
+06270,Mini P.E.K.K.A,67.0,Sparky,95.0,Musketeer,73.0,Goblin Drill,41.0,,,,5,False,False,0.0,0.0
+06285,Mini P.E.K.K.A,67.0,Sparky,95.0,Musketeer,73.0,Goblin Drill,41.0,,,,5,False,False,0.0,0.0
+06300,Mini P.E.K.K.A,67.0,Sparky,95.0,Musketeer,73.0,Goblin Drill,41.0,,,,6,False,False,0.0,0.0
+06315,Mini P.E.K.K.A,67.0,Sparky,95.0,Musketeer,73.0,Goblin Drill,41.0,,,,6,False,False,0.0,0.0
+06330,Mini P.E.K.K.A,67.0,Sparky,95.0,Musketeer,73.0,Goblin Drill,41.0,,,,7,False,False,0.0,0.0
+06345,Mini P.E.K.K.A,67.0,Sparky,95.0,Musketeer,73.0,Goblin Drill,41.0,,,,7,False,False,0.0,0.0
+06360,Mini P.E.K.K.A,67.0,Sparky,95.0,Musketeer,73.0,Goblin Drill,41.0,,,,7,False,False,0.0,0.0

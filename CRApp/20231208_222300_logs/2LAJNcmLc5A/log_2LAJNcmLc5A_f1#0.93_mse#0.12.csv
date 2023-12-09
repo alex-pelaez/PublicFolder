@@ -1,0 +1,556 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Skeletons,94.0,Zap,107.0,Miner,66.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00255,Skeletons,94.0,Zap,107.0,Miner,66.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00270,Skeletons,94.0,Zap,107.0,Miner,66.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00285,Skeletons,94.0,Zap,107.0,Miner,66.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00300,Skeletons,94.0,Zap,107.0,Miner,66.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00315,Skeletons,94.0,Zap,107.0,Miner,66.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00330,Skeletons,94.0,Zap,107.0,Miner,66.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00345,Skeletons,94.0,Zap,107.0,Miner,66.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00360,Skeletons,94.0,Zap,107.0,Miner,66.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00375,Skeletons,94.0,Zap,107.0,Miner,66.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00390,Skeletons,94.0,Zap,107.0,Miner,66.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00405,Skeletons,94.0,Zap,107.0,Miner,66.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00420,Skeletons,94.0,Zap,107.0,Miner,66.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00435,Skeletons,94.0,Zap,107.0,Miner,66.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00450,Skeletons,94.0,Zap,107.0,Miner,66.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+00465,Skeletons,94.0,Zap,107.0,Ice Wizard,55.0,Bomb Tower,12.0,Miner,66.0,3.0,6,True,True,3.0,3.0
+00480,Skeletons,94.0,Zap,107.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00495,Skeletons,94.0,Zap,107.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00510,Skeletons,94.0,Zap,107.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00525,Skeletons,94.0,Zap,107.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00540,Skeletons,94.0,Zap,107.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00555,Skeletons,94.0,Zap,107.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00570,Skeletons,94.0,Zap,107.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00585,Skeletons,94.0,Zap,107.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00600,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,Zap,107.0,2.0,5,True,True,2.0,2.0
+00615,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00630,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00645,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00660,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00675,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00690,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00705,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00720,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00735,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00750,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00765,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00780,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00795,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00810,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00825,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00840,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00855,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00870,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+00885,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,Skeletons,94.0,1.0,8,True,True,1.0,1.0
+00900,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00915,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00930,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00945,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00960,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+00975,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+00990,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01005,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01020,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01035,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+01050,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+01065,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,Ice Wizard,55.0,3.0,7,True,True,3.0,3.0
+01080,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01095,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01110,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01125,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01140,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01155,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01170,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01185,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01200,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01215,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01230,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01245,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01260,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01275,Miner,66.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,Valkyrie,102.0,1.0,5,True,True,4.0,4.0
+01290,Miner,66.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,Balloon,4.0,3.0,0,True,True,5.0,5.0
+01305,Miner,66.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+01320,Miner,66.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+01335,Miner,66.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+01350,Miner,66.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+01365,Miner,66.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+01380,Miner,66.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+01395,Miner,66.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+01410,Miner,66.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+01425,Miner,66.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+01440,Miner,66.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+01455,Miner,66.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+01470,Miner,66.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+01485,Miner,66.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+01500,Miner,66.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+01515,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,Miner,66.0,1.0,4,True,False,0.0,3.0
+01530,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+01545,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+01560,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+01575,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,1,False,True,3.0,0.0
+01590,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+01605,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+01620,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+01635,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+01650,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+01665,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+01680,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+01695,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+01710,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+01725,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+01740,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+01755,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+01770,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+01785,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+01800,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+01815,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+01830,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+01845,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+01860,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+01875,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+01890,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+01905,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+01920,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+01935,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+01950,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+01965,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+01980,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+01995,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02010,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02025,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02040,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02055,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02070,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02085,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02100,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02115,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02130,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02145,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02160,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02175,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02190,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02205,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02220,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02235,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02250,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02265,Skeletons,94.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02280,Ice Wizard,55.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,Skeletons,94.0,1.0,8,True,True,1.0,1.0
+02295,Ice Wizard,55.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02310,Ice Wizard,55.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02325,Ice Wizard,55.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02340,Ice Wizard,55.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02355,Ice Wizard,55.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02370,Ice Wizard,55.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02385,Valkyrie,102.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,Ice Wizard,55.0,1.0,6,True,True,3.0,3.0
+02400,Valkyrie,102.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02415,Valkyrie,102.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02430,Valkyrie,102.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02445,Valkyrie,102.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02460,Valkyrie,102.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02475,Valkyrie,102.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02490,Valkyrie,102.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02505,Valkyrie,102.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02520,Valkyrie,102.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02535,Valkyrie,102.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02550,Valkyrie,102.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02565,Valkyrie,102.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02580,Valkyrie,102.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02595,Valkyrie,102.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02610,Valkyrie,102.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02625,Valkyrie,102.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02640,Valkyrie,102.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02655,Valkyrie,102.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+02670,Valkyrie,102.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+02685,Valkyrie,102.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+02700,Valkyrie,102.0,Tornado,101.0,Zap,107.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+02715,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,Zap,107.0,3.0,8,True,True,2.0,2.0
+02730,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02745,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02760,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02775,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02790,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02805,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02820,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02835,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02850,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02865,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02880,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+02895,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+02910,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+02925,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+02940,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+02955,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+02970,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+02985,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Miner,66.0,Bomb Tower,12.0,4.0,6,True,True,4.0,4.0
+03000,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Miner,66.0,,,,6,False,False,0.0,0.0
+03015,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Miner,66.0,,,,6,False,False,0.0,0.0
+03030,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Miner,66.0,,,,6,False,False,0.0,0.0
+03045,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Miner,66.0,,,,6,False,False,0.0,0.0
+03060,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Miner,66.0,,,,6,False,False,0.0,0.0
+03075,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Miner,66.0,,,,7,False,False,0.0,0.0
+03090,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Miner,66.0,,,,7,False,False,0.0,0.0
+03105,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Miner,66.0,,,,7,False,False,0.0,0.0
+03120,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Miner,66.0,,,,7,False,False,0.0,0.0
+03135,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Miner,66.0,,,,7,False,False,0.0,0.0
+03150,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Miner,66.0,,,,8,False,False,0.0,0.0
+03165,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Miner,66.0,,,,8,False,False,0.0,0.0
+03180,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Miner,66.0,,,,8,False,False,0.0,0.0
+03195,Valkyrie,102.0,Tornado,101.0,Balloon,4.0,Miner,66.0,,,,8,False,False,0.0,0.0
+03210,Skeletons,94.0,Tornado,101.0,Balloon,4.0,Miner,66.0,Valkyrie,102.0,1.0,4,True,True,4.0,4.0
+03225,Skeletons,94.0,Tornado,101.0,Balloon,4.0,Miner,66.0,,,,4,False,False,0.0,0.0
+03240,Skeletons,94.0,Tornado,101.0,Balloon,4.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03255,Skeletons,94.0,Tornado,101.0,Balloon,4.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03270,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,Balloon,4.0,3.0,0,True,True,5.0,5.0
+03285,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,0,False,False,0.0,0.0
+03300,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,0,False,False,0.0,0.0
+03315,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,1,False,False,0.0,0.0
+03330,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,1,False,False,0.0,0.0
+03345,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,1,False,False,0.0,0.0
+03360,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,1,False,False,0.0,0.0
+03375,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,1,False,False,0.0,0.0
+03390,Skeletons,94.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,1,False,False,0.0,0.0
+03405,Zap,107.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,Skeletons,94.0,1.0,1,True,False,0.0,1.0
+03420,Zap,107.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,1,False,False,0.0,0.0
+03435,Zap,107.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,1,False,False,0.0,0.0
+03450,Zap,107.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,1,False,False,0.0,0.0
+03465,Zap,107.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,1,False,False,0.0,0.0
+03480,Zap,107.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,1,False,False,0.0,0.0
+03495,Zap,107.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,2,False,False,0.0,0.0
+03510,Zap,107.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,2,False,False,0.0,0.0
+03525,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,Zap,107.0,1.0,0,True,True,2.0,2.0
+03540,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,0,False,False,0.0,0.0
+03555,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,0,False,False,0.0,0.0
+03570,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,1,False,False,0.0,0.0
+03585,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,1,False,False,0.0,0.0
+03600,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,1,False,False,0.0,0.0
+03615,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,1,False,False,0.0,0.0
+03630,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,1,False,False,0.0,0.0
+03645,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,1,False,False,0.0,0.0
+03660,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,2,False,False,0.0,0.0
+03675,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,2,False,False,0.0,0.0
+03690,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,2,False,False,0.0,0.0
+03705,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,2,False,False,0.0,0.0
+03720,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,2,False,False,0.0,0.0
+03735,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,3,False,False,0.0,0.0
+03750,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,3,False,False,0.0,0.0
+03765,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,3,False,False,0.0,0.0
+03780,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,3,False,False,0.0,0.0
+03795,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,3,False,False,0.0,0.0
+03810,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,4,False,False,0.0,0.0
+03825,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03840,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03855,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03870,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,6,False,False,0.0,0.0
+03885,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,6,False,False,0.0,0.0
+03900,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,6,False,False,0.0,0.0
+03915,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,7,False,False,0.0,0.0
+03930,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,7,False,False,0.0,0.0
+03945,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,8,False,False,0.0,0.0
+03960,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,8,False,False,0.0,0.0
+03975,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,8,False,False,0.0,0.0
+03990,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,,,,9,False,False,0.0,0.0
+04005,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Miner,66.0,Ice Wizard,55.0,3.0,6,True,True,3.0,3.0
+04020,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Miner,66.0,,,,6,False,False,0.0,0.0
+04035,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Miner,66.0,,,,7,False,False,0.0,0.0
+04050,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Miner,66.0,,,,7,False,False,0.0,0.0
+04065,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Miner,66.0,,,,7,False,False,0.0,0.0
+04080,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Miner,66.0,,,,8,False,False,0.0,0.0
+04095,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Miner,66.0,,,,8,False,False,0.0,0.0
+04110,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Miner,66.0,,,,8,False,False,0.0,0.0
+04125,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Miner,66.0,,,,9,False,False,0.0,0.0
+04140,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Miner,66.0,,,,9,False,False,0.0,0.0
+04155,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Miner,66.0,,,,9,False,False,0.0,0.0
+04170,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Miner,66.0,,,,10,False,False,0.0,0.0
+04185,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Miner,66.0,,,,10,False,False,0.0,0.0
+04200,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Miner,66.0,,,,10,False,False,0.0,0.0
+04215,Bomb Tower,12.0,Tornado,101.0,Balloon,4.0,Miner,66.0,Valkyrie,102.0,3.0,6,True,True,4.0,4.0
+04230,Bomb Tower,12.0,Tornado,101.0,Balloon,4.0,Miner,66.0,,,,6,False,False,0.0,0.0
+04245,Bomb Tower,12.0,Tornado,101.0,Balloon,4.0,Miner,66.0,,,,7,False,False,0.0,0.0
+04260,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Miner,66.0,Balloon,4.0,3.0,2,True,True,5.0,5.0
+04275,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Miner,66.0,,,,2,False,False,0.0,0.0
+04290,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Miner,66.0,,,,3,False,False,0.0,0.0
+04305,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Miner,66.0,,,,3,False,False,0.0,0.0
+04320,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,Miner,66.0,4.0,0,True,True,3.0,3.0
+04335,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,1,False,False,0.0,0.0
+04350,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,1,False,False,0.0,0.0
+04365,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,1,False,False,0.0,0.0
+04380,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,2,False,False,0.0,0.0
+04395,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,2,False,False,0.0,0.0
+04410,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04425,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04440,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04455,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04470,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,Skeletons,94.0,3.0,3,True,True,1.0,1.0
+04485,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04500,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04515,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04530,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04545,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04560,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04575,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04590,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04605,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04620,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04635,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04650,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04665,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,8,False,False,0.0,0.0
+04680,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,8,False,False,0.0,0.0
+04695,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,8,False,False,0.0,0.0
+04710,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,9,False,False,0.0,0.0
+04725,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Zap,107.0,Ice Wizard,55.0,3.0,6,True,True,3.0,3.0
+04740,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04755,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04770,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04785,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04800,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Zap,107.0,,,,8,False,False,0.0,0.0
+04815,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Zap,107.0,,,,8,False,False,0.0,0.0
+04830,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Zap,107.0,,,,9,False,False,0.0,0.0
+04845,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Zap,107.0,,,,9,False,False,0.0,0.0
+04860,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Zap,107.0,,,,9,False,False,0.0,0.0
+04875,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Zap,107.0,,,,10,False,False,0.0,0.0
+04890,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Zap,107.0,,,,10,False,False,0.0,0.0
+04905,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Zap,107.0,,,,10,False,False,0.0,0.0
+04920,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Zap,107.0,,,,10,False,False,0.0,0.0
+04935,Bomb Tower,12.0,Tornado,101.0,Balloon,4.0,Zap,107.0,Valkyrie,102.0,3.0,10,True,True,4.0,4.0
+04950,Bomb Tower,12.0,Tornado,101.0,Balloon,4.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04965,Bomb Tower,12.0,Tornado,101.0,Balloon,4.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04980,Bomb Tower,12.0,Tornado,101.0,Balloon,4.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04995,Bomb Tower,12.0,Tornado,101.0,Miner,66.0,Zap,107.0,Balloon,4.0,3.0,2,True,True,5.0,5.0
+05010,Bomb Tower,12.0,Tornado,101.0,Miner,66.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05025,Bomb Tower,12.0,Tornado,101.0,Miner,66.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05040,Bomb Tower,12.0,Tornado,101.0,Miner,66.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05055,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,Miner,66.0,3.0,2,True,True,1.0,3.0
+05070,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,1,False,True,1.0,0.0
+05085,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,1,False,False,0.0,0.0
+05100,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05115,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05130,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,Skeletons,94.0,3.0,1,True,True,1.0,1.0
+05145,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05160,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05175,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05190,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Valkyrie,102.0,Zap,107.0,4.0,1,True,True,1.0,2.0
+05205,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+05220,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+05235,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+05250,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+05265,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+05280,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+05295,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+05310,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+05325,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+05340,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+05355,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+05370,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+05385,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+05400,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+05415,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+05430,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+05445,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+05460,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+05475,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+05490,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+05505,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+05520,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+05535,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+05550,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+05565,Bomb Tower,12.0,Tornado,101.0,Balloon,4.0,Valkyrie,102.0,Ice Wizard,55.0,3.0,7,True,True,2.0,3.0
+05580,Bomb Tower,12.0,Tornado,101.0,Balloon,4.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+05595,Bomb Tower,12.0,Tornado,101.0,Balloon,4.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+05610,Bomb Tower,12.0,Tornado,101.0,Balloon,4.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+05625,Bomb Tower,12.0,Tornado,101.0,Balloon,4.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+05640,Bomb Tower,12.0,Tornado,101.0,Balloon,4.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+05655,Bomb Tower,12.0,Tornado,101.0,Balloon,4.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+05670,Bomb Tower,12.0,Tornado,101.0,Balloon,4.0,Miner,66.0,Valkyrie,102.0,4.0,5,True,True,4.0,4.0
+05685,Bomb Tower,12.0,Tornado,101.0,Balloon,4.0,Miner,66.0,,,,6,False,False,0.0,0.0
+05700,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Miner,66.0,Balloon,4.0,3.0,1,True,True,5.0,5.0
+05715,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Miner,66.0,,,,1,False,False,0.0,0.0
+05730,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Miner,66.0,,,,2,False,False,0.0,0.0
+05745,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Miner,66.0,,,,2,False,False,0.0,0.0
+05760,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Miner,66.0,,,,2,False,False,0.0,0.0
+05775,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Miner,66.0,,,,3,False,False,0.0,0.0
+05790,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Miner,66.0,,,,3,False,False,0.0,0.0
+05805,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,Miner,66.0,4.0,0,True,True,3.0,3.0
+05820,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,1,False,False,0.0,0.0
+05835,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,1,False,False,0.0,0.0
+05850,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05865,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05880,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05895,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05910,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,Skeletons,94.0,3.0,2,True,True,1.0,1.0
+05925,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05940,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05955,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05970,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05985,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,4,False,False,0.0,0.0
+06000,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,4,False,False,0.0,0.0
+06015,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,4,False,False,0.0,0.0
+06030,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,5,False,False,0.0,0.0
+06045,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,5,False,False,0.0,0.0
+06060,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,5,False,False,0.0,0.0
+06075,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,6,False,False,0.0,0.0
+06090,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,6,False,False,0.0,0.0
+06105,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,7,False,False,0.0,0.0
+06120,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,7,False,False,0.0,0.0
+06135,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,7,False,False,0.0,0.0
+06150,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,8,False,False,0.0,0.0
+06165,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,8,False,False,0.0,0.0
+06180,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,8,False,False,0.0,0.0
+06195,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,9,False,False,0.0,0.0
+06210,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,9,False,False,0.0,0.0
+06225,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Zap,107.0,,,,9,False,False,0.0,0.0
+06240,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Zap,107.0,Ice Wizard,55.0,3.0,7,True,True,2.0,3.0
+06255,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Zap,107.0,,,,7,False,False,0.0,0.0
+06270,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Zap,107.0,,,,8,False,False,0.0,0.0
+06285,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Zap,107.0,,,,8,False,False,0.0,0.0
+06300,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Zap,107.0,,,,8,False,False,0.0,0.0
+06315,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Zap,107.0,,,,9,False,False,0.0,0.0
+06330,Bomb Tower,12.0,Tornado,101.0,Balloon,4.0,Zap,107.0,Valkyrie,102.0,3.0,5,True,True,4.0,4.0
+06345,Bomb Tower,12.0,Tornado,101.0,Balloon,4.0,Zap,107.0,,,,5,False,False,0.0,0.0
+06360,Bomb Tower,12.0,Tornado,101.0,Balloon,4.0,Zap,107.0,,,,6,False,False,0.0,0.0
+06375,Bomb Tower,12.0,Tornado,101.0,Miner,66.0,Zap,107.0,Balloon,4.0,3.0,1,True,True,5.0,5.0
+06390,Bomb Tower,12.0,Tornado,101.0,Miner,66.0,Zap,107.0,,,,1,False,False,0.0,0.0
+06405,Bomb Tower,12.0,Tornado,101.0,Miner,66.0,Zap,107.0,,,,2,False,False,0.0,0.0
+06420,Bomb Tower,12.0,Tornado,101.0,Miner,66.0,Zap,107.0,,,,2,False,False,0.0,0.0
+06435,Bomb Tower,12.0,Tornado,101.0,Miner,66.0,Zap,107.0,,,,2,False,False,0.0,0.0
+06450,Bomb Tower,12.0,Tornado,101.0,Miner,66.0,Zap,107.0,,,,3,False,False,0.0,0.0
+06465,Bomb Tower,12.0,Tornado,101.0,Miner,66.0,Zap,107.0,,,,3,False,False,0.0,0.0
+06480,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,Miner,66.0,3.0,1,True,True,2.0,3.0
+06495,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,1,False,False,0.0,0.0
+06510,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,1,False,False,0.0,0.0
+06525,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,2,False,False,0.0,0.0
+06540,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,2,False,False,0.0,0.0
+06555,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,2,False,False,0.0,0.0
+06570,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,3,False,False,0.0,0.0
+06585,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,3,False,False,0.0,0.0
+06600,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,3,False,False,0.0,0.0
+06615,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Zap,107.0,,,,4,False,False,0.0,0.0
+06630,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,Zap,107.0,4.0,2,True,True,2.0,2.0
+06645,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+06660,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+06675,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+06690,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+06705,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+06720,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+06735,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+06750,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+06765,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+06780,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+06795,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+06810,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+06825,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+06840,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+06855,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+06870,Bomb Tower,12.0,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+06885,Valkyrie,102.0,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,Bomb Tower,12.0,1.0,4,True,True,4.0,4.0
+06900,Valkyrie,102.0,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+06915,Valkyrie,102.0,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+06930,Valkyrie,102.0,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+06945,Valkyrie,102.0,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+06960,Valkyrie,102.0,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+06975,Valkyrie,102.0,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+06990,Valkyrie,102.0,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+07005,Valkyrie,102.0,Balloon,4.0,Skeletons,94.0,Ice Wizard,55.0,Tornado,101.0,2.0,4,True,True,3.0,3.0
+07020,Valkyrie,102.0,Balloon,4.0,Skeletons,94.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+07035,Valkyrie,102.0,Balloon,4.0,Skeletons,94.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+07050,Valkyrie,102.0,Balloon,4.0,Skeletons,94.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+07065,Valkyrie,102.0,Balloon,4.0,Skeletons,94.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+07080,Valkyrie,102.0,Balloon,4.0,Miner,66.0,Ice Wizard,55.0,Skeletons,94.0,3.0,5,True,False,0.0,1.0
+07095,Valkyrie,102.0,Balloon,4.0,Miner,66.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+07110,Valkyrie,102.0,Balloon,4.0,Miner,66.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+07125,Zap,107.0,Balloon,4.0,Miner,66.0,Ice Wizard,55.0,Valkyrie,102.0,1.0,2,True,True,3.0,4.0
+07140,Zap,107.0,Balloon,4.0,Miner,66.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+07155,Zap,107.0,Balloon,4.0,Miner,66.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+07170,Zap,107.0,Balloon,4.0,Miner,66.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+07185,Zap,107.0,Balloon,4.0,Miner,66.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+07200,Zap,107.0,Balloon,4.0,Miner,66.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+07215,Zap,107.0,Balloon,4.0,Miner,66.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+07230,Zap,107.0,Balloon,4.0,Miner,66.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+07245,Zap,107.0,Balloon,4.0,Miner,66.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+07260,Zap,107.0,Balloon,4.0,Miner,66.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+07275,Zap,107.0,Balloon,4.0,Miner,66.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+07290,Zap,107.0,Balloon,4.0,Miner,66.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+07305,Zap,107.0,Balloon,4.0,Miner,66.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+07320,Zap,107.0,Balloon,4.0,Miner,66.0,Ice Wizard,55.0,,,,3,False,True,3.0,0.0
+07335,Zap,107.0,Balloon,4.0,Miner,66.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+07350,Zap,107.0,Bomb Tower,12.0,Miner,66.0,Ice Wizard,55.0,Balloon,4.0,2.0,2,True,True,1.0,5.0
+07365,Zap,107.0,Bomb Tower,12.0,Miner,66.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+07380,Zap,107.0,Bomb Tower,12.0,Miner,66.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+07395,Zap,107.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Miner,66.0,3.0,0,True,True,3.0,3.0
+07410,Zap,107.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,1,False,False,0.0,0.0
+07425,Zap,107.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+07440,Zap,107.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+07455,Zap,107.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+07470,Zap,107.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+07485,Zap,107.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+07500,Zap,107.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+07515,Zap,107.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+07530,Zap,107.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+07545,Zap,107.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+07560,Zap,107.0,Bomb Tower,12.0,Skeletons,94.0,Ice Wizard,55.0,Tornado,101.0,3.0,4,True,True,2.0,3.0
+07575,Valkyrie,102.0,Bomb Tower,12.0,Skeletons,94.0,Ice Wizard,55.0,Zap,107.0,1.0,2,True,True,2.0,2.0
+07590,Valkyrie,102.0,Bomb Tower,12.0,Skeletons,94.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+07605,Valkyrie,102.0,Bomb Tower,12.0,Skeletons,94.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+07620,Valkyrie,102.0,Bomb Tower,12.0,Skeletons,94.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+07635,Valkyrie,102.0,Bomb Tower,12.0,Skeletons,94.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+07650,Valkyrie,102.0,Bomb Tower,12.0,Skeletons,94.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+07665,Valkyrie,102.0,Bomb Tower,12.0,Skeletons,94.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+07680,Valkyrie,102.0,Bomb Tower,12.0,Skeletons,94.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+07695,Valkyrie,102.0,Bomb Tower,12.0,Skeletons,94.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+07710,Valkyrie,102.0,Bomb Tower,12.0,Skeletons,94.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+07725,Valkyrie,102.0,Bomb Tower,12.0,Skeletons,94.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+07740,Valkyrie,102.0,Bomb Tower,12.0,Skeletons,94.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+07755,Valkyrie,102.0,Bomb Tower,12.0,Balloon,4.0,Ice Wizard,55.0,Skeletons,94.0,3.0,8,True,False,0.0,1.0
+07770,Valkyrie,102.0,Bomb Tower,12.0,Balloon,4.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+07785,Valkyrie,102.0,Bomb Tower,12.0,Balloon,4.0,Ice Wizard,55.0,,,,9,False,False,0.0,0.0
+07800,Valkyrie,102.0,Bomb Tower,12.0,Balloon,4.0,Ice Wizard,55.0,,,,9,False,False,0.0,0.0
+07815,Valkyrie,102.0,Bomb Tower,12.0,Balloon,4.0,Ice Wizard,55.0,,,,10,False,False,0.0,0.0
+07830,Valkyrie,102.0,Bomb Tower,12.0,Miner,66.0,Ice Wizard,55.0,Balloon,4.0,3.0,5,True,True,5.0,5.0
+07845,Valkyrie,102.0,Bomb Tower,12.0,Miner,66.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+07860,Valkyrie,102.0,Bomb Tower,12.0,Miner,66.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+07875,Valkyrie,102.0,Bomb Tower,12.0,Miner,66.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+07890,Tornado,101.0,Bomb Tower,12.0,Miner,66.0,Ice Wizard,55.0,Valkyrie,102.0,1.0,3,True,True,3.0,4.0
+07905,Tornado,101.0,Bomb Tower,12.0,Miner,66.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+07920,Tornado,101.0,Bomb Tower,12.0,Miner,66.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+07935,Tornado,101.0,Bomb Tower,12.0,Miner,66.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+07950,Tornado,101.0,Bomb Tower,12.0,Miner,66.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+07965,Tornado,101.0,Bomb Tower,12.0,Miner,66.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+07980,Tornado,101.0,Bomb Tower,12.0,Miner,66.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+07995,Tornado,101.0,Bomb Tower,12.0,Miner,66.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+08010,Tornado,101.0,Bomb Tower,12.0,Zap,107.0,Ice Wizard,55.0,Miner,66.0,3.0,4,True,True,3.0,3.0
+08025,Tornado,101.0,Bomb Tower,12.0,Zap,107.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+08040,Tornado,101.0,Bomb Tower,12.0,Zap,107.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+08055,Tornado,101.0,Bomb Tower,12.0,Zap,107.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+08070,Tornado,101.0,Skeletons,94.0,Zap,107.0,Ice Wizard,55.0,Bomb Tower,12.0,2.0,2,True,True,4.0,4.0
+08085,Tornado,101.0,Skeletons,94.0,Zap,107.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+08100,Tornado,101.0,Skeletons,94.0,Zap,107.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+08115,Tornado,101.0,Skeletons,94.0,Zap,107.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+08130,Tornado,101.0,Skeletons,94.0,Zap,107.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+08145,Tornado,101.0,Skeletons,94.0,Balloon,4.0,Ice Wizard,55.0,Zap,107.0,3.0,3,True,True,2.0,2.0
+08160,Tornado,101.0,Skeletons,94.0,Balloon,4.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+08175,Tornado,101.0,Skeletons,94.0,Balloon,4.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+08190,Tornado,101.0,Skeletons,94.0,Balloon,4.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+08205,Tornado,101.0,Skeletons,94.0,Balloon,4.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+08220,Tornado,101.0,Skeletons,94.0,Balloon,4.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+08235,Tornado,101.0,Valkyrie,102.0,Balloon,4.0,Ice Wizard,55.0,Skeletons,94.0,2.0,5,True,True,1.0,1.0
+08250,Tornado,101.0,Valkyrie,102.0,Balloon,4.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+08265,Tornado,101.0,Valkyrie,102.0,Balloon,4.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+08280,Tornado,101.0,Valkyrie,102.0,Balloon,4.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+08295,Tornado,101.0,Miner,66.0,Balloon,4.0,Ice Wizard,55.0,Valkyrie,102.0,2.0,3,True,True,4.0,4.0
+08310,Tornado,101.0,Miner,66.0,Balloon,4.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+08325,Tornado,101.0,Miner,66.0,Balloon,4.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+08340,Tornado,101.0,Miner,66.0,Balloon,4.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+08355,Tornado,101.0,Bomb Tower,12.0,Balloon,4.0,Ice Wizard,55.0,Miner,66.0,2.0,3,True,True,2.0,3.0
+08370,Tornado,101.0,Bomb Tower,12.0,Balloon,4.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+08385,Tornado,101.0,Bomb Tower,12.0,Balloon,4.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+08400,Tornado,101.0,Bomb Tower,12.0,Balloon,4.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+08415,Tornado,101.0,Bomb Tower,12.0,Balloon,4.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+08430,Tornado,101.0,Bomb Tower,12.0,Balloon,4.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+08445,Tornado,101.0,Zap,107.0,Balloon,4.0,Ice Wizard,55.0,Bomb Tower,12.0,2.0,2,True,True,3.0,4.0
+08460,Tornado,101.0,Zap,107.0,Balloon,4.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+08475,Tornado,101.0,Zap,107.0,Balloon,4.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+08490,Tornado,101.0,Skeletons,94.0,Balloon,4.0,Ice Wizard,55.0,Zap,107.0,2.0,2,True,True,1.0,2.0
+08505,Tornado,101.0,Skeletons,94.0,Balloon,4.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+08520,Tornado,101.0,Skeletons,94.0,Balloon,4.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+08535,Tornado,101.0,Skeletons,94.0,Balloon,4.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+08550,Tornado,101.0,Skeletons,94.0,Balloon,4.0,Ice Wizard,55.0,,,,1,False,True,2.0,0.0

@@ -1,0 +1,965 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00285,Miner,66.0,Zap,107.0,Dark Prince,18.0,Prince,79.0,,,,6,False,False,0.0,0.0
+00300,Miner,66.0,Zap,107.0,Dark Prince,18.0,Prince,79.0,,,,6,False,False,0.0,0.0
+00315,Miner,66.0,Zap,107.0,Dark Prince,18.0,Prince,79.0,,,,6,False,False,0.0,0.0
+00330,Miner,66.0,Zap,107.0,Dark Prince,18.0,Prince,79.0,,,,7,False,False,0.0,0.0
+00345,Miner,66.0,Zap,107.0,Dark Prince,18.0,Prince,79.0,,,,7,False,False,0.0,0.0
+00360,Miner,66.0,Zap,107.0,Dark Prince,18.0,Prince,79.0,,,,7,False,False,0.0,0.0
+00375,Miner,66.0,Zap,107.0,Dark Prince,18.0,Prince,79.0,,,,7,False,False,0.0,0.0
+00390,Miner,66.0,Zap,107.0,Dark Prince,18.0,Prince,79.0,,,,7,False,False,0.0,0.0
+00405,Miner,66.0,Zap,107.0,Dark Prince,18.0,Prince,79.0,,,,7,False,False,0.0,0.0
+00420,Miner,66.0,Zap,107.0,Dark Prince,18.0,Prince,79.0,,,,8,False,False,0.0,0.0
+00435,Miner,66.0,Zap,107.0,Dark Prince,18.0,Prince,79.0,,,,8,False,False,0.0,0.0
+00450,Miner,66.0,Zap,107.0,Dark Prince,18.0,Prince,79.0,,,,8,False,False,0.0,0.0
+00465,Miner,66.0,Zap,107.0,Dark Prince,18.0,Prince,79.0,,,,8,False,False,0.0,0.0
+00480,Miner,66.0,Zap,107.0,Dark Prince,18.0,Prince,79.0,,,,8,False,False,0.0,0.0
+00495,Miner,66.0,Zap,107.0,Dark Prince,18.0,Prince,79.0,,,,9,False,False,0.0,0.0
+00510,Miner,66.0,Zap,107.0,Dark Prince,18.0,Prince,79.0,,,,9,False,False,0.0,0.0
+00525,Miner,66.0,Zap,107.0,Dark Prince,18.0,Prince,79.0,,,,9,False,False,0.0,0.0
+00540,Miner,66.0,Zap,107.0,Dark Prince,18.0,Prince,79.0,,,,9,False,False,0.0,0.0
+00555,Miner,66.0,Zap,107.0,Dark Prince,18.0,Mega Minion,64.0,Prince,79.0,4.0,4,True,True,5.0,5.0
+00570,Miner,66.0,Zap,107.0,Dark Prince,18.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+00585,Miner,66.0,Zap,107.0,Dark Prince,18.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+00600,Miner,66.0,Zap,107.0,Dark Prince,18.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+00615,Miner,66.0,Zap,107.0,Dark Prince,18.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+00630,Miner,66.0,Zap,107.0,Dark Prince,18.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+00645,Miner,66.0,Zap,107.0,Dark Prince,18.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+00660,Miner,66.0,Zap,107.0,Dark Prince,18.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+00675,Miner,66.0,Zap,107.0,Dark Prince,18.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+00690,Miner,66.0,Zap,107.0,Dark Prince,18.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+00705,Miner,66.0,Zap,107.0,Dark Prince,18.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+00720,Miner,66.0,Zap,107.0,Giant,36.0,Mega Minion,64.0,Dark Prince,18.0,3.0,2,True,True,4.0,4.0
+00735,Miner,66.0,Zap,107.0,Giant,36.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+00750,Miner,66.0,Zap,107.0,Giant,36.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+00765,Miner,66.0,Zap,107.0,Giant,36.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+00780,Miner,66.0,Zap,107.0,Giant,36.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+00795,Miner,66.0,Zap,107.0,Giant,36.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+00810,Miner,66.0,Zap,107.0,Giant,36.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+00825,Miner,66.0,Zap,107.0,Giant,36.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+00840,Miner,66.0,Zap,107.0,Giant,36.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+00855,Miner,66.0,Zap,107.0,Giant,36.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+00870,Miner,66.0,Zap,107.0,Giant,36.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+00885,Miner,66.0,Zap,107.0,Giant,36.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+00900,Miner,66.0,Zap,107.0,Giant,36.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+00915,Miner,66.0,Zap,107.0,Giant,36.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+00930,Miner,66.0,Zap,107.0,Giant,36.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+00945,Miner,66.0,Zap,107.0,Giant,36.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+00960,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,Zap,107.0,2.0,3,True,True,2.0,2.0
+00975,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+00990,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+01005,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+01020,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+01035,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+01050,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+01065,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+01080,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+01095,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+01110,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+01125,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+01140,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+01155,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+01170,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+01185,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+01200,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+01215,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+01230,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+01245,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+01260,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+01275,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+01290,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+01305,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+01320,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+01335,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+01350,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+01365,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+01380,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+01395,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+01410,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+01425,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,9,False,False,0.0,0.0
+01440,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,9,False,False,0.0,0.0
+01455,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,9,False,False,0.0,0.0
+01470,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,9,False,False,0.0,0.0
+01485,Miner,66.0,Electro Wizard,24.0,Giant,36.0,Mega Minion,64.0,,,,9,False,False,0.0,0.0
+01500,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Mega Minion,64.0,Giant,36.0,3.0,5,True,True,4.0,5.0
+01515,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+01530,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+01545,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+01560,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+01575,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+01590,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+01605,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+01620,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+01635,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,Fireball,30.0,3.0,2,True,True,4.0,4.0
+01650,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+01665,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+01680,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+01695,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+01710,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+01725,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+01740,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+01755,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+01770,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+01785,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+01800,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+01815,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+01830,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+01845,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+01860,Miner,66.0,Prince,79.0,Prince,79.0,Mega Minion,64.0,Electro Wizard,24.0,2.0,5,True,False,0.0,4.0
+01875,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,Prince,79.0,2.0,5,True,False,0.0,5.0
+01890,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+01905,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+01920,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+01935,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+01950,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+01965,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+01980,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+01995,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+02010,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+02025,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+02040,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+02055,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,Mega Minion,64.0,4.0,4,True,True,3.0,3.0
+02070,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+02085,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+02100,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+02115,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,Miner,66.0,1.0,2,True,True,3.0,3.0
+02130,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+02145,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+02160,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+02175,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+02190,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+02205,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+02220,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+02235,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+02250,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+02265,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+02280,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+02295,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+02310,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+02325,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+02340,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+02355,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+02370,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+02385,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+02400,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+02415,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+02430,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+02445,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+02460,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,Prince,79.0,3.0,1,True,True,5.0,5.0
+02475,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+02490,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+02505,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+02520,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+02535,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+02550,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+02565,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+02580,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+02595,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+02610,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+02625,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+02640,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+02655,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+02670,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+02685,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+02700,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+02715,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+02730,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+02745,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+02760,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+02775,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+02790,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+02805,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+02820,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+02835,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+02850,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+02865,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+02880,Zap,107.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+02895,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,Zap,107.0,1.0,4,True,True,2.0,2.0
+02910,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+02925,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+02940,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+02955,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+02970,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+02985,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+03000,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+03015,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+03030,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+03045,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+03060,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+03075,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+03090,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+03105,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+03120,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+03135,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+03150,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+03165,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+03180,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+03195,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+03210,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+03225,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+03240,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+03255,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+03270,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,9,False,False,0.0,0.0
+03285,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,9,False,False,0.0,0.0
+03300,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,9,False,False,0.0,0.0
+03315,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,9,False,False,0.0,0.0
+03330,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,9,False,False,0.0,0.0
+03345,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,9,False,False,0.0,0.0
+03360,Fireball,30.0,Electro Wizard,24.0,Dark Prince,18.0,Dark Prince,18.0,Giant,36.0,3.0,5,True,True,4.0,5.0
+03375,Fireball,30.0,Electro Wizard,24.0,Mega Minion,64.0,Dark Prince,18.0,Dark Prince,18.0,3.0,5,True,False,0.0,4.0
+03390,Fireball,30.0,Electro Wizard,24.0,Mega Minion,64.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+03405,Fireball,30.0,Electro Wizard,24.0,Mega Minion,64.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+03420,Fireball,30.0,Electro Wizard,24.0,Mega Minion,64.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+03435,Fireball,30.0,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,4.0,1,True,True,4.0,4.0
+03450,Fireball,30.0,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,,,,2,False,False,0.0,0.0
+03465,Fireball,30.0,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,,,,2,False,False,0.0,0.0
+03480,Fireball,30.0,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,,,,2,False,False,0.0,0.0
+03495,Fireball,30.0,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,,,,2,False,False,0.0,0.0
+03510,Fireball,30.0,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,,,,2,False,False,0.0,0.0
+03525,Fireball,30.0,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,,,,3,False,False,0.0,0.0
+03540,Fireball,30.0,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,,,,3,False,False,0.0,0.0
+03555,Fireball,30.0,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,,,,3,False,False,0.0,0.0
+03570,Fireball,30.0,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,,,,3,False,False,0.0,0.0
+03585,Fireball,30.0,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,,,,3,False,False,0.0,0.0
+03600,Fireball,30.0,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,,,,3,False,False,0.0,0.0
+03615,Fireball,30.0,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,,,,4,False,False,0.0,0.0
+03630,Fireball,30.0,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,,,,4,False,False,0.0,0.0
+03645,Fireball,30.0,Prince,79.0,Mega Minion,64.0,Miner,66.0,Electro Wizard,24.0,2.0,0,True,True,4.0,4.0
+03660,Fireball,30.0,Prince,79.0,Mega Minion,64.0,Miner,66.0,,,,0,False,False,0.0,0.0
+03675,Fireball,30.0,Prince,79.0,Mega Minion,64.0,Miner,66.0,,,,0,False,False,0.0,0.0
+03690,Fireball,30.0,Prince,79.0,Mega Minion,64.0,Miner,66.0,,,,1,False,False,0.0,0.0
+03705,Fireball,30.0,Prince,79.0,Mega Minion,64.0,Miner,66.0,,,,1,False,False,0.0,0.0
+03720,Fireball,30.0,Prince,79.0,Mega Minion,64.0,Miner,66.0,,,,1,False,False,0.0,0.0
+03735,Fireball,30.0,Prince,79.0,Mega Minion,64.0,Miner,66.0,,,,1,False,False,0.0,0.0
+03750,Fireball,30.0,Prince,79.0,Mega Minion,64.0,Miner,66.0,,,,1,False,False,0.0,0.0
+03765,Fireball,30.0,Prince,79.0,Mega Minion,64.0,Miner,66.0,,,,1,False,False,0.0,0.0
+03780,Fireball,30.0,Prince,79.0,Mega Minion,64.0,Miner,66.0,,,,2,False,False,0.0,0.0
+03795,Fireball,30.0,Prince,79.0,Mega Minion,64.0,Miner,66.0,,,,2,False,False,0.0,0.0
+03810,Fireball,30.0,Prince,79.0,Mega Minion,64.0,Miner,66.0,,,,2,False,False,0.0,0.0
+03825,Fireball,30.0,Prince,79.0,Mega Minion,64.0,Miner,66.0,,,,2,False,False,0.0,0.0
+03840,Fireball,30.0,Prince,79.0,Mega Minion,64.0,Miner,66.0,,,,2,False,False,0.0,0.0
+03855,Fireball,30.0,Prince,79.0,Mega Minion,64.0,Miner,66.0,,,,3,False,False,0.0,0.0
+03870,Fireball,30.0,Prince,79.0,Mega Minion,64.0,Miner,66.0,,,,4,False,False,0.0,0.0
+03885,Fireball,30.0,Prince,79.0,Mega Minion,64.0,Zap,107.0,Miner,66.0,4.0,1,True,True,3.0,3.0
+03900,Fireball,30.0,Prince,79.0,Mega Minion,64.0,Zap,107.0,,,,2,False,False,0.0,0.0
+03915,Fireball,30.0,Prince,79.0,Mega Minion,64.0,Zap,107.0,,,,2,False,False,0.0,0.0
+03930,Fireball,30.0,Prince,79.0,Mega Minion,64.0,Zap,107.0,,,,2,False,False,0.0,0.0
+03945,Fireball,30.0,Prince,79.0,Mega Minion,64.0,Zap,107.0,,,,3,False,False,0.0,0.0
+03960,Fireball,30.0,Prince,79.0,Mega Minion,64.0,Zap,107.0,,,,3,False,False,0.0,0.0
+03975,Fireball,30.0,Prince,79.0,Mega Minion,64.0,Zap,107.0,,,,3,False,False,0.0,0.0
+03990,Fireball,30.0,Prince,79.0,Mega Minion,64.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04005,Fireball,30.0,Prince,79.0,Mega Minion,64.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04020,Fireball,30.0,Prince,79.0,Giant,36.0,Zap,107.0,Mega Minion,64.0,3.0,4,True,True,2.0,3.0
+04035,Fireball,30.0,Prince,79.0,Giant,36.0,Zap,107.0,,,,2,False,False,0.0,0.0
+04050,Fireball,30.0,Prince,79.0,Giant,36.0,Zap,107.0,,,,2,False,False,0.0,0.0
+04065,Fireball,30.0,Prince,79.0,Giant,36.0,Zap,107.0,,,,2,False,False,0.0,0.0
+04080,Fireball,30.0,Prince,79.0,Giant,36.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04095,Fireball,30.0,Prince,79.0,Giant,36.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04110,Fireball,30.0,Prince,79.0,Giant,36.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04125,Fireball,30.0,Prince,79.0,Giant,36.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04140,Fireball,30.0,Prince,79.0,Giant,36.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04155,Fireball,30.0,Prince,79.0,Giant,36.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04170,Fireball,30.0,Prince,79.0,Giant,36.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04185,Fireball,30.0,Prince,79.0,Giant,36.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04200,Fireball,30.0,Prince,79.0,Giant,36.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04215,Fireball,30.0,Prince,79.0,Giant,36.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04230,Fireball,30.0,Prince,79.0,Giant,36.0,Dark Prince,18.0,Zap,107.0,4.0,4,True,True,2.0,2.0
+04245,Fireball,30.0,Prince,79.0,Giant,36.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+04260,Fireball,30.0,Prince,79.0,Giant,36.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+04275,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,Prince,79.0,2.0,0,True,True,5.0,5.0
+04290,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+04305,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+04320,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+04335,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+04350,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+04365,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+04380,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+04395,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+04410,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+04425,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+04440,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+04455,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+04470,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+04485,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+04500,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+04515,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+04530,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+04545,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+04560,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+04575,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+04590,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Miner,66.0,Dark Prince,18.0,4.0,4,True,True,4.0,4.0
+04605,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Miner,66.0,,,,4,False,False,0.0,0.0
+04620,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Miner,66.0,,,,5,False,False,0.0,0.0
+04635,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Miner,66.0,,,,5,False,False,0.0,0.0
+04650,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Miner,66.0,,,,5,False,False,0.0,0.0
+04665,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Miner,66.0,,,,6,False,False,0.0,0.0
+04680,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Miner,66.0,,,,6,False,False,0.0,0.0
+04695,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Miner,66.0,,,,6,False,False,0.0,0.0
+04710,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Miner,66.0,,,,7,False,False,0.0,0.0
+04725,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Miner,66.0,,,,7,False,False,0.0,0.0
+04740,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Miner,66.0,,,,8,False,False,0.0,0.0
+04755,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Miner,66.0,,,,8,False,False,0.0,0.0
+04770,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Miner,66.0,,,,8,False,False,0.0,0.0
+04785,Fireball,30.0,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,Giant,36.0,3.0,4,True,True,4.0,5.0
+04800,Fireball,30.0,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,,,,4,False,False,0.0,0.0
+04815,Fireball,30.0,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,,,,4,False,False,0.0,0.0
+04830,Fireball,30.0,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,,,,5,False,False,0.0,0.0
+04845,Fireball,30.0,Electro Wizard,24.0,Zap,107.0,Miner,66.0,Mega Minion,64.0,3.0,2,True,True,3.0,3.0
+04860,Fireball,30.0,Electro Wizard,24.0,Zap,107.0,Miner,66.0,,,,2,False,False,0.0,0.0
+04875,Fireball,30.0,Electro Wizard,24.0,Zap,107.0,Miner,66.0,,,,3,False,False,0.0,0.0
+04890,Fireball,30.0,Electro Wizard,24.0,Zap,107.0,Miner,66.0,,,,3,False,False,0.0,0.0
+04905,Fireball,30.0,Electro Wizard,24.0,Zap,107.0,Miner,66.0,,,,3,False,False,0.0,0.0
+04920,Fireball,30.0,Electro Wizard,24.0,Zap,107.0,Miner,66.0,,,,4,False,False,0.0,0.0
+04935,Fireball,30.0,Electro Wizard,24.0,Zap,107.0,Miner,66.0,,,,4,False,False,0.0,0.0
+04950,Fireball,30.0,Electro Wizard,24.0,Zap,107.0,Miner,66.0,,,,5,False,False,0.0,0.0
+04965,Fireball,30.0,Electro Wizard,24.0,Zap,107.0,Prince,79.0,Miner,66.0,4.0,6,True,False,0.0,3.0
+04980,Fireball,30.0,Electro Wizard,24.0,Zap,107.0,Prince,79.0,,,,6,False,False,0.0,0.0
+04995,Fireball,30.0,Electro Wizard,24.0,Dark Prince,18.0,Prince,79.0,Zap,107.0,3.0,6,True,True,5.0,2.0
+05010,Fireball,30.0,Electro Wizard,24.0,Dark Prince,18.0,Prince,79.0,,,,1,False,False,0.0,0.0
+05025,Fireball,30.0,Electro Wizard,24.0,Dark Prince,18.0,Prince,79.0,,,,1,False,False,0.0,0.0
+05040,Fireball,30.0,Electro Wizard,24.0,Dark Prince,18.0,Prince,79.0,,,,2,False,False,0.0,0.0
+05055,Fireball,30.0,Electro Wizard,24.0,Dark Prince,18.0,Prince,79.0,,,,2,False,False,0.0,0.0
+05070,Fireball,30.0,Electro Wizard,24.0,Dark Prince,18.0,Prince,79.0,,,,2,False,False,0.0,0.0
+05085,Fireball,30.0,Electro Wizard,24.0,Dark Prince,18.0,Prince,79.0,,,,3,False,False,0.0,0.0
+05100,Fireball,30.0,Electro Wizard,24.0,Dark Prince,18.0,Prince,79.0,,,,3,False,False,0.0,0.0
+05115,Fireball,30.0,Electro Wizard,24.0,Dark Prince,18.0,Prince,79.0,,,,3,False,False,0.0,0.0
+05130,Fireball,30.0,Electro Wizard,24.0,Dark Prince,18.0,Prince,79.0,,,,4,False,False,0.0,0.0
+05145,Fireball,30.0,Electro Wizard,24.0,Dark Prince,18.0,Prince,79.0,,,,4,False,False,0.0,0.0
+05160,Fireball,30.0,Electro Wizard,24.0,Dark Prince,18.0,Prince,79.0,,,,5,False,False,0.0,0.0
+05175,Fireball,30.0,Electro Wizard,24.0,Dark Prince,18.0,Prince,79.0,,,,5,False,False,0.0,0.0
+05190,Fireball,30.0,Electro Wizard,24.0,Dark Prince,18.0,Prince,79.0,,,,5,False,False,0.0,0.0
+05205,Fireball,30.0,Electro Wizard,24.0,Dark Prince,18.0,Prince,79.0,,,,6,False,False,0.0,0.0
+05220,Fireball,30.0,Electro Wizard,24.0,Dark Prince,18.0,Prince,79.0,,,,6,False,False,0.0,0.0
+05235,Fireball,30.0,Electro Wizard,24.0,Dark Prince,18.0,Prince,79.0,,,,6,False,False,0.0,0.0
+05250,Fireball,30.0,Electro Wizard,24.0,Dark Prince,18.0,Prince,79.0,,,,7,False,False,0.0,0.0
+05265,Fireball,30.0,Electro Wizard,24.0,Dark Prince,18.0,Prince,79.0,,,,7,False,False,0.0,0.0
+05280,Fireball,30.0,Electro Wizard,24.0,Dark Prince,18.0,Prince,79.0,,,,7,False,False,0.0,0.0
+05295,Fireball,30.0,Electro Wizard,24.0,Dark Prince,18.0,Prince,79.0,,,,8,False,False,0.0,0.0
+05310,Fireball,30.0,Electro Wizard,24.0,Dark Prince,18.0,Prince,79.0,,,,8,False,False,0.0,0.0
+05325,Fireball,30.0,Electro Wizard,24.0,Dark Prince,18.0,Prince,79.0,,,,8,False,False,0.0,0.0
+05340,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Prince,79.0,Dark Prince,18.0,3.0,5,True,True,3.0,4.0
+05355,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Prince,79.0,,,,5,False,False,0.0,0.0
+05370,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Prince,79.0,,,,6,False,False,0.0,0.0
+05385,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Prince,79.0,,,,6,False,False,0.0,0.0
+05400,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Prince,79.0,,,,6,False,False,0.0,0.0
+05415,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Prince,79.0,,,,7,False,False,0.0,0.0
+05430,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Prince,79.0,,,,7,False,False,0.0,0.0
+05445,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Prince,79.0,,,,7,False,False,0.0,0.0
+05460,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,Prince,79.0,,,,8,False,False,0.0,0.0
+05475,Mega Minion,64.0,Electro Wizard,24.0,Prince,79.0,Prince,79.0,Giant,36.0,3.0,4,True,True,4.0,5.0
+05490,Mega Minion,64.0,Miner,66.0,Prince,79.0,Dark Prince,18.0,Prince,79.0,4.0,0,True,True,4.0,5.0
+05505,Mega Minion,64.0,Miner,66.0,Prince,79.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+05520,Mega Minion,64.0,Miner,66.0,Prince,79.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+05535,Mega Minion,64.0,Miner,66.0,Prince,79.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+05550,Mega Minion,64.0,Miner,66.0,Prince,79.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+05565,Mega Minion,64.0,Miner,66.0,Prince,79.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+05580,Mega Minion,64.0,Miner,66.0,Prince,79.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+05595,Mega Minion,64.0,Miner,66.0,Prince,79.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+05610,Mega Minion,64.0,Miner,66.0,Prince,79.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+05625,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,Miner,66.0,2.0,4,True,False,0.0,3.0
+05640,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+05655,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+05670,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+05685,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,3,False,True,1.0,0.0
+05700,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+05715,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+05730,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+05745,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+05760,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+05775,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+05790,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+05805,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+05820,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+05835,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+05850,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+05865,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+05880,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+05895,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+05910,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+05925,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+05940,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+05955,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+05970,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+05985,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+06000,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+06015,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+06030,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+06045,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+06060,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+06075,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+06090,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+06105,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+06120,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+06135,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+06150,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+06165,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+06180,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,9,False,False,0.0,0.0
+06195,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,9,False,False,0.0,0.0
+06210,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,9,False,False,0.0,0.0
+06225,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,9,False,False,0.0,0.0
+06240,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,9,False,False,0.0,0.0
+06255,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,9,False,False,0.0,0.0
+06270,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,10,False,False,0.0,0.0
+06285,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,10,False,False,0.0,0.0
+06300,Fireball,30.0,Zap,107.0,Prince,79.0,Dark Prince,18.0,,,,10,False,False,0.0,0.0
+06315,Fireball,30.0,Zap,107.0,Giant,36.0,Dark Prince,18.0,Prince,79.0,3.0,5,True,True,5.0,5.0
+06330,Fireball,30.0,Zap,107.0,Giant,36.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+06345,Fireball,30.0,Zap,107.0,Giant,36.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+06360,Fireball,30.0,Zap,107.0,Giant,36.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+06375,Fireball,30.0,Zap,107.0,Giant,36.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+06390,Fireball,30.0,Zap,107.0,Giant,36.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+06405,Fireball,30.0,Zap,107.0,Giant,36.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+06420,Fireball,30.0,Zap,107.0,Giant,36.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+06435,Fireball,30.0,Zap,107.0,Giant,36.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+06450,Fireball,30.0,Zap,107.0,Giant,36.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+06465,Fireball,30.0,Zap,107.0,Giant,36.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+06480,Fireball,30.0,Zap,107.0,Giant,36.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+06495,Fireball,30.0,Zap,107.0,Giant,36.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+06510,Fireball,30.0,Zap,107.0,Giant,36.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+06525,Fireball,30.0,Zap,107.0,Giant,36.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+06540,Electro Wizard,24.0,Zap,107.0,Giant,36.0,Dark Prince,18.0,Fireball,30.0,1.0,3,True,True,4.0,4.0
+06555,Electro Wizard,24.0,Zap,107.0,Giant,36.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+06570,Electro Wizard,24.0,Zap,107.0,Giant,36.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+06585,Electro Wizard,24.0,Zap,107.0,Giant,36.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+06600,Electro Wizard,24.0,Zap,107.0,Giant,36.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+06615,Electro Wizard,24.0,Zap,107.0,Giant,36.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+06630,Electro Wizard,24.0,Zap,107.0,Giant,36.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+06645,Electro Wizard,24.0,Zap,107.0,Giant,36.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+06660,Electro Wizard,24.0,Mega Minion,64.0,Giant,36.0,Dark Prince,18.0,Zap,107.0,2.0,3,True,True,2.0,2.0
+06675,Electro Wizard,24.0,Mega Minion,64.0,Giant,36.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+06690,Electro Wizard,24.0,Mega Minion,64.0,Giant,36.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+06705,Electro Wizard,24.0,Mega Minion,64.0,Giant,36.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+06720,Electro Wizard,24.0,Mega Minion,64.0,Giant,36.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+06735,Electro Wizard,24.0,Mega Minion,64.0,Giant,36.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+06750,Electro Wizard,24.0,Mega Minion,64.0,Giant,36.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+06765,Electro Wizard,24.0,Mega Minion,64.0,Giant,36.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+06780,Electro Wizard,24.0,Mega Minion,64.0,Giant,36.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+06795,Electro Wizard,24.0,Mega Minion,64.0,Giant,36.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+06810,Electro Wizard,24.0,Mega Minion,64.0,Giant,36.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+06825,Electro Wizard,24.0,Mega Minion,64.0,Giant,36.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+06840,Electro Wizard,24.0,Mega Minion,64.0,Giant,36.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+06855,Electro Wizard,24.0,Mega Minion,64.0,Giant,36.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+06870,Electro Wizard,24.0,Mega Minion,64.0,Giant,36.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+06885,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,Giant,36.0,3.0,0,True,True,5.0,5.0
+06900,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+06915,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+06930,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+06945,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+06960,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+06975,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+06990,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+07005,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+07020,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+07035,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+07050,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+07065,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+07080,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+07095,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+07110,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+07125,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+07140,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+07155,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+07170,Electro Wizard,24.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+07185,Prince,79.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,Electro Wizard,24.0,1.0,0,True,True,4.0,4.0
+07200,Prince,79.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,0,False,False,0.0,0.0
+07215,Prince,79.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,0,False,False,0.0,0.0
+07230,Prince,79.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+07245,Prince,79.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+07260,Prince,79.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+07275,Prince,79.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+07290,Prince,79.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+07305,Prince,79.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+07320,Prince,79.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+07335,Prince,79.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+07350,Prince,79.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+07365,Prince,79.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+07380,Prince,79.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+07395,Prince,79.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+07410,Prince,79.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+07425,Prince,79.0,Mega Minion,64.0,Miner,66.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+07440,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Dark Prince,18.0,Miner,66.0,3.0,0,True,True,3.0,3.0
+07455,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Dark Prince,18.0,,,,0,False,False,0.0,0.0
+07470,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Dark Prince,18.0,,,,0,False,False,0.0,0.0
+07485,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+07500,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+07515,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+07530,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+07545,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+07560,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+07575,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+07590,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+07605,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+07620,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+07635,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+07650,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+07665,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+07680,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+07695,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+07710,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+07725,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+07740,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+07755,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+07770,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,Dark Prince,18.0,4.0,0,True,True,4.0,4.0
+07785,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,0,False,False,0.0,0.0
+07800,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,0,False,False,0.0,0.0
+07815,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+07830,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+07845,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+07860,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+07875,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+07890,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+07905,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+07920,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+07935,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+07950,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+07965,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+07980,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+07995,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+08010,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+08025,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+08040,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+08055,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+08070,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,4,False,False,0.0,0.0
+08085,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,4,False,False,0.0,0.0
+08100,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,4,False,False,0.0,0.0
+08115,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,4,False,False,0.0,0.0
+08130,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,4,False,False,0.0,0.0
+08145,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,4,False,False,0.0,0.0
+08160,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,5,False,False,0.0,0.0
+08175,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,5,False,False,0.0,0.0
+08190,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,5,False,False,0.0,0.0
+08205,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,5,False,False,0.0,0.0
+08220,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,5,False,False,0.0,0.0
+08235,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,6,False,False,0.0,0.0
+08250,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,6,False,False,0.0,0.0
+08265,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,6,False,False,0.0,0.0
+08280,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,6,False,False,0.0,0.0
+08295,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,6,False,False,0.0,0.0
+08310,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,6,False,False,0.0,0.0
+08325,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,7,False,False,0.0,0.0
+08340,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,7,False,False,0.0,0.0
+08355,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,7,False,False,0.0,0.0
+08370,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,7,False,False,0.0,0.0
+08385,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,7,False,False,0.0,0.0
+08400,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,8,False,False,0.0,0.0
+08415,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,8,False,False,0.0,0.0
+08430,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,8,False,False,0.0,0.0
+08445,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,8,False,False,0.0,0.0
+08460,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,8,False,False,0.0,0.0
+08475,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,8,False,False,0.0,0.0
+08490,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,9,False,False,0.0,0.0
+08505,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,9,False,False,0.0,0.0
+08520,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,9,False,False,0.0,0.0
+08535,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,9,False,False,0.0,0.0
+08550,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,9,False,False,0.0,0.0
+08565,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,9,False,False,0.0,0.0
+08580,Prince,79.0,Giant,36.0,Fireball,30.0,Zap,107.0,Mega Minion,64.0,2.0,7,True,True,2.0,3.0
+08595,Prince,79.0,Giant,36.0,Fireball,30.0,Zap,107.0,,,,7,False,False,0.0,0.0
+08610,Prince,79.0,Giant,36.0,Fireball,30.0,Zap,107.0,,,,7,False,False,0.0,0.0
+08625,Prince,79.0,Giant,36.0,Fireball,30.0,Zap,107.0,,,,7,False,False,0.0,0.0
+08640,Prince,79.0,Giant,36.0,Fireball,30.0,Zap,107.0,,,,7,False,False,0.0,0.0
+08655,Prince,79.0,Giant,36.0,Fireball,30.0,Zap,107.0,,,,8,False,False,0.0,0.0
+08670,Prince,79.0,Giant,36.0,Fireball,30.0,Zap,107.0,,,,8,False,False,0.0,0.0
+08685,Prince,79.0,Giant,36.0,Fireball,30.0,Zap,107.0,,,,8,False,False,0.0,0.0
+08700,Prince,79.0,Giant,36.0,Fireball,30.0,Zap,107.0,,,,8,False,False,0.0,0.0
+08715,Prince,79.0,Giant,36.0,Fireball,30.0,Zap,107.0,,,,8,False,False,0.0,0.0
+08730,Prince,79.0,Giant,36.0,Fireball,30.0,Zap,107.0,,,,8,False,False,0.0,0.0
+08745,Prince,79.0,Giant,36.0,Fireball,30.0,Zap,107.0,,,,9,False,False,0.0,0.0
+08760,Prince,79.0,Giant,36.0,Fireball,30.0,Zap,107.0,,,,9,False,False,0.0,0.0
+08775,Prince,79.0,Giant,36.0,Fireball,30.0,Zap,107.0,,,,9,False,False,0.0,0.0
+08790,Prince,79.0,Giant,36.0,Fireball,30.0,Zap,107.0,,,,9,False,False,0.0,0.0
+08805,Prince,79.0,Giant,36.0,Fireball,30.0,Zap,107.0,,,,9,False,False,0.0,0.0
+08820,Prince,79.0,Giant,36.0,Fireball,30.0,Zap,107.0,,,,10,False,False,0.0,0.0
+08835,Prince,79.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,Giant,36.0,2.0,5,True,True,5.0,5.0
+08850,Prince,79.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,5,False,False,0.0,0.0
+08865,Prince,79.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,5,False,False,0.0,0.0
+08880,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,Prince,79.0,1.0,0,True,True,5.0,5.0
+08895,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,0,False,False,0.0,0.0
+08910,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,0,False,False,0.0,0.0
+08925,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+08940,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+08955,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+08970,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+08985,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+09000,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+09015,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+09030,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+09045,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+09060,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+09075,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+09090,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+09105,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+09120,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+09135,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+09150,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+09165,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,Miner,66.0,1.0,0,True,True,3.0,3.0
+09180,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+09195,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+09210,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+09225,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+09240,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+09255,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+09270,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+09285,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+09300,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+09315,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+09330,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+09345,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+09360,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+09375,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+09390,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+09405,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+09420,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,4,False,False,0.0,0.0
+09435,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,4,False,False,0.0,0.0
+09450,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,4,False,False,0.0,0.0
+09465,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,4,False,False,0.0,0.0
+09480,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,4,False,False,0.0,0.0
+09495,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,4,False,False,0.0,0.0
+09510,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,5,False,False,0.0,0.0
+09525,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,5,False,False,0.0,0.0
+09540,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,5,False,False,0.0,0.0
+09555,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,6,False,False,0.0,0.0
+09570,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,6,False,False,0.0,0.0
+09585,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,6,False,False,0.0,0.0
+09600,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,7,False,False,0.0,0.0
+09615,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,7,False,False,0.0,0.0
+09630,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,7,False,False,0.0,0.0
+09645,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,8,False,False,0.0,0.0
+09660,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,8,False,False,0.0,0.0
+09675,Mega Minion,64.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,Dark Prince,18.0,1.0,5,True,True,3.0,4.0
+09690,Mega Minion,64.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,5,False,False,0.0,0.0
+09705,Mega Minion,64.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,5,False,False,0.0,0.0
+09720,Mega Minion,64.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,6,False,False,0.0,0.0
+09735,Mega Minion,64.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,6,False,False,0.0,0.0
+09750,Mega Minion,64.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,6,False,False,0.0,0.0
+09765,Mega Minion,64.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,7,False,False,0.0,0.0
+09780,Mega Minion,64.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,7,False,False,0.0,0.0
+09795,Mega Minion,64.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,7,False,False,0.0,0.0
+09810,Mega Minion,64.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,8,False,False,0.0,0.0
+09825,Giant,36.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,Mega Minion,64.0,1.0,5,True,True,3.0,3.0
+09840,Giant,36.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,6,False,False,0.0,0.0
+09855,Giant,36.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,6,False,False,0.0,0.0
+09870,Giant,36.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,6,False,False,0.0,0.0
+09885,Prince,79.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,Giant,36.0,1.0,2,True,True,4.0,5.0
+09900,Prince,79.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+09915,Prince,79.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+09930,Prince,79.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+09945,Prince,79.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+09960,Prince,79.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+09975,Prince,79.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,4,False,False,0.0,0.0
+09990,Prince,79.0,Electro Wizard,24.0,Fireball,30.0,Zap,107.0,,,,4,False,False,0.0,0.0
+10005,Prince,79.0,Miner,66.0,Fireball,30.0,Zap,107.0,Electro Wizard,24.0,2.0,0,True,True,4.0,4.0
+10020,Prince,79.0,Miner,66.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+10035,Prince,79.0,Miner,66.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+10050,Prince,79.0,Miner,66.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+10065,Prince,79.0,Miner,66.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+10080,Prince,79.0,Miner,66.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+10095,Prince,79.0,Miner,66.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+10110,Prince,79.0,Miner,66.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+10125,Prince,79.0,Miner,66.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+10140,Prince,79.0,Miner,66.0,Fireball,30.0,Zap,107.0,,,,4,False,False,0.0,0.0
+10155,Prince,79.0,Miner,66.0,Fireball,30.0,Zap,107.0,,,,4,False,False,0.0,0.0
+10170,Prince,79.0,Miner,66.0,Fireball,30.0,Zap,107.0,,,,4,False,False,0.0,0.0
+10185,Prince,79.0,Miner,66.0,Fireball,30.0,Zap,107.0,,,,5,False,False,0.0,0.0
+10200,Prince,79.0,Miner,66.0,Fireball,30.0,Zap,107.0,,,,5,False,False,0.0,0.0
+10215,Prince,79.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,Miner,66.0,2.0,2,True,True,3.0,3.0
+10230,Prince,79.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+10245,Prince,79.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+10260,Prince,79.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+10275,Prince,79.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,4,False,False,0.0,0.0
+10290,Prince,79.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,4,False,False,0.0,0.0
+10305,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,Dark Prince,18.0,2.0,1,True,True,3.0,4.0
+10320,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+10335,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+10350,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+10365,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+10380,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+10395,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+10410,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+10425,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+10440,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,4,False,False,0.0,0.0
+10455,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,4,False,False,0.0,0.0
+10470,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,5,False,False,0.0,0.0
+10485,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,5,False,False,0.0,0.0
+10500,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,5,False,False,0.0,0.0
+10515,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,6,False,False,0.0,0.0
+10530,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,6,False,False,0.0,0.0
+10545,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Zap,107.0,,,,6,False,False,0.0,0.0
+10560,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Giant,36.0,Zap,107.0,4.0,5,True,True,1.0,2.0
+10575,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Giant,36.0,,,,5,False,False,0.0,0.0
+10590,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Giant,36.0,,,,5,False,False,0.0,0.0
+10605,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Giant,36.0,,,,6,False,False,0.0,0.0
+10620,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Giant,36.0,,,,6,False,False,0.0,0.0
+10635,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Giant,36.0,,,,6,False,False,0.0,0.0
+10650,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Giant,36.0,,,,7,False,False,0.0,0.0
+10665,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Giant,36.0,,,,7,False,False,0.0,0.0
+10680,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Giant,36.0,,,,8,False,False,0.0,0.0
+10695,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Giant,36.0,,,,8,False,False,0.0,0.0
+10710,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Giant,36.0,,,,8,False,False,0.0,0.0
+10725,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Giant,36.0,,,,9,False,False,0.0,0.0
+10740,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,4.0,4,True,True,5.0,5.0
+10755,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+10770,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+10785,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+10800,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+10815,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+10830,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+10845,Prince,79.0,Mega Minion,64.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+10860,Prince,79.0,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,Mega Minion,64.0,2.0,4,True,True,2.0,3.0
+10875,Prince,79.0,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+10890,Prince,79.0,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+10905,Prince,79.0,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+10920,Prince,79.0,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+10935,Prince,79.0,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+10950,Prince,79.0,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+10965,Prince,79.0,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+10980,Prince,79.0,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+10995,Prince,79.0,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+11010,Prince,79.0,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+11025,Prince,79.0,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+11040,Prince,79.0,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+11055,Prince,79.0,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+11070,Prince,79.0,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+11085,Prince,79.0,Miner,66.0,Dark Prince,18.0,Electro Wizard,24.0,Fireball,30.0,3.0,5,True,True,4.0,4.0
+11100,Prince,79.0,Miner,66.0,Dark Prince,18.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+11115,Prince,79.0,Miner,66.0,Dark Prince,18.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+11130,Prince,79.0,Miner,66.0,Dark Prince,18.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+11145,Prince,79.0,Miner,66.0,Dark Prince,18.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+11160,Prince,79.0,Miner,66.0,Dark Prince,18.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+11175,Zap,107.0,Miner,66.0,Dark Prince,18.0,Electro Wizard,24.0,Prince,79.0,1.0,2,True,True,5.0,5.0
+11190,Zap,107.0,Miner,66.0,Dark Prince,18.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+11205,Zap,107.0,Miner,66.0,Dark Prince,18.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+11220,Zap,107.0,Miner,66.0,Dark Prince,18.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+11235,Zap,107.0,Miner,66.0,Dark Prince,18.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+11250,Zap,107.0,Miner,66.0,Dark Prince,18.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+11265,Zap,107.0,Miner,66.0,Dark Prince,18.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+11280,Zap,107.0,Miner,66.0,Dark Prince,18.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+11295,Zap,107.0,Giant,36.0,Dark Prince,18.0,Electro Wizard,24.0,Miner,66.0,2.0,2,True,True,3.0,3.0
+11310,Zap,107.0,Giant,36.0,Dark Prince,18.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+11325,Zap,107.0,Giant,36.0,Dark Prince,18.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+11340,Zap,107.0,Giant,36.0,Dark Prince,18.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+11355,Zap,107.0,Giant,36.0,Dark Prince,18.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+11370,Zap,107.0,Giant,36.0,Dark Prince,18.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+11385,Zap,107.0,Giant,36.0,Dark Prince,18.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+11400,Zap,107.0,Giant,36.0,Dark Prince,18.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+11415,Zap,107.0,Giant,36.0,Dark Prince,18.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+11430,Zap,107.0,Giant,36.0,Dark Prince,18.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+11445,Zap,107.0,Giant,36.0,Mega Minion,64.0,Electro Wizard,24.0,Dark Prince,18.0,3.0,2,True,True,3.0,4.0
+11460,Zap,107.0,Giant,36.0,Mega Minion,64.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+11475,Zap,107.0,Giant,36.0,Mega Minion,64.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+11490,Zap,107.0,Giant,36.0,Mega Minion,64.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+11505,Zap,107.0,Giant,36.0,Mega Minion,64.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+11520,Zap,107.0,Giant,36.0,Mega Minion,64.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+11535,Zap,107.0,Giant,36.0,Mega Minion,64.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+11550,Zap,107.0,Giant,36.0,Mega Minion,64.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+11565,Zap,107.0,Giant,36.0,Mega Minion,64.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+11580,Zap,107.0,Giant,36.0,Mega Minion,64.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+11595,Zap,107.0,Giant,36.0,Mega Minion,64.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+11610,Zap,107.0,Giant,36.0,Mega Minion,64.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+11625,Zap,107.0,Giant,36.0,Mega Minion,64.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+11640,Zap,107.0,Giant,36.0,Mega Minion,64.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+11655,Zap,107.0,Giant,36.0,Mega Minion,64.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+11670,Zap,107.0,Giant,36.0,Mega Minion,64.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+11685,Zap,107.0,Giant,36.0,Mega Minion,64.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+11700,Zap,107.0,Giant,36.0,Mega Minion,64.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+11715,Zap,107.0,Giant,36.0,Fireball,30.0,Electro Wizard,24.0,Mega Minion,64.0,3.0,5,True,True,3.0,3.0
+11730,Zap,107.0,Giant,36.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+11745,Zap,107.0,Giant,36.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+11760,Zap,107.0,Giant,36.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+11775,Zap,107.0,Giant,36.0,Prince,79.0,Electro Wizard,24.0,Fireball,30.0,3.0,3,True,True,3.0,4.0
+11790,Zap,107.0,Giant,36.0,Prince,79.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+11805,Zap,107.0,Giant,36.0,Prince,79.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+11820,Zap,107.0,Giant,36.0,Prince,79.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+11835,Zap,107.0,Giant,36.0,Prince,79.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+11850,Zap,107.0,Giant,36.0,Prince,79.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+11865,Zap,107.0,Giant,36.0,Prince,79.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+11880,Zap,107.0,Giant,36.0,Prince,79.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+11895,Zap,107.0,Giant,36.0,Prince,79.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+11910,Zap,107.0,Giant,36.0,Prince,79.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+11925,Zap,107.0,Giant,36.0,Prince,79.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+11940,Zap,107.0,Giant,36.0,Prince,79.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+11955,Zap,107.0,Giant,36.0,Prince,79.0,Electro Wizard,24.0,,,,3,False,True,3.0,0.0
+11970,Zap,107.0,Miner,66.0,Prince,79.0,Electro Wizard,24.0,Giant,36.0,2.0,2,True,True,1.0,5.0
+11985,Zap,107.0,Miner,66.0,Prince,79.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+12000,Zap,107.0,Miner,66.0,Prince,79.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+12015,Zap,107.0,Miner,66.0,Prince,79.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+12030,Zap,107.0,Miner,66.0,Prince,79.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+12045,Zap,107.0,Miner,66.0,Prince,79.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+12060,Zap,107.0,Dark Prince,18.0,Prince,79.0,Electro Wizard,24.0,Miner,66.0,2.0,1,True,True,3.0,3.0
+12075,Zap,107.0,Dark Prince,18.0,Prince,79.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+12090,Zap,107.0,Dark Prince,18.0,Prince,79.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+12105,Zap,107.0,Dark Prince,18.0,Prince,79.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+12120,Zap,107.0,Dark Prince,18.0,Prince,79.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+12135,Zap,107.0,Dark Prince,18.0,Prince,79.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+12150,Zap,107.0,Dark Prince,18.0,Prince,79.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+12165,Zap,107.0,Dark Prince,18.0,Prince,79.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+12180,Mega Minion,64.0,Dark Prince,18.0,Prince,79.0,Electro Wizard,24.0,Zap,107.0,1.0,2,True,True,2.0,2.0
+12195,Mega Minion,64.0,Dark Prince,18.0,Prince,79.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+12210,Mega Minion,64.0,Dark Prince,18.0,Prince,79.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+12225,Mega Minion,64.0,Dark Prince,18.0,Prince,79.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+12240,Mega Minion,64.0,Dark Prince,18.0,Prince,79.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+12255,Mega Minion,64.0,Dark Prince,18.0,Prince,79.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+12270,Mega Minion,64.0,Dark Prince,18.0,Prince,79.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+12285,Mega Minion,64.0,Dark Prince,18.0,Prince,79.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+12300,Mega Minion,64.0,Dark Prince,18.0,Prince,79.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+12315,Mega Minion,64.0,Dark Prince,18.0,Prince,79.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+12330,Mega Minion,64.0,Dark Prince,18.0,Prince,79.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+12345,Mega Minion,64.0,Dark Prince,18.0,Prince,79.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+12360,Mega Minion,64.0,Dark Prince,18.0,Prince,79.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+12375,Mega Minion,64.0,Dark Prince,18.0,Prince,79.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+12390,Mega Minion,64.0,Dark Prince,18.0,Prince,79.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+12405,Mega Minion,64.0,Dark Prince,18.0,Prince,79.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+12420,Mega Minion,64.0,Dark Prince,18.0,Prince,79.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+12435,Mega Minion,64.0,Dark Prince,18.0,Prince,79.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+12450,Mega Minion,64.0,Dark Prince,18.0,Prince,79.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+12465,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Electro Wizard,24.0,Prince,79.0,3.0,4,True,True,5.0,5.0
+12480,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+12495,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+12510,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+12525,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+12540,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+12555,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+12570,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+12585,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+12600,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+12615,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+12630,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+12645,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,4.0,4,True,True,4.0,4.0
+12660,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Giant,36.0,,,,5,False,False,0.0,0.0
+12675,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Giant,36.0,,,,5,False,False,0.0,0.0
+12690,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Giant,36.0,,,,5,False,False,0.0,0.0
+12705,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Miner,66.0,Giant,36.0,4.0,1,True,True,4.0,5.0
+12720,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Miner,66.0,,,,1,False,False,0.0,0.0
+12735,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Miner,66.0,,,,1,False,False,0.0,0.0
+12750,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Miner,66.0,,,,2,False,False,0.0,0.0
+12765,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Miner,66.0,,,,2,False,False,0.0,0.0
+12780,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Miner,66.0,,,,2,False,False,0.0,0.0
+12795,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Miner,66.0,,,,3,False,False,0.0,0.0
+12810,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Miner,66.0,,,,3,False,False,0.0,0.0
+12825,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,Miner,66.0,4.0,3,True,True,2.0,3.0
+12840,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+12855,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+12870,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+12885,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+12900,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+12915,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+12930,Mega Minion,64.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+12945,Prince,79.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,Mega Minion,64.0,1.0,0,True,True,3.0,3.0
+12960,Prince,79.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+12975,Prince,79.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+12990,Prince,79.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+13005,Prince,79.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+13020,Prince,79.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+13035,Prince,79.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+13050,Prince,79.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+13065,Prince,79.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+13080,Prince,79.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,4,False,False,0.0,0.0
+13095,Prince,79.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,4,False,False,0.0,0.0
+13110,Prince,79.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,4,False,False,0.0,0.0
+13125,Prince,79.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,5,False,False,0.0,0.0
+13140,Prince,79.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,5,False,False,0.0,0.0
+13155,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,Prince,79.0,1.0,1,True,True,4.0,5.0
+13170,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,1,False,False,0.0,0.0
+13185,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+13200,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+13215,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+13230,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+13245,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,4,False,False,0.0,0.0
+13260,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,5,False,False,0.0,0.0
+13275,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,Zap,107.0,,,,5,False,False,0.0,0.0
+13290,Electro Wizard,24.0,Giant,36.0,Fireball,30.0,Zap,107.0,Dark Prince,18.0,2.0,2,True,True,3.0,4.0
+13305,Electro Wizard,24.0,Giant,36.0,Fireball,30.0,Zap,107.0,,,,2,False,False,0.0,0.0
+13320,Electro Wizard,24.0,Giant,36.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+13335,Electro Wizard,24.0,Giant,36.0,Fireball,30.0,Zap,107.0,,,,3,False,False,0.0,0.0
+13350,Electro Wizard,24.0,Giant,36.0,Fireball,30.0,Zap,107.0,,,,4,False,False,0.0,0.0
+13365,Electro Wizard,24.0,Giant,36.0,Fireball,30.0,Zap,107.0,,,,4,False,False,0.0,0.0
+13380,Electro Wizard,24.0,Giant,36.0,Fireball,30.0,Zap,107.0,,,,5,False,False,0.0,0.0
+13395,Electro Wizard,24.0,Giant,36.0,Fireball,30.0,Zap,107.0,,,,5,False,False,0.0,0.0
+13410,Electro Wizard,24.0,Giant,36.0,Miner,66.0,Zap,107.0,Fireball,30.0,3.0,2,True,True,3.0,4.0
+13425,Electro Wizard,24.0,Giant,36.0,Miner,66.0,Zap,107.0,,,,2,False,False,0.0,0.0
+13440,Electro Wizard,24.0,Giant,36.0,Miner,66.0,Mega Minion,64.0,Zap,107.0,4.0,1,True,True,1.0,2.0
+13455,Electro Wizard,24.0,Giant,36.0,Miner,66.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+13470,Electro Wizard,24.0,Giant,36.0,Miner,66.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+13485,Electro Wizard,24.0,Giant,36.0,Miner,66.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+13500,Electro Wizard,24.0,Giant,36.0,Miner,66.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+13515,Electro Wizard,24.0,Giant,36.0,Miner,66.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+13530,Electro Wizard,24.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,Miner,66.0,3.0,1,True,True,3.0,3.0
+13545,Electro Wizard,24.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+13560,Electro Wizard,24.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+13575,Electro Wizard,24.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+13590,Electro Wizard,24.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+13605,Electro Wizard,24.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+13620,Electro Wizard,24.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+13635,Dark Prince,18.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,Electro Wizard,24.0,1.0,1,True,True,3.0,4.0
+13650,Dark Prince,18.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+13665,Dark Prince,18.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+13680,Dark Prince,18.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+13695,Dark Prince,18.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+13710,Dark Prince,18.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+13725,Dark Prince,18.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+13740,Dark Prince,18.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+13755,Fireball,30.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,Dark Prince,18.0,1.0,3,True,True,2.0,4.0
+13770,Fireball,30.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,2,False,True,1.0,0.0
+13785,Fireball,30.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+13800,Fireball,30.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+13815,Fireball,30.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+13830,Fireball,30.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+13845,Fireball,30.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+13860,Zap,107.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,Fireball,30.0,1.0,1,True,True,4.0,4.0
+13875,Zap,107.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+13890,Zap,107.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+13905,Zap,107.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+13920,Zap,107.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+13935,Zap,107.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+13950,Zap,107.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+13965,Miner,66.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,Zap,107.0,1.0,3,True,True,1.0,2.0
+13980,Miner,66.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+13995,Miner,66.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+14010,Miner,66.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+14025,Miner,66.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+14040,Miner,66.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+14055,Miner,66.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+14070,Miner,66.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+14085,Miner,66.0,Giant,36.0,Prince,79.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+14100,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,Giant,36.0,2.0,3,True,True,4.0,5.0
+14115,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+14130,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+14145,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,Mega Minion,64.0,4.0,1,True,True,3.0,3.0
+14160,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+14175,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+14190,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+14205,Miner,66.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+14220,Fireball,30.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,Miner,66.0,1.0,1,True,True,2.0,3.0
+14235,Fireball,30.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+14250,Fireball,30.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+14265,Fireball,30.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+14280,Fireball,30.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+14295,Fireball,30.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+14310,Fireball,30.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+14325,Fireball,30.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+14340,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,Fireball,30.0,1.0,1,True,True,4.0,4.0
+14355,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+14370,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+14385,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+14400,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+14415,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+14430,Zap,107.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+14445,Giant,36.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,Dark Prince,18.0,4.0,3,True,True,1.0,4.0
+14460,Giant,36.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,Mega Minion,64.0,4.0,4,True,False,0.0,3.0
+14475,Giant,36.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+14490,Giant,36.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+14505,Giant,36.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+14520,Giant,36.0,Electro Wizard,24.0,Prince,79.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+14535,Giant,36.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,Dark Prince,18.0,4.0,2,True,True,4.0,4.0
+14550,Giant,36.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+14565,Giant,36.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+14580,Giant,36.0,Electro Wizard,24.0,Prince,79.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+14595,Giant,36.0,Electro Wizard,24.0,Prince,79.0,Miner,66.0,Mega Minion,64.0,4.0,1,True,True,3.0,3.0
+14610,Giant,36.0,Electro Wizard,24.0,Prince,79.0,Miner,66.0,,,,2,False,False,0.0,0.0
+14625,Giant,36.0,Electro Wizard,24.0,Prince,79.0,Miner,66.0,,,,2,False,False,0.0,0.0
+14640,Giant,36.0,Electro Wizard,24.0,Prince,79.0,Miner,66.0,,,,3,False,False,0.0,0.0
+14655,Giant,36.0,Electro Wizard,24.0,Prince,79.0,Miner,66.0,,,,4,False,False,0.0,0.0
+14670,Giant,36.0,Electro Wizard,24.0,Prince,79.0,Miner,66.0,,,,1,False,True,3.0,0.0
+14685,Giant,36.0,Electro Wizard,24.0,Prince,79.0,Miner,66.0,,,,2,False,False,0.0,0.0
+14700,Giant,36.0,Electro Wizard,24.0,Prince,79.0,Miner,66.0,,,,2,False,False,0.0,0.0
+14715,Giant,36.0,Electro Wizard,24.0,Prince,79.0,Miner,66.0,,,,3,False,False,0.0,0.0
+14730,Giant,36.0,Electro Wizard,24.0,Prince,79.0,Miner,66.0,,,,3,False,False,0.0,0.0

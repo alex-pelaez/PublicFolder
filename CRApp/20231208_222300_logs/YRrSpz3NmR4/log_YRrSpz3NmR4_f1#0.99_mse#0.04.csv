@@ -1,0 +1,608 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Ram Rider,82.0,Zap,107.0,,,Fisherman,32.0,,,,6,False,False,0.0,0.0
+00255,Ram Rider,82.0,Zap,107.0,,,Fisherman,32.0,,,,6,False,False,0.0,0.0
+00270,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,3.0,6,True,False,0.0,0.0
+00285,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+00300,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+00315,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+00330,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+00345,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+00360,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+00375,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+00390,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+00405,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+00420,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+00435,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+00450,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+00465,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+00480,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+00495,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+00510,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+00525,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Fisherman,32.0,Zap,107.0,2.0,7,True,True,2.0,2.0
+00540,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+00555,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+00570,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+00585,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+00600,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+00615,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+00630,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+00645,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+00660,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+00675,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+00690,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Musketeer,73.0,Fisherman,32.0,4.0,6,True,True,3.0,3.0
+00705,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+00720,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+00735,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+00750,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+00765,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+00780,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+00795,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+00810,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+00825,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+00840,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+00855,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+00870,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+00885,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+00900,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+00915,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+00930,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+00945,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+00960,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+00975,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+00990,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Lightning,60.0,Musketeer,73.0,4.0,6,True,True,4.0,4.0
+01005,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+01020,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+01035,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+01050,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+01065,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+01080,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+01095,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+01110,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+01125,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+01140,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+01155,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+01170,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+01185,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+01200,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+01215,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+01230,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+01245,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+01260,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+01275,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+01290,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+01305,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+01320,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,Lightning,60.0,4.0,4,True,True,5.0,6.0
+01335,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+01350,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+01365,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+01380,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+01395,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+01410,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+01425,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+01440,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+01455,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+01470,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+01485,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+01500,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+01515,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+01530,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+01545,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+01560,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+01575,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+01590,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+01605,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+01620,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+01635,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+01650,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+01665,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,2.0,6,True,True,1.0,2.0
+01680,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+01695,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+01710,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+01725,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+01740,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+01755,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+01770,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+01785,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+01800,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+01815,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+01830,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+01845,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+01860,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+01875,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+01890,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+01905,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+01920,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+01935,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+01950,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+01965,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+01980,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+01995,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,Skeleton Dragons,92.0,4.0,6,True,True,3.0,4.0
+02010,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+02025,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+02040,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+02055,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+02070,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+02085,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+02100,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+02115,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+02130,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+02145,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+02160,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+02175,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+02190,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+02205,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+02220,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+02235,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+02250,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+02265,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+02280,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+02295,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+02310,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Fisherman,32.0,4.0,6,True,True,3.0,3.0
+02325,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+02340,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+02355,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+02370,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+02385,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+02400,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+02415,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+02430,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+02445,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+02460,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+02475,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+02490,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+02505,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+02520,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+02535,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+02550,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+02565,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+02580,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Lightning,60.0,Musketeer,73.0,4.0,6,True,True,3.0,4.0
+02595,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+02610,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+02625,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+02640,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+02655,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+02670,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+02685,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+02700,Ram Rider,82.0,Zap,107.0,Mega Knight,63.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+02715,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,Mega Knight,63.0,3.0,0,True,True,7.0,7.0
+02730,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,0,False,False,0.0,0.0
+02745,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,0,False,False,0.0,0.0
+02760,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,1,False,False,0.0,0.0
+02775,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,1,False,False,0.0,0.0
+02790,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,1,False,False,0.0,0.0
+02805,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,1,False,False,0.0,0.0
+02820,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,1,False,False,0.0,0.0
+02835,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+02850,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+02865,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+02880,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+02895,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+02910,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+02925,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+02940,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+02955,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+02970,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+02985,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+03000,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+03015,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+03030,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+03045,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+03060,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+03075,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+03090,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+03105,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+03120,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+03135,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+03150,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+03165,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+03180,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+03195,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+03210,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+03225,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+03240,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+03255,Ram Rider,82.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,Barbarian Barrel,6.0,3.0,5,True,True,1.0,2.0
+03270,Ram Rider,82.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+03285,Ram Rider,82.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+03300,Ram Rider,82.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+03315,Ram Rider,82.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+03330,Ram Rider,82.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+03345,Ram Rider,82.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+03360,Ram Rider,82.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+03375,Ram Rider,82.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+03390,Ram Rider,82.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+03405,Ram Rider,82.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+03420,Ram Rider,82.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+03435,Ram Rider,82.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+03450,Ram Rider,82.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+03465,Ram Rider,82.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+03480,Ram Rider,82.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+03495,Ram Rider,82.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+03510,Ram Rider,82.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+03525,Ram Rider,82.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+03540,Ram Rider,82.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+03555,Ram Rider,82.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+03570,Ram Rider,82.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+03585,Ram Rider,82.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+03600,Ram Rider,82.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+03615,Ram Rider,82.0,Fisherman,32.0,Skeleton Dragons,92.0,Lightning,60.0,Zap,107.0,2.0,7,True,True,2.0,2.0
+03630,Ram Rider,82.0,Fisherman,32.0,Skeleton Dragons,92.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+03645,Ram Rider,82.0,Fisherman,32.0,Skeleton Dragons,92.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+03660,Ram Rider,82.0,Fisherman,32.0,Skeleton Dragons,92.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+03675,Ram Rider,82.0,Fisherman,32.0,Skeleton Dragons,92.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+03690,Ram Rider,82.0,Fisherman,32.0,Skeleton Dragons,92.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+03705,Ram Rider,82.0,Fisherman,32.0,Skeleton Dragons,92.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+03720,Ram Rider,82.0,Fisherman,32.0,Skeleton Dragons,92.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+03735,Ram Rider,82.0,Fisherman,32.0,Skeleton Dragons,92.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+03750,Ram Rider,82.0,Fisherman,32.0,Skeleton Dragons,92.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+03765,Ram Rider,82.0,Fisherman,32.0,Skeleton Dragons,92.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+03780,Ram Rider,82.0,Fisherman,32.0,Skeleton Dragons,92.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+03795,Ram Rider,82.0,Musketeer,73.0,Skeleton Dragons,92.0,Lightning,60.0,Fisherman,32.0,2.0,6,True,True,3.0,3.0
+03810,Ram Rider,82.0,Musketeer,73.0,Skeleton Dragons,92.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+03825,Ram Rider,82.0,Musketeer,73.0,Skeleton Dragons,92.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+03840,Ram Rider,82.0,Musketeer,73.0,Skeleton Dragons,92.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+03855,Ram Rider,82.0,Musketeer,73.0,Skeleton Dragons,92.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+03870,Ram Rider,82.0,Musketeer,73.0,Skeleton Dragons,92.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+03885,Ram Rider,82.0,Musketeer,73.0,Skeleton Dragons,92.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+03900,Ram Rider,82.0,Musketeer,73.0,Skeleton Dragons,92.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+03915,Ram Rider,82.0,Musketeer,73.0,Skeleton Dragons,92.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+03930,Ram Rider,82.0,Mega Knight,63.0,Skeleton Dragons,92.0,Lightning,60.0,Musketeer,73.0,2.0,6,True,True,3.0,4.0
+03945,Ram Rider,82.0,Mega Knight,63.0,Skeleton Dragons,92.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+03960,Ram Rider,82.0,Mega Knight,63.0,Skeleton Dragons,92.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+03975,Ram Rider,82.0,Mega Knight,63.0,Skeleton Dragons,92.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+03990,Ram Rider,82.0,Mega Knight,63.0,Skeleton Dragons,92.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+04005,Ram Rider,82.0,Mega Knight,63.0,Skeleton Dragons,92.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+04020,Ram Rider,82.0,Mega Knight,63.0,Skeleton Dragons,92.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+04035,Ram Rider,82.0,Mega Knight,63.0,Skeleton Dragons,92.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+04050,Ram Rider,82.0,Mega Knight,63.0,Skeleton Dragons,92.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+04065,Ram Rider,82.0,Mega Knight,63.0,Skeleton Dragons,92.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+04080,Ram Rider,82.0,Mega Knight,63.0,Skeleton Dragons,92.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+04095,Ram Rider,82.0,Mega Knight,63.0,Skeleton Dragons,92.0,Lightning,60.0,,,,10,False,False,0.0,0.0
+04110,Ram Rider,82.0,Mega Knight,63.0,Barbarian Barrel,6.0,Lightning,60.0,Skeleton Dragons,92.0,3.0,6,True,True,4.0,4.0
+04125,Ram Rider,82.0,Mega Knight,63.0,Barbarian Barrel,6.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+04140,Ram Rider,82.0,Mega Knight,63.0,Barbarian Barrel,6.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+04155,Ram Rider,82.0,Mega Knight,63.0,Barbarian Barrel,6.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+04170,Ram Rider,82.0,Mega Knight,63.0,Barbarian Barrel,6.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+04185,Ram Rider,82.0,Mega Knight,63.0,Barbarian Barrel,6.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+04200,Ram Rider,82.0,Mega Knight,63.0,Barbarian Barrel,6.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+04215,Ram Rider,82.0,Mega Knight,63.0,Barbarian Barrel,6.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+04230,Ram Rider,82.0,Mega Knight,63.0,Barbarian Barrel,6.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+04245,Ram Rider,82.0,Mega Knight,63.0,Barbarian Barrel,6.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+04260,Ram Rider,82.0,Mega Knight,63.0,Barbarian Barrel,6.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+04275,Ram Rider,82.0,Mega Knight,63.0,Barbarian Barrel,6.0,Lightning,60.0,,,,10,False,False,0.0,0.0
+04290,Ram Rider,82.0,Mega Knight,63.0,Barbarian Barrel,6.0,Lightning,60.0,,,,10,False,False,0.0,0.0
+04305,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,Mega Knight,63.0,2.0,3,True,True,7.0,7.0
+04320,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+04335,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+04350,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+04365,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+04380,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+04395,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+04410,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+04425,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+04440,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+04455,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+04470,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+04485,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+04500,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+04515,Ram Rider,82.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+04530,Fisherman,32.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,Ram Rider,82.0,1.0,3,True,True,5.0,5.0
+04545,Fisherman,32.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+04560,Fisherman,32.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+04575,Fisherman,32.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+04590,Fisherman,32.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+04605,Fisherman,32.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+04620,Fisherman,32.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+04635,Fisherman,32.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+04650,Fisherman,32.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+04665,Fisherman,32.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+04680,Fisherman,32.0,Zap,107.0,Barbarian Barrel,6.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+04695,Fisherman,32.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,Barbarian Barrel,6.0,3.0,5,True,True,2.0,2.0
+04710,Fisherman,32.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+04725,Skeleton Dragons,92.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,Fisherman,32.0,1.0,3,True,True,2.0,3.0
+04740,Skeleton Dragons,92.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+04755,Skeleton Dragons,92.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+04770,Skeleton Dragons,92.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+04785,Skeleton Dragons,92.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+04800,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,Skeleton Dragons,92.0,1.0,1,True,True,3.0,4.0
+04815,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,1,False,False,0.0,0.0
+04830,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,1,False,False,0.0,0.0
+04845,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+04860,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+04875,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+04890,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+04905,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+04920,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+04935,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+04950,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+04965,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+04980,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+04995,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+05010,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+05025,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+05040,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+05055,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+05070,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+05085,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+05100,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+05115,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+05130,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+05145,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+05160,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+05175,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,,,,10,False,False,0.0,0.0
+05190,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Lightning,60.0,Musketeer,73.0,3.0,6,True,True,4.0,4.0
+05205,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+05220,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+05235,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+05250,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+05265,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+05280,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+05295,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+05310,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+05325,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+05340,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+05355,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,Lightning,60.0,4.0,4,True,True,5.0,6.0
+05370,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05385,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05400,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05415,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05430,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05445,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05460,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05475,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05490,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05505,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05520,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05535,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05550,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05565,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+05580,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+05595,Fisherman,32.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,Mega Knight,63.0,1.0,2,True,True,7.0,7.0
+05610,Fisherman,32.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05625,Fisherman,32.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05640,Fisherman,32.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05655,Fisherman,32.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05670,Fisherman,32.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05685,Fisherman,32.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05700,Fisherman,32.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05715,Fisherman,32.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05730,Fisherman,32.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05745,Fisherman,32.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05760,Fisherman,32.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05775,Fisherman,32.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05790,Fisherman,32.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05805,Fisherman,32.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05820,Fisherman,32.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05835,Fisherman,32.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05850,Fisherman,32.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05865,Skeleton Dragons,92.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,Fisherman,32.0,1.0,6,True,True,2.0,3.0
+05880,Skeleton Dragons,92.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05895,Skeleton Dragons,92.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05910,Skeleton Dragons,92.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05925,Skeleton Dragons,92.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05940,Skeleton Dragons,92.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05955,Skeleton Dragons,92.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05970,Skeleton Dragons,92.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05985,Skeleton Dragons,92.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+06000,Skeleton Dragons,92.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+06015,Skeleton Dragons,92.0,Zap,107.0,Ram Rider,82.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+06030,Skeleton Dragons,92.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,Barbarian Barrel,6.0,4.0,8,True,True,1.0,2.0
+06045,Skeleton Dragons,92.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+06060,Lightning,60.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,Skeleton Dragons,92.0,1.0,4,True,True,4.0,4.0
+06075,Lightning,60.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+06090,Lightning,60.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+06105,Lightning,60.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+06120,Lightning,60.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+06135,Lightning,60.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+06150,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,Lightning,60.0,1.0,1,True,True,5.0,6.0
+06165,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+06180,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+06195,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+06210,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+06225,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+06240,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+06255,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+06270,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+06285,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+06300,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+06315,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+06330,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+06345,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+06360,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+06375,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+06390,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+06405,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+06420,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+06435,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+06450,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+06465,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+06480,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,Musketeer,73.0,4.0,5,True,True,3.0,4.0
+06495,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+06510,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+06525,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+06540,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+06555,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+06570,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+06585,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+06600,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+06615,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+06630,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+06645,Mega Knight,63.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+06660,Barbarian Barrel,6.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,Mega Knight,63.0,1.0,2,True,True,6.0,7.0
+06675,Barbarian Barrel,6.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+06690,Barbarian Barrel,6.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+06705,Barbarian Barrel,6.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+06720,Barbarian Barrel,6.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+06735,Barbarian Barrel,6.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+06750,Barbarian Barrel,6.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+06765,Barbarian Barrel,6.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+06780,Barbarian Barrel,6.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+06795,Barbarian Barrel,6.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+06810,Barbarian Barrel,6.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+06825,Barbarian Barrel,6.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+06840,Barbarian Barrel,6.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+06855,Barbarian Barrel,6.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+06870,Barbarian Barrel,6.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+06885,Barbarian Barrel,6.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+06900,Barbarian Barrel,6.0,Zap,107.0,Ram Rider,82.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+06915,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Fisherman,32.0,Ram Rider,82.0,3.0,3,True,True,4.0,5.0
+06930,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+06945,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+06960,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+06975,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+06990,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+07005,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+07020,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+07035,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+07050,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+07065,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+07080,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,Fisherman,32.0,4.0,4,True,True,2.0,3.0
+07095,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+07110,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+07125,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+07140,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+07155,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+07170,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+07185,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+07200,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+07215,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Musketeer,73.0,Lightning,60.0,4.0,1,True,True,6.0,6.0
+07230,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+07245,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+07260,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+07275,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+07290,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+07305,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+07320,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+07335,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+07350,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+07365,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+07380,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+07395,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+07410,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+07425,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+07440,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+07455,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+07470,Barbarian Barrel,6.0,Zap,107.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+07485,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,Musketeer,73.0,Zap,107.0,2.0,7,True,True,1.0,2.0
+07500,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+07515,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+07530,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+07545,Barbarian Barrel,6.0,Mega Knight,63.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+07560,Barbarian Barrel,6.0,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Mega Knight,63.0,2.0,3,True,True,6.0,7.0
+07575,Barbarian Barrel,6.0,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+07590,Barbarian Barrel,6.0,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+07605,Barbarian Barrel,6.0,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+07620,Barbarian Barrel,6.0,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+07635,Barbarian Barrel,6.0,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+07650,Barbarian Barrel,6.0,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+07665,Barbarian Barrel,6.0,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+07680,Barbarian Barrel,6.0,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+07695,Barbarian Barrel,6.0,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+07710,Barbarian Barrel,6.0,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+07725,Barbarian Barrel,6.0,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+07740,Barbarian Barrel,6.0,Ram Rider,82.0,Fisherman,32.0,Musketeer,73.0,Skeleton Dragons,92.0,3.0,5,True,True,3.0,4.0
+07755,Barbarian Barrel,6.0,Ram Rider,82.0,Fisherman,32.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+07770,Barbarian Barrel,6.0,Ram Rider,82.0,Fisherman,32.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+07785,Barbarian Barrel,6.0,Ram Rider,82.0,Fisherman,32.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+07800,Barbarian Barrel,6.0,Ram Rider,82.0,Lightning,60.0,Musketeer,73.0,Fisherman,32.0,3.0,4,True,True,3.0,3.0
+07815,Barbarian Barrel,6.0,Ram Rider,82.0,Lightning,60.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+07830,Barbarian Barrel,6.0,Ram Rider,82.0,Lightning,60.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+07845,Barbarian Barrel,6.0,Ram Rider,82.0,Lightning,60.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+07860,Barbarian Barrel,6.0,Ram Rider,82.0,Lightning,60.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+07875,Barbarian Barrel,6.0,Ram Rider,82.0,Zap,107.0,Musketeer,73.0,Lightning,60.0,3.0,7,True,True,6.0,6.0
+07890,Barbarian Barrel,6.0,Ram Rider,82.0,Zap,107.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+07905,Barbarian Barrel,6.0,Ram Rider,82.0,Zap,107.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+07920,Barbarian Barrel,6.0,Ram Rider,82.0,Zap,107.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+07935,Barbarian Barrel,6.0,Ram Rider,82.0,Zap,107.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+07950,Barbarian Barrel,6.0,Ram Rider,82.0,Zap,107.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+07965,Barbarian Barrel,6.0,Ram Rider,82.0,Zap,107.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+07980,Barbarian Barrel,6.0,Ram Rider,82.0,Zap,107.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+07995,Barbarian Barrel,6.0,Ram Rider,82.0,Zap,107.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+08010,Barbarian Barrel,6.0,Ram Rider,82.0,Zap,107.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+08025,Barbarian Barrel,6.0,Ram Rider,82.0,Zap,107.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+08040,Mega Knight,63.0,Ram Rider,82.0,Zap,107.0,Musketeer,73.0,Barbarian Barrel,6.0,1.0,5,True,True,1.0,2.0
+08055,Mega Knight,63.0,Ram Rider,82.0,Zap,107.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+08070,Mega Knight,63.0,Ram Rider,82.0,Zap,107.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+08085,Mega Knight,63.0,Skeleton Dragons,92.0,Zap,107.0,Musketeer,73.0,Ram Rider,82.0,2.0,1,True,True,5.0,5.0
+08100,Mega Knight,63.0,Skeleton Dragons,92.0,Zap,107.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+08115,Mega Knight,63.0,Skeleton Dragons,92.0,Zap,107.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+08130,Mega Knight,63.0,Skeleton Dragons,92.0,Zap,107.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08145,Mega Knight,63.0,Skeleton Dragons,92.0,Zap,107.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+08160,Mega Knight,63.0,Skeleton Dragons,92.0,Zap,107.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+08175,Mega Knight,63.0,Skeleton Dragons,92.0,Zap,107.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+08190,Mega Knight,63.0,Fisherman,32.0,Zap,107.0,Musketeer,73.0,Skeleton Dragons,92.0,2.0,1,True,True,4.0,4.0
+08205,Mega Knight,63.0,Fisherman,32.0,Zap,107.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+08220,Mega Knight,63.0,Fisherman,32.0,Zap,107.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+08235,Mega Knight,63.0,Fisherman,32.0,Zap,107.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08250,Mega Knight,63.0,Fisherman,32.0,Lightning,60.0,Musketeer,73.0,Zap,107.0,3.0,1,True,True,2.0,2.0
+08265,Mega Knight,63.0,Fisherman,32.0,Lightning,60.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+08280,Mega Knight,63.0,Fisherman,32.0,Lightning,60.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+08295,Mega Knight,63.0,Fisherman,32.0,Lightning,60.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08310,Mega Knight,63.0,Fisherman,32.0,Lightning,60.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08325,Mega Knight,63.0,Barbarian Barrel,6.0,Lightning,60.0,Musketeer,73.0,Fisherman,32.0,2.0,1,True,True,2.0,3.0
+08340,Mega Knight,63.0,Barbarian Barrel,6.0,Lightning,60.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+08355,Mega Knight,63.0,Barbarian Barrel,6.0,Lightning,60.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+08370,Mega Knight,63.0,Barbarian Barrel,6.0,Lightning,60.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08385,Mega Knight,63.0,Ram Rider,82.0,Lightning,60.0,Musketeer,73.0,Barbarian Barrel,6.0,2.0,1,True,True,2.0,2.0
+08400,Mega Knight,63.0,Ram Rider,82.0,Lightning,60.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+08415,Mega Knight,63.0,Ram Rider,82.0,Lightning,60.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+08430,Mega Knight,63.0,Ram Rider,82.0,Lightning,60.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08445,Mega Knight,63.0,Ram Rider,82.0,Lightning,60.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08460,Mega Knight,63.0,Ram Rider,82.0,Lightning,60.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+08475,Mega Knight,63.0,Ram Rider,82.0,Lightning,60.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+08490,Mega Knight,63.0,Ram Rider,82.0,Lightning,60.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+08505,Mega Knight,63.0,Ram Rider,82.0,Lightning,60.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+08520,Mega Knight,63.0,Ram Rider,82.0,Lightning,60.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+08535,Mega Knight,63.0,Ram Rider,82.0,Lightning,60.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+08550,Mega Knight,63.0,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Lightning,60.0,3.0,2,True,True,4.0,6.0
+08565,Mega Knight,63.0,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+08580,Mega Knight,63.0,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+08595,Mega Knight,63.0,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08610,Mega Knight,63.0,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08625,Mega Knight,63.0,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+08640,Mega Knight,63.0,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+08655,Mega Knight,63.0,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+08670,Mega Knight,63.0,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+08685,Mega Knight,63.0,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+08700,Mega Knight,63.0,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+08715,Mega Knight,63.0,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+08730,Mega Knight,63.0,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+08745,Mega Knight,63.0,Zap,107.0,Skeleton Dragons,92.0,Musketeer,73.0,Ram Rider,82.0,2.0,3,True,True,5.0,5.0
+08760,Mega Knight,63.0,Zap,107.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+08775,Mega Knight,63.0,Zap,107.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+08790,Mega Knight,63.0,Zap,107.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+08805,Mega Knight,63.0,Zap,107.0,Fisherman,32.0,Musketeer,73.0,Skeleton Dragons,92.0,3.0,1,True,True,4.0,4.0
+08820,Mega Knight,63.0,Zap,107.0,Fisherman,32.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+08835,Mega Knight,63.0,Zap,107.0,Fisherman,32.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+08850,Mega Knight,63.0,Zap,107.0,Fisherman,32.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08865,Mega Knight,63.0,Zap,107.0,Fisherman,32.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08880,Mega Knight,63.0,Barbarian Barrel,6.0,Fisherman,32.0,Musketeer,73.0,Zap,107.0,2.0,2,True,True,1.0,2.0
+08895,Mega Knight,63.0,Barbarian Barrel,6.0,Fisherman,32.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+08910,Mega Knight,63.0,Barbarian Barrel,6.0,Fisherman,32.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08925,Mega Knight,63.0,Barbarian Barrel,6.0,Fisherman,32.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08940,Mega Knight,63.0,Lightning,60.0,Fisherman,32.0,Musketeer,73.0,Barbarian Barrel,6.0,2.0,2,True,True,1.0,2.0
+08955,Mega Knight,63.0,Lightning,60.0,Fisherman,32.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08970,Mega Knight,63.0,Lightning,60.0,Fisherman,32.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08985,Mega Knight,63.0,Lightning,60.0,Fisherman,32.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+09000,Mega Knight,63.0,Lightning,60.0,Fisherman,32.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+09015,Mega Knight,63.0,Lightning,60.0,Fisherman,32.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+09030,Mega Knight,63.0,Lightning,60.0,Fisherman,32.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+09045,Mega Knight,63.0,Lightning,60.0,Fisherman,32.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+09060,Mega Knight,63.0,Lightning,60.0,Fisherman,32.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+09075,Mega Knight,63.0,Ram Rider,82.0,Fisherman,32.0,Musketeer,73.0,Lightning,60.0,2.0,7,True,True,6.0,6.0
+09090,Mega Knight,63.0,Ram Rider,82.0,Fisherman,32.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+09105,Mega Knight,63.0,Ram Rider,82.0,Fisherman,32.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+09120,Mega Knight,63.0,Ram Rider,82.0,Fisherman,32.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+09135,Mega Knight,63.0,Ram Rider,82.0,Fisherman,32.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+09150,Mega Knight,63.0,Ram Rider,82.0,Fisherman,32.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+09165,Mega Knight,63.0,Ram Rider,82.0,Fisherman,32.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+09180,Mega Knight,63.0,Ram Rider,82.0,Fisherman,32.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+09195,Mega Knight,63.0,Ram Rider,82.0,Fisherman,32.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+09210,Mega Knight,63.0,Ram Rider,82.0,Fisherman,32.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+09225,Mega Knight,63.0,Ram Rider,82.0,Fisherman,32.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+09240,Mega Knight,63.0,Ram Rider,82.0,Fisherman,32.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+09255,Mega Knight,63.0,Ram Rider,82.0,Fisherman,32.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+09270,Mega Knight,63.0,Ram Rider,82.0,Fisherman,32.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+09285,Mega Knight,63.0,Ram Rider,82.0,Fisherman,32.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+09300,Mega Knight,63.0,Ram Rider,82.0,Fisherman,32.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+09315,Mega Knight,63.0,Ram Rider,82.0,Fisherman,32.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+09330,Mega Knight,63.0,Ram Rider,82.0,Fisherman,32.0,Musketeer,73.0,,,,6,False,False,0.0,0.0

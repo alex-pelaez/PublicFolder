@@ -1,0 +1,469 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+00255,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+00270,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+00285,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+00300,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+00315,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+00330,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+00345,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+00360,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+00375,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+00390,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+00405,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+00420,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+00435,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+00450,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+00465,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+00480,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+00495,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+00510,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Ice Spirit,54.0,Skeletons,94.0,4.0,8,True,True,1.0,1.0
+00525,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+00540,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Ice Spirit,54.0,,,,9,False,False,0.0,0.0
+00555,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Ice Spirit,54.0,,,,9,False,False,0.0,0.0
+00570,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Ice Spirit,54.0,,,,9,False,False,0.0,0.0
+00585,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Ice Spirit,54.0,,,,9,False,False,0.0,0.0
+00600,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Cannon,15.0,Ice Spirit,54.0,4.0,8,True,True,1.0,1.0
+00615,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Cannon,15.0,,,,9,False,False,0.0,0.0
+00630,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Cannon,15.0,,,,9,False,False,0.0,0.0
+00645,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Cannon,15.0,,,,9,False,False,0.0,0.0
+00660,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Cannon,15.0,,,,9,False,False,0.0,0.0
+00675,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Cannon,15.0,,,,9,False,False,0.0,0.0
+00690,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Cannon,15.0,,,,9,False,False,0.0,0.0
+00705,The Log,98.0,Hog Rider,51.0,Ice Golem,53.0,Cannon,15.0,,,,10,False,False,0.0,0.0
+00720,The Log,98.0,Fireball,30.0,Ice Golem,53.0,Cannon,15.0,Hog Rider,51.0,2.0,6,True,True,4.0,4.0
+00735,The Log,98.0,Fireball,30.0,Ice Golem,53.0,Cannon,15.0,,,,6,False,False,0.0,0.0
+00750,The Log,98.0,Fireball,30.0,Ice Golem,53.0,Cannon,15.0,,,,6,False,False,0.0,0.0
+00765,The Log,98.0,Fireball,30.0,Ice Golem,53.0,Cannon,15.0,,,,6,False,False,0.0,0.0
+00780,The Log,98.0,Fireball,30.0,Ice Golem,53.0,Cannon,15.0,,,,6,False,False,0.0,0.0
+00795,The Log,98.0,Fireball,30.0,Ice Golem,53.0,Cannon,15.0,,,,7,False,False,0.0,0.0
+00810,The Log,98.0,Fireball,30.0,Ice Golem,53.0,Cannon,15.0,,,,7,False,False,0.0,0.0
+00825,The Log,98.0,Fireball,30.0,Ice Golem,53.0,Cannon,15.0,,,,7,False,False,0.0,0.0
+00840,The Log,98.0,Fireball,30.0,Ice Golem,53.0,Cannon,15.0,,,,7,False,False,0.0,0.0
+00855,The Log,98.0,Fireball,30.0,Ice Golem,53.0,Cannon,15.0,,,,7,False,False,0.0,0.0
+00870,The Log,98.0,Fireball,30.0,Ice Golem,53.0,Cannon,15.0,,,,7,False,False,0.0,0.0
+00885,The Log,98.0,Fireball,30.0,Ice Golem,53.0,Cannon,15.0,,,,8,False,False,0.0,0.0
+00900,The Log,98.0,Fireball,30.0,Ice Golem,53.0,Cannon,15.0,,,,8,False,False,0.0,0.0
+00915,The Log,98.0,Fireball,30.0,Ice Golem,53.0,Cannon,15.0,,,,8,False,False,0.0,0.0
+00930,The Log,98.0,Fireball,30.0,Ice Golem,53.0,Cannon,15.0,,,,8,False,False,0.0,0.0
+00945,The Log,98.0,Fireball,30.0,Ice Golem,53.0,Cannon,15.0,,,,8,False,False,0.0,0.0
+00960,The Log,98.0,Fireball,30.0,Ice Golem,53.0,Cannon,15.0,,,,9,False,False,0.0,0.0
+00975,The Log,98.0,Fireball,30.0,Ice Golem,53.0,Cannon,15.0,,,,9,False,False,0.0,0.0
+00990,The Log,98.0,Fireball,30.0,Ice Golem,53.0,Cannon,15.0,,,,9,False,False,0.0,0.0
+01005,The Log,98.0,Fireball,30.0,Ice Golem,53.0,Cannon,15.0,,,,9,False,False,0.0,0.0
+01020,The Log,98.0,Fireball,30.0,Musketeer,73.0,Cannon,15.0,Ice Golem,53.0,3.0,7,True,True,2.0,2.0
+01035,The Log,98.0,Fireball,30.0,Musketeer,73.0,Cannon,15.0,,,,7,False,False,0.0,0.0
+01050,The Log,98.0,Fireball,30.0,Musketeer,73.0,Cannon,15.0,,,,8,False,False,0.0,0.0
+01065,The Log,98.0,Fireball,30.0,Musketeer,73.0,Cannon,15.0,,,,8,False,False,0.0,0.0
+01080,The Log,98.0,Fireball,30.0,Musketeer,73.0,Cannon,15.0,,,,8,False,False,0.0,0.0
+01095,The Log,98.0,Fireball,30.0,Musketeer,73.0,Cannon,15.0,,,,8,False,False,0.0,0.0
+01110,The Log,98.0,Fireball,30.0,Musketeer,73.0,Cannon,15.0,,,,8,False,False,0.0,0.0
+01125,The Log,98.0,Fireball,30.0,Musketeer,73.0,Cannon,15.0,,,,9,False,False,0.0,0.0
+01140,The Log,98.0,Fireball,30.0,Musketeer,73.0,Cannon,15.0,,,,9,False,False,0.0,0.0
+01155,The Log,98.0,Fireball,30.0,Musketeer,73.0,Cannon,15.0,,,,9,False,False,0.0,0.0
+01170,The Log,98.0,Fireball,30.0,Musketeer,73.0,Cannon,15.0,,,,9,False,False,0.0,0.0
+01185,The Log,98.0,Fireball,30.0,Musketeer,73.0,Cannon,15.0,,,,9,False,False,0.0,0.0
+01200,The Log,98.0,Fireball,30.0,Musketeer,73.0,Cannon,15.0,,,,9,False,False,0.0,0.0
+01215,The Log,98.0,Fireball,30.0,Musketeer,73.0,Cannon,15.0,,,,10,False,False,0.0,0.0
+01230,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,Fireball,30.0,2.0,6,True,True,4.0,4.0
+01245,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,,,,6,False,False,0.0,0.0
+01260,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,,,,6,False,False,0.0,0.0
+01275,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,,,,6,False,False,0.0,0.0
+01290,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,,,,6,False,False,0.0,0.0
+01305,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,,,,7,False,False,0.0,0.0
+01320,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,,,,7,False,False,0.0,0.0
+01335,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,,,,7,False,False,0.0,0.0
+01350,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,,,,7,False,False,0.0,0.0
+01365,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,,,,7,False,False,0.0,0.0
+01380,Ice Spirit,54.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,The Log,98.0,1.0,5,True,True,2.0,2.0
+01395,Ice Spirit,54.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,,,,6,False,False,0.0,0.0
+01410,Ice Spirit,54.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,,,,6,False,False,0.0,0.0
+01425,Hog Rider,51.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,Ice Spirit,54.0,1.0,5,True,True,1.0,1.0
+01440,Hog Rider,51.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+01455,Hog Rider,51.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+01470,Hog Rider,51.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,,,,6,False,False,0.0,0.0
+01485,Ice Golem,53.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,4.0,2,True,True,4.0,3.0
+01500,Ice Golem,53.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+01515,Ice Golem,53.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+01530,Ice Golem,53.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+01545,Ice Golem,53.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+01560,Ice Golem,53.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+01575,Ice Golem,53.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+01590,Ice Golem,53.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,0,False,True,3.0,0.0
+01605,Ice Golem,53.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,0,False,False,0.0,0.0
+01620,Ice Golem,53.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,0,False,False,0.0,0.0
+01635,Ice Golem,53.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,0,False,False,0.0,0.0
+01650,Ice Golem,53.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+01665,Ice Golem,53.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+01680,Ice Golem,53.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+01695,Ice Golem,53.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+01710,Ice Golem,53.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+01725,Ice Golem,53.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+01740,Ice Golem,53.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+01755,Ice Golem,53.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+01770,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,Ice Golem,53.0,1.0,0,True,True,2.0,2.0
+01785,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,0,False,False,0.0,0.0
+01800,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,0,False,False,0.0,0.0
+01815,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+01830,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+01845,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+01860,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+01875,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+01890,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+01905,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+01920,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+01935,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+01950,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+01965,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+01980,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+01995,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02010,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02025,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02040,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Fireball,30.0,Skeletons,94.0,2.0,2,True,True,1.0,1.0
+02055,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02070,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02085,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02100,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02115,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02130,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02145,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+02160,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+02175,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+02190,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Hog Rider,51.0,Fireball,30.0,4.0,0,True,True,4.0,4.0
+02205,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Hog Rider,51.0,,,,0,False,False,0.0,0.0
+02220,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Hog Rider,51.0,,,,0,False,False,0.0,0.0
+02235,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+02250,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+02265,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+02280,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+02295,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+02310,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+02325,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+02340,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+02355,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+02370,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+02385,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+02400,The Log,98.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,Ice Spirit,54.0,2.0,2,True,False,0.0,1.0
+02415,The Log,98.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+02430,The Log,98.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+02445,The Log,98.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+02460,The Log,98.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+02475,The Log,98.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+02490,The Log,98.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+02505,The Log,98.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+02520,The Log,98.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,0,False,True,3.0,0.0
+02535,The Log,98.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,0,False,False,0.0,0.0
+02550,The Log,98.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,0,False,False,0.0,0.0
+02565,The Log,98.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+02580,The Log,98.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+02595,The Log,98.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+02610,The Log,98.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+02625,The Log,98.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+02640,The Log,98.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+02655,The Log,98.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+02670,The Log,98.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+02685,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,The Log,98.0,1.0,3,True,False,0.0,2.0
+02700,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+02715,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+02730,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+02745,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,1,False,True,2.0,0.0
+02760,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+02775,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+02790,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+02805,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+02820,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+02835,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+02850,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+02865,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+02880,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+02895,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+02910,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+02925,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+02940,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+02955,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+02970,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+02985,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+03000,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+03015,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+03030,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+03045,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+03060,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+03075,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+03090,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+03105,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+03120,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+03135,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+03150,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+03165,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+03180,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+03195,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+03210,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+03225,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+03240,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+03255,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+03270,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+03285,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+03300,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+03315,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+03330,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+03345,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+03360,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+03375,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+03390,Skeletons,94.0,Ice Golem,53.0,Musketeer,73.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+03405,Skeletons,94.0,Ice Golem,53.0,Fireball,30.0,Hog Rider,51.0,Musketeer,73.0,3.0,5,True,True,3.0,4.0
+03420,Skeletons,94.0,Ice Golem,53.0,Fireball,30.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+03435,Skeletons,94.0,Ice Golem,53.0,Fireball,30.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+03450,Skeletons,94.0,Ice Golem,53.0,Fireball,30.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+03465,Skeletons,94.0,Ice Golem,53.0,Fireball,30.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+03480,Skeletons,94.0,Ice Golem,53.0,Fireball,30.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+03495,Skeletons,94.0,Ice Golem,53.0,Fireball,30.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+03510,Skeletons,94.0,Ice Golem,53.0,Fireball,30.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+03525,Skeletons,94.0,Ice Golem,53.0,Fireball,30.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+03540,Skeletons,94.0,Ice Golem,53.0,Fireball,30.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+03555,Skeletons,94.0,Ice Golem,53.0,Fireball,30.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+03570,Skeletons,94.0,Ice Golem,53.0,Fireball,30.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+03585,Skeletons,94.0,Ice Golem,53.0,Fireball,30.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+03600,Skeletons,94.0,Ice Golem,53.0,Fireball,30.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+03615,Skeletons,94.0,Ice Golem,53.0,Fireball,30.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+03630,Skeletons,94.0,Ice Golem,53.0,Fireball,30.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+03645,Skeletons,94.0,Ice Golem,53.0,Fireball,30.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+03660,Skeletons,94.0,Ice Golem,53.0,Fireball,30.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+03675,Skeletons,94.0,Ice Golem,53.0,Fireball,30.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+03690,Skeletons,94.0,Ice Golem,53.0,Fireball,30.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+03705,Skeletons,94.0,Ice Golem,53.0,Fireball,30.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+03720,Skeletons,94.0,Ice Golem,53.0,Fireball,30.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+03735,Skeletons,94.0,Ice Golem,53.0,Fireball,30.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+03750,Skeletons,94.0,Ice Golem,53.0,Fireball,30.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+03765,Skeletons,94.0,Ice Golem,53.0,Fireball,30.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+03780,Skeletons,94.0,Ice Spirit,54.0,Fireball,30.0,Hog Rider,51.0,Ice Golem,53.0,2.0,10,True,True,2.0,2.0
+03795,Skeletons,94.0,Ice Spirit,54.0,Fireball,30.0,Hog Rider,51.0,,,,10,False,False,0.0,0.0
+03810,Skeletons,94.0,Ice Spirit,54.0,Fireball,30.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+03825,Skeletons,94.0,Ice Spirit,54.0,Fireball,30.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+03840,Skeletons,94.0,The Log,98.0,Fireball,30.0,Cannon,15.0,Hog Rider,51.0,4.0,4,True,True,5.0,4.0
+03855,Skeletons,94.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+03870,Skeletons,94.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+03885,Skeletons,94.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+03900,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,The Log,98.0,2.0,3,True,True,2.0,2.0
+03915,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+03930,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+03945,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+03960,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+03975,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+03990,Ice Golem,53.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,Skeletons,94.0,1.0,5,True,False,0.0,1.0
+04005,Ice Golem,53.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+04020,Ice Golem,53.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+04035,Ice Golem,53.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,,,,6,False,False,0.0,0.0
+04050,Hog Rider,51.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,Ice Golem,53.0,1.0,4,True,True,2.0,2.0
+04065,Hog Rider,51.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+04080,Hog Rider,51.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+04095,Ice Spirit,54.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,Hog Rider,51.0,1.0,1,True,True,4.0,4.0
+04110,Ice Spirit,54.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,,,,1,False,False,0.0,0.0
+04125,Ice Spirit,54.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,,,,2,False,False,0.0,0.0
+04140,Ice Spirit,54.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,,,,2,False,False,0.0,0.0
+04155,Ice Spirit,54.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,,,,2,False,False,0.0,0.0
+04170,Ice Spirit,54.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+04185,Ice Spirit,54.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+04200,Ice Spirit,54.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+04215,Ice Spirit,54.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+04230,Ice Spirit,54.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+04245,Ice Spirit,54.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+04260,Ice Spirit,54.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+04275,Ice Spirit,54.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+04290,Ice Spirit,54.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,,,,6,False,False,0.0,0.0
+04305,Ice Spirit,54.0,Musketeer,73.0,Fireball,30.0,Cannon,15.0,,,,6,False,False,0.0,0.0
+04320,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,Cannon,15.0,Musketeer,73.0,2.0,2,True,True,4.0,4.0
+04335,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+04350,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+04365,Skeletons,94.0,The Log,98.0,Fireball,30.0,Cannon,15.0,Ice Spirit,54.0,1.0,2,True,True,1.0,1.0
+04380,Skeletons,94.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+04395,Skeletons,94.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+04410,Skeletons,94.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+04425,Skeletons,94.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+04440,Skeletons,94.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+04455,Skeletons,94.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+04470,Ice Golem,53.0,The Log,98.0,Fireball,30.0,Cannon,15.0,Skeletons,94.0,1.0,4,True,True,1.0,1.0
+04485,Ice Golem,53.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+04500,Ice Golem,53.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+04515,Ice Golem,53.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+04530,Ice Golem,53.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+04545,Hog Rider,51.0,The Log,98.0,Fireball,30.0,Cannon,15.0,Ice Golem,53.0,1.0,4,True,True,1.0,2.0
+04560,Hog Rider,51.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+04575,Hog Rider,51.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+04590,Hog Rider,51.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+04605,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,Hog Rider,51.0,1.0,1,True,True,4.0,4.0
+04620,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,2,False,False,0.0,0.0
+04635,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,2,False,False,0.0,0.0
+04650,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,2,False,False,0.0,0.0
+04665,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+04680,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+04695,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+04710,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+04725,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+04740,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+04755,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+04770,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+04785,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+04800,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,6,False,False,0.0,0.0
+04815,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,6,False,False,0.0,0.0
+04830,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,7,False,False,0.0,0.0
+04845,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,7,False,False,0.0,0.0
+04860,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,7,False,False,0.0,0.0
+04875,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,Cannon,15.0,Musketeer,73.0,1.0,4,True,True,3.0,4.0
+04890,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+04905,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+04920,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+04935,Skeletons,94.0,The Log,98.0,Fireball,30.0,Cannon,15.0,Ice Spirit,54.0,1.0,4,True,True,1.0,1.0
+04950,Skeletons,94.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+04965,Skeletons,94.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+04980,Skeletons,94.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+04995,Skeletons,94.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+05010,Skeletons,94.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,6,False,False,0.0,0.0
+05025,Ice Golem,53.0,The Log,98.0,Fireball,30.0,Cannon,15.0,Skeletons,94.0,1.0,5,True,True,1.0,1.0
+05040,Ice Golem,53.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,6,False,False,0.0,0.0
+05055,Ice Golem,53.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,6,False,False,0.0,0.0
+05070,Ice Golem,53.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,6,False,False,0.0,0.0
+05085,Hog Rider,51.0,The Log,98.0,Fireball,30.0,Cannon,15.0,Ice Golem,53.0,1.0,5,True,True,1.0,2.0
+05100,Hog Rider,51.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+05115,Hog Rider,51.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+05130,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,Hog Rider,51.0,1.0,2,True,True,3.0,4.0
+05145,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,2,False,False,0.0,0.0
+05160,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,2,False,False,0.0,0.0
+05175,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+05190,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+05205,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+05220,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+05235,Musketeer,73.0,Ice Spirit,54.0,Fireball,30.0,Cannon,15.0,The Log,98.0,2.0,2,True,True,2.0,2.0
+05250,Musketeer,73.0,Ice Spirit,54.0,Fireball,30.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+05265,Musketeer,73.0,Ice Spirit,54.0,Fireball,30.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+05280,Musketeer,73.0,Ice Spirit,54.0,Fireball,30.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+05295,Musketeer,73.0,Ice Spirit,54.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+05310,Musketeer,73.0,Ice Spirit,54.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+05325,Musketeer,73.0,Ice Spirit,54.0,Fireball,30.0,Skeletons,94.0,Cannon,15.0,4.0,1,True,True,3.0,3.0
+05340,Musketeer,73.0,Ice Spirit,54.0,Fireball,30.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+05355,Musketeer,73.0,Ice Spirit,54.0,Fireball,30.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+05370,Musketeer,73.0,Ice Spirit,54.0,Fireball,30.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+05385,Musketeer,73.0,Ice Spirit,54.0,Fireball,30.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+05400,Musketeer,73.0,Ice Spirit,54.0,Fireball,30.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+05415,Musketeer,73.0,Ice Golem,53.0,Fireball,30.0,Skeletons,94.0,Ice Spirit,54.0,2.0,2,True,True,1.0,1.0
+05430,Musketeer,73.0,Ice Golem,53.0,Fireball,30.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+05445,Musketeer,73.0,Ice Golem,53.0,Fireball,30.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+05460,Musketeer,73.0,Ice Golem,53.0,Fireball,30.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+05475,Musketeer,73.0,Hog Rider,51.0,Fireball,30.0,Skeletons,94.0,Ice Golem,53.0,2.0,2,True,True,2.0,2.0
+05490,Musketeer,73.0,Hog Rider,51.0,Fireball,30.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+05505,Musketeer,73.0,Hog Rider,51.0,Fireball,30.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+05520,Musketeer,73.0,Hog Rider,51.0,Fireball,30.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+05535,Musketeer,73.0,Hog Rider,51.0,Fireball,30.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+05550,Musketeer,73.0,Hog Rider,51.0,Fireball,30.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+05565,Musketeer,73.0,Hog Rider,51.0,Fireball,30.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+05580,Musketeer,73.0,Hog Rider,51.0,Fireball,30.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+05595,Musketeer,73.0,Hog Rider,51.0,Fireball,30.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+05610,Musketeer,73.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,Hog Rider,51.0,2.0,1,True,True,4.0,4.0
+05625,Musketeer,73.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,,,,1,False,False,0.0,0.0
+05640,Musketeer,73.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+05655,Musketeer,73.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+05670,Musketeer,73.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+05685,Musketeer,73.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+05700,Musketeer,73.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+05715,Musketeer,73.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+05730,Musketeer,73.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+05745,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,Skeletons,94.0,4.0,3,True,True,1.0,1.0
+05760,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+05775,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+05790,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+05805,Musketeer,73.0,The Log,98.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+05820,Musketeer,73.0,Ice Spirit,54.0,Fireball,30.0,Cannon,15.0,The Log,98.0,2.0,3,True,True,2.0,2.0
+05835,Musketeer,73.0,Ice Spirit,54.0,Fireball,30.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+05850,Musketeer,73.0,Ice Spirit,54.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+05865,Musketeer,73.0,Ice Spirit,54.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+05880,Musketeer,73.0,Ice Spirit,54.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+05895,Musketeer,73.0,Ice Spirit,54.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+05910,Musketeer,73.0,Ice Spirit,54.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+05925,Ice Golem,53.0,Ice Spirit,54.0,Fireball,30.0,Cannon,15.0,Musketeer,73.0,1.0,2,True,True,3.0,4.0
+05940,Ice Golem,53.0,Ice Spirit,54.0,Fireball,30.0,Cannon,15.0,,,,2,False,False,0.0,0.0
+05955,Ice Golem,53.0,Ice Spirit,54.0,Fireball,30.0,Cannon,15.0,,,,2,False,False,0.0,0.0
+05970,Ice Golem,53.0,Ice Spirit,54.0,Fireball,30.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+05985,Ice Golem,53.0,Ice Spirit,54.0,Fireball,30.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+06000,Hog Rider,51.0,Ice Spirit,54.0,Fireball,30.0,Cannon,15.0,Ice Golem,53.0,1.0,1,True,True,2.0,2.0
+06015,Hog Rider,51.0,Ice Spirit,54.0,Fireball,30.0,Cannon,15.0,,,,2,False,False,0.0,0.0
+06030,Hog Rider,51.0,Skeletons,94.0,Fireball,30.0,Cannon,15.0,Ice Spirit,54.0,2.0,2,True,True,1.0,1.0
+06045,Hog Rider,51.0,Skeletons,94.0,Fireball,30.0,Cannon,15.0,,,,1,False,False,0.0,0.0
+06060,Hog Rider,51.0,Skeletons,94.0,Fireball,30.0,Cannon,15.0,,,,2,False,False,0.0,0.0
+06075,Hog Rider,51.0,Skeletons,94.0,Fireball,30.0,Cannon,15.0,,,,2,False,False,0.0,0.0
+06090,Hog Rider,51.0,Skeletons,94.0,Fireball,30.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+06105,Hog Rider,51.0,Skeletons,94.0,Fireball,30.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+06120,Hog Rider,51.0,Skeletons,94.0,Fireball,30.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+06135,Hog Rider,51.0,Skeletons,94.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+06150,Hog Rider,51.0,Skeletons,94.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+06165,Hog Rider,51.0,Skeletons,94.0,Fireball,30.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+06180,Hog Rider,51.0,Skeletons,94.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+06195,Hog Rider,51.0,Skeletons,94.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+06210,Hog Rider,51.0,Skeletons,94.0,Fireball,30.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+06225,Hog Rider,51.0,Skeletons,94.0,Fireball,30.0,Cannon,15.0,,,,6,False,False,0.0,0.0
+06240,Hog Rider,51.0,Skeletons,94.0,Fireball,30.0,Cannon,15.0,,,,6,False,False,0.0,0.0
+06255,Hog Rider,51.0,Skeletons,94.0,Fireball,30.0,Cannon,15.0,,,,6,False,False,0.0,0.0
+06270,Hog Rider,51.0,Skeletons,94.0,The Log,98.0,Cannon,15.0,Fireball,30.0,3.0,3,True,True,3.0,4.0
+06285,Hog Rider,51.0,Skeletons,94.0,The Log,98.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+06300,Hog Rider,51.0,Skeletons,94.0,The Log,98.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+06315,Hog Rider,51.0,Skeletons,94.0,The Log,98.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+06330,Musketeer,73.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,The Log,98.0,3.0,2,True,True,2.0,2.0
+06345,Hog Rider,51.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,Musketeer,73.0,1.0,3,True,False,0.0,4.0
+06360,Hog Rider,51.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+06375,Hog Rider,51.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+06390,Hog Rider,51.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+06405,Hog Rider,51.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+06420,Hog Rider,51.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+06435,Hog Rider,51.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+06450,Hog Rider,51.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+06465,Hog Rider,51.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,Skeletons,94.0,2.0,4,True,True,1.0,1.0
+06480,Hog Rider,51.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+06495,Hog Rider,51.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+06510,Hog Rider,51.0,Ice Spirit,54.0,Musketeer,73.0,Cannon,15.0,Ice Golem,53.0,2.0,3,True,True,2.0,2.0
+06525,Hog Rider,51.0,Ice Spirit,54.0,Musketeer,73.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+06540,Hog Rider,51.0,Ice Spirit,54.0,Musketeer,73.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+06555,Hog Rider,51.0,Ice Spirit,54.0,Musketeer,73.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+06570,Hog Rider,51.0,Ice Spirit,54.0,Musketeer,73.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+06585,Fireball,30.0,Ice Spirit,54.0,Musketeer,73.0,Cannon,15.0,Hog Rider,51.0,1.0,1,True,True,4.0,4.0
+06600,Fireball,30.0,Ice Spirit,54.0,Musketeer,73.0,Cannon,15.0,,,,2,False,False,0.0,0.0
+06615,Fireball,30.0,Ice Spirit,54.0,Musketeer,73.0,Cannon,15.0,,,,2,False,False,0.0,0.0
+06630,Fireball,30.0,Ice Spirit,54.0,Musketeer,73.0,Cannon,15.0,,,,2,False,False,0.0,0.0
+06645,Fireball,30.0,Ice Spirit,54.0,Musketeer,73.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+06660,Fireball,30.0,Ice Spirit,54.0,Musketeer,73.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+06675,Fireball,30.0,Ice Spirit,54.0,Musketeer,73.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+06690,Fireball,30.0,Ice Spirit,54.0,Musketeer,73.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+06705,Fireball,30.0,Ice Spirit,54.0,Musketeer,73.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+06720,Fireball,30.0,Ice Spirit,54.0,Musketeer,73.0,Cannon,15.0,,,,5,False,False,0.0,0.0
+06735,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Cannon,15.0,Fireball,30.0,1.0,1,True,True,4.0,4.0
+06750,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Cannon,15.0,,,,1,False,False,0.0,0.0
+06765,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Cannon,15.0,,,,2,False,False,0.0,0.0
+06780,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Cannon,15.0,,,,2,False,False,0.0,0.0
+06795,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,Cannon,15.0,,,,2,False,False,0.0,0.0
+06810,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,Ice Spirit,54.0,2.0,2,True,False,0.0,1.0
+06825,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,,,,2,False,False,0.0,0.0
+06840,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,,,,2,False,False,0.0,0.0
+06855,The Log,98.0,Skeletons,94.0,Musketeer,73.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+06870,The Log,98.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,Skeletons,94.0,2.0,2,True,True,1.0,1.0
+06885,The Log,98.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,,,,2,False,False,0.0,0.0
+06900,The Log,98.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+06915,The Log,98.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+06930,The Log,98.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+06945,The Log,98.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+06960,Hog Rider,51.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,The Log,98.0,1.0,2,True,True,2.0,2.0
+06975,Hog Rider,51.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+06990,Hog Rider,51.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+07005,Hog Rider,51.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+07020,Hog Rider,51.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+07035,Hog Rider,51.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+07050,Fireball,30.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,Hog Rider,51.0,1.0,0,True,True,4.0,4.0
+07065,Fireball,30.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,,,,1,False,False,0.0,0.0
+07080,Fireball,30.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,,,,1,False,False,0.0,0.0
+07095,Fireball,30.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,,,,1,False,False,0.0,0.0
+07110,Fireball,30.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,,,,2,False,False,0.0,0.0
+07125,Fireball,30.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,,,,2,False,False,0.0,0.0
+07140,Fireball,30.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+07155,Fireball,30.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+07170,Fireball,30.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,,,,3,False,False,0.0,0.0
+07185,Fireball,30.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+07200,Fireball,30.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+07215,Fireball,30.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,,,,4,False,False,0.0,0.0
+07230,Ice Spirit,54.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,Fireball,30.0,1.0,1,True,True,3.0,4.0
+07245,Ice Spirit,54.0,Ice Golem,53.0,Musketeer,73.0,Cannon,15.0,,,,1,False,False,0.0,0.0

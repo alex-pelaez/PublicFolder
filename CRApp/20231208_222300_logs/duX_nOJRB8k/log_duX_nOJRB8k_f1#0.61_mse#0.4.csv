@@ -1,0 +1,1020 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00225,,,,,Rascals,83.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+00240,,,,,Rascals,83.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+00255,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,2.0,6,True,False,0.0,0.0
+00270,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+00285,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+00300,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+00315,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+00330,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+00345,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+00360,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00375,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00390,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00405,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00420,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00435,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00450,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00465,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00480,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00495,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00510,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00525,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00540,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+00555,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+00570,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+00585,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+00600,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,True,3.0,0.0
+00615,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+00630,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+00645,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+00660,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+00675,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00690,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00705,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00720,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00735,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00750,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00765,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00780,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00795,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00810,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00825,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00840,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00855,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+00870,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+00885,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+00900,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+00915,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+00930,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+00945,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+00960,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,True,3.0,0.0
+00975,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00990,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01005,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01020,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01035,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01050,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01065,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+01080,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+01095,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,6,False,True,3.0,0.0
+01110,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+01125,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+01140,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+01155,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+01170,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+01185,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+01200,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+01215,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,1,False,True,6.0,0.0
+01230,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+01245,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+01260,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+01275,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+01290,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+01305,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+01320,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+01335,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+01350,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+01365,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+01380,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+01395,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+01410,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+01425,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+01440,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+01455,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+01470,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+01485,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+01500,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+01515,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+01530,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+01545,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+01560,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+01575,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+01590,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+01605,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+01620,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+01635,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+01650,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+01665,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+01680,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+01695,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+01710,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+01725,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+01740,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01755,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01770,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01785,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01800,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01815,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+01830,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+01845,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+01860,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+01875,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+01890,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+01905,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+01920,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+01935,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+01950,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,5,False,True,5.0,0.0
+01965,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+01980,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+01995,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+02010,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+02025,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+02040,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+02055,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+02070,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+02085,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+02100,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+02115,Goblin Gang,42.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+02130,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,Rascals,83.0,3.0,2,True,True,5.0,5.0
+02145,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02160,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02175,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02190,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+02205,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+02220,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+02235,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,0,False,True,3.0,0.0
+02250,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,0,False,False,0.0,0.0
+02265,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,0,False,False,0.0,0.0
+02280,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02295,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02310,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02325,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02340,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02355,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02370,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02385,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02400,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02415,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02430,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02445,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+02460,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+02475,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+02490,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+02505,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+02520,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+02535,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+02550,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,1,False,True,3.0,0.0
+02565,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02580,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02595,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02610,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02625,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02640,Goblin Gang,42.0,The Log,98.0,The Log,98.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02655,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,The Log,98.0,2.0,0,True,True,2.0,2.0
+02670,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,0,False,False,0.0,0.0
+02685,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,0,False,False,0.0,0.0
+02700,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02715,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02730,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02745,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02760,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02775,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02790,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02805,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02820,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02835,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02850,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02865,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+02880,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+02895,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+02910,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+02925,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+02940,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+02955,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+02970,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+02985,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+03000,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+03015,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+03030,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+03045,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+03060,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+03075,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+03090,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+03105,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+03120,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+03135,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+03150,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+03165,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+03180,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+03195,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+03210,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+03225,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+03240,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,Rocket,84.0,4.0,7,True,True,6.0,6.0
+03255,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,1,False,False,0.0,0.0
+03270,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,1,False,False,0.0,0.0
+03285,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,2,False,False,0.0,0.0
+03300,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,2,False,False,0.0,0.0
+03315,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,2,False,False,0.0,0.0
+03330,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,2,False,False,0.0,0.0
+03345,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,2,False,False,0.0,0.0
+03360,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,2,False,False,0.0,0.0
+03375,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,3,False,False,0.0,0.0
+03390,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,3,False,False,0.0,0.0
+03405,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,3,False,False,0.0,0.0
+03420,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,3,False,False,0.0,0.0
+03435,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,3,False,False,0.0,0.0
+03450,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,3,False,False,0.0,0.0
+03465,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,4,False,False,0.0,0.0
+03480,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,4,False,False,0.0,0.0
+03495,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,4,False,False,0.0,0.0
+03510,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,4,False,False,0.0,0.0
+03525,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,4,False,False,0.0,0.0
+03540,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,5,False,False,0.0,0.0
+03555,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,5,False,False,0.0,0.0
+03570,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,5,False,False,0.0,0.0
+03585,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,5,False,False,0.0,0.0
+03600,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,5,False,False,0.0,0.0
+03615,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,5,False,False,0.0,0.0
+03630,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,6,False,False,0.0,0.0
+03645,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,6,False,False,0.0,0.0
+03660,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,3,False,True,3.0,0.0
+03675,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,3,False,False,0.0,0.0
+03690,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,3,False,False,0.0,0.0
+03705,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,4,False,False,0.0,0.0
+03720,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,4,False,False,0.0,0.0
+03735,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,4,False,False,0.0,0.0
+03750,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,4,False,False,0.0,0.0
+03765,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,4,False,False,0.0,0.0
+03780,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,4,False,False,0.0,0.0
+03795,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,5,False,False,0.0,0.0
+03810,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,5,False,False,0.0,0.0
+03825,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,5,False,False,0.0,0.0
+03840,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,6,False,False,0.0,0.0
+03855,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,6,False,False,0.0,0.0
+03870,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,3,False,True,3.0,0.0
+03885,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,4,False,False,0.0,0.0
+03900,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,4,False,False,0.0,0.0
+03915,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,5,False,False,0.0,0.0
+03930,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,5,False,False,0.0,0.0
+03945,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,5,False,False,0.0,0.0
+03960,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,6,False,False,0.0,0.0
+03975,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,6,False,False,0.0,0.0
+03990,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,6,False,False,0.0,0.0
+04005,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,7,False,False,0.0,0.0
+04020,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,7,False,False,0.0,0.0
+04035,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,7,False,False,0.0,0.0
+04050,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,5,False,True,2.0,0.0
+04065,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,5,False,False,0.0,0.0
+04080,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,5,False,False,0.0,0.0
+04095,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,6,False,False,0.0,0.0
+04110,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,6,False,False,0.0,0.0
+04125,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,7,False,False,0.0,0.0
+04140,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,7,False,False,0.0,0.0
+04155,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,2,False,True,5.0,0.0
+04170,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,3,False,False,0.0,0.0
+04185,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,3,False,False,0.0,0.0
+04200,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,3,False,False,0.0,0.0
+04215,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,4,False,False,0.0,0.0
+04230,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,4,False,False,0.0,0.0
+04245,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,4,False,False,0.0,0.0
+04260,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,5,False,False,0.0,0.0
+04275,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,5,False,False,0.0,0.0
+04290,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,5,False,False,0.0,0.0
+04305,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,6,False,False,0.0,0.0
+04320,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,6,False,False,0.0,0.0
+04335,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,7,False,False,0.0,0.0
+04350,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,7,False,False,0.0,0.0
+04365,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,7,False,False,0.0,0.0
+04380,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,,,,8,False,False,0.0,0.0
+04395,Goblin Gang,42.0,Goblin Gang,42.0,The Log,98.0,Mortar,71.0,Rascals,83.0,4.0,3,True,True,5.0,5.0
+04410,Goblin Gang,42.0,Goblin Gang,42.0,The Log,98.0,Mortar,71.0,,,,3,False,False,0.0,0.0
+04425,Goblin Gang,42.0,Goblin Gang,42.0,The Log,98.0,Mortar,71.0,,,,4,False,False,0.0,0.0
+04440,Goblin Gang,42.0,Goblin Gang,42.0,The Log,98.0,Mortar,71.0,,,,4,False,False,0.0,0.0
+04455,Goblin Gang,42.0,Goblin Gang,42.0,The Log,98.0,Mortar,71.0,,,,1,False,True,3.0,0.0
+04470,Goblin Gang,42.0,Goblin Gang,42.0,The Log,98.0,Mortar,71.0,,,,2,False,False,0.0,0.0
+04485,Goblin Gang,42.0,Goblin Gang,42.0,The Log,98.0,Mortar,71.0,,,,2,False,False,0.0,0.0
+04500,Goblin Gang,42.0,Goblin Gang,42.0,The Log,98.0,Mortar,71.0,,,,2,False,False,0.0,0.0
+04515,Goblin Gang,42.0,Goblin Gang,42.0,The Log,98.0,Mortar,71.0,,,,3,False,False,0.0,0.0
+04530,Goblin Gang,42.0,Goblin Gang,42.0,The Log,98.0,Mortar,71.0,,,,3,False,False,0.0,0.0
+04545,Goblin Gang,42.0,Goblin Gang,42.0,The Log,98.0,Mortar,71.0,,,,3,False,False,0.0,0.0
+04560,Goblin Gang,42.0,Goblin Gang,42.0,The Log,98.0,Mortar,71.0,,,,1,False,True,2.0,0.0
+04575,Goblin Gang,42.0,Goblin Gang,42.0,The Log,98.0,Mortar,71.0,,,,1,False,False,0.0,0.0
+04590,Goblin Gang,42.0,Goblin Gang,42.0,The Log,98.0,Mortar,71.0,,,,2,False,False,0.0,0.0
+04605,Goblin Gang,42.0,Goblin Gang,42.0,The Log,98.0,Mortar,71.0,,,,2,False,False,0.0,0.0
+04620,Goblin Gang,42.0,Goblin Gang,42.0,The Log,98.0,Mortar,71.0,,,,2,False,False,0.0,0.0
+04635,Goblin Gang,42.0,Goblin Gang,42.0,The Log,98.0,Mortar,71.0,,,,3,False,False,0.0,0.0
+04650,Goblin Gang,42.0,Goblin Gang,42.0,The Log,98.0,Mortar,71.0,,,,3,False,False,0.0,0.0
+04665,Goblin Gang,42.0,Goblin Gang,42.0,The Log,98.0,Mortar,71.0,,,,3,False,False,0.0,0.0
+04680,Goblin Gang,42.0,Goblin Gang,42.0,The Log,98.0,Mortar,71.0,,,,1,False,True,2.0,0.0
+04695,Goblin Gang,42.0,Goblin Gang,42.0,The Log,98.0,Mortar,71.0,,,,1,False,False,0.0,0.0
+04710,Goblin Gang,42.0,Goblin Gang,42.0,The Log,98.0,Mortar,71.0,,,,1,False,False,0.0,0.0
+04725,Goblin Gang,42.0,Goblin Gang,42.0,The Log,98.0,Mortar,71.0,,,,2,False,False,0.0,0.0
+04740,Goblin Gang,42.0,Goblin Gang,42.0,The Log,98.0,Mortar,71.0,,,,2,False,False,0.0,0.0
+04755,Goblin Gang,42.0,Goblin Gang,42.0,Knight,58.0,Mortar,71.0,The Log,98.0,3.0,1,True,True,1.0,2.0
+04770,Goblin Gang,42.0,Goblin Gang,42.0,Knight,58.0,Mortar,71.0,,,,1,False,False,0.0,0.0
+04785,Goblin Gang,42.0,Goblin Gang,42.0,Knight,58.0,Mortar,71.0,,,,1,False,False,0.0,0.0
+04800,Goblin Gang,42.0,Goblin Gang,42.0,Knight,58.0,Mortar,71.0,,,,2,False,False,0.0,0.0
+04815,Goblin Gang,42.0,Goblin Gang,42.0,Knight,58.0,Mortar,71.0,,,,2,False,False,0.0,0.0
+04830,Goblin Gang,42.0,Goblin Gang,42.0,Knight,58.0,Mortar,71.0,,,,2,False,False,0.0,0.0
+04845,Goblin Gang,42.0,Goblin Gang,42.0,Knight,58.0,Mortar,71.0,,,,3,False,False,0.0,0.0
+04860,Goblin Gang,42.0,Goblin Gang,42.0,Knight,58.0,Mortar,71.0,,,,3,False,False,0.0,0.0
+04875,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,Mortar,71.0,Goblin Gang,42.0,1.0,3,True,False,0.0,3.0
+04890,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,Mortar,71.0,,,,3,False,False,0.0,0.0
+04905,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,Mortar,71.0,,,,3,False,False,0.0,0.0
+04920,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,Mortar,71.0,,,,3,False,False,0.0,0.0
+04935,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,Mortar,71.0,,,,1,False,True,2.0,0.0
+04950,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,Mortar,71.0,,,,1,False,False,0.0,0.0
+04965,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,Mortar,71.0,,,,1,False,False,0.0,0.0
+04980,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,Mortar,71.0,,,,1,False,False,0.0,0.0
+04995,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,Mortar,71.0,,,,1,False,False,0.0,0.0
+05010,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,Mortar,71.0,,,,1,False,False,0.0,0.0
+05025,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,Mortar,71.0,,,,1,False,False,0.0,0.0
+05040,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,Mortar,71.0,,,,3,False,False,0.0,0.0
+05055,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,Mortar,71.0,,,,4,False,False,0.0,0.0
+05070,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,Mortar,71.0,,,,4,False,False,0.0,0.0
+05085,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,Mortar,71.0,,,,5,False,False,0.0,0.0
+05100,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,Mortar,71.0,4.0,5,True,False,0.0,4.0
+05115,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+05130,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+05145,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+05160,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+05175,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+05190,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+05205,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+05220,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+05235,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+05250,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+05265,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+05280,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,7,False,False,0.0,0.0
+05295,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,7,False,False,0.0,0.0
+05310,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,7,False,False,0.0,0.0
+05325,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,7,False,False,0.0,0.0
+05340,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,7,False,False,0.0,0.0
+05355,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,8,False,False,0.0,0.0
+05370,Mortar,71.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,8,False,False,0.0,0.0
+05385,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,Mortar,71.0,1.0,4,True,True,4.0,4.0
+05400,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+05415,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+05430,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+05445,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+05460,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+05475,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+05490,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+05505,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+05520,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+05535,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+05550,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+05565,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+05580,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,The Log,98.0,4.0,4,True,True,2.0,2.0
+05595,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,4,False,False,0.0,0.0
+05610,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,5,False,False,0.0,0.0
+05625,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,5,False,False,0.0,0.0
+05640,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,5,False,False,0.0,0.0
+05655,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,5,False,False,0.0,0.0
+05670,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,5,False,False,0.0,0.0
+05685,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,5,False,False,0.0,0.0
+05700,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,6,False,False,0.0,0.0
+05715,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,6,False,False,0.0,0.0
+05730,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,6,False,False,0.0,0.0
+05745,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,6,False,False,0.0,0.0
+05760,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,6,False,False,0.0,0.0
+05775,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,7,False,False,0.0,0.0
+05790,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,7,False,False,0.0,0.0
+05805,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,7,False,False,0.0,0.0
+05820,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,7,False,False,0.0,0.0
+05835,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,7,False,False,0.0,0.0
+05850,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,7,False,False,0.0,0.0
+05865,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,8,False,False,0.0,0.0
+05880,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,8,False,False,0.0,0.0
+05895,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,8,False,False,0.0,0.0
+05910,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,8,False,False,0.0,0.0
+05925,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,8,False,False,0.0,0.0
+05940,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,8,False,False,0.0,0.0
+05955,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,9,False,False,0.0,0.0
+05970,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,9,False,False,0.0,0.0
+05985,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,9,False,False,0.0,0.0
+06000,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,9,False,False,0.0,0.0
+06015,Rocket,84.0,Goblin Gang,42.0,Knight,58.0,Knight,58.0,,,,9,False,False,0.0,0.0
+06030,Rocket,84.0,Goblin Gang,42.0,Musketeer,73.0,Knight,58.0,Knight,58.0,3.0,7,True,True,2.0,3.0
+06045,Rocket,84.0,Goblin Gang,42.0,Musketeer,73.0,Knight,58.0,,,,7,False,False,0.0,0.0
+06060,Rocket,84.0,Goblin Gang,42.0,Musketeer,73.0,Knight,58.0,,,,7,False,False,0.0,0.0
+06075,Rocket,84.0,Goblin Gang,42.0,Musketeer,73.0,Knight,58.0,,,,7,False,False,0.0,0.0
+06090,Rocket,84.0,Goblin Gang,42.0,Musketeer,73.0,Knight,58.0,,,,7,False,False,0.0,0.0
+06105,Rocket,84.0,Goblin Gang,42.0,Musketeer,73.0,Knight,58.0,,,,7,False,False,0.0,0.0
+06120,Rocket,84.0,Goblin Gang,42.0,Musketeer,73.0,Knight,58.0,,,,8,False,False,0.0,0.0
+06135,Rocket,84.0,Goblin Gang,42.0,Musketeer,73.0,Knight,58.0,,,,8,False,False,0.0,0.0
+06150,Rocket,84.0,Goblin Gang,42.0,Musketeer,73.0,Knight,58.0,,,,8,False,False,0.0,0.0
+06165,Rocket,84.0,Goblin Gang,42.0,Musketeer,73.0,Knight,58.0,,,,8,False,False,0.0,0.0
+06180,Rocket,84.0,Goblin Gang,42.0,Musketeer,73.0,Knight,58.0,,,,8,False,False,0.0,0.0
+06195,Rocket,84.0,Goblin Gang,42.0,Musketeer,73.0,Knight,58.0,,,,9,False,False,0.0,0.0
+06210,Rocket,84.0,Goblin Gang,42.0,Musketeer,73.0,Knight,58.0,,,,9,False,False,0.0,0.0
+06225,Rocket,84.0,Goblin Gang,42.0,Musketeer,73.0,Knight,58.0,,,,9,False,False,0.0,0.0
+06240,Rocket,84.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,Musketeer,73.0,3.0,5,True,True,4.0,4.0
+06255,Rocket,84.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,5,False,False,0.0,0.0
+06270,Rocket,84.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,5,False,False,0.0,0.0
+06285,Rocket,84.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,6,False,False,0.0,0.0
+06300,Rocket,84.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,6,False,False,0.0,0.0
+06315,Rocket,84.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,6,False,False,0.0,0.0
+06330,Rocket,84.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,6,False,False,0.0,0.0
+06345,Rocket,84.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,6,False,False,0.0,0.0
+06360,Rocket,84.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,6,False,False,0.0,0.0
+06375,Rocket,84.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,7,False,False,0.0,0.0
+06390,Rocket,84.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,7,False,False,0.0,0.0
+06405,Rocket,84.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,7,False,False,0.0,0.0
+06420,Rocket,84.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,7,False,False,0.0,0.0
+06435,Rocket,84.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,7,False,False,0.0,0.0
+06450,Rocket,84.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,8,False,False,0.0,0.0
+06465,Rocket,84.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,8,False,False,0.0,0.0
+06480,Rocket,84.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,8,False,False,0.0,0.0
+06495,Rocket,84.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,8,False,False,0.0,0.0
+06510,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,Rocket,84.0,1.0,2,True,True,6.0,6.0
+06525,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,2,False,False,0.0,0.0
+06540,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+06555,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+06570,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+06585,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,1,False,True,2.0,0.0
+06600,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,1,False,False,0.0,0.0
+06615,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,2,False,False,0.0,0.0
+06630,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,2,False,False,0.0,0.0
+06645,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,2,False,False,0.0,0.0
+06660,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,2,False,False,0.0,0.0
+06675,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,2,False,False,0.0,0.0
+06690,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,2,False,False,0.0,0.0
+06705,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+06720,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+06735,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+06750,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+06765,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+06780,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+06795,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,4,False,False,0.0,0.0
+06810,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,4,False,False,0.0,0.0
+06825,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,4,False,False,0.0,0.0
+06840,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,4,False,False,0.0,0.0
+06855,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,4,False,False,0.0,0.0
+06870,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,5,False,False,0.0,0.0
+06885,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,5,False,False,0.0,0.0
+06900,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,5,False,False,0.0,0.0
+06915,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,2,False,True,3.0,0.0
+06930,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,2,False,False,0.0,0.0
+06945,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,2,False,False,0.0,0.0
+06960,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+06975,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+06990,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+07005,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+07020,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+07035,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,4,False,False,0.0,0.0
+07050,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,4,False,False,0.0,0.0
+07065,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,4,False,False,0.0,0.0
+07080,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,4,False,False,0.0,0.0
+07095,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,4,False,False,0.0,0.0
+07110,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,4,False,False,0.0,0.0
+07125,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,5,False,False,0.0,0.0
+07140,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Knight,58.0,,,,5,False,False,0.0,0.0
+07155,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Musketeer,73.0,Knight,58.0,4.0,2,True,True,3.0,3.0
+07170,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+07185,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+07200,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+07215,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+07230,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+07245,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+07260,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+07275,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+07290,Mortar,71.0,Goblin Gang,42.0,The Log,98.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+07305,Mortar,71.0,Goblin Gang,42.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,3.0,2,True,True,2.0,2.0
+07320,Mortar,71.0,Goblin Gang,42.0,Rocket,84.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+07335,Mortar,71.0,Goblin Gang,42.0,Rocket,84.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+07350,Mortar,71.0,Goblin Gang,42.0,Rocket,84.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+07365,Mortar,71.0,Goblin Gang,42.0,Rocket,84.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+07380,Mortar,71.0,Goblin Gang,42.0,Rocket,84.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+07395,Mortar,71.0,Goblin Gang,42.0,Rocket,84.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+07410,Mortar,71.0,Goblin Gang,42.0,Rocket,84.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+07425,Mortar,71.0,Goblin Gang,42.0,Rocket,84.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+07440,Mortar,71.0,Goblin Gang,42.0,Rocket,84.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+07455,Mortar,71.0,Goblin Gang,42.0,Rocket,84.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+07470,Mortar,71.0,Goblin Gang,42.0,Rocket,84.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+07485,Mortar,71.0,Goblin Gang,42.0,Rocket,84.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+07500,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,Goblin Gang,42.0,2.0,4,True,True,3.0,3.0
+07515,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+07530,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+07545,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+07560,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+07575,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+07590,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+07605,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+07620,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+07635,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+07650,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+07665,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+07680,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+07695,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+07710,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+07725,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+07740,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+07755,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+07770,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+07785,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+07800,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+07815,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+07830,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+07845,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+07860,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+07875,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+07890,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+07905,Mortar,71.0,Knight,58.0,Rocket,84.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+07920,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,Rocket,84.0,3.0,0,True,True,6.0,6.0
+07935,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,0,False,False,0.0,0.0
+07950,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,0,False,False,0.0,0.0
+07965,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+07980,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+07995,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+08010,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+08025,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+08040,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+08055,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+08070,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+08085,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+08100,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+08115,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+08130,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08145,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08160,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08175,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,0,False,True,3.0,0.0
+08190,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,0,False,False,0.0,0.0
+08205,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,0,False,False,0.0,0.0
+08220,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+08235,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+08250,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+08265,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+08280,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+08295,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+08310,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+08325,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+08340,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+08355,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+08370,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+08385,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08400,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08415,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08430,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08445,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08460,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08475,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+08490,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+08505,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+08520,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+08535,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+08550,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+08565,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+08580,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+08595,Mortar,71.0,Knight,58.0,Knight,58.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+08610,Mortar,71.0,Knight,58.0,The Log,98.0,Musketeer,73.0,Knight,58.0,3.0,2,True,True,3.0,3.0
+08625,Mortar,71.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+08640,Mortar,71.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08655,Mortar,71.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08670,Mortar,71.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08685,Mortar,71.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08700,Mortar,71.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+08715,Mortar,71.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+08730,Mortar,71.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+08745,Mortar,71.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+08760,Mortar,71.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+08775,Mortar,71.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+08790,Mortar,71.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+08805,Mortar,71.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+08820,Mortar,71.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+08835,Mortar,71.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+08850,Mortar,71.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+08865,Mortar,71.0,Knight,58.0,The Log,98.0,Goblin Gang,42.0,Musketeer,73.0,4.0,3,True,True,4.0,4.0
+08880,Mortar,71.0,Knight,58.0,The Log,98.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+08895,Mortar,71.0,Knight,58.0,The Log,98.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+08910,Mortar,71.0,Knight,58.0,The Log,98.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+08925,Mortar,71.0,Knight,58.0,The Log,98.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+08940,Mortar,71.0,Knight,58.0,The Log,98.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+08955,Mortar,71.0,Knight,58.0,The Log,98.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+08970,Mortar,71.0,Knight,58.0,The Log,98.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08985,Mortar,71.0,Knight,58.0,The Log,98.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+09000,Mortar,71.0,Knight,58.0,The Log,98.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+09015,Mortar,71.0,Knight,58.0,The Log,98.0,Rocket,84.0,Goblin Gang,42.0,4.0,4,True,True,2.0,3.0
+09030,Mortar,71.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+09045,Mortar,71.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+09060,Mortar,71.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+09075,Mortar,71.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+09090,Mortar,71.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+09105,Mortar,71.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+09120,Mortar,71.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+09135,Mortar,71.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+09150,Mortar,71.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+09165,Mortar,71.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+09180,Mortar,71.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+09195,Mortar,71.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+09210,Mortar,71.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+09225,Mortar,71.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+09240,Musketeer,73.0,Knight,58.0,The Log,98.0,Rocket,84.0,Mortar,71.0,1.0,5,True,True,4.0,4.0
+09255,Musketeer,73.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+09270,Musketeer,73.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+09285,Musketeer,73.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+09300,Musketeer,73.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+09315,Musketeer,73.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+09330,Musketeer,73.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+09345,Musketeer,73.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+09360,Musketeer,73.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,6,False,True,2.0,0.0
+09375,Musketeer,73.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+09390,Musketeer,73.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+09405,Musketeer,73.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+09420,Musketeer,73.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+09435,Musketeer,73.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+09450,Musketeer,73.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,5,False,True,3.0,0.0
+09465,Musketeer,73.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+09480,Musketeer,73.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+09495,Musketeer,73.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+09510,Musketeer,73.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+09525,Musketeer,73.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+09540,Musketeer,73.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+09555,Musketeer,73.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+09570,Goblin Gang,42.0,Knight,58.0,The Log,98.0,Rocket,84.0,Musketeer,73.0,1.0,4,True,True,4.0,4.0
+09585,Goblin Gang,42.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+09600,Goblin Gang,42.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+09615,Goblin Gang,42.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+09630,Goblin Gang,42.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+09645,Goblin Gang,42.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+09660,Goblin Gang,42.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+09675,Goblin Gang,42.0,Knight,58.0,The Log,98.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+09690,Mortar,71.0,Knight,58.0,The Log,98.0,The Log,98.0,Rocket,84.0,4.0,4,True,True,2.0,6.0
+09705,Mortar,71.0,Knight,58.0,The Log,98.0,The Log,98.0,,,,4,False,False,0.0,0.0
+09720,Mortar,71.0,Knight,58.0,The Log,98.0,The Log,98.0,,,,4,False,False,0.0,0.0
+09735,Mortar,71.0,Knight,58.0,The Log,98.0,The Log,98.0,,,,5,False,False,0.0,0.0
+09750,Mortar,71.0,Knight,58.0,The Log,98.0,The Log,98.0,,,,5,False,False,0.0,0.0
+09765,Mortar,71.0,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,3.0,3,True,True,2.0,2.0
+09780,Mortar,71.0,Knight,58.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+09795,Mortar,71.0,Knight,58.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+09810,Mortar,71.0,Knight,58.0,X,106.0,The Log,98.0,,,,5,False,False,0.0,0.0
+09825,Mortar,71.0,Knight,58.0,X,106.0,The Log,98.0,,,,3,False,True,2.0,0.0
+09840,Mortar,71.0,Knight,58.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+09855,Mortar,71.0,Knight,58.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+09870,Mortar,71.0,Knight,58.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+09885,Mortar,71.0,Knight,58.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+09900,Mortar,71.0,Musketeer,73.0,X,106.0,The Log,98.0,Knight,58.0,2.0,2,True,True,2.0,3.0
+09915,Mortar,71.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,2,False,False,0.0,0.0
+09930,Mortar,71.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,2,False,False,0.0,0.0
+09945,Mortar,71.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+09960,Mortar,71.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+09975,Mortar,71.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+09990,Mortar,71.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+10005,Mortar,71.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+10020,Musketeer,73.0,Goblin Gang,42.0,X,106.0,The Log,98.0,Musketeer,73.0,2.0,1,True,True,3.0,4.0
+10035,Musketeer,73.0,Goblin Gang,42.0,X,106.0,The Log,98.0,,,,1,False,False,0.0,0.0
+10050,Musketeer,73.0,Goblin Gang,42.0,X,106.0,The Log,98.0,,,,1,False,False,0.0,0.0
+10065,Musketeer,73.0,Goblin Gang,42.0,X,106.0,The Log,98.0,,,,2,False,False,0.0,0.0
+10080,Musketeer,73.0,Goblin Gang,42.0,X,106.0,The Log,98.0,,,,2,False,False,0.0,0.0
+10095,Musketeer,73.0,Goblin Gang,42.0,X,106.0,The Log,98.0,,,,2,False,False,0.0,0.0
+10110,Musketeer,73.0,Goblin Gang,42.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+10125,Musketeer,73.0,Goblin Gang,42.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+10140,Musketeer,73.0,Goblin Gang,42.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+10155,Musketeer,73.0,The Log,98.0,X,106.0,The Log,98.0,Goblin Gang,42.0,2.0,1,True,True,2.0,3.0
+10170,Musketeer,73.0,The Log,98.0,X,106.0,The Log,98.0,,,,1,False,False,0.0,0.0
+10185,Musketeer,73.0,The Log,98.0,X,106.0,The Log,98.0,,,,1,False,False,0.0,0.0
+10200,Musketeer,73.0,The Log,98.0,X,106.0,The Log,98.0,,,,2,False,False,0.0,0.0
+10215,Musketeer,73.0,The Log,98.0,X,106.0,The Log,98.0,,,,2,False,False,0.0,0.0
+10230,Musketeer,73.0,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,2.0,3,True,False,0.0,2.0
+10245,Musketeer,73.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+10260,Musketeer,73.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+10275,Musketeer,73.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+10290,Musketeer,73.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+10305,Musketeer,73.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+10320,Musketeer,73.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+10335,Musketeer,73.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+10350,Musketeer,73.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+10365,Musketeer,73.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+10380,Musketeer,73.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+10395,Musketeer,73.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+10410,Musketeer,73.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+10425,Musketeer,73.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+10440,Musketeer,73.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+10455,Musketeer,73.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+10470,Musketeer,73.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+10485,Musketeer,73.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+10500,Musketeer,73.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+10515,Musketeer,73.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+10530,Musketeer,73.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+10545,Musketeer,73.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,5,False,False,0.0,0.0
+10560,Musketeer,73.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,5,False,False,0.0,0.0
+10575,Musketeer,73.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,5,False,False,0.0,0.0
+10590,Musketeer,73.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+10605,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,Musketeer,73.0,1.0,6,True,False,0.0,4.0
+10620,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+10635,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+10650,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+10665,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,7,False,False,0.0,0.0
+10680,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,7,False,False,0.0,0.0
+10695,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,7,False,False,0.0,0.0
+10710,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,7,False,False,0.0,0.0
+10725,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,7,False,False,0.0,0.0
+10740,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,7,False,False,0.0,0.0
+10755,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,8,False,False,0.0,0.0
+10770,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,8,False,False,0.0,0.0
+10785,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,8,False,False,0.0,0.0
+10800,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,8,False,False,0.0,0.0
+10815,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,8,False,False,0.0,0.0
+10830,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,9,False,False,0.0,0.0
+10845,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,9,False,False,0.0,0.0
+10860,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,9,False,False,0.0,0.0
+10875,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,9,False,False,0.0,0.0
+10890,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,9,False,False,0.0,0.0
+10905,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,9,False,False,0.0,0.0
+10920,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,10,False,False,0.0,0.0
+10935,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,10,False,False,0.0,0.0
+10950,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,10,False,False,0.0,0.0
+10965,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,10,False,False,0.0,0.0
+10980,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,10,False,False,0.0,0.0
+10995,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,10,False,False,0.0,0.0
+11010,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,10,False,False,0.0,0.0
+11025,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,10,False,False,0.0,0.0
+11040,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,8,False,True,2.0,0.0
+11055,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,8,False,False,0.0,0.0
+11070,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,8,False,False,0.0,0.0
+11085,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,8,False,False,0.0,0.0
+11100,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,8,False,False,0.0,0.0
+11115,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,9,False,False,0.0,0.0
+11130,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,9,False,False,0.0,0.0
+11145,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,9,False,False,0.0,0.0
+11160,Knight,58.0,Musketeer,73.0,X,106.0,The Log,98.0,,,,9,False,False,0.0,0.0
+11175,Knight,58.0,X,106.0,X,106.0,The Log,98.0,Musketeer,73.0,2.0,5,True,True,4.0,4.0
+11190,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,5,False,False,0.0,0.0
+11205,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+11220,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+11235,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,5,False,True,1.0,0.0
+11250,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,5,False,False,0.0,0.0
+11265,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,5,False,False,0.0,0.0
+11280,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+11295,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+11310,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+11325,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+11340,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+11355,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+11370,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,7,False,False,0.0,0.0
+11385,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,7,False,False,0.0,0.0
+11400,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,7,False,False,0.0,0.0
+11415,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,7,False,False,0.0,0.0
+11430,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,7,False,False,0.0,0.0
+11445,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,7,False,False,0.0,0.0
+11460,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,8,False,False,0.0,0.0
+11475,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,8,False,False,0.0,0.0
+11490,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,8,False,False,0.0,0.0
+11505,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,8,False,False,0.0,0.0
+11520,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,8,False,False,0.0,0.0
+11535,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,9,False,False,0.0,0.0
+11550,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,9,False,False,0.0,0.0
+11565,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,9,False,False,0.0,0.0
+11580,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,9,False,False,0.0,0.0
+11595,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,9,False,False,0.0,0.0
+11610,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,9,False,False,0.0,0.0
+11625,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,10,False,False,0.0,0.0
+11640,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,10,False,False,0.0,0.0
+11655,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,6,False,True,4.0,0.0
+11670,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+11685,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+11700,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+11715,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+11730,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+11745,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,7,False,False,0.0,0.0
+11760,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,7,False,False,0.0,0.0
+11775,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,7,False,False,0.0,0.0
+11790,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,7,False,False,0.0,0.0
+11805,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,7,False,False,0.0,0.0
+11820,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,8,False,False,0.0,0.0
+11835,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,6,False,True,2.0,0.0
+11850,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,8,False,False,0.0,0.0
+11865,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,8,False,False,0.0,0.0
+11880,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,8,False,False,0.0,0.0
+11895,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,7,False,True,1.0,0.0
+11910,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,8,False,False,0.0,0.0
+11925,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,8,False,False,0.0,0.0
+11940,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,8,False,False,0.0,0.0
+11955,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,8,False,False,0.0,0.0
+11970,Musketeer,73.0,X,106.0,X,106.0,The Log,98.0,Knight,58.0,1.0,5,True,True,3.0,3.0
+11985,Musketeer,73.0,X,106.0,X,106.0,The Log,98.0,,,,5,False,False,0.0,0.0
+12000,Musketeer,73.0,X,106.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+12015,Knight,58.0,X,106.0,X,106.0,The Log,98.0,Musketeer,73.0,1.0,2,True,True,4.0,4.0
+12030,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,2,False,False,0.0,0.0
+12045,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,2,False,False,0.0,0.0
+12060,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,2,False,False,0.0,0.0
+12075,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+12090,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+12105,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+12120,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+12135,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+12150,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+12165,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+12180,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+12195,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+12210,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,0,False,True,4.0,0.0
+12225,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,0,False,False,0.0,0.0
+12240,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,1,False,False,0.0,0.0
+12255,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,1,False,False,0.0,0.0
+12270,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,1,False,False,0.0,0.0
+12285,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,0,False,True,1.0,0.0
+12300,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,0,False,False,0.0,0.0
+12315,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,0,False,False,0.0,0.0
+12330,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,1,False,False,0.0,0.0
+12345,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,1,False,False,0.0,0.0
+12360,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,1,False,False,0.0,0.0
+12375,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,0,False,True,1.0,0.0
+12390,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,0,False,False,0.0,0.0
+12405,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,0,False,False,0.0,0.0
+12420,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,1,False,False,0.0,0.0
+12435,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,1,False,False,0.0,0.0
+12450,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,1,False,False,0.0,0.0
+12465,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,1,False,False,0.0,0.0
+12480,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,1,False,False,0.0,0.0
+12495,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,2,False,False,0.0,0.0
+12510,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,2,False,False,0.0,0.0
+12525,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,2,False,False,0.0,0.0
+12540,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,2,False,False,0.0,0.0
+12555,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,2,False,False,0.0,0.0
+12570,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,2,False,False,0.0,0.0
+12585,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+12600,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+12615,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+12630,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+12645,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+12660,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+12675,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+12690,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+12705,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+12720,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+12735,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+12750,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,5,False,False,0.0,0.0
+12765,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,5,False,False,0.0,0.0
+12780,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,5,False,False,0.0,0.0
+12795,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,5,False,False,0.0,0.0
+12810,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,5,False,False,0.0,0.0
+12825,Knight,58.0,X,106.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+12840,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,The Log,98.0,4.0,4,True,True,2.0,2.0
+12855,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+12870,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+12885,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+12900,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+12915,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+12930,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+12945,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+12960,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+12975,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+12990,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+13005,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+13020,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+13035,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+13050,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+13065,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+13080,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+13095,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+13110,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+13125,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+13140,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+13155,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+13170,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+13185,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+13200,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+13215,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+13230,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+13245,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+13260,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+13275,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+13290,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+13305,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+13320,Knight,58.0,X,106.0,X,106.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+13335,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,X,106.0,3.0,4,True,True,5.0,6.0
+13350,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+13365,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+13380,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+13395,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+13410,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+13425,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+13440,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+13455,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+13470,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+13485,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+13500,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,2,False,True,5.0,0.0
+13515,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+13530,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,1,False,True,1.0,0.0
+13545,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+13560,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+13575,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+13590,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+13605,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+13620,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+13635,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+13650,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+13665,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+13680,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+13695,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+13710,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+13725,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+13740,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+13755,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+13770,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+13785,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+13800,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+13815,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+13830,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+13845,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+13860,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+13875,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,Musketeer,73.0,4.0,1,True,True,4.0,4.0
+13890,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,1,False,False,0.0,0.0
+13905,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,2,False,False,0.0,0.0
+13920,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,2,False,False,0.0,0.0
+13935,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,1,False,True,1.0,0.0
+13950,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,1,False,False,0.0,0.0
+13965,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,1,False,False,0.0,0.0
+13980,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,1,False,False,0.0,0.0
+13995,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,1,False,False,0.0,0.0
+14010,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,2,False,False,0.0,0.0
+14025,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,2,False,False,0.0,0.0
+14040,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,2,False,False,0.0,0.0
+14055,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,2,False,False,0.0,0.0
+14070,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,2,False,False,0.0,0.0
+14085,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,2,False,False,0.0,0.0
+14100,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,3,False,False,0.0,0.0
+14115,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,3,False,False,0.0,0.0
+14130,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,3,False,False,0.0,0.0
+14145,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,3,False,False,0.0,0.0
+14160,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,3,False,False,0.0,0.0
+14175,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,4,False,False,0.0,0.0
+14190,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,4,False,False,0.0,0.0
+14205,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,4,False,False,0.0,0.0
+14220,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,1,False,True,3.0,0.0
+14235,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,1,False,False,0.0,0.0
+14250,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,1,False,False,0.0,0.0
+14265,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,2,False,False,0.0,0.0
+14280,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,2,False,False,0.0,0.0
+14295,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,2,False,False,0.0,0.0
+14310,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,3,False,False,0.0,0.0
+14325,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,3,False,False,0.0,0.0
+14340,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,4,False,False,0.0,0.0
+14355,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,,,,4,False,False,0.0,0.0
+14370,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,Knight,58.0,1.0,1,True,True,3.0,3.0
+14385,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,2,False,False,0.0,0.0
+14400,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,2,False,False,0.0,0.0
+14415,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,2,False,False,0.0,0.0
+14430,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,2,False,False,0.0,0.0
+14445,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,2,False,False,0.0,0.0
+14460,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,2,False,False,0.0,0.0
+14475,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,3,False,False,0.0,0.0
+14490,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,3,False,False,0.0,0.0
+14505,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,3,False,False,0.0,0.0
+14520,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,4,False,False,0.0,0.0
+14535,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,4,False,False,0.0,0.0
+14550,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,5,False,False,0.0,0.0
+14565,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,5,False,False,0.0,0.0
+14580,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,5,False,False,0.0,0.0
+14595,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,6,False,False,0.0,0.0
+14610,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,6,False,False,0.0,0.0
+14625,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,6,False,False,0.0,0.0
+14640,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,7,False,False,0.0,0.0
+14655,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,7,False,False,0.0,0.0
+14670,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,3,False,True,4.0,0.0
+14685,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,4,False,False,0.0,0.0
+14700,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,4,False,False,0.0,0.0
+14715,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,4,False,False,0.0,0.0
+14730,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,5,False,False,0.0,0.0
+14745,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,5,False,False,0.0,0.0
+14760,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,4,False,True,1.0,0.0
+14775,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,5,False,False,0.0,0.0
+14790,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,5,False,False,0.0,0.0
+14805,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,6,False,False,0.0,0.0
+14820,Musketeer,73.0,X,106.0,The Log,98.0,The Log,98.0,,,,6,False,False,0.0,0.0
+14835,Knight,58.0,X,106.0,The Log,98.0,The Log,98.0,Musketeer,73.0,1.0,2,True,True,4.0,4.0
+14850,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,The Log,98.0,4.0,1,True,True,1.0,2.0
+14865,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+14880,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,1,False,True,1.0,0.0
+14895,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+14910,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+14925,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+14940,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+14955,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+14970,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+14985,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+15000,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+15015,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+15030,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+15045,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,2,False,True,3.0,0.0
+15060,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+15075,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+15090,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+15105,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+15120,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+15135,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,0,False,True,4.0,0.0
+15150,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+15165,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+15180,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+15195,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+15210,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+15225,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+15240,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+15255,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+15270,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+15285,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+15300,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+15315,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+15330,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+15345,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+15360,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+15375,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+15390,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+15405,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+15420,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+15435,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+15450,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+15465,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+15480,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+15495,Knight,58.0,X,106.0,The Log,98.0,Musketeer,73.0,,,,7,False,False,0.0,0.0

@@ -1,0 +1,238 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Hunter,52.0,Barbarian Barrel,6.0,Graveyard,48.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+00255,Hunter,52.0,Barbarian Barrel,6.0,Graveyard,48.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+00270,Hunter,52.0,Barbarian Barrel,6.0,Graveyard,48.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+00285,Hunter,52.0,Barbarian Barrel,6.0,Graveyard,48.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+00300,Hunter,52.0,Barbarian Barrel,6.0,Graveyard,48.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+00315,Hunter,52.0,Barbarian Barrel,6.0,Graveyard,48.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+00330,Hunter,52.0,Barbarian Barrel,6.0,Graveyard,48.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+00345,Hunter,52.0,Barbarian Barrel,6.0,Graveyard,48.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+00360,Hunter,52.0,Barbarian Barrel,6.0,Graveyard,48.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+00375,Hunter,52.0,Barbarian Barrel,6.0,Graveyard,48.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+00390,Hunter,52.0,Barbarian Barrel,6.0,Graveyard,48.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+00405,Hunter,52.0,Barbarian Barrel,6.0,Graveyard,48.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+00420,Hunter,52.0,Barbarian Barrel,6.0,Graveyard,48.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+00435,Hunter,52.0,Barbarian Barrel,6.0,Graveyard,48.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+00450,Hunter,52.0,Barbarian Barrel,6.0,Graveyard,48.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+00465,Hunter,52.0,Barbarian Barrel,6.0,Graveyard,48.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+00480,Hunter,52.0,Barbarian Barrel,6.0,Graveyard,48.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+00495,Hunter,52.0,Barbarian Barrel,6.0,Graveyard,48.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+00510,Hunter,52.0,Barbarian Barrel,6.0,Graveyard,48.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+00525,Hunter,52.0,Barbarian Barrel,6.0,Graveyard,48.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+00540,Hunter,52.0,Barbarian Barrel,6.0,Graveyard,48.0,Heal Spirit,50.0,,,,10,False,False,0.0,0.0
+00555,Hunter,52.0,Barbarian Barrel,6.0,Graveyard,48.0,Heal Spirit,50.0,,,,10,False,False,0.0,0.0
+00570,Hunter,52.0,Barbarian Barrel,6.0,Graveyard,48.0,Heal Spirit,50.0,,,,10,False,False,0.0,0.0
+00585,Hunter,52.0,Barbarian Barrel,6.0,Graveyard,48.0,Heal Spirit,50.0,,,,10,False,False,0.0,0.0
+00600,Hunter,52.0,Barbarian Barrel,6.0,Graveyard,48.0,Heal Spirit,50.0,,,,10,False,False,0.0,0.0
+00615,Hunter,52.0,Barbarian Barrel,6.0,Graveyard,48.0,Heal Spirit,50.0,,,,10,False,False,0.0,0.0
+00630,Hunter,52.0,Barbarian Barrel,6.0,Graveyard,48.0,Heal Spirit,50.0,,,,10,False,False,0.0,0.0
+00645,Hunter,52.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,Barbarian Barrel,6.0,2.0,8,True,True,2.0,2.0
+00660,Hunter,52.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+00675,Hunter,52.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+00690,Hunter,52.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+00705,Hunter,52.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+00720,Hunter,52.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+00735,Hunter,52.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+00750,Hunter,52.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+00765,Hunter,52.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+00780,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,Hunter,52.0,1.0,5,True,True,4.0,4.0
+00795,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+00810,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+00825,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+00840,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+00855,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+00870,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+00885,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+00900,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+00915,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+00930,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+00945,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+00960,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+00975,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+00990,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+01005,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+01020,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+01035,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+01050,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+01065,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+01080,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+01095,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,2,False,True,7.0,0.0
+01110,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+01125,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+01140,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+01155,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+01170,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+01185,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+01200,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+01215,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+01230,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+01245,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+01260,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+01275,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+01290,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+01305,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+01320,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+01335,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+01350,Poison,78.0,Fisherman,32.0,Graveyard,48.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+01365,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,Graveyard,48.0,3.0,0,True,True,5.0,5.0
+01380,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,0,False,False,0.0,0.0
+01395,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,1,False,False,0.0,0.0
+01410,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,1,False,False,0.0,0.0
+01425,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,1,False,False,0.0,0.0
+01440,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,1,False,False,0.0,0.0
+01455,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,1,False,False,0.0,0.0
+01470,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+01485,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+01500,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+01515,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+01530,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+01545,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+01560,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+01575,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+01590,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+01605,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+01620,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+01635,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+01650,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+01665,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+01680,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+01695,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+01710,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+01725,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+01740,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+01755,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+01770,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+01785,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+01800,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+01815,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+01830,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+01845,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+01860,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+01875,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+01890,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+01905,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+01920,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+01935,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+01950,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+01965,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+01980,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+01995,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+02010,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+02025,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+02040,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+02055,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Barbarian Barrel,6.0,Heal Spirit,50.0,4.0,9,True,True,1.0,1.0
+02070,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+02085,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02100,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02115,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02130,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02145,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+02160,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+02175,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+02190,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+02205,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+02220,Poison,78.0,Fisherman,32.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+02235,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,Fisherman,32.0,2.0,7,True,True,2.0,3.0
+02250,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+02265,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+02280,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+02295,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+02310,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02325,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02340,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02355,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02370,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02385,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02400,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+02415,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+02430,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+02445,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+02460,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+02475,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Graveyard,48.0,Barbarian Barrel,6.0,4.0,7,True,True,2.0,2.0
+02490,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+02505,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+02520,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+02535,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Graveyard,48.0,,,,1,False,True,7.0,0.0
+02550,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Graveyard,48.0,,,,1,False,False,0.0,0.0
+02565,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+02580,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+02595,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+02610,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+02625,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+02640,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+02655,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+02670,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+02685,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+02700,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+02715,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+02730,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+02745,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+02760,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+02775,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+02790,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+02805,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+02820,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+02835,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+02850,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Heal Spirit,50.0,Graveyard,48.0,4.0,0,True,True,5.0,5.0
+02865,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Heal Spirit,50.0,,,,0,False,False,0.0,0.0
+02880,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Heal Spirit,50.0,,,,0,False,False,0.0,0.0
+02895,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Heal Spirit,50.0,,,,0,False,False,0.0,0.0
+02910,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Heal Spirit,50.0,,,,1,False,False,0.0,0.0
+02925,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Heal Spirit,50.0,,,,1,False,False,0.0,0.0
+02940,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Heal Spirit,50.0,4.0,0,True,True,1.0,1.0
+02955,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,0,False,False,0.0,0.0
+02970,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,0,False,False,0.0,0.0
+02985,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,1,False,False,0.0,0.0
+03000,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,1,False,False,0.0,0.0
+03015,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,1,False,False,0.0,0.0
+03030,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,1,False,False,0.0,0.0
+03045,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,1,False,False,0.0,0.0
+03060,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,1,False,False,0.0,0.0
+03075,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03090,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03105,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03120,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03135,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03150,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03165,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03180,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03195,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03210,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03225,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03240,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03255,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03270,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03285,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03300,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03315,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03330,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03345,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03360,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03375,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03390,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03405,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03420,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03435,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03450,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03465,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03480,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03495,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03510,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03525,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03540,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03555,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03570,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03585,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03600,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03615,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03630,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03645,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03660,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03675,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03690,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03705,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03720,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03735,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03750,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03765,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03780,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0

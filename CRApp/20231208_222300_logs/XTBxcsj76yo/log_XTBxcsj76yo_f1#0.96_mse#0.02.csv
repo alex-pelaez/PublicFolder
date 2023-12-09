@@ -1,0 +1,401 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00255,Mega Minion,64.0,Poison,78.0,,,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+00270,Mega Minion,64.0,Poison,78.0,,,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+00285,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,3.0,7,True,False,0.0,0.0
+00300,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+00315,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+00330,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+00345,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+00360,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+00375,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+00390,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+00405,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+00420,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+00435,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+00450,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+00465,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+00480,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+00495,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+00510,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+00525,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+00540,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,10,False,False,0.0,0.0
+00555,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,10,False,False,0.0,0.0
+00570,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,10,False,False,0.0,0.0
+00585,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,10,False,False,0.0,0.0
+00600,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,10,False,False,0.0,0.0
+00615,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,10,False,False,0.0,0.0
+00630,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,10,False,False,0.0,0.0
+00645,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,10,False,False,0.0,0.0
+00660,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,10,False,False,0.0,0.0
+00675,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,10,False,False,0.0,0.0
+00690,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,10,False,False,0.0,0.0
+00705,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,10,False,False,0.0,0.0
+00720,Mega Minion,64.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,10,False,False,0.0,0.0
+00735,Cannon Cart,16.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,Mega Minion,64.0,1.0,7,True,True,3.0,3.0
+00750,Cannon Cart,16.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+00765,Cannon Cart,16.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+00780,Cannon Cart,16.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+00795,Cannon Cart,16.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+00810,Cannon Cart,16.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+00825,Cannon Cart,16.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+00840,Cannon Cart,16.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+00855,Cannon Cart,16.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+00870,Cannon Cart,16.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+00885,Cannon Cart,16.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+00900,Cannon Cart,16.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+00915,Cannon Cart,16.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+00930,Cannon Cart,16.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+00945,Cannon Cart,16.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+00960,Cannon Cart,16.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,Poison,78.0,2.0,5,True,True,4.0,4.0
+00975,Cannon Cart,16.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+00990,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,Cannon Cart,16.0,1.0,1,True,True,5.0,5.0
+01005,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,1,False,False,0.0,0.0
+01020,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,1,False,False,0.0,0.0
+01035,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,1,False,False,0.0,0.0
+01050,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,1,False,False,0.0,0.0
+01065,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+01080,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+01095,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+01110,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+01125,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+01140,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+01155,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+01170,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+01185,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+01200,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+01215,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+01230,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+01245,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+01260,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+01275,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+01290,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+01305,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+01320,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+01335,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+01350,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+01365,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+01380,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+01395,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+01410,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+01425,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+01440,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+01455,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+01470,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+01485,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+01500,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+01515,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+01530,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+01545,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+01560,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+01575,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+01590,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+01605,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+01620,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+01635,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+01650,Skeletons,94.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+01665,Hunter,52.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,Skeletons,94.0,1.0,8,True,True,1.0,1.0
+01680,Hunter,52.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+01695,Hunter,52.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+01710,Hunter,52.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+01725,Hunter,52.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+01740,Hunter,52.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+01755,Hunter,52.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+01770,Hunter,52.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+01785,Hunter,52.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+01800,Hunter,52.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+01815,Hunter,52.0,Royal Hogs,88.0,Mega Knight,63.0,Giant Snowball,38.0,,,,10,False,False,0.0,0.0
+01830,Hunter,52.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,Royal Hogs,88.0,2.0,5,True,True,5.0,5.0
+01845,Hunter,52.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+01860,Hunter,52.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+01875,Hunter,52.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+01890,Hunter,52.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+01905,Hunter,52.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+01920,Hunter,52.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+01935,Hunter,52.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+01950,Hunter,52.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+01965,Hunter,52.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+01980,Hunter,52.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+01995,Hunter,52.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+02010,Hunter,52.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+02025,Hunter,52.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+02040,Hunter,52.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+02055,Hunter,52.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+02070,Hunter,52.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+02085,Hunter,52.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+02100,Hunter,52.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+02115,Hunter,52.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+02130,Hunter,52.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+02145,Hunter,52.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+02160,Hunter,52.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+02175,Hunter,52.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+02190,Hunter,52.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+02205,Hunter,52.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+02220,Hunter,52.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+02235,Poison,78.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,Hunter,52.0,1.0,6,True,True,3.0,4.0
+02250,Poison,78.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+02265,Poison,78.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+02280,Poison,78.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+02295,Poison,78.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+02310,Poison,78.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+02325,Poison,78.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+02340,Poison,78.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+02355,Poison,78.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+02370,Poison,78.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+02385,Poison,78.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+02400,Poison,78.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+02415,Poison,78.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+02430,Poison,78.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+02445,Poison,78.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+02460,Poison,78.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+02475,Poison,78.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+02490,Poison,78.0,Mega Minion,64.0,Mega Knight,63.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+02505,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,Giant Snowball,38.0,Mega Knight,63.0,3.0,2,True,True,7.0,7.0
+02520,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+02535,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+02550,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+02565,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+02580,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+02595,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+02610,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+02625,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+02640,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+02655,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+02670,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+02685,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+02700,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+02715,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+02730,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Giant Snowball,38.0,Mega Minion,64.0,2.0,1,True,True,3.0,3.0
+02745,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+02760,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+02775,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,Giant Snowball,38.0,4.0,0,True,True,2.0,2.0
+02790,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,0,False,False,0.0,0.0
+02805,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,0,False,False,0.0,0.0
+02820,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,0,False,False,0.0,0.0
+02835,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,1,False,False,0.0,0.0
+02850,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,1,False,False,0.0,0.0
+02865,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,1,False,False,0.0,0.0
+02880,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,1,False,False,0.0,0.0
+02895,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,1,False,False,0.0,0.0
+02910,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+02925,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+02940,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+02955,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+02970,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+02985,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+03000,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+03015,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+03030,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+03045,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+03060,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+03075,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+03090,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+03105,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+03120,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+03135,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+03150,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+03165,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+03180,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+03195,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+03210,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+03225,Poison,78.0,Skeletons,94.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+03240,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,Cannon Cart,16.0,3.0,0,True,True,5.0,5.0
+03255,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,1,False,False,0.0,0.0
+03270,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,1,False,False,0.0,0.0
+03285,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,1,False,False,0.0,0.0
+03300,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,1,False,False,0.0,0.0
+03315,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,1,False,False,0.0,0.0
+03330,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+03345,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+03360,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+03375,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+03390,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+03405,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+03420,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+03435,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+03450,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+03465,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+03480,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+03495,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+03510,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+03525,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+03540,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+03555,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+03570,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+03585,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+03600,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+03615,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+03630,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+03645,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+03660,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+03675,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+03690,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+03705,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+03720,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+03735,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+03750,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+03765,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+03780,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+03795,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+03810,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,8,False,False,0.0,0.0
+03825,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,8,False,False,0.0,0.0
+03840,Poison,78.0,Skeletons,94.0,Hunter,52.0,Royal Hogs,88.0,,,,9,False,False,0.0,0.0
+03855,Poison,78.0,Mega Knight,63.0,Hunter,52.0,Royal Hogs,88.0,Skeletons,94.0,2.0,8,True,True,1.0,1.0
+03870,Poison,78.0,Mega Knight,63.0,Hunter,52.0,Mega Minion,64.0,Royal Hogs,88.0,4.0,3,True,True,5.0,5.0
+03885,Poison,78.0,Mega Knight,63.0,Hunter,52.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+03900,Poison,78.0,Mega Knight,63.0,Hunter,52.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+03915,Poison,78.0,Mega Knight,63.0,Hunter,52.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+03930,Poison,78.0,Mega Knight,63.0,Hunter,52.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+03945,Poison,78.0,Mega Knight,63.0,Hunter,52.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+03960,Poison,78.0,Mega Knight,63.0,Hunter,52.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+03975,Poison,78.0,Mega Knight,63.0,Hunter,52.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+03990,Poison,78.0,Mega Knight,63.0,Hunter,52.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+04005,Poison,78.0,Mega Knight,63.0,Hunter,52.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+04020,Poison,78.0,Mega Knight,63.0,Hunter,52.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+04035,Poison,78.0,Mega Knight,63.0,Hunter,52.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+04050,Poison,78.0,Mega Knight,63.0,Hunter,52.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+04065,Poison,78.0,Mega Knight,63.0,Hunter,52.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+04080,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,Mega Minion,64.0,Hunter,52.0,3.0,4,True,True,4.0,4.0
+04095,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+04110,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+04125,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+04140,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+04155,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+04170,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+04185,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+04200,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+04215,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+04230,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+04245,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+04260,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,Mega Minion,64.0,,,,9,False,False,0.0,0.0
+04275,Poison,78.0,Cannon Cart,16.0,Giant Snowball,38.0,Mega Minion,64.0,Mega Knight,63.0,2.0,2,True,True,7.0,7.0
+04290,Poison,78.0,Cannon Cart,16.0,Giant Snowball,38.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+04305,Poison,78.0,Cannon Cart,16.0,Giant Snowball,38.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+04320,Poison,78.0,Cannon Cart,16.0,Giant Snowball,38.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+04335,Poison,78.0,Cannon Cart,16.0,Giant Snowball,38.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+04350,Poison,78.0,Cannon Cart,16.0,Giant Snowball,38.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+04365,Poison,78.0,Cannon Cart,16.0,Giant Snowball,38.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+04380,Poison,78.0,Cannon Cart,16.0,Giant Snowball,38.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+04395,Poison,78.0,Cannon Cart,16.0,Giant Snowball,38.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+04410,Poison,78.0,Cannon Cart,16.0,Giant Snowball,38.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+04425,Poison,78.0,Cannon Cart,16.0,Giant Snowball,38.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+04440,Poison,78.0,Cannon Cart,16.0,Giant Snowball,38.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+04455,Poison,78.0,Cannon Cart,16.0,Giant Snowball,38.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+04470,Poison,78.0,Cannon Cart,16.0,Giant Snowball,38.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+04485,Poison,78.0,Cannon Cart,16.0,Giant Snowball,38.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+04500,Poison,78.0,Cannon Cart,16.0,Giant Snowball,38.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+04515,Poison,78.0,Cannon Cart,16.0,Giant Snowball,38.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+04530,Poison,78.0,Cannon Cart,16.0,Giant Snowball,38.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+04545,Poison,78.0,Cannon Cart,16.0,Giant Snowball,38.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+04560,Poison,78.0,Cannon Cart,16.0,Giant Snowball,38.0,Mega Minion,64.0,,,,9,False,False,0.0,0.0
+04575,Poison,78.0,Cannon Cart,16.0,Giant Snowball,38.0,Mega Minion,64.0,,,,9,False,False,0.0,0.0
+04590,Poison,78.0,Cannon Cart,16.0,Giant Snowball,38.0,Skeletons,94.0,Mega Minion,64.0,4.0,7,True,True,2.0,3.0
+04605,Royal Hogs,88.0,Cannon Cart,16.0,Giant Snowball,38.0,Skeletons,94.0,Poison,78.0,1.0,3,True,True,4.0,4.0
+04620,Royal Hogs,88.0,Cannon Cart,16.0,Giant Snowball,38.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+04635,Royal Hogs,88.0,Cannon Cart,16.0,Giant Snowball,38.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+04650,Royal Hogs,88.0,Cannon Cart,16.0,Giant Snowball,38.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+04665,Royal Hogs,88.0,Cannon Cart,16.0,Giant Snowball,38.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+04680,Royal Hogs,88.0,Cannon Cart,16.0,Giant Snowball,38.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+04695,Royal Hogs,88.0,Cannon Cart,16.0,Giant Snowball,38.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+04710,Royal Hogs,88.0,Cannon Cart,16.0,Giant Snowball,38.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+04725,Royal Hogs,88.0,Cannon Cart,16.0,Giant Snowball,38.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+04740,Royal Hogs,88.0,Cannon Cart,16.0,Giant Snowball,38.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+04755,Royal Hogs,88.0,Cannon Cart,16.0,Giant Snowball,38.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+04770,Royal Hogs,88.0,Cannon Cart,16.0,Giant Snowball,38.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+04785,Royal Hogs,88.0,Cannon Cart,16.0,Giant Snowball,38.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+04800,Royal Hogs,88.0,Cannon Cart,16.0,Giant Snowball,38.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+04815,Royal Hogs,88.0,Hunter,52.0,Giant Snowball,38.0,Skeletons,94.0,Cannon Cart,16.0,2.0,3,True,True,4.0,5.0
+04830,Royal Hogs,88.0,Hunter,52.0,Giant Snowball,38.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+04845,Royal Hogs,88.0,Hunter,52.0,Giant Snowball,38.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+04860,Royal Hogs,88.0,Hunter,52.0,Giant Snowball,38.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+04875,Royal Hogs,88.0,Hunter,52.0,Giant Snowball,38.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+04890,Royal Hogs,88.0,Hunter,52.0,Giant Snowball,38.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+04905,Royal Hogs,88.0,Hunter,52.0,Giant Snowball,38.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+04920,Royal Hogs,88.0,Hunter,52.0,Mega Knight,63.0,Skeletons,94.0,Giant Snowball,38.0,3.0,3,True,True,2.0,2.0
+04935,Royal Hogs,88.0,Hunter,52.0,Mega Knight,63.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+04950,Royal Hogs,88.0,Hunter,52.0,Mega Knight,63.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+04965,Royal Hogs,88.0,Mega Minion,64.0,Mega Knight,63.0,Skeletons,94.0,Hunter,52.0,2.0,0,True,True,4.0,4.0
+04980,Royal Hogs,88.0,Mega Minion,64.0,Mega Knight,63.0,Skeletons,94.0,,,,1,False,False,0.0,0.0
+04995,Royal Hogs,88.0,Mega Minion,64.0,Mega Knight,63.0,Skeletons,94.0,,,,1,False,False,0.0,0.0
+05010,Royal Hogs,88.0,Mega Minion,64.0,Mega Knight,63.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+05025,Royal Hogs,88.0,Mega Minion,64.0,Mega Knight,63.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+05040,Royal Hogs,88.0,Mega Minion,64.0,Mega Knight,63.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+05055,Royal Hogs,88.0,Mega Minion,64.0,Mega Knight,63.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+05070,Royal Hogs,88.0,Mega Minion,64.0,Mega Knight,63.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+05085,Royal Hogs,88.0,Mega Minion,64.0,Mega Knight,63.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+05100,Royal Hogs,88.0,Mega Minion,64.0,Mega Knight,63.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+05115,Royal Hogs,88.0,Mega Minion,64.0,Mega Knight,63.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+05130,Royal Hogs,88.0,Mega Minion,64.0,Mega Knight,63.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+05145,Royal Hogs,88.0,Mega Minion,64.0,Mega Knight,63.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+05160,Royal Hogs,88.0,Mega Minion,64.0,Mega Knight,63.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+05175,Royal Hogs,88.0,Mega Minion,64.0,Mega Knight,63.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+05190,Royal Hogs,88.0,Mega Minion,64.0,Mega Knight,63.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+05205,Royal Hogs,88.0,Mega Minion,64.0,Mega Knight,63.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+05220,Royal Hogs,88.0,Mega Minion,64.0,Mega Knight,63.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+05235,Royal Hogs,88.0,Mega Minion,64.0,Mega Knight,63.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+05250,Royal Hogs,88.0,Mega Minion,64.0,Mega Knight,63.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+05265,Royal Hogs,88.0,Mega Minion,64.0,Mega Knight,63.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+05280,Royal Hogs,88.0,Mega Minion,64.0,Mega Knight,63.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+05295,Royal Hogs,88.0,Mega Minion,64.0,Mega Knight,63.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+05310,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Skeletons,94.0,Mega Minion,64.0,2.0,6,True,True,2.0,3.0
+05325,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+05340,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+05355,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+05370,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+05385,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+05400,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+05415,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+05430,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Cannon Cart,16.0,Skeletons,94.0,4.0,8,True,False,0.0,1.0
+05445,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+05460,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+05475,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+05490,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+05505,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+05520,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,Cannon Cart,16.0,4.0,5,True,True,4.0,5.0
+05535,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+05550,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+05565,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+05580,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+05595,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+05610,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+05625,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+05640,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+05655,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+05670,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+05685,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+05700,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+05715,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+05730,Royal Hogs,88.0,Poison,78.0,Hunter,52.0,Giant Snowball,38.0,Mega Knight,63.0,3.0,3,True,True,6.0,7.0
+05745,Royal Hogs,88.0,Poison,78.0,Hunter,52.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+05760,Royal Hogs,88.0,Poison,78.0,Hunter,52.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+05775,Royal Hogs,88.0,Poison,78.0,Hunter,52.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+05790,Royal Hogs,88.0,Poison,78.0,Hunter,52.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+05805,Royal Hogs,88.0,Poison,78.0,Hunter,52.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+05820,Royal Hogs,88.0,Poison,78.0,Hunter,52.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+05835,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Giant Snowball,38.0,Hunter,52.0,3.0,1,True,True,4.0,4.0
+05850,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+05865,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+05880,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+05895,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+05910,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+05925,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+05940,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+05955,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Skeletons,94.0,Giant Snowball,38.0,4.0,2,True,True,2.0,2.0
+05970,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+05985,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+06000,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+06015,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,Skeletons,94.0,4.0,2,True,True,1.0,1.0
+06030,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+06045,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+06060,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+06075,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+06090,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+06105,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+06120,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+06135,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+06150,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+06165,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+06180,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+06195,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+06210,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+06225,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+06240,Royal Hogs,88.0,Poison,78.0,Mega Minion,64.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0

@@ -1,0 +1,624 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Arrows,2.0,,,Balloon,4.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+00255,Arrows,2.0,,,Balloon,4.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+00270,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,2.0,6,True,False,0.0,0.0
+00285,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+00300,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+00315,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+00330,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+00345,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+00360,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+00375,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+00390,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+00405,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+00420,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+00435,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+00450,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+00465,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+00480,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+00495,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+00510,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+00525,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+00540,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,10,False,False,0.0,0.0
+00555,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,10,False,False,0.0,0.0
+00570,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,10,False,False,0.0,0.0
+00585,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,10,False,False,0.0,0.0
+00600,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,Lava Hound,59.0,2.0,3,True,True,7.0,7.0
+00615,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+00630,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+00645,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+00660,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+00675,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+00690,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+00705,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+00720,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+00735,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+00750,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+00765,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+00780,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+00795,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+00810,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+00825,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+00840,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+00855,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+00870,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+00885,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+00900,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+00915,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+00930,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+00945,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+00960,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+00975,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+00990,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+01005,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+01020,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+01035,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+01050,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+01065,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+01080,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+01095,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+01110,Arrows,2.0,Zap,107.0,Balloon,4.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+01125,Arrows,2.0,Zap,107.0,Miner,66.0,Inferno Dragon,56.0,Balloon,4.0,3.0,3,True,True,5.0,5.0
+01140,Arrows,2.0,Zap,107.0,Miner,66.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+01155,Arrows,2.0,Zap,107.0,Miner,66.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+01170,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,Miner,66.0,3.0,1,True,True,3.0,3.0
+01185,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+01200,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+01215,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+01230,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+01245,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+01260,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+01275,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+01290,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+01305,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+01320,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+01335,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+01350,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+01365,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+01380,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+01395,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+01410,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+01425,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+01440,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+01455,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+01470,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+01485,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+01500,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+01515,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+01530,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+01545,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+01560,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+01575,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+01590,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+01605,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+01620,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+01635,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+01650,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+01665,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+01680,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+01695,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+01710,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+01725,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+01740,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+01755,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+01770,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+01785,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+01800,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+01815,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+01830,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+01845,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+01860,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+01875,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+01890,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,10,False,False,0.0,0.0
+01905,Arrows,2.0,Zap,107.0,Barbarians,8.0,Inferno Dragon,56.0,,,,10,False,False,0.0,0.0
+01920,Arrows,2.0,Skeleton Dragons,92.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,2.0,8,True,True,2.0,2.0
+01935,Arrows,2.0,Skeleton Dragons,92.0,Barbarians,8.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+01950,Arrows,2.0,Skeleton Dragons,92.0,Barbarians,8.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+01965,Arrows,2.0,Skeleton Dragons,92.0,Barbarians,8.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+01980,Arrows,2.0,Skeleton Dragons,92.0,Barbarians,8.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+01995,Arrows,2.0,Skeleton Dragons,92.0,Barbarians,8.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+02010,Arrows,2.0,Skeleton Dragons,92.0,Barbarians,8.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+02025,Arrows,2.0,Skeleton Dragons,92.0,Barbarians,8.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+02040,Arrows,2.0,Skeleton Dragons,92.0,Barbarians,8.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+02055,Arrows,2.0,Skeleton Dragons,92.0,Barbarians,8.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+02070,Arrows,2.0,Lava Hound,59.0,Barbarians,8.0,Inferno Dragon,56.0,Skeleton Dragons,92.0,2.0,5,True,True,4.0,4.0
+02085,Arrows,2.0,Lava Hound,59.0,Barbarians,8.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+02100,Arrows,2.0,Lava Hound,59.0,Barbarians,8.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+02115,Arrows,2.0,Lava Hound,59.0,Barbarians,8.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+02130,Arrows,2.0,Lava Hound,59.0,Barbarians,8.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+02145,Arrows,2.0,Lava Hound,59.0,Barbarians,8.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+02160,Arrows,2.0,Lava Hound,59.0,Barbarians,8.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+02175,Arrows,2.0,Lava Hound,59.0,Barbarians,8.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+02190,Arrows,2.0,Lava Hound,59.0,Barbarians,8.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+02205,Arrows,2.0,Lava Hound,59.0,Barbarians,8.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+02220,Arrows,2.0,Lava Hound,59.0,Barbarians,8.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+02235,Arrows,2.0,Lava Hound,59.0,Barbarians,8.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+02250,Arrows,2.0,Lava Hound,59.0,Barbarians,8.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+02265,Arrows,2.0,Lava Hound,59.0,Barbarians,8.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+02280,Arrows,2.0,Lava Hound,59.0,Barbarians,8.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+02295,Arrows,2.0,Lava Hound,59.0,Barbarians,8.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+02310,Arrows,2.0,Lava Hound,59.0,Barbarians,8.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+02325,Arrows,2.0,Lava Hound,59.0,Barbarians,8.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+02340,Arrows,2.0,Lava Hound,59.0,Barbarians,8.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+02355,Arrows,2.0,Lava Hound,59.0,Barbarians,8.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+02370,Arrows,2.0,Lava Hound,59.0,Barbarians,8.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+02385,Arrows,2.0,Lava Hound,59.0,Barbarians,8.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+02400,Arrows,2.0,Lava Hound,59.0,Barbarians,8.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+02415,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,Barbarians,8.0,3.0,5,True,True,4.0,5.0
+02430,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+02445,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+02460,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+02475,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+02490,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+02505,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+02520,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+02535,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+02550,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+02565,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+02580,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+02595,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+02610,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+02625,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Miner,66.0,Inferno Dragon,56.0,4.0,3,True,True,4.0,4.0
+02640,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Miner,66.0,,,,3,False,False,0.0,0.0
+02655,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Miner,66.0,,,,3,False,False,0.0,0.0
+02670,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Miner,66.0,,,,4,False,False,0.0,0.0
+02685,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,Miner,66.0,4.0,1,True,True,3.0,3.0
+02700,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,1,False,False,0.0,0.0
+02715,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,1,False,False,0.0,0.0
+02730,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,1,False,False,0.0,0.0
+02745,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,1,False,False,0.0,0.0
+02760,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,2,False,False,0.0,0.0
+02775,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,2,False,False,0.0,0.0
+02790,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,2,False,False,0.0,0.0
+02805,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,2,False,False,0.0,0.0
+02820,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,2,False,False,0.0,0.0
+02835,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,3,False,False,0.0,0.0
+02850,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,3,False,False,0.0,0.0
+02865,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,3,False,False,0.0,0.0
+02880,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,3,False,False,0.0,0.0
+02895,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,3,False,False,0.0,0.0
+02910,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,3,False,False,0.0,0.0
+02925,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,4,False,False,0.0,0.0
+02940,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,4,False,False,0.0,0.0
+02955,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,4,False,False,0.0,0.0
+02970,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,4,False,False,0.0,0.0
+02985,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,4,False,False,0.0,0.0
+03000,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,5,False,False,0.0,0.0
+03015,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,5,False,False,0.0,0.0
+03030,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,5,False,False,0.0,0.0
+03045,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,5,False,False,0.0,0.0
+03060,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,5,False,False,0.0,0.0
+03075,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,5,False,False,0.0,0.0
+03090,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,6,False,False,0.0,0.0
+03105,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,6,False,False,0.0,0.0
+03120,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,6,False,False,0.0,0.0
+03135,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,6,False,False,0.0,0.0
+03150,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,6,False,False,0.0,0.0
+03165,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,6,False,False,0.0,0.0
+03180,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,7,False,False,0.0,0.0
+03195,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,7,False,False,0.0,0.0
+03210,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,7,False,False,0.0,0.0
+03225,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,7,False,False,0.0,0.0
+03240,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,7,False,False,0.0,0.0
+03255,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,8,False,False,0.0,0.0
+03270,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,8,False,False,0.0,0.0
+03285,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,8,False,False,0.0,0.0
+03300,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,8,False,False,0.0,0.0
+03315,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,8,False,False,0.0,0.0
+03330,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,8,False,False,0.0,0.0
+03345,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,9,False,False,0.0,0.0
+03360,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,9,False,False,0.0,0.0
+03375,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,9,False,False,0.0,0.0
+03390,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,9,False,False,0.0,0.0
+03405,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,9,False,False,0.0,0.0
+03420,Arrows,2.0,Lava Hound,59.0,Balloon,4.0,Zap,107.0,,,,10,False,False,0.0,0.0
+03435,Arrows,2.0,Skeleton Dragons,92.0,Balloon,4.0,Zap,107.0,Lava Hound,59.0,2.0,3,True,True,7.0,7.0
+03450,Arrows,2.0,Skeleton Dragons,92.0,Balloon,4.0,Zap,107.0,,,,3,False,False,0.0,0.0
+03465,Arrows,2.0,Skeleton Dragons,92.0,Balloon,4.0,Zap,107.0,,,,3,False,False,0.0,0.0
+03480,Arrows,2.0,Skeleton Dragons,92.0,Balloon,4.0,Zap,107.0,,,,3,False,False,0.0,0.0
+03495,Arrows,2.0,Skeleton Dragons,92.0,Balloon,4.0,Zap,107.0,,,,3,False,False,0.0,0.0
+03510,Arrows,2.0,Skeleton Dragons,92.0,Balloon,4.0,Zap,107.0,,,,3,False,False,0.0,0.0
+03525,Arrows,2.0,Skeleton Dragons,92.0,Balloon,4.0,Zap,107.0,,,,4,False,False,0.0,0.0
+03540,Arrows,2.0,Skeleton Dragons,92.0,Balloon,4.0,Zap,107.0,,,,4,False,False,0.0,0.0
+03555,Arrows,2.0,Skeleton Dragons,92.0,Balloon,4.0,Zap,107.0,,,,4,False,False,0.0,0.0
+03570,Arrows,2.0,Skeleton Dragons,92.0,Balloon,4.0,Zap,107.0,,,,4,False,False,0.0,0.0
+03585,Arrows,2.0,Skeleton Dragons,92.0,Balloon,4.0,Zap,107.0,,,,4,False,False,0.0,0.0
+03600,Arrows,2.0,Skeleton Dragons,92.0,Balloon,4.0,Zap,107.0,,,,5,False,False,0.0,0.0
+03615,Arrows,2.0,Skeleton Dragons,92.0,Balloon,4.0,Zap,107.0,,,,5,False,False,0.0,0.0
+03630,Arrows,2.0,Skeleton Dragons,92.0,Balloon,4.0,Zap,107.0,,,,5,False,False,0.0,0.0
+03645,Arrows,2.0,Skeleton Dragons,92.0,Balloon,4.0,Zap,107.0,,,,5,False,False,0.0,0.0
+03660,Arrows,2.0,Barbarians,8.0,Balloon,4.0,Zap,107.0,Skeleton Dragons,92.0,2.0,2,True,True,3.0,4.0
+03675,Arrows,2.0,Barbarians,8.0,Balloon,4.0,Zap,107.0,,,,1,False,True,1.0,0.0
+03690,Arrows,2.0,Barbarians,8.0,Balloon,4.0,Zap,107.0,,,,2,False,False,0.0,0.0
+03705,Arrows,2.0,Barbarians,8.0,Balloon,4.0,Zap,107.0,,,,2,False,False,0.0,0.0
+03720,Arrows,2.0,Barbarians,8.0,Balloon,4.0,Zap,107.0,,,,2,False,False,0.0,0.0
+03735,Arrows,2.0,Barbarians,8.0,Balloon,4.0,Zap,107.0,,,,2,False,False,0.0,0.0
+03750,Arrows,2.0,Barbarians,8.0,Balloon,4.0,Zap,107.0,,,,2,False,False,0.0,0.0
+03765,Arrows,2.0,Barbarians,8.0,Balloon,4.0,Zap,107.0,,,,3,False,False,0.0,0.0
+03780,Arrows,2.0,Barbarians,8.0,Balloon,4.0,Zap,107.0,,,,3,False,False,0.0,0.0
+03795,Arrows,2.0,Barbarians,8.0,Balloon,4.0,Zap,107.0,,,,3,False,False,0.0,0.0
+03810,Arrows,2.0,Barbarians,8.0,Balloon,4.0,Zap,107.0,,,,3,False,False,0.0,0.0
+03825,Arrows,2.0,Barbarians,8.0,Balloon,4.0,Zap,107.0,,,,3,False,False,0.0,0.0
+03840,Arrows,2.0,Barbarians,8.0,Balloon,4.0,Zap,107.0,,,,4,False,False,0.0,0.0
+03855,Arrows,2.0,Barbarians,8.0,Balloon,4.0,Zap,107.0,,,,5,False,False,0.0,0.0
+03870,Arrows,2.0,Barbarians,8.0,Balloon,4.0,Zap,107.0,,,,5,False,False,0.0,0.0
+03885,Arrows,2.0,Barbarians,8.0,Balloon,4.0,Zap,107.0,,,,5,False,False,0.0,0.0
+03900,Arrows,2.0,Barbarians,8.0,Balloon,4.0,Zap,107.0,,,,6,False,False,0.0,0.0
+03915,Arrows,2.0,Barbarians,8.0,Balloon,4.0,Zap,107.0,,,,6,False,False,0.0,0.0
+03930,Arrows,2.0,Barbarians,8.0,Balloon,4.0,Zap,107.0,,,,6,False,False,0.0,0.0
+03945,Arrows,2.0,Barbarians,8.0,Balloon,4.0,Zap,107.0,,,,7,False,False,0.0,0.0
+03960,Arrows,2.0,Barbarians,8.0,Balloon,4.0,Zap,107.0,,,,7,False,False,0.0,0.0
+03975,Arrows,2.0,Barbarians,8.0,Balloon,4.0,Zap,107.0,,,,7,False,False,0.0,0.0
+03990,Arrows,2.0,Barbarians,8.0,Balloon,4.0,Zap,107.0,,,,8,False,False,0.0,0.0
+04005,Arrows,2.0,Barbarians,8.0,Balloon,4.0,Zap,107.0,,,,8,False,False,0.0,0.0
+04020,Arrows,2.0,Barbarians,8.0,Balloon,4.0,Zap,107.0,,,,9,False,False,0.0,0.0
+04035,Arrows,2.0,Barbarians,8.0,Balloon,4.0,Zap,107.0,,,,9,False,False,0.0,0.0
+04050,Arrows,2.0,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarians,8.0,2.0,4,True,True,5.0,5.0
+04065,Arrows,2.0,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04080,Arrows,2.0,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04095,Arrows,2.0,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04110,Arrows,2.0,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04125,Arrows,2.0,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04140,Arrows,2.0,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04155,Arrows,2.0,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04170,Arrows,2.0,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04185,Arrows,2.0,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,,,,8,False,False,0.0,0.0
+04200,Arrows,2.0,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,,,,8,False,False,0.0,0.0
+04215,Arrows,2.0,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,,,,8,False,False,0.0,0.0
+04230,Arrows,2.0,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,,,,9,False,False,0.0,0.0
+04245,Arrows,2.0,Miner,66.0,Balloon,4.0,Zap,107.0,Inferno Dragon,56.0,2.0,5,True,True,4.0,4.0
+04260,Arrows,2.0,Miner,66.0,Balloon,4.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04275,Arrows,2.0,Miner,66.0,Balloon,4.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04290,Arrows,2.0,Miner,66.0,Balloon,4.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04305,Arrows,2.0,Miner,66.0,Balloon,4.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04320,Arrows,2.0,Miner,66.0,Balloon,4.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04335,Arrows,2.0,Miner,66.0,Balloon,4.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04350,Arrows,2.0,Miner,66.0,Balloon,4.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04365,Arrows,2.0,Miner,66.0,Balloon,4.0,Zap,107.0,,,,8,False,False,0.0,0.0
+04380,Arrows,2.0,Miner,66.0,Balloon,4.0,Zap,107.0,,,,8,False,False,0.0,0.0
+04395,Arrows,2.0,Miner,66.0,Balloon,4.0,Zap,107.0,,,,8,False,False,0.0,0.0
+04410,Arrows,2.0,Miner,66.0,Balloon,4.0,Zap,107.0,,,,9,False,False,0.0,0.0
+04425,Arrows,2.0,Miner,66.0,Lava Hound,59.0,Zap,107.0,Balloon,4.0,3.0,4,True,True,5.0,5.0
+04440,Arrows,2.0,Miner,66.0,Lava Hound,59.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04455,Arrows,2.0,Miner,66.0,Lava Hound,59.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04470,Arrows,2.0,Miner,66.0,Lava Hound,59.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04485,Arrows,2.0,Miner,66.0,Lava Hound,59.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04500,Arrows,2.0,Miner,66.0,Lava Hound,59.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04515,Arrows,2.0,Miner,66.0,Lava Hound,59.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04530,Arrows,2.0,Miner,66.0,Lava Hound,59.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04545,Arrows,2.0,Miner,66.0,Lava Hound,59.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04560,Arrows,2.0,Miner,66.0,Lava Hound,59.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04575,Arrows,2.0,Miner,66.0,Skeleton Dragons,92.0,Zap,107.0,Lava Hound,59.0,3.0,1,True,True,6.0,7.0
+04590,Arrows,2.0,Miner,66.0,Skeleton Dragons,92.0,Zap,107.0,,,,1,False,False,0.0,0.0
+04605,Arrows,2.0,Miner,66.0,Skeleton Dragons,92.0,Zap,107.0,,,,2,False,False,0.0,0.0
+04620,Arrows,2.0,Miner,66.0,Skeleton Dragons,92.0,Zap,107.0,,,,2,False,False,0.0,0.0
+04635,Arrows,2.0,Miner,66.0,Skeleton Dragons,92.0,Zap,107.0,,,,2,False,False,0.0,0.0
+04650,Arrows,2.0,Miner,66.0,Skeleton Dragons,92.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04665,Arrows,2.0,Miner,66.0,Skeleton Dragons,92.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04680,Arrows,2.0,Miner,66.0,Skeleton Dragons,92.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04695,Arrows,2.0,Miner,66.0,Skeleton Dragons,92.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04710,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,Miner,66.0,2.0,1,True,True,3.0,3.0
+04725,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,1,False,False,0.0,0.0
+04740,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,2,False,False,0.0,0.0
+04755,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,2,False,False,0.0,0.0
+04770,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,2,False,False,0.0,0.0
+04785,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04800,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04815,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04830,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04845,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04860,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04875,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04890,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04905,Arrows,2.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,Skeleton Dragons,92.0,3.0,2,True,True,3.0,4.0
+04920,Arrows,2.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,2,False,False,0.0,0.0
+04935,Arrows,2.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,2,False,False,0.0,0.0
+04950,Arrows,2.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04965,Arrows,2.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04980,Arrows,2.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04995,Arrows,2.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05010,Arrows,2.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05025,Arrows,2.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05040,Arrows,2.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,5,False,False,0.0,0.0
+05055,Arrows,2.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,5,False,False,0.0,0.0
+05070,Arrows,2.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,6,False,False,0.0,0.0
+05085,Arrows,2.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,6,False,False,0.0,0.0
+05100,Arrows,2.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,6,False,False,0.0,0.0
+05115,Balloon,4.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,Arrows,2.0,1.0,4,True,True,2.0,3.0
+05130,Balloon,4.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05145,Balloon,4.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05160,Balloon,4.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,5,False,False,0.0,0.0
+05175,Balloon,4.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,5,False,False,0.0,0.0
+05190,Balloon,4.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,5,False,False,0.0,0.0
+05205,Balloon,4.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,6,False,False,0.0,0.0
+05220,Balloon,4.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,6,False,False,0.0,0.0
+05235,Balloon,4.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,7,False,False,0.0,0.0
+05250,Balloon,4.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,7,False,False,0.0,0.0
+05265,Balloon,4.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,7,False,False,0.0,0.0
+05280,Balloon,4.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,8,False,False,0.0,0.0
+05295,Balloon,4.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,8,False,False,0.0,0.0
+05310,Balloon,4.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,8,False,False,0.0,0.0
+05325,Balloon,4.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,9,False,False,0.0,0.0
+05340,Balloon,4.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,9,False,False,0.0,0.0
+05355,Balloon,4.0,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Inferno Dragon,56.0,3.0,5,True,True,4.0,4.0
+05370,Balloon,4.0,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,,,,6,False,False,0.0,0.0
+05385,Balloon,4.0,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,,,,6,False,False,0.0,0.0
+05400,Balloon,4.0,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,,,,6,False,False,0.0,0.0
+05415,Miner,66.0,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Balloon,4.0,1.0,2,True,True,4.0,5.0
+05430,Miner,66.0,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05445,Miner,66.0,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05460,Miner,66.0,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05475,Miner,66.0,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05490,Miner,66.0,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05505,Miner,66.0,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05520,Miner,66.0,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05535,Miner,66.0,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,,,,5,False,False,0.0,0.0
+05550,Miner,66.0,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,,,,5,False,False,0.0,0.0
+05565,Miner,66.0,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,,,,5,False,False,0.0,0.0
+05580,Miner,66.0,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,,,,6,False,False,0.0,0.0
+05595,Miner,66.0,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,,,,6,False,False,0.0,0.0
+05610,Miner,66.0,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,,,,6,False,False,0.0,0.0
+05625,Miner,66.0,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,,,,7,False,False,0.0,0.0
+05640,Miner,66.0,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,,,,7,False,False,0.0,0.0
+05655,Miner,66.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,Lava Hound,59.0,3.0,0,True,True,7.0,7.0
+05670,Miner,66.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,1,False,False,0.0,0.0
+05685,Miner,66.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,1,False,False,0.0,0.0
+05700,Miner,66.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05715,Miner,66.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05730,Miner,66.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05745,Miner,66.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05760,Miner,66.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05775,Miner,66.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05790,Miner,66.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05805,Miner,66.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05820,Miner,66.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05835,Miner,66.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,5,False,False,0.0,0.0
+05850,Miner,66.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,5,False,False,0.0,0.0
+05865,Miner,66.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,5,False,False,0.0,0.0
+05880,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,Miner,66.0,1.0,3,True,True,2.0,3.0
+05895,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05910,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05925,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05940,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05955,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,5,False,False,0.0,0.0
+05970,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,5,False,False,0.0,0.0
+05985,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,5,False,False,0.0,0.0
+06000,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,6,False,False,0.0,0.0
+06015,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,6,False,False,0.0,0.0
+06030,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,6,False,False,0.0,0.0
+06045,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,7,False,False,0.0,0.0
+06060,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,7,False,False,0.0,0.0
+06075,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,7,False,False,0.0,0.0
+06090,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,8,False,False,0.0,0.0
+06105,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,8,False,False,0.0,0.0
+06120,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,9,False,False,0.0,0.0
+06135,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,9,False,False,0.0,0.0
+06150,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,9,False,False,0.0,0.0
+06165,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,Zap,107.0,,,,10,False,False,0.0,0.0
+06180,Arrows,2.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,Skeleton Dragons,92.0,3.0,6,True,True,4.0,4.0
+06195,Arrows,2.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,6,False,False,0.0,0.0
+06210,Arrows,2.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,6,False,False,0.0,0.0
+06225,Arrows,2.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,7,False,False,0.0,0.0
+06240,Arrows,2.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,7,False,False,0.0,0.0
+06255,Arrows,2.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,8,False,False,0.0,0.0
+06270,Arrows,2.0,Barbarians,8.0,Inferno Dragon,56.0,Zap,107.0,,,,8,False,False,0.0,0.0
+06285,Arrows,2.0,Balloon,4.0,Inferno Dragon,56.0,Zap,107.0,Barbarians,8.0,2.0,3,True,True,5.0,5.0
+06300,Arrows,2.0,Balloon,4.0,Inferno Dragon,56.0,Zap,107.0,,,,4,False,False,0.0,0.0
+06315,Arrows,2.0,Balloon,4.0,Inferno Dragon,56.0,Zap,107.0,,,,4,False,False,0.0,0.0
+06330,Arrows,2.0,Balloon,4.0,Inferno Dragon,56.0,Zap,107.0,,,,4,False,False,0.0,0.0
+06345,Arrows,2.0,Balloon,4.0,Inferno Dragon,56.0,Zap,107.0,,,,5,False,False,0.0,0.0
+06360,Arrows,2.0,Balloon,4.0,Inferno Dragon,56.0,Zap,107.0,,,,5,False,False,0.0,0.0
+06375,Arrows,2.0,Balloon,4.0,Inferno Dragon,56.0,Zap,107.0,,,,5,False,False,0.0,0.0
+06390,Arrows,2.0,Balloon,4.0,Inferno Dragon,56.0,Zap,107.0,,,,6,False,False,0.0,0.0
+06405,Arrows,2.0,Balloon,4.0,Inferno Dragon,56.0,Zap,107.0,,,,6,False,False,0.0,0.0
+06420,Arrows,2.0,Balloon,4.0,Inferno Dragon,56.0,Zap,107.0,,,,6,False,False,0.0,0.0
+06435,Arrows,2.0,Balloon,4.0,Inferno Dragon,56.0,Zap,107.0,,,,7,False,False,0.0,0.0
+06450,Arrows,2.0,Balloon,4.0,Inferno Dragon,56.0,Zap,107.0,,,,7,False,False,0.0,0.0
+06465,Arrows,2.0,Balloon,4.0,Inferno Dragon,56.0,Zap,107.0,,,,8,False,False,0.0,0.0
+06480,Arrows,2.0,Balloon,4.0,Inferno Dragon,56.0,Zap,107.0,,,,8,False,False,0.0,0.0
+06495,Arrows,2.0,Balloon,4.0,Inferno Dragon,56.0,Zap,107.0,,,,8,False,False,0.0,0.0
+06510,Arrows,2.0,Balloon,4.0,Inferno Dragon,56.0,Zap,107.0,,,,9,False,False,0.0,0.0
+06525,Arrows,2.0,Balloon,4.0,Lava Hound,59.0,Zap,107.0,Inferno Dragon,56.0,3.0,5,True,True,4.0,4.0
+06540,Arrows,2.0,Balloon,4.0,Lava Hound,59.0,Zap,107.0,,,,5,False,False,0.0,0.0
+06555,Arrows,2.0,Balloon,4.0,Lava Hound,59.0,Zap,107.0,,,,6,False,False,0.0,0.0
+06570,Arrows,2.0,Balloon,4.0,Lava Hound,59.0,Zap,107.0,,,,6,False,False,0.0,0.0
+06585,Arrows,2.0,Balloon,4.0,Lava Hound,59.0,Zap,107.0,,,,6,False,False,0.0,0.0
+06600,Arrows,2.0,Balloon,4.0,Lava Hound,59.0,Zap,107.0,,,,7,False,False,0.0,0.0
+06615,Arrows,2.0,Balloon,4.0,Lava Hound,59.0,Zap,107.0,,,,7,False,False,0.0,0.0
+06630,Miner,66.0,Balloon,4.0,Lava Hound,59.0,Zap,107.0,Arrows,2.0,1.0,4,True,True,3.0,3.0
+06645,Miner,66.0,Balloon,4.0,Lava Hound,59.0,Zap,107.0,,,,5,False,False,0.0,0.0
+06660,Miner,66.0,Balloon,4.0,Lava Hound,59.0,Zap,107.0,,,,5,False,False,0.0,0.0
+06675,Miner,66.0,Balloon,4.0,Lava Hound,59.0,Zap,107.0,,,,6,False,False,0.0,0.0
+06690,Miner,66.0,Balloon,4.0,Lava Hound,59.0,Zap,107.0,,,,6,False,False,0.0,0.0
+06705,Miner,66.0,Balloon,4.0,Lava Hound,59.0,Zap,107.0,,,,6,False,False,0.0,0.0
+06720,Miner,66.0,Balloon,4.0,Lava Hound,59.0,Zap,107.0,,,,7,False,False,0.0,0.0
+06735,Miner,66.0,Balloon,4.0,Lava Hound,59.0,Zap,107.0,,,,7,False,False,0.0,0.0
+06750,Miner,66.0,Balloon,4.0,Lava Hound,59.0,Zap,107.0,,,,7,False,False,0.0,0.0
+06765,Miner,66.0,Balloon,4.0,Lava Hound,59.0,Zap,107.0,,,,8,False,False,0.0,0.0
+06780,Miner,66.0,Balloon,4.0,Lava Hound,59.0,Zap,107.0,,,,8,False,False,0.0,0.0
+06795,Miner,66.0,Balloon,4.0,Lava Hound,59.0,Zap,107.0,,,,8,False,False,0.0,0.0
+06810,Miner,66.0,Balloon,4.0,Lava Hound,59.0,Zap,107.0,,,,9,False,False,0.0,0.0
+06825,Miner,66.0,Balloon,4.0,Skeleton Dragons,92.0,Zap,107.0,Lava Hound,59.0,3.0,2,True,True,7.0,7.0
+06840,Miner,66.0,Balloon,4.0,Skeleton Dragons,92.0,Zap,107.0,,,,2,False,False,0.0,0.0
+06855,Miner,66.0,Balloon,4.0,Skeleton Dragons,92.0,Zap,107.0,,,,3,False,False,0.0,0.0
+06870,Miner,66.0,Balloon,4.0,Skeleton Dragons,92.0,Zap,107.0,,,,3,False,False,0.0,0.0
+06885,Miner,66.0,Balloon,4.0,Skeleton Dragons,92.0,Zap,107.0,,,,4,False,False,0.0,0.0
+06900,Miner,66.0,Balloon,4.0,Skeleton Dragons,92.0,Zap,107.0,,,,4,False,False,0.0,0.0
+06915,Miner,66.0,Balloon,4.0,Skeleton Dragons,92.0,Zap,107.0,,,,4,False,False,0.0,0.0
+06930,Miner,66.0,Balloon,4.0,Skeleton Dragons,92.0,Zap,107.0,,,,5,False,False,0.0,0.0
+06945,Miner,66.0,Balloon,4.0,Skeleton Dragons,92.0,Zap,107.0,,,,5,False,False,0.0,0.0
+06960,Miner,66.0,Balloon,4.0,Skeleton Dragons,92.0,Zap,107.0,,,,5,False,False,0.0,0.0
+06975,Barbarians,8.0,Balloon,4.0,Skeleton Dragons,92.0,Zap,107.0,Miner,66.0,1.0,3,True,True,2.0,3.0
+06990,Barbarians,8.0,Balloon,4.0,Skeleton Dragons,92.0,Zap,107.0,,,,3,False,False,0.0,0.0
+07005,Barbarians,8.0,Balloon,4.0,Skeleton Dragons,92.0,Zap,107.0,,,,3,False,False,0.0,0.0
+07020,Barbarians,8.0,Balloon,4.0,Skeleton Dragons,92.0,Zap,107.0,,,,4,False,False,0.0,0.0
+07035,Barbarians,8.0,Balloon,4.0,Skeleton Dragons,92.0,Zap,107.0,,,,4,False,False,0.0,0.0
+07050,Barbarians,8.0,Balloon,4.0,Skeleton Dragons,92.0,Zap,107.0,,,,4,False,False,0.0,0.0
+07065,Barbarians,8.0,Balloon,4.0,Skeleton Dragons,92.0,Zap,107.0,,,,5,False,False,0.0,0.0
+07080,Barbarians,8.0,Balloon,4.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,Zap,107.0,4.0,3,True,True,2.0,2.0
+07095,Barbarians,8.0,Balloon,4.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+07110,Barbarians,8.0,Balloon,4.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+07125,Barbarians,8.0,Balloon,4.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+07140,Barbarians,8.0,Balloon,4.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+07155,Barbarians,8.0,Balloon,4.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+07170,Barbarians,8.0,Balloon,4.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+07185,Barbarians,8.0,Arrows,2.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,Balloon,4.0,2.0,1,True,True,4.0,5.0
+07200,Barbarians,8.0,Arrows,2.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+07215,Barbarians,8.0,Arrows,2.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+07230,Barbarians,8.0,Arrows,2.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+07245,Barbarians,8.0,Arrows,2.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+07260,Barbarians,8.0,Arrows,2.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+07275,Barbarians,8.0,Arrows,2.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+07290,Barbarians,8.0,Arrows,2.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+07305,Barbarians,8.0,Lava Hound,59.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,Arrows,2.0,2.0,3,True,True,2.0,3.0
+07320,Barbarians,8.0,Lava Hound,59.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+07335,Barbarians,8.0,Lava Hound,59.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+07350,Barbarians,8.0,Lava Hound,59.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+07365,Barbarians,8.0,Lava Hound,59.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+07380,Barbarians,8.0,Lava Hound,59.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+07395,Barbarians,8.0,Lava Hound,59.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+07410,Barbarians,8.0,Lava Hound,59.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+07425,Barbarians,8.0,Lava Hound,59.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+07440,Barbarians,8.0,Lava Hound,59.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+07455,Barbarians,8.0,Lava Hound,59.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+07470,Barbarians,8.0,Lava Hound,59.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+07485,Barbarians,8.0,Lava Hound,59.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+07500,Barbarians,8.0,Lava Hound,59.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+07515,Barbarians,8.0,Lava Hound,59.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+07530,Barbarians,8.0,Lava Hound,59.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+07545,Barbarians,8.0,Lava Hound,59.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+07560,Barbarians,8.0,Lava Hound,59.0,Skeleton Dragons,92.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+07575,Barbarians,8.0,Lava Hound,59.0,Miner,66.0,Inferno Dragon,56.0,Skeleton Dragons,92.0,3.0,5,True,True,4.0,4.0
+07590,Barbarians,8.0,Lava Hound,59.0,Miner,66.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+07605,Barbarians,8.0,Lava Hound,59.0,Miner,66.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+07620,Barbarians,8.0,Lava Hound,59.0,Miner,66.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+07635,Barbarians,8.0,Lava Hound,59.0,Miner,66.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+07650,Barbarians,8.0,Lava Hound,59.0,Miner,66.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+07665,Barbarians,8.0,Lava Hound,59.0,Miner,66.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+07680,Barbarians,8.0,Lava Hound,59.0,Miner,66.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+07695,Barbarians,8.0,Lava Hound,59.0,Miner,66.0,Inferno Dragon,56.0,,,,10,False,False,0.0,0.0
+07710,Barbarians,8.0,Lava Hound,59.0,Miner,66.0,Inferno Dragon,56.0,,,,10,False,False,0.0,0.0
+07725,Barbarians,8.0,Zap,107.0,Miner,66.0,Inferno Dragon,56.0,Lava Hound,59.0,2.0,3,True,True,7.0,7.0
+07740,Barbarians,8.0,Zap,107.0,Miner,66.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+07755,Barbarians,8.0,Zap,107.0,Miner,66.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+07770,Barbarians,8.0,Zap,107.0,Miner,66.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+07785,Barbarians,8.0,Zap,107.0,Miner,66.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+07800,Barbarians,8.0,Zap,107.0,Miner,66.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+07815,Barbarians,8.0,Zap,107.0,Miner,66.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+07830,Balloon,4.0,Zap,107.0,Miner,66.0,Inferno Dragon,56.0,Barbarians,8.0,1.0,2,True,True,4.0,5.0
+07845,Balloon,4.0,Zap,107.0,Miner,66.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+07860,Balloon,4.0,Zap,107.0,Miner,66.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+07875,Balloon,4.0,Zap,107.0,Miner,66.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+07890,Balloon,4.0,Zap,107.0,Miner,66.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+07905,Balloon,4.0,Zap,107.0,Miner,66.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+07920,Balloon,4.0,Zap,107.0,Miner,66.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+07935,Balloon,4.0,Zap,107.0,Miner,66.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+07950,Balloon,4.0,Zap,107.0,Miner,66.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+07965,Balloon,4.0,Zap,107.0,Miner,66.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+07980,Balloon,4.0,Zap,107.0,Miner,66.0,Arrows,2.0,Inferno Dragon,56.0,4.0,3,True,True,3.0,4.0
+07995,Balloon,4.0,Zap,107.0,Miner,66.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+08010,Balloon,4.0,Zap,107.0,Miner,66.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+08025,Balloon,4.0,Zap,107.0,Miner,66.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+08040,Balloon,4.0,Zap,107.0,Miner,66.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+08055,Balloon,4.0,Zap,107.0,Miner,66.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+08070,Balloon,4.0,Zap,107.0,Miner,66.0,Skeleton Dragons,92.0,Arrows,2.0,4.0,3,True,True,3.0,3.0
+08085,Balloon,4.0,Zap,107.0,Miner,66.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+08100,Balloon,4.0,Zap,107.0,Miner,66.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+08115,Balloon,4.0,Zap,107.0,Miner,66.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+08130,Balloon,4.0,Zap,107.0,Miner,66.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+08145,Balloon,4.0,Zap,107.0,Miner,66.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+08160,Balloon,4.0,Zap,107.0,Miner,66.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+08175,Balloon,4.0,Zap,107.0,Miner,66.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+08190,Balloon,4.0,Zap,107.0,Miner,66.0,Lava Hound,59.0,Skeleton Dragons,92.0,4.0,3,True,True,4.0,4.0
+08205,Balloon,4.0,Zap,107.0,Miner,66.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+08220,Balloon,4.0,Zap,107.0,Miner,66.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+08235,Balloon,4.0,Zap,107.0,Miner,66.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+08250,Balloon,4.0,Zap,107.0,Miner,66.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+08265,Balloon,4.0,Zap,107.0,Miner,66.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+08280,Balloon,4.0,Zap,107.0,Miner,66.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+08295,Balloon,4.0,Zap,107.0,Miner,66.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+08310,Balloon,4.0,Zap,107.0,Miner,66.0,Lava Hound,59.0,,,,8,False,False,0.0,0.0
+08325,Balloon,4.0,Zap,107.0,Miner,66.0,Barbarians,8.0,Lava Hound,59.0,4.0,1,True,True,7.0,7.0
+08340,Balloon,4.0,Zap,107.0,Miner,66.0,Barbarians,8.0,,,,2,False,False,0.0,0.0
+08355,Balloon,4.0,Zap,107.0,Miner,66.0,Barbarians,8.0,,,,2,False,False,0.0,0.0
+08370,Balloon,4.0,Zap,107.0,Miner,66.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+08385,Balloon,4.0,Zap,107.0,Miner,66.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+08400,Balloon,4.0,Zap,107.0,Miner,66.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+08415,Balloon,4.0,Zap,107.0,Miner,66.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+08430,Balloon,4.0,Zap,107.0,Miner,66.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+08445,Balloon,4.0,Zap,107.0,Miner,66.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+08460,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Barbarians,8.0,Balloon,4.0,1.0,1,True,True,5.0,5.0
+08475,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Barbarians,8.0,,,,2,False,False,0.0,0.0
+08490,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Barbarians,8.0,,,,2,False,False,0.0,0.0
+08505,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+08520,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+08535,Inferno Dragon,56.0,Zap,107.0,Arrows,2.0,Barbarians,8.0,Miner,66.0,3.0,1,True,True,2.0,3.0
+08550,Inferno Dragon,56.0,Zap,107.0,Arrows,2.0,Barbarians,8.0,,,,1,False,False,0.0,0.0
+08565,Inferno Dragon,56.0,Zap,107.0,Arrows,2.0,Barbarians,8.0,,,,2,False,False,0.0,0.0
+08580,Inferno Dragon,56.0,Zap,107.0,Arrows,2.0,Barbarians,8.0,,,,2,False,False,0.0,0.0
+08595,Inferno Dragon,56.0,Zap,107.0,Arrows,2.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+08610,Inferno Dragon,56.0,Zap,107.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+08625,Inferno Dragon,56.0,Zap,107.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+08640,Inferno Dragon,56.0,Zap,107.0,Arrows,2.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+08655,Inferno Dragon,56.0,Zap,107.0,Arrows,2.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+08670,Inferno Dragon,56.0,Zap,107.0,Arrows,2.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+08685,Inferno Dragon,56.0,Skeleton Dragons,92.0,Arrows,2.0,Barbarians,8.0,Zap,107.0,2.0,4,True,True,2.0,2.0
+08700,Inferno Dragon,56.0,Skeleton Dragons,92.0,Arrows,2.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+08715,Inferno Dragon,56.0,Skeleton Dragons,92.0,Arrows,2.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+08730,Inferno Dragon,56.0,Skeleton Dragons,92.0,Arrows,2.0,Barbarians,8.0,,,,3,False,True,2.0,0.0
+08745,Inferno Dragon,56.0,Skeleton Dragons,92.0,Arrows,2.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+08760,Inferno Dragon,56.0,Skeleton Dragons,92.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+08775,Inferno Dragon,56.0,Skeleton Dragons,92.0,Arrows,2.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+08790,Inferno Dragon,56.0,Skeleton Dragons,92.0,Arrows,2.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+08805,Inferno Dragon,56.0,Balloon,4.0,Arrows,2.0,Barbarians,8.0,Skeleton Dragons,92.0,2.0,2,True,True,3.0,4.0
+08820,Inferno Dragon,56.0,Balloon,4.0,Arrows,2.0,Barbarians,8.0,,,,2,False,False,0.0,0.0
+08835,Inferno Dragon,56.0,Balloon,4.0,Arrows,2.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+08850,Inferno Dragon,56.0,Balloon,4.0,Arrows,2.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+08865,Inferno Dragon,56.0,Balloon,4.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+08880,Inferno Dragon,56.0,Balloon,4.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+08895,Inferno Dragon,56.0,Balloon,4.0,Arrows,2.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+08910,Inferno Dragon,56.0,Balloon,4.0,Arrows,2.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+08925,Inferno Dragon,56.0,Balloon,4.0,Arrows,2.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+08940,Inferno Dragon,56.0,Balloon,4.0,Arrows,2.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+08955,Inferno Dragon,56.0,Arrows,2.0,Arrows,2.0,Barbarians,8.0,Balloon,4.0,2.0,7,True,False,0.0,5.0
+08970,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,Arrows,2.0,2.0,7,True,True,4.0,3.0
+08985,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+09000,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+09015,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,1,False,True,2.0,0.0
+09030,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,1,False,False,0.0,0.0
+09045,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,1,False,False,0.0,0.0
+09060,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,1,False,False,0.0,0.0
+09075,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,1,False,False,0.0,0.0
+09090,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+09105,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,1,False,True,2.0,0.0
+09120,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,1,False,False,0.0,0.0
+09135,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,1,False,False,0.0,0.0
+09150,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,1,False,False,0.0,0.0
+09165,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,1,False,False,0.0,0.0
+09180,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+09195,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09210,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09225,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09240,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09255,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09270,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09285,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09300,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09315,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09330,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09345,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09360,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09375,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09390,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09405,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09420,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09435,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09450,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09465,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09480,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09495,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09510,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09525,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09540,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09555,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09570,Inferno Dragon,56.0,Lava Hound,59.0,Arrows,2.0,Barbarians,8.0,,,,4,False,False,0.0,0.0

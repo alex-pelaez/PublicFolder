@@ -1,0 +1,569 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+00255,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+00270,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+00285,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+00300,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+00315,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+00330,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+00345,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+00360,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+00375,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+00390,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+00405,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+00420,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+00435,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+00450,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+00465,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+00480,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+00495,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+00510,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+00525,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+00540,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Heal Spirit,50.0,,,,10,False,False,0.0,0.0
+00555,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Heal Spirit,50.0,,,,10,False,False,0.0,0.0
+00570,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Heal Spirit,50.0,,,,10,False,False,0.0,0.0
+00585,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Heal Spirit,50.0,,,,10,False,False,0.0,0.0
+00600,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Heal Spirit,50.0,,,,10,False,False,0.0,0.0
+00615,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,Heal Spirit,50.0,4.0,9,True,True,1.0,1.0
+00630,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00645,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00660,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00675,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00690,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,10,False,False,0.0,0.0
+00705,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,10,False,False,0.0,0.0
+00720,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,10,False,False,0.0,0.0
+00735,Bandit,5.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,10,False,False,0.0,0.0
+00750,Skeleton Dragons,92.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,Bandit,5.0,1.0,7,True,True,3.0,3.0
+00765,Skeleton Dragons,92.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00780,Skeleton Dragons,92.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00795,Skeleton Dragons,92.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00810,Skeleton Dragons,92.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00825,Skeleton Dragons,92.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00840,Skeleton Dragons,92.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00855,Skeleton Dragons,92.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00870,Skeleton Dragons,92.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00885,Skeleton Dragons,92.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00900,Skeleton Dragons,92.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00915,Skeleton Dragons,92.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00930,Skeleton Dragons,92.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00945,Skeleton Dragons,92.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00960,Skeleton Dragons,92.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00975,Skeleton Dragons,92.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00990,Musketeer,73.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,Skeleton Dragons,92.0,1.0,6,True,True,3.0,4.0
+01005,Musketeer,73.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01020,Musketeer,73.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01035,Musketeer,73.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01050,Musketeer,73.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01065,Musketeer,73.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01080,Musketeer,73.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01095,Musketeer,73.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01110,Musketeer,73.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01125,Musketeer,73.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01140,Musketeer,73.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01155,Musketeer,73.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01170,Musketeer,73.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01185,Musketeer,73.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01200,Musketeer,73.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01215,Musketeer,73.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01230,Musketeer,73.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01245,Musketeer,73.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,9,False,False,0.0,0.0
+01260,Musketeer,73.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,9,False,False,0.0,0.0
+01275,Musketeer,73.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,9,False,False,0.0,0.0
+01290,Musketeer,73.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,9,False,False,0.0,0.0
+01305,Musketeer,73.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,9,False,False,0.0,0.0
+01320,Musketeer,73.0,Lumberjack,61.0,Ram Rider,82.0,Poison,78.0,,,,9,False,False,0.0,0.0
+01335,Musketeer,73.0,Barbarian Barrel,6.0,Ram Rider,82.0,Poison,78.0,Lumberjack,61.0,2.0,6,True,True,3.0,4.0
+01350,Musketeer,73.0,Barbarian Barrel,6.0,Ram Rider,82.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01365,Musketeer,73.0,Barbarian Barrel,6.0,Ram Rider,82.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01380,Musketeer,73.0,Barbarian Barrel,6.0,Ram Rider,82.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01395,Musketeer,73.0,Barbarian Barrel,6.0,Ram Rider,82.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01410,Musketeer,73.0,Barbarian Barrel,6.0,Ram Rider,82.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01425,Musketeer,73.0,Barbarian Barrel,6.0,Ram Rider,82.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01440,Musketeer,73.0,Barbarian Barrel,6.0,Ram Rider,82.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01455,Musketeer,73.0,Barbarian Barrel,6.0,Ram Rider,82.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01470,Musketeer,73.0,Barbarian Barrel,6.0,Ram Rider,82.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01485,Musketeer,73.0,Barbarian Barrel,6.0,Ram Rider,82.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01500,Musketeer,73.0,Barbarian Barrel,6.0,Heal Spirit,50.0,Poison,78.0,Ram Rider,82.0,3.0,3,True,True,4.0,5.0
+01515,Musketeer,73.0,Barbarian Barrel,6.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01530,Musketeer,73.0,Barbarian Barrel,6.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01545,Musketeer,73.0,Barbarian Barrel,6.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01560,Musketeer,73.0,Barbarian Barrel,6.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01575,Musketeer,73.0,Barbarian Barrel,6.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01590,Musketeer,73.0,Barbarian Barrel,6.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01605,Musketeer,73.0,Barbarian Barrel,6.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01620,Musketeer,73.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,Barbarian Barrel,6.0,2.0,2,True,True,2.0,2.0
+01635,Musketeer,73.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+01650,Musketeer,73.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+01665,Musketeer,73.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+01680,Musketeer,73.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01695,Musketeer,73.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01710,Musketeer,73.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01725,Musketeer,73.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01740,Musketeer,73.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01755,Musketeer,73.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01770,Musketeer,73.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01785,Musketeer,73.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01800,Musketeer,73.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01815,Musketeer,73.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01830,Musketeer,73.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01845,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,Bandit,5.0,2.0,2,True,True,2.0,3.0
+01860,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+01875,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+01890,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+01905,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+01920,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01935,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01950,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01965,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01980,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01995,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02010,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02025,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02040,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02055,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02070,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02085,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02100,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,5,False,False,0.0,0.0
+02115,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,5,False,False,0.0,0.0
+02130,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,5,False,False,0.0,0.0
+02145,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,5,False,False,0.0,0.0
+02160,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,5,False,False,0.0,0.0
+02175,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02190,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02205,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02220,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02235,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02250,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02265,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02280,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02295,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02310,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02325,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02340,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02355,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02370,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02385,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02400,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02415,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02430,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02445,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02460,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02475,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02490,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02505,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02520,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,10,False,False,0.0,0.0
+02535,Musketeer,73.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,Heal Spirit,50.0,3.0,9,True,True,1.0,1.0
+02550,Musketeer,73.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02565,Musketeer,73.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02580,Musketeer,73.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02595,Musketeer,73.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02610,Musketeer,73.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,Lumberjack,61.0,3.0,6,True,True,3.0,4.0
+02625,Musketeer,73.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02640,Musketeer,73.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02655,Musketeer,73.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02670,Musketeer,73.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02685,Musketeer,73.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02700,Musketeer,73.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02715,Musketeer,73.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02730,Musketeer,73.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02745,Musketeer,73.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02760,Musketeer,73.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02775,Musketeer,73.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02790,Musketeer,73.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02805,Musketeer,73.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02820,Musketeer,73.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02835,Musketeer,73.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02850,Musketeer,73.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02865,Musketeer,73.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02880,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,Musketeer,73.0,1.0,5,True,True,4.0,4.0
+02895,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,5,False,False,0.0,0.0
+02910,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Bandit,5.0,Poison,78.0,Ram Rider,82.0,3.0,0,True,True,5.0,5.0
+02925,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Bandit,5.0,Poison,78.0,,,,0,False,False,0.0,0.0
+02940,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Bandit,5.0,Poison,78.0,,,,0,False,False,0.0,0.0
+02955,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Bandit,5.0,Poison,78.0,,,,1,False,False,0.0,0.0
+02970,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Bandit,5.0,Poison,78.0,,,,1,False,False,0.0,0.0
+02985,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Bandit,5.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03000,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Bandit,5.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03015,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Bandit,5.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03030,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03045,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03060,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03075,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03090,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03105,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03120,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03135,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03150,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03165,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03180,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,Bandit,5.0,3.0,0,True,True,3.0,3.0
+03195,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03210,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03225,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03240,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03255,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03270,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03285,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03300,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03315,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03330,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03345,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03360,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03375,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03390,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03405,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03420,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03435,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03450,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+03465,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+03480,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+03495,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+03510,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+03525,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+03540,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,5,False,False,0.0,0.0
+03555,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,5,False,False,0.0,0.0
+03570,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,5,False,False,0.0,0.0
+03585,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,5,False,False,0.0,0.0
+03600,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,5,False,False,0.0,0.0
+03615,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03630,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03645,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03660,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03675,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03690,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03705,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03720,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03735,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03750,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,Heal Spirit,50.0,3.0,6,True,True,1.0,1.0
+03765,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03780,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03795,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03810,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03825,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03840,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,8,False,False,0.0,0.0
+03855,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,8,False,False,0.0,0.0
+03870,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,Lumberjack,61.0,3.0,4,True,True,4.0,4.0
+03885,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,5,False,False,0.0,0.0
+03900,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,5,False,False,0.0,0.0
+03915,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03930,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03945,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03960,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,Musketeer,73.0,3.0,3,True,True,3.0,4.0
+03975,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03990,Bandit,5.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,Barbarian Barrel,6.0,1.0,2,True,True,1.0,2.0
+04005,Bandit,5.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04020,Bandit,5.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04035,Bandit,5.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04050,Bandit,5.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04065,Bandit,5.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04080,Bandit,5.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04095,Heal Spirit,50.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,Bandit,5.0,1.0,1,True,True,3.0,3.0
+04110,Heal Spirit,50.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,1,False,False,0.0,0.0
+04125,Heal Spirit,50.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04140,Heal Spirit,50.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04155,Heal Spirit,50.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04170,Heal Spirit,50.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04185,Heal Spirit,50.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04200,Heal Spirit,50.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04215,Heal Spirit,50.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04230,Lumberjack,61.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,Heal Spirit,50.0,1.0,3,True,True,1.0,1.0
+04245,Lumberjack,61.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04260,Lumberjack,61.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04275,Lumberjack,61.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04290,Lumberjack,61.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,5,False,False,0.0,0.0
+04305,Lumberjack,61.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,5,False,False,0.0,0.0
+04320,Lumberjack,61.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,5,False,False,0.0,0.0
+04335,Lumberjack,61.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,6,False,False,0.0,0.0
+04350,Lumberjack,61.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,6,False,False,0.0,0.0
+04365,Lumberjack,61.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,6,False,False,0.0,0.0
+04380,Lumberjack,61.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,7,False,False,0.0,0.0
+04395,Lumberjack,61.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,7,False,False,0.0,0.0
+04410,Lumberjack,61.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,7,False,False,0.0,0.0
+04425,Lumberjack,61.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,8,False,False,0.0,0.0
+04440,Lumberjack,61.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,8,False,False,0.0,0.0
+04455,Lumberjack,61.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,8,False,False,0.0,0.0
+04470,Lumberjack,61.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,9,False,False,0.0,0.0
+04485,Lumberjack,61.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,9,False,False,0.0,0.0
+04500,Musketeer,73.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,Lumberjack,61.0,1.0,6,True,True,3.0,4.0
+04515,Musketeer,73.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,6,False,False,0.0,0.0
+04530,Musketeer,73.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,6,False,False,0.0,0.0
+04545,Musketeer,73.0,Skeleton Dragons,92.0,Ram Rider,82.0,Poison,78.0,,,,7,False,False,0.0,0.0
+04560,Musketeer,73.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Poison,78.0,Ram Rider,82.0,3.0,2,True,True,5.0,5.0
+04575,Musketeer,73.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04590,Musketeer,73.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04605,Musketeer,73.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04620,Musketeer,73.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04635,Musketeer,73.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04650,Musketeer,73.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04665,Musketeer,73.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04680,Musketeer,73.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Poison,78.0,,,,5,False,False,0.0,0.0
+04695,Bandit,5.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Poison,78.0,Musketeer,73.0,1.0,1,True,True,4.0,4.0
+04710,Bandit,5.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04725,Bandit,5.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04740,Bandit,5.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04755,Bandit,5.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,Barbarian Barrel,6.0,3.0,1,True,True,1.0,2.0
+04770,Bandit,5.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,1,False,False,0.0,0.0
+04785,Bandit,5.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,1,False,False,0.0,0.0
+04800,Bandit,5.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04815,Bandit,5.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04830,Bandit,5.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,Heal Spirit,50.0,3.0,2,True,False,0.0,1.0
+04845,Bandit,5.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04860,Bandit,5.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04875,Bandit,5.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04890,Bandit,5.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04905,Bandit,5.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04920,Bandit,5.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04935,Bandit,5.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04950,Bandit,5.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04965,Bandit,5.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,5,False,False,0.0,0.0
+04980,Bandit,5.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,5,False,False,0.0,0.0
+04995,Bandit,5.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,5,False,False,0.0,0.0
+05010,Ram Rider,82.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,Bandit,5.0,1.0,3,True,True,2.0,3.0
+05025,Ram Rider,82.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,3,False,False,0.0,0.0
+05040,Ram Rider,82.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,3,False,False,0.0,0.0
+05055,Ram Rider,82.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,4,False,False,0.0,0.0
+05070,Ram Rider,82.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,4,False,False,0.0,0.0
+05085,Ram Rider,82.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,4,False,False,0.0,0.0
+05100,Ram Rider,82.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,5,False,False,0.0,0.0
+05115,Ram Rider,82.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,5,False,False,0.0,0.0
+05130,Ram Rider,82.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,6,False,False,0.0,0.0
+05145,Ram Rider,82.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,6,False,False,0.0,0.0
+05160,Ram Rider,82.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,6,False,False,0.0,0.0
+05175,Ram Rider,82.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,7,False,False,0.0,0.0
+05190,Ram Rider,82.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,7,False,False,0.0,0.0
+05205,Ram Rider,82.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,7,False,False,0.0,0.0
+05220,Ram Rider,82.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,8,False,False,0.0,0.0
+05235,Ram Rider,82.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,8,False,False,0.0,0.0
+05250,Ram Rider,82.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,8,False,False,0.0,0.0
+05265,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,Lumberjack,61.0,3.0,5,True,True,3.0,4.0
+05280,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,5,False,False,0.0,0.0
+05295,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,Ram Rider,82.0,1.0,0,True,True,5.0,5.0
+05310,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,1,False,False,0.0,0.0
+05325,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,1,False,False,0.0,0.0
+05340,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,2,False,False,0.0,0.0
+05355,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,2,False,False,0.0,0.0
+05370,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,2,False,False,0.0,0.0
+05385,Heal Spirit,50.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,Barbarian Barrel,6.0,1.0,1,True,True,1.0,2.0
+05400,Heal Spirit,50.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,1,False,False,0.0,0.0
+05415,Heal Spirit,50.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,1,False,False,0.0,0.0
+05430,Heal Spirit,50.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,2,False,False,0.0,0.0
+05445,Bandit,5.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,Heal Spirit,50.0,1.0,1,True,True,1.0,1.0
+05460,Bandit,5.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,1,False,False,0.0,0.0
+05475,Bandit,5.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,2,False,False,0.0,0.0
+05490,Bandit,5.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,2,False,False,0.0,0.0
+05505,Bandit,5.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,2,False,False,0.0,0.0
+05520,Bandit,5.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,3,False,False,0.0,0.0
+05535,Bandit,5.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,3,False,False,0.0,0.0
+05550,Lumberjack,61.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,Bandit,5.0,1.0,3,True,True,2.0,3.0
+05565,Lumberjack,61.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,1,False,False,0.0,0.0
+05580,Lumberjack,61.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,1,False,False,0.0,0.0
+05595,Lumberjack,61.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,2,False,False,0.0,0.0
+05610,Lumberjack,61.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,2,False,False,0.0,0.0
+05625,Lumberjack,61.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,2,False,False,0.0,0.0
+05640,Lumberjack,61.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,3,False,False,0.0,0.0
+05655,Lumberjack,61.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,3,False,False,0.0,0.0
+05670,Lumberjack,61.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,3,False,False,0.0,0.0
+05685,Lumberjack,61.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,4,False,False,0.0,0.0
+05700,Lumberjack,61.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,4,False,False,0.0,0.0
+05715,Lumberjack,61.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,4,False,False,0.0,0.0
+05730,Lumberjack,61.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,5,False,False,0.0,0.0
+05745,Lumberjack,61.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,5,False,False,0.0,0.0
+05760,Lumberjack,61.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,6,False,False,0.0,0.0
+05775,Lumberjack,61.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,6,False,False,0.0,0.0
+05790,Lumberjack,61.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,6,False,False,0.0,0.0
+05805,Lumberjack,61.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,7,False,False,0.0,0.0
+05820,Lumberjack,61.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,7,False,False,0.0,0.0
+05835,Lumberjack,61.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,7,False,False,0.0,0.0
+05850,Lumberjack,61.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+05865,Lumberjack,61.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+05880,Lumberjack,61.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+05895,Lumberjack,61.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,9,False,False,0.0,0.0
+05910,Lumberjack,61.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,9,False,False,0.0,0.0
+05925,Lumberjack,61.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,9,False,False,0.0,0.0
+05940,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,Lumberjack,61.0,1.0,6,True,True,3.0,4.0
+05955,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,6,False,False,0.0,0.0
+05970,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,7,False,False,0.0,0.0
+05985,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,7,False,False,0.0,0.0
+06000,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,7,False,False,0.0,0.0
+06015,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+06030,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+06045,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+06060,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,9,False,False,0.0,0.0
+06075,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,9,False,False,0.0,0.0
+06090,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,9,False,False,0.0,0.0
+06105,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,10,False,False,0.0,0.0
+06120,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,10,False,False,0.0,0.0
+06135,Ram Rider,82.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Poison,78.0,Musketeer,73.0,3.0,6,True,True,4.0,4.0
+06150,Ram Rider,82.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Poison,78.0,,,,6,False,False,0.0,0.0
+06165,Ram Rider,82.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Poison,78.0,,,,6,False,False,0.0,0.0
+06180,Ram Rider,82.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Poison,78.0,,,,7,False,False,0.0,0.0
+06195,Ram Rider,82.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Poison,78.0,,,,7,False,False,0.0,0.0
+06210,Ram Rider,82.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Poison,78.0,,,,8,False,False,0.0,0.0
+06225,Ram Rider,82.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,Barbarian Barrel,6.0,3.0,6,True,True,2.0,2.0
+06240,Ram Rider,82.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,6,False,False,0.0,0.0
+06255,Ram Rider,82.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,7,False,False,0.0,0.0
+06270,Ram Rider,82.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,7,False,False,0.0,0.0
+06285,Ram Rider,82.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,7,False,False,0.0,0.0
+06300,Ram Rider,82.0,Skeleton Dragons,92.0,Bandit,5.0,Poison,78.0,Heal Spirit,50.0,3.0,8,True,True,1.0,1.0
+06315,Ram Rider,82.0,Skeleton Dragons,92.0,Bandit,5.0,Poison,78.0,,,,8,False,False,0.0,0.0
+06330,Ram Rider,82.0,Skeleton Dragons,92.0,Bandit,5.0,Poison,78.0,,,,7,False,False,0.0,0.0
+06345,Ram Rider,82.0,Skeleton Dragons,92.0,Bandit,5.0,Poison,78.0,,,,8,False,False,0.0,0.0
+06360,Ram Rider,82.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,Bandit,5.0,3.0,5,True,True,3.0,3.0
+06375,Ram Rider,82.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,5,False,False,0.0,0.0
+06390,Ram Rider,82.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,6,False,False,0.0,0.0
+06405,Ram Rider,82.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,6,False,False,0.0,0.0
+06420,Ram Rider,82.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,7,False,False,0.0,0.0
+06435,Ram Rider,82.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,7,False,False,0.0,0.0
+06450,Ram Rider,82.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,7,False,False,0.0,0.0
+06465,Ram Rider,82.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,8,False,False,0.0,0.0
+06480,Ram Rider,82.0,Skeleton Dragons,92.0,Lumberjack,61.0,Poison,78.0,,,,8,False,False,0.0,0.0
+06495,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,Lumberjack,61.0,3.0,4,True,True,4.0,4.0
+06510,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,5,False,False,0.0,0.0
+06525,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,5,False,False,0.0,0.0
+06540,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,5,False,False,0.0,0.0
+06555,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,6,False,False,0.0,0.0
+06570,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,6,False,False,0.0,0.0
+06585,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,6,False,False,0.0,0.0
+06600,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,7,False,False,0.0,0.0
+06615,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,7,False,False,0.0,0.0
+06630,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+06645,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+06660,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+06675,Ram Rider,82.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,9,False,False,0.0,0.0
+06690,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,Ram Rider,82.0,1.0,4,True,True,5.0,5.0
+06705,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Musketeer,73.0,Poison,78.0,,,,4,False,False,0.0,0.0
+06720,Barbarian Barrel,6.0,Heal Spirit,50.0,Musketeer,73.0,Poison,78.0,Skeleton Dragons,92.0,2.0,1,True,True,3.0,4.0
+06735,Barbarian Barrel,6.0,Heal Spirit,50.0,Musketeer,73.0,Poison,78.0,,,,1,False,False,0.0,0.0
+06750,Barbarian Barrel,6.0,Heal Spirit,50.0,Musketeer,73.0,Poison,78.0,,,,1,False,False,0.0,0.0
+06765,Barbarian Barrel,6.0,Heal Spirit,50.0,Musketeer,73.0,Poison,78.0,,,,2,False,False,0.0,0.0
+06780,Barbarian Barrel,6.0,Heal Spirit,50.0,Musketeer,73.0,Poison,78.0,,,,2,False,False,0.0,0.0
+06795,Bandit,5.0,Heal Spirit,50.0,Musketeer,73.0,Poison,78.0,Barbarian Barrel,6.0,1.0,2,True,False,0.0,2.0
+06810,Bandit,5.0,Heal Spirit,50.0,Musketeer,73.0,Poison,78.0,,,,3,False,False,0.0,0.0
+06825,Bandit,5.0,Heal Spirit,50.0,Musketeer,73.0,Poison,78.0,,,,3,False,False,0.0,0.0
+06840,Bandit,5.0,Lumberjack,61.0,Musketeer,73.0,Poison,78.0,Heal Spirit,50.0,2.0,3,True,True,2.0,1.0
+06855,Bandit,5.0,Lumberjack,61.0,Musketeer,73.0,Poison,78.0,,,,1,False,False,0.0,0.0
+06870,Bandit,5.0,Lumberjack,61.0,Musketeer,73.0,Poison,78.0,,,,1,False,False,0.0,0.0
+06885,Bandit,5.0,Lumberjack,61.0,Musketeer,73.0,Poison,78.0,,,,2,False,False,0.0,0.0
+06900,Bandit,5.0,Lumberjack,61.0,Musketeer,73.0,Poison,78.0,,,,2,False,False,0.0,0.0
+06915,Bandit,5.0,Lumberjack,61.0,Musketeer,73.0,Poison,78.0,,,,2,False,False,0.0,0.0
+06930,Bandit,5.0,Lumberjack,61.0,Musketeer,73.0,Poison,78.0,,,,3,False,False,0.0,0.0
+06945,Bandit,5.0,Lumberjack,61.0,Musketeer,73.0,Poison,78.0,,,,3,False,False,0.0,0.0
+06960,Bandit,5.0,Lumberjack,61.0,Musketeer,73.0,Poison,78.0,,,,3,False,False,0.0,0.0
+06975,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Poison,78.0,Bandit,5.0,1.0,1,True,True,2.0,3.0
+06990,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Poison,78.0,,,,1,False,False,0.0,0.0
+07005,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Poison,78.0,,,,1,False,False,0.0,0.0
+07020,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Poison,78.0,,,,2,False,False,0.0,0.0
+07035,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Poison,78.0,,,,2,False,False,0.0,0.0
+07050,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Poison,78.0,,,,3,False,False,0.0,0.0
+07065,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Poison,78.0,,,,3,False,False,0.0,0.0
+07080,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Poison,78.0,,,,3,False,False,0.0,0.0
+07095,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Poison,78.0,,,,4,False,False,0.0,0.0
+07110,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Poison,78.0,,,,4,False,False,0.0,0.0
+07125,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Poison,78.0,,,,4,False,False,0.0,0.0
+07140,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Poison,78.0,,,,5,False,False,0.0,0.0
+07155,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Poison,78.0,,,,5,False,False,0.0,0.0
+07170,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Poison,78.0,,,,5,False,False,0.0,0.0
+07185,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Poison,78.0,,,,6,False,False,0.0,0.0
+07200,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Poison,78.0,,,,6,False,False,0.0,0.0
+07215,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Bandit,5.0,Poison,78.0,4.0,2,True,True,4.0,4.0
+07230,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Skeleton Dragons,92.0,Bandit,5.0,4.0,3,True,False,0.0,3.0
+07245,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+07260,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+07275,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+07290,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+07305,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+07320,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+07335,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+07350,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+07365,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+07380,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+07395,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+07410,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+07425,Ram Rider,82.0,Lumberjack,61.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+07440,Ram Rider,82.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,Lumberjack,61.0,2.0,4,True,True,4.0,4.0
+07455,Ram Rider,82.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+07470,Ram Rider,82.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+07485,Ram Rider,82.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+07500,Ram Rider,82.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+07515,Ram Rider,82.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+07530,Heal Spirit,50.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,Ram Rider,82.0,1.0,3,True,True,4.0,5.0
+07545,Heal Spirit,50.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+07560,Heal Spirit,50.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+07575,Heal Spirit,50.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+07590,Heal Spirit,50.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+07605,Heal Spirit,50.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+07620,Heal Spirit,50.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+07635,Heal Spirit,50.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+07650,Heal Spirit,50.0,Barbarian Barrel,6.0,Musketeer,73.0,Bandit,5.0,Skeleton Dragons,92.0,4.0,3,True,True,3.0,4.0
+07665,Heal Spirit,50.0,Barbarian Barrel,6.0,Musketeer,73.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+07680,Heal Spirit,50.0,Poison,78.0,Musketeer,73.0,Bandit,5.0,Barbarian Barrel,6.0,2.0,2,True,True,2.0,2.0
+07695,Heal Spirit,50.0,Poison,78.0,Musketeer,73.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+07710,Heal Spirit,50.0,Poison,78.0,Musketeer,73.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+07725,Heal Spirit,50.0,Poison,78.0,Musketeer,73.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+07740,Heal Spirit,50.0,Poison,78.0,Musketeer,73.0,Lumberjack,61.0,Bandit,5.0,4.0,1,True,True,3.0,3.0
+07755,Heal Spirit,50.0,Poison,78.0,Musketeer,73.0,Lumberjack,61.0,,,,2,False,False,0.0,0.0
+07770,Heal Spirit,50.0,Poison,78.0,Musketeer,73.0,Lumberjack,61.0,,,,2,False,False,0.0,0.0
+07785,Heal Spirit,50.0,Poison,78.0,Musketeer,73.0,Lumberjack,61.0,,,,3,False,False,0.0,0.0
+07800,Heal Spirit,50.0,Poison,78.0,Musketeer,73.0,Lumberjack,61.0,,,,3,False,False,0.0,0.0
+07815,Heal Spirit,50.0,Poison,78.0,Musketeer,73.0,Lumberjack,61.0,,,,4,False,False,0.0,0.0
+07830,Heal Spirit,50.0,Poison,78.0,Musketeer,73.0,Lumberjack,61.0,,,,4,False,False,0.0,0.0
+07845,Heal Spirit,50.0,Ram Rider,82.0,Musketeer,73.0,Lumberjack,61.0,Poison,78.0,2.0,1,True,True,3.0,4.0
+07860,Heal Spirit,50.0,Ram Rider,82.0,Musketeer,73.0,Lumberjack,61.0,,,,2,False,False,0.0,0.0
+07875,Heal Spirit,50.0,Ram Rider,82.0,Musketeer,73.0,Lumberjack,61.0,,,,2,False,False,0.0,0.0
+07890,Heal Spirit,50.0,Ram Rider,82.0,Musketeer,73.0,Lumberjack,61.0,,,,3,False,False,0.0,0.0
+07905,Heal Spirit,50.0,Ram Rider,82.0,Musketeer,73.0,Lumberjack,61.0,,,,3,False,False,0.0,0.0
+07920,Heal Spirit,50.0,Ram Rider,82.0,Musketeer,73.0,Lumberjack,61.0,,,,4,False,False,0.0,0.0
+07935,Heal Spirit,50.0,Ram Rider,82.0,Musketeer,73.0,Lumberjack,61.0,,,,4,False,False,0.0,0.0
+07950,Heal Spirit,50.0,Ram Rider,82.0,Musketeer,73.0,Lumberjack,61.0,,,,5,False,False,0.0,0.0
+07965,Heal Spirit,50.0,Ram Rider,82.0,Musketeer,73.0,Lumberjack,61.0,,,,5,False,False,0.0,0.0
+07980,Heal Spirit,50.0,Ram Rider,82.0,Musketeer,73.0,Lumberjack,61.0,,,,6,False,False,0.0,0.0
+07995,Heal Spirit,50.0,Ram Rider,82.0,Musketeer,73.0,Lumberjack,61.0,,,,6,False,False,0.0,0.0
+08010,Heal Spirit,50.0,Ram Rider,82.0,Musketeer,73.0,Lumberjack,61.0,,,,7,False,False,0.0,0.0
+08025,Heal Spirit,50.0,Ram Rider,82.0,Musketeer,73.0,Lumberjack,61.0,,,,7,False,False,0.0,0.0
+08040,Heal Spirit,50.0,Ram Rider,82.0,Musketeer,73.0,Lumberjack,61.0,,,,8,False,False,0.0,0.0
+08055,Heal Spirit,50.0,Ram Rider,82.0,Musketeer,73.0,Lumberjack,61.0,,,,9,False,False,0.0,0.0
+08070,Heal Spirit,50.0,Ram Rider,82.0,Musketeer,73.0,Skeleton Dragons,92.0,Lumberjack,61.0,4.0,5,True,True,4.0,4.0
+08085,Heal Spirit,50.0,Ram Rider,82.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+08100,Heal Spirit,50.0,Ram Rider,82.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+08115,Heal Spirit,50.0,Ram Rider,82.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+08130,Heal Spirit,50.0,Ram Rider,82.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+08145,Heal Spirit,50.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,Ram Rider,82.0,2.0,3,True,True,4.0,5.0
+08160,Heal Spirit,50.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+08175,Bandit,5.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,1.0,3,True,False,0.0,1.0
+08190,Bandit,5.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+08205,Bandit,5.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+08220,Bandit,5.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+08235,Poison,78.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,Bandit,5.0,1.0,2,True,True,2.0,3.0
+08250,Poison,78.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+08265,Poison,78.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+08280,Poison,78.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+08295,Poison,78.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+08310,Poison,78.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+08325,Lumberjack,61.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,Poison,78.0,1.0,1,True,True,4.0,4.0
+08340,Lumberjack,61.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+08355,Lumberjack,61.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+08370,Lumberjack,61.0,Barbarian Barrel,6.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+08385,Lumberjack,61.0,Ram Rider,82.0,Musketeer,73.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,2.0,1,True,True,2.0,2.0
+08400,Lumberjack,61.0,Ram Rider,82.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+08415,Lumberjack,61.0,Ram Rider,82.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+08430,Lumberjack,61.0,Ram Rider,82.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+08445,Lumberjack,61.0,Ram Rider,82.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+08460,Lumberjack,61.0,Ram Rider,82.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+08475,Lumberjack,61.0,Ram Rider,82.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+08490,Lumberjack,61.0,Ram Rider,82.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+08505,Lumberjack,61.0,Ram Rider,82.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+08520,Lumberjack,61.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,Ram Rider,82.0,2.0,1,True,True,5.0,5.0
+08535,Lumberjack,61.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+08550,Lumberjack,61.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+08565,Lumberjack,61.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+08580,Lumberjack,61.0,Bandit,5.0,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,2.0,2,True,True,1.0,1.0
+08595,Lumberjack,61.0,Bandit,5.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+08610,Lumberjack,61.0,Bandit,5.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+08625,Lumberjack,61.0,Bandit,5.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+08640,Lumberjack,61.0,Poison,78.0,Musketeer,73.0,Skeleton Dragons,92.0,Bandit,5.0,2.0,1,True,True,3.0,3.0
+08655,Lumberjack,61.0,Poison,78.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+08670,Lumberjack,61.0,Poison,78.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+08685,Lumberjack,61.0,Poison,78.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+08700,Lumberjack,61.0,Poison,78.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+08715,Lumberjack,61.0,Poison,78.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+08730,Lumberjack,61.0,Poison,78.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+08745,Lumberjack,61.0,Poison,78.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,1,False,True,4.0,0.0

@@ -1,0 +1,362 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+00255,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+00270,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+00285,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+00300,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+00315,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+00330,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+00345,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+00360,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+00375,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+00390,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+00405,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+00420,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+00435,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+00450,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+00465,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+00480,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+00495,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+00510,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+00525,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+00540,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+00555,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+00570,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+00585,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+00600,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+00615,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+00630,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+00645,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+00660,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+00675,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,3.0,8,True,True,2.0,2.0
+00690,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+00705,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+00720,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+00735,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+00750,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+00765,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+00780,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+00795,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+00810,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+00825,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+00840,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+00855,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+00870,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,Cannon Cart,16.0,3.0,5,True,True,5.0,5.0
+00885,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+00900,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+00915,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+00930,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+00945,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+00960,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+00975,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+00990,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+01005,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+01020,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+01035,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+01050,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+01065,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+01080,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+01095,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+01110,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+01125,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+01140,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+01155,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+01170,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+01185,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+01200,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+01215,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+01230,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+01245,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+01260,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+01275,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+01290,Hunter,52.0,Knight,58.0,Mortar,71.0,Fireball,30.0,Graveyard,48.0,2.0,10,True,True,5.0,5.0
+01305,Hunter,52.0,Knight,58.0,Mortar,71.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+01320,Hunter,52.0,Knight,58.0,Mortar,71.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+01335,Hunter,52.0,Knight,58.0,Mortar,71.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+01350,Hunter,52.0,Knight,58.0,Mortar,71.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+01365,Hunter,52.0,Knight,58.0,Mortar,71.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+01380,Hunter,52.0,Knight,58.0,Mortar,71.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+01395,Hunter,52.0,Knight,58.0,Mortar,71.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+01410,Hunter,52.0,Knight,58.0,Mortar,71.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+01425,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,Fireball,30.0,4.0,2,True,True,4.0,4.0
+01440,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,2,False,False,0.0,0.0
+01455,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+01470,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+01485,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+01500,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+01515,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+01530,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+01545,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+01560,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+01575,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+01590,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+01605,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+01620,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+01635,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+01650,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+01665,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+01680,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+01695,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+01710,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+01725,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+01740,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+01755,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+01770,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+01785,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+01800,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+01815,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+01830,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+01845,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+01860,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+01875,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+01890,Hunter,52.0,Knight,58.0,Mortar,71.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+01905,Hunter,52.0,Knight,58.0,Barbarian Barrel,6.0,Spear Goblins,96.0,Mortar,71.0,3.0,4,True,True,4.0,4.0
+01920,Hunter,52.0,Knight,58.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+01935,Hunter,52.0,Knight,58.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+01950,Hunter,52.0,Knight,58.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+01965,Hunter,52.0,Knight,58.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+01980,Hunter,52.0,Knight,58.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+01995,Hunter,52.0,Knight,58.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+02010,Hunter,52.0,Knight,58.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+02025,Hunter,52.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Spear Goblins,96.0,Knight,58.0,2.0,2,True,True,3.0,3.0
+02040,Hunter,52.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+02055,Hunter,52.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+02070,Hunter,52.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+02085,Hunter,52.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+02100,Hunter,52.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+02115,Hunter,52.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+02130,Hunter,52.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+02145,Hunter,52.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+02160,Hunter,52.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+02175,Hunter,52.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+02190,Hunter,52.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+02205,Hunter,52.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+02220,Hunter,52.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+02235,Hunter,52.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+02250,Hunter,52.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+02265,Hunter,52.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+02280,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,Cannon Cart,16.0,2.0,0,True,True,5.0,5.0
+02295,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,1,False,False,0.0,0.0
+02310,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,1,False,False,0.0,0.0
+02325,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,1,False,False,0.0,0.0
+02340,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,1,False,False,0.0,0.0
+02355,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,1,False,False,0.0,0.0
+02370,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,1,False,False,0.0,0.0
+02385,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,2,False,False,0.0,0.0
+02400,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,2,False,False,0.0,0.0
+02415,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,2,False,False,0.0,0.0
+02430,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,2,False,False,0.0,0.0
+02445,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,2,False,False,0.0,0.0
+02460,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,2,False,False,0.0,0.0
+02475,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+02490,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+02505,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+02520,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+02535,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+02550,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+02565,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+02580,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+02595,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+02610,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+02625,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+02640,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+02655,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+02670,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+02685,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+02700,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+02715,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+02730,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+02745,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+02760,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+02775,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+02790,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+02805,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+02820,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+02835,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+02850,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+02865,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+02880,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+02895,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+02910,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+02925,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+02940,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,Spear Goblins,96.0,4.0,6,True,True,2.0,2.0
+02955,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+02970,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+02985,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03000,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03015,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03030,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03045,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03060,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03075,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03090,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03105,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03120,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03135,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+03150,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+03165,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+03180,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+03195,Hunter,52.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+03210,Mortar,71.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,Hunter,52.0,1.0,5,True,True,4.0,4.0
+03225,Mortar,71.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03240,Mortar,71.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03255,Mortar,71.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03270,Mortar,71.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03285,Mortar,71.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03300,Mortar,71.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03315,Mortar,71.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03330,Mortar,71.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03345,Mortar,71.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03360,Mortar,71.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03375,Mortar,71.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03390,Mortar,71.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03405,Mortar,71.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03420,Mortar,71.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03435,Mortar,71.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03450,Mortar,71.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03465,Mortar,71.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03480,Mortar,71.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+03495,Mortar,71.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+03510,Mortar,71.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+03525,Mortar,71.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+03540,Mortar,71.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+03555,Mortar,71.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+03570,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,Mortar,71.0,1.0,6,True,True,4.0,4.0
+03585,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03600,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03615,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03630,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03645,Cannon Cart,16.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,Knight,58.0,1.0,3,True,True,3.0,3.0
+03660,Cannon Cart,16.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03675,Cannon Cart,16.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03690,Cannon Cart,16.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03705,Cannon Cart,16.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03720,Cannon Cart,16.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03735,Cannon Cart,16.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03750,Cannon Cart,16.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03765,Cannon Cart,16.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03780,Spear Goblins,96.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,Cannon Cart,16.0,1.0,0,True,True,5.0,5.0
+03795,Spear Goblins,96.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+03810,Spear Goblins,96.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+03825,Spear Goblins,96.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+03840,Spear Goblins,96.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+03855,Spear Goblins,96.0,Graveyard,48.0,Barbarian Barrel,6.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+03870,Spear Goblins,96.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,Barbarian Barrel,6.0,3.0,1,True,True,1.0,2.0
+03885,Spear Goblins,96.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+03900,Spear Goblins,96.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+03915,Spear Goblins,96.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+03930,Spear Goblins,96.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+03945,Spear Goblins,96.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03960,Spear Goblins,96.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03975,Spear Goblins,96.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03990,Spear Goblins,96.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04005,Spear Goblins,96.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04020,Spear Goblins,96.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04035,Spear Goblins,96.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04050,Spear Goblins,96.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04065,Spear Goblins,96.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04080,Spear Goblins,96.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04095,Spear Goblins,96.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04110,Spear Goblins,96.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04125,Mortar,71.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,Spear Goblins,96.0,1.0,5,True,True,1.0,2.0
+04140,Mortar,71.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04155,Mortar,71.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04170,Mortar,71.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04185,Knight,58.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,Mortar,71.0,1.0,2,True,True,4.0,4.0
+04200,Knight,58.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04215,Knight,58.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04230,Knight,58.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04245,Knight,58.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04260,Knight,58.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04275,Knight,58.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04290,Knight,58.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04305,Knight,58.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04320,Knight,58.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04335,Knight,58.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04350,Knight,58.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04365,Knight,58.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04380,Knight,58.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04395,Knight,58.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04410,Knight,58.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+04425,Knight,58.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+04440,Knight,58.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+04455,Knight,58.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+04470,Cannon Cart,16.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,Knight,58.0,1.0,6,True,True,3.0,3.0
+04485,Cannon Cart,16.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04500,Cannon Cart,16.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04515,Cannon Cart,16.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04530,Cannon Cart,16.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+04545,Cannon Cart,16.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+04560,Cannon Cart,16.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+04575,Cannon Cart,16.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+04590,Cannon Cart,16.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+04605,Cannon Cart,16.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+04620,Cannon Cart,16.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+04635,Cannon Cart,16.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+04650,Cannon Cart,16.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+04665,Cannon Cart,16.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+04680,Cannon Cart,16.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+04695,Cannon Cart,16.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+04710,Cannon Cart,16.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+04725,Cannon Cart,16.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+04740,Barbarian Barrel,6.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,Cannon Cart,16.0,1.0,5,True,True,5.0,5.0
+04755,Barbarian Barrel,6.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04770,Barbarian Barrel,6.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04785,Barbarian Barrel,6.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04800,Barbarian Barrel,6.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04815,Barbarian Barrel,6.0,Graveyard,48.0,Hunter,52.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04830,Barbarian Barrel,6.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,Graveyard,48.0,2.0,2,True,True,5.0,5.0
+04845,Barbarian Barrel,6.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04860,Barbarian Barrel,6.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04875,Barbarian Barrel,6.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04890,Mortar,71.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,Barbarian Barrel,6.0,1.0,1,True,True,2.0,2.0
+04905,Mortar,71.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04920,Mortar,71.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04935,Mortar,71.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04950,Mortar,71.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04965,Mortar,71.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04980,Mortar,71.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04995,Mortar,71.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05010,Mortar,71.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05025,Mortar,71.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05040,Knight,58.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,Mortar,71.0,1.0,1,True,True,4.0,4.0
+05055,Knight,58.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+05070,Knight,58.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05085,Knight,58.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05100,Knight,58.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05115,Knight,58.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05130,Knight,58.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05145,Knight,58.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05160,Knight,58.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05175,Knight,58.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05190,Knight,58.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05205,Knight,58.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05220,Knight,58.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05235,Knight,58.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05250,Knight,58.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05265,Cannon Cart,16.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,Knight,58.0,1.0,3,True,True,3.0,3.0
+05280,Cannon Cart,16.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05295,Cannon Cart,16.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05310,Cannon Cart,16.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05325,Cannon Cart,16.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05340,Cannon Cart,16.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05355,Graveyard,48.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,Cannon Cart,16.0,1.0,0,True,True,5.0,5.0
+05370,Graveyard,48.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+05385,Graveyard,48.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+05400,Graveyard,48.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05415,Graveyard,48.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05430,Graveyard,48.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05445,Graveyard,48.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05460,Graveyard,48.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05475,Graveyard,48.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05490,Graveyard,48.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05505,Graveyard,48.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05520,Graveyard,48.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05535,Graveyard,48.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05550,Graveyard,48.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05565,Barbarian Barrel,6.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,Graveyard,48.0,1.0,7,True,True,6.0,5.0
+05580,Barbarian Barrel,6.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+05595,Barbarian Barrel,6.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+05610,Barbarian Barrel,6.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05625,Barbarian Barrel,6.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05640,Barbarian Barrel,6.0,Spear Goblins,96.0,Hunter,52.0,Fireball,30.0,,,,2,False,False,0.0,0.0

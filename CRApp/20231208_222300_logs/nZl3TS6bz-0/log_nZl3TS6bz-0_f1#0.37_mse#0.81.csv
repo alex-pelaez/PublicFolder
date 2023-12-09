@@ -1,0 +1,1558 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,,,Knight,58.0,Graveyard,48.0,,,,,,6,False,False,0.0,0.0
+00255,,,Knight,58.0,Graveyard,48.0,,,,,,6,False,False,0.0,0.0
+00270,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,4.0,6,True,False,0.0,0.0
+00285,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+00300,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+00315,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+00330,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+00345,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+00360,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+00375,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+00390,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+00405,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+00420,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+00435,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+00450,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+00465,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+00480,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+00495,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+00510,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+00525,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+00540,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+00555,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+00570,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+00585,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+00600,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+00615,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+00630,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+00645,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+00660,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+00675,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+00690,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+00705,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+00720,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+00735,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+00750,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+00765,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+00780,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+00795,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+00810,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+00825,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+00840,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+00855,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+00870,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+00885,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+00900,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+00915,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,True,3.0,0.0
+00930,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+00945,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+00960,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+00975,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+00990,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+01005,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+01020,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+01035,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+01050,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+01065,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+01080,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+01095,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+01110,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+01125,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+01140,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+01155,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01170,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01185,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01200,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01215,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01230,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01245,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,True,4.0,0.0
+01260,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+01275,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+01290,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+01305,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+01320,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+01335,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+01350,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+01365,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+01380,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+01395,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+01410,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+01425,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+01440,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+01455,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+01470,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+01485,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+01500,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+01515,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+01530,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+01545,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+01560,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+01575,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01590,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01605,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01620,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01635,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01650,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01665,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01680,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01695,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01710,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01725,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01740,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01755,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01770,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01785,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01800,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01815,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01830,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01845,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01860,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01875,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01890,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01905,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01920,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01935,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01950,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01965,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01980,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+01995,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+02010,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+02025,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+02040,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+02055,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+02070,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+02085,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+02100,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+02115,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+02130,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+02145,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+02160,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+02175,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+02190,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+02205,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+02220,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+02235,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+02250,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+02265,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+02280,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,True,3.0,0.0
+02295,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+02310,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+02325,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+02340,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+02355,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+02370,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,True,4.0,0.0
+02385,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+02400,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+02415,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+02430,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,2,False,True,2.0,0.0
+02445,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+02460,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+02475,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,0,False,True,3.0,0.0
+02490,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,0,False,False,0.0,0.0
+02505,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,0,False,False,0.0,0.0
+02520,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+02535,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+02550,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+02565,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+02580,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+02595,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+02610,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+02625,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+02640,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+02655,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+02670,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+02685,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+02700,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+02715,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+02730,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+02745,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+02760,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+02775,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+02790,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,1,False,True,3.0,0.0
+02805,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+02820,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+02835,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+02850,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+02865,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+02880,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+02895,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+02910,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+02925,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+02940,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+02955,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+02970,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+02985,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+03000,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+03015,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+03030,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+03045,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+03060,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+03075,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+03090,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+03105,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+03120,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+03135,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+03150,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+03165,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+03180,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+03195,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03210,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03225,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03240,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03255,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03270,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03285,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+03300,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+03315,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+03330,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+03345,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+03360,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+03375,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+03390,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+03405,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+03420,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+03435,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+03450,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+03465,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+03480,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+03495,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+03510,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,True,4.0,0.0
+03525,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03540,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03555,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03570,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03585,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03600,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03615,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+03630,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+03645,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+03660,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+03675,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+03690,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+03705,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+03720,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+03735,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+03750,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+03765,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+03780,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,True,3.0,0.0
+03795,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+03810,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+03825,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03840,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03855,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03870,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+03885,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+03900,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+03915,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+03930,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+03945,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+03960,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+03975,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+03990,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,True,2.0,0.0
+04005,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+04020,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+04035,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+04050,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+04065,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+04080,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+04095,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,True,3.0,0.0
+04110,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+04125,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+04140,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+04155,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+04170,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+04185,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+04200,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+04215,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+04230,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+04245,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,True,3.0,0.0
+04260,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+04275,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+04290,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+04305,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+04320,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+04335,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+04350,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+04365,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+04380,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+04395,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+04410,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,True,1.0,0.0
+04425,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+04440,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+04455,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,True,3.0,0.0
+04470,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+04485,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+04500,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+04515,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,1,False,True,5.0,0.0
+04530,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+04545,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+04560,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+04575,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+04590,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+04605,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+04620,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+04635,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+04650,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+04665,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,1,False,True,3.0,0.0
+04680,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+04695,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+04710,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+04725,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+04740,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+04755,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+04770,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+04785,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+04800,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+04815,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+04830,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+04845,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+04860,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+04875,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+04890,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+04905,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+04920,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+04935,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+04950,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+04965,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+04980,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+04995,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+05010,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+05025,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+05040,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+05055,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+05070,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,True,4.0,0.0
+05085,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+05100,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+05115,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+05130,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+05145,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+05160,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+05175,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+05190,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+05205,Knight,58.0,Knight,58.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+05220,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,Knight,58.0,2.0,6,True,True,3.0,3.0
+05235,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+05250,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,True,3.0,0.0
+05265,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+05280,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,3,False,True,2.0,0.0
+05295,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+05310,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+05325,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+05340,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+05355,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+05370,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+05385,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+05400,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,3,False,True,2.0,0.0
+05415,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+05430,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+05445,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+05460,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+05475,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+05490,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+05505,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+05520,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+05535,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+05550,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+05565,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+05580,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+05595,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+05610,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+05625,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+05640,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+05655,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+05670,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+05685,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,True,4.0,0.0
+05700,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+05715,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+05730,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+05745,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+05760,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+05775,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+05790,Knight,58.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+05805,Minion Horde,68.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,Knight,58.0,1.0,5,True,True,3.0,3.0
+05820,Minion Horde,68.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+05835,Minion Horde,68.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+05850,Minion Horde,68.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+05865,Minion Horde,68.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+05880,Minion Horde,68.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,True,3.0,0.0
+05895,Minion Horde,68.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+05910,Minion Horde,68.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+05925,Minion Horde,68.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+05940,Minion Horde,68.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,True,1.0,0.0
+05955,Minion Horde,68.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+05970,Minion Horde,68.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+05985,Minion Horde,68.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+06000,Minion Horde,68.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,2,False,True,3.0,0.0
+06015,Minion Horde,68.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+06030,Minion Horde,68.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+06045,Minion Horde,68.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+06060,Minion Horde,68.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+06075,Minion Horde,68.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+06090,Minion Horde,68.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+06105,Minion Horde,68.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+06120,Minion Horde,68.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+06135,Minion Horde,68.0,Skeleton Army,90.0,Graveyard,48.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+06150,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,Graveyard,48.0,3.0,1,True,True,4.0,5.0
+06165,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+06180,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+06195,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+06210,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+06225,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+06240,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+06255,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+06270,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+06285,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+06300,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+06315,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+06330,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,1,False,True,3.0,0.0
+06345,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+06360,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+06375,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+06390,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+06405,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+06420,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+06435,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+06450,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+06465,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+06480,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+06495,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+06510,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+06525,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+06540,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+06555,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+06570,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+06585,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+06600,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+06615,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+06630,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+06645,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+06660,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+06675,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+06690,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+06705,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+06720,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+06735,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+06750,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+06765,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+06780,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+06795,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+06810,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+06825,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+06840,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+06855,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+06870,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+06885,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+06900,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+06915,Minion Horde,68.0,Skeleton Army,90.0,Knight,58.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+06930,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,Knight,58.0,3.0,10,True,False,0.0,3.0
+06945,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+06960,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+06975,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+06990,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+07005,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+07020,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+07035,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,True,2.0,0.0
+07050,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+07065,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+07080,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+07095,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+07110,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+07125,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+07140,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+07155,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+07170,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+07185,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+07200,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+07215,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,True,6.0,0.0
+07230,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+07245,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+07260,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+07275,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+07290,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+07305,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+07320,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+07335,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+07350,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+07365,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+07380,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+07395,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+07410,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+07425,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+07440,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+07455,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+07470,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+07485,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+07500,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+07515,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+07530,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+07545,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,True,3.0,0.0
+07560,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+07575,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+07590,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+07605,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+07620,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+07635,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+07650,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+07665,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+07680,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+07695,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+07710,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+07725,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+07740,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+07755,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+07770,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+07785,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+07800,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+07815,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+07830,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+07845,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+07860,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+07875,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,True,7.0,0.0
+07890,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+07905,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+07920,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+07935,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+07950,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+07965,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+07980,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+07995,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+08010,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+08025,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+08040,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+08055,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+08070,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+08085,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+08100,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+08115,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+08130,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+08145,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+08160,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+08175,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+08190,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+08205,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+08220,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+08235,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+08250,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+08265,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+08280,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,True,4.0,0.0
+08295,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+08310,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+08325,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+08340,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+08355,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+08370,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+08385,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+08400,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,2,False,True,3.0,0.0
+08415,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+08430,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+08445,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+08460,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+08475,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+08490,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+08505,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+08520,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+08535,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+08550,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+08565,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+08580,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+08595,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+08610,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+08625,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+08640,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+08655,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+08670,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+08685,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+08700,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+08715,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+08730,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+08745,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+08760,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+08775,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+08790,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+08805,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+08820,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+08835,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+08850,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+08865,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+08880,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+08895,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+08910,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+08925,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+08940,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+08955,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+08970,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+08985,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+09000,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,True,3.0,0.0
+09015,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+09030,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+09045,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+09060,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+09075,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+09090,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+09105,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+09120,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+09135,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+09150,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+09165,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+09180,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+09195,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+09210,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+09225,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+09240,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,True,3.0,0.0
+09255,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+09270,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+09285,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+09300,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+09315,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+09330,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+09345,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+09360,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+09375,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+09390,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+09405,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+09420,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+09435,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+09450,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+09465,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+09480,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+09495,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+09510,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+09525,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+09540,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+09555,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+09570,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,True,7.0,0.0
+09585,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+09600,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+09615,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+09630,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+09645,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+09660,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+09675,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+09690,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+09705,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+09720,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+09735,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+09750,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+09765,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+09780,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+09795,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+09810,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+09825,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+09840,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+09855,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+09870,Minion Horde,68.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+09885,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,4.0,3,True,True,3.0,4.0
+09900,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,Skeleton Army,90.0,4.0,4,True,False,0.0,3.0
+09915,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+09930,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+09945,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+09960,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+09975,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+09990,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+10005,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+10020,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+10035,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+10050,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+10065,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+10080,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,1,False,True,4.0,0.0
+10095,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+10110,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+10125,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+10140,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+10155,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+10170,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+10185,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+10200,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+10215,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+10230,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+10245,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+10260,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+10275,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+10290,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+10305,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+10320,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+10335,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+10350,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,1,False,True,3.0,0.0
+10365,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+10380,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+10395,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+10410,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+10425,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+10440,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+10455,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+10470,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+10485,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+10500,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+10515,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+10530,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+10545,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+10560,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+10575,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+10590,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+10605,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+10620,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,1,False,True,3.0,0.0
+10635,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+10650,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+10665,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+10680,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+10695,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+10710,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+10725,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+10740,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+10755,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+10770,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+10785,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+10800,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+10815,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+10830,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+10845,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+10860,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+10875,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+10890,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+10905,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+10920,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+10935,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+10950,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+10965,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+10980,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+10995,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+11010,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+11025,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,1,False,True,7.0,0.0
+11040,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+11055,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+11070,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+11085,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+11100,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+11115,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+11130,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+11145,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+11160,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+11175,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+11190,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+11205,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,4.0,3,True,True,2.0,4.0
+11220,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+11235,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+11250,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,Skeleton Army,90.0,4.0,4,True,False,0.0,3.0
+11265,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+11280,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+11295,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+11310,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+11325,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+11340,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+11355,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,Valkyrie,102.0,4.0,2,True,True,4.0,4.0
+11370,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+11385,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+11400,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+11415,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+11430,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+11445,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+11460,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+11475,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+11490,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+11505,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,1,False,True,4.0,0.0
+11520,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,1,False,False,0.0,0.0
+11535,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,1,False,False,0.0,0.0
+11550,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+11565,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+11580,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+11595,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+11610,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+11625,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+11640,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+11655,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+11670,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+11685,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+11700,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+11715,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+11730,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+11745,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+11760,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,7,False,False,0.0,0.0
+11775,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,4,False,True,3.0,0.0
+11790,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+11805,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+11820,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+11835,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+11850,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+11865,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+11880,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,7,False,False,0.0,0.0
+11895,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,7,False,False,0.0,0.0
+11910,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,4,False,True,3.0,0.0
+11925,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+11940,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+11955,Minion Horde,68.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+11970,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,Minion Horde,68.0,1.0,1,True,True,4.0,5.0
+11985,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,1,False,False,0.0,0.0
+12000,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+12015,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+12030,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+12045,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+12060,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+12075,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+12090,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+12105,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+12120,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+12135,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+12150,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+12165,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+12180,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+12195,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+12210,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,7,False,False,0.0,0.0
+12225,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,7,False,False,0.0,0.0
+12240,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,7,False,False,0.0,0.0
+12255,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,7,False,False,0.0,0.0
+12270,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,8,False,False,0.0,0.0
+12285,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,8,False,False,0.0,0.0
+12300,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,9,False,False,0.0,0.0
+12315,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,2,False,True,7.0,0.0
+12330,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+12345,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+12360,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+12375,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+12390,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+12405,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+12420,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+12435,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+12450,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+12465,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+12480,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+12495,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+12510,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,4,False,True,2.0,0.0
+12525,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+12540,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+12555,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+12570,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+12585,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+12600,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+12615,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+12630,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+12645,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,7,False,False,0.0,0.0
+12660,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,2,False,True,5.0,0.0
+12675,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+12690,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+12705,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+12720,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+12735,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+12750,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+12765,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+12780,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+12795,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+12810,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+12825,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+12840,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,7,False,False,0.0,0.0
+12855,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,7,False,False,0.0,0.0
+12870,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,7,False,False,0.0,0.0
+12885,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,8,False,False,0.0,0.0
+12900,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,8,False,False,0.0,0.0
+12915,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Skeleton Army,90.0,,,,8,False,False,0.0,0.0
+12930,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,Skeleton Army,90.0,4.0,6,True,True,2.0,3.0
+12945,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,3,False,True,3.0,0.0
+12960,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+12975,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+12990,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+13005,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+13020,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+13035,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,2,False,True,3.0,0.0
+13050,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+13065,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+13080,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+13095,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+13110,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+13125,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+13140,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+13155,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+13170,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+13185,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+13200,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+13215,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+13230,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+13245,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+13260,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+13275,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+13290,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+13305,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+13320,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+13335,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+13350,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+13365,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,3,False,True,7.0,0.0
+13380,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+13395,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+13410,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+13425,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+13440,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+13455,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+13470,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+13485,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+13500,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+13515,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+13530,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+13545,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+13560,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+13575,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+13590,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+13605,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+13620,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+13635,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+13650,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+13665,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,5,False,True,5.0,0.0
+13680,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+13695,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+13710,Valkyrie,102.0,The Log,98.0,Skeleton Army,90.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+13725,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,Skeleton Army,90.0,3.0,3,True,True,3.0,3.0
+13740,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+13755,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+13770,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+13785,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+13800,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,2,False,True,3.0,0.0
+13815,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+13830,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+13845,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+13860,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+13875,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,1,False,True,3.0,0.0
+13890,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,1,False,False,0.0,0.0
+13905,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+13920,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+13935,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+13950,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+13965,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+13980,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+13995,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+14010,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+14025,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+14040,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+14055,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+14070,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+14085,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+14100,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+14115,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+14130,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+14145,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+14160,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+14175,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+14190,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+14205,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+14220,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+14235,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,6,False,True,3.0,0.0
+14250,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+14265,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+14280,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+14295,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+14310,Valkyrie,102.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+14325,Skeleton Army,90.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,Valkyrie,102.0,1.0,5,True,True,3.0,4.0
+14340,Skeleton Army,90.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+14355,Skeleton Army,90.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+14370,Skeleton Army,90.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,1,False,True,4.0,0.0
+14385,Skeleton Army,90.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,1,False,False,0.0,0.0
+14400,Skeleton Army,90.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,1,False,False,0.0,0.0
+14415,Skeleton Army,90.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+14430,Skeleton Army,90.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+14445,Skeleton Army,90.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+14460,Skeleton Army,90.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+14475,Skeleton Army,90.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+14490,Skeleton Army,90.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+14505,Skeleton Army,90.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+14520,Skeleton Army,90.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+14535,Skeleton Army,90.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+14550,Skeleton Army,90.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+14565,Skeleton Army,90.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+14580,Skeleton Army,90.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+14595,Skeleton Army,90.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+14610,Skeleton Army,90.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+14625,Skeleton Army,90.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+14640,Skeleton Army,90.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+14655,Skeleton Army,90.0,The Log,98.0,Tesla,97.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+14670,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,Minion Horde,68.0,4.0,10,True,False,0.0,5.0
+14685,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+14700,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+14715,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+14730,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,True,6.0,0.0
+14745,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+14760,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+14775,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+14790,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+14805,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+14820,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+14835,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+14850,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+14865,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+14880,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+14895,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+14910,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+14925,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+14940,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+14955,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+14970,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+14985,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,True,1.0,0.0
+15000,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+15015,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+15030,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+15045,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+15060,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+15075,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+15090,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+15105,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+15120,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+15135,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+15150,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+15165,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+15180,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+15195,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+15210,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+15225,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+15240,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+15255,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+15270,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+15285,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+15300,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+15315,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+15330,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+15345,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+15360,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,9,False,True,1.0,0.0
+15375,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+15390,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+15405,Knight,58.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+15420,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,Knight,58.0,1.0,6,True,True,3.0,3.0
+15435,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+15450,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+15465,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+15480,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+15495,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+15510,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+15525,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+15540,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+15555,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+15570,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+15585,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+15600,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+15615,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+15630,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+15645,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+15660,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,True,1.0,0.0
+15675,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+15690,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+15705,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+15720,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+15735,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,3,False,True,6.0,0.0
+15750,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+15765,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+15780,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+15795,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+15810,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+15825,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,1,False,True,3.0,0.0
+15840,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+15855,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+15870,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+15885,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,1,False,True,1.0,0.0
+15900,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+15915,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+15930,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+15945,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+15960,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+15975,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,0,False,True,2.0,0.0
+15990,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,0,False,False,0.0,0.0
+16005,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,0,False,False,0.0,0.0
+16020,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,0,False,False,0.0,0.0
+16035,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+16050,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+16065,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+16080,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+16095,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+16110,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+16125,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+16140,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+16155,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+16170,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+16185,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+16200,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+16215,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+16230,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+16245,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+16260,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,2,False,True,1.0,0.0
+16275,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+16290,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+16305,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+16320,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+16335,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+16350,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+16365,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+16380,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+16395,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+16410,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+16425,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+16440,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+16455,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+16470,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+16485,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+16500,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+16515,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+16530,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+16545,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+16560,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+16575,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+16590,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+16605,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+16620,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+16635,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+16650,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+16665,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+16680,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+16695,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+16710,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+16725,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+16740,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+16755,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+16770,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+16785,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+16800,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+16815,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,3,False,True,6.0,0.0
+16830,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+16845,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+16860,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+16875,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+16890,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+16905,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+16920,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+16935,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+16950,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+16965,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+16980,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+16995,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+17010,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+17025,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+17040,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+17055,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+17070,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+17085,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+17100,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+17115,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+17130,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+17145,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+17160,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+17175,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+17190,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+17205,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+17220,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+17235,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+17250,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+17265,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+17280,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+17295,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+17310,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+17325,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+17340,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,True,3.0,0.0
+17355,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+17370,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+17385,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+17400,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+17415,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+17430,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+17445,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+17460,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+17475,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+17490,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+17505,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+17520,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+17535,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,True,1.0,0.0
+17550,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+17565,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+17580,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+17595,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+17610,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+17625,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+17640,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,Knight,58.0,4.0,6,True,True,3.0,3.0
+17655,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+17670,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+17685,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+17700,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+17715,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+17730,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,6,False,True,1.0,0.0
+17745,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+17760,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+17775,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+17790,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,3,False,True,3.0,0.0
+17805,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,1,False,True,2.0,0.0
+17820,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,1,False,False,0.0,0.0
+17835,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,1,False,False,0.0,0.0
+17850,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,1,False,False,0.0,0.0
+17865,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,1,False,False,0.0,0.0
+17880,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+17895,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+17910,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+17925,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+17940,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+17955,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+17970,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+17985,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18000,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18015,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18030,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18045,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18060,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18075,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18090,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18105,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18120,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18135,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18150,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18165,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18180,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18195,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18210,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18225,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18240,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18255,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18270,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18285,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18300,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+18315,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+18330,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+18345,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+18360,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+18375,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+18390,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+18405,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+18420,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+18435,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+18450,Fireball,30.0,The Log,98.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+18465,Fireball,30.0,Tesla,97.0,Tesla,97.0,The Log,98.0,The Log,98.0,2.0,7,True,True,1.0,2.0
+18480,Fireball,30.0,Tesla,97.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+18495,Fireball,30.0,Tesla,97.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+18510,Fireball,30.0,Tesla,97.0,Knight,58.0,The Log,98.0,Tesla,97.0,3.0,3,True,True,4.0,4.0
+18525,Fireball,30.0,Tesla,97.0,Knight,58.0,The Log,98.0,,,,2,False,True,1.0,0.0
+18540,Fireball,30.0,Tesla,97.0,Knight,58.0,The Log,98.0,,,,2,False,False,0.0,0.0
+18555,Fireball,30.0,Tesla,97.0,Knight,58.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18570,Fireball,30.0,Tesla,97.0,Knight,58.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18585,Fireball,30.0,Tesla,97.0,Fireball,30.0,The Log,98.0,Knight,58.0,3.0,0,True,True,3.0,3.0
+18600,Fireball,30.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,1,False,False,0.0,0.0
+18615,Fireball,30.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,1,False,False,0.0,0.0
+18630,Fireball,30.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,1,False,False,0.0,0.0
+18645,Fireball,30.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,2,False,False,0.0,0.0
+18660,Fireball,30.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,2,False,False,0.0,0.0
+18675,Fireball,30.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18690,Fireball,30.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18705,Fireball,30.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18720,Fireball,30.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18735,Fireball,30.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,1,False,True,3.0,0.0
+18750,Fireball,30.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,1,False,False,0.0,0.0
+18765,Fireball,30.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,2,False,False,0.0,0.0
+18780,Fireball,30.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,2,False,False,0.0,0.0
+18795,Fireball,30.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,2,False,False,0.0,0.0
+18810,Fireball,30.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18825,Fireball,30.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18840,Fireball,30.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18855,Fireball,30.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18870,Fireball,30.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18885,Tesla,97.0,Tesla,97.0,Fireball,30.0,The Log,98.0,Fireball,30.0,1.0,1,True,True,3.0,4.0
+18900,Tesla,97.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,1,False,False,0.0,0.0
+18915,Tesla,97.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,1,False,False,0.0,0.0
+18930,Tesla,97.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,2,False,False,0.0,0.0
+18945,Tesla,97.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,2,False,False,0.0,0.0
+18960,Tesla,97.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,2,False,False,0.0,0.0
+18975,Tesla,97.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18990,Tesla,97.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19005,Tesla,97.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19020,Tesla,97.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19035,Tesla,97.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19050,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,Tesla,97.0,1.0,1,True,True,3.0,4.0
+19065,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,1,False,False,0.0,0.0
+19080,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,1,False,False,0.0,0.0
+19095,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,2,False,False,0.0,0.0
+19110,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,2,False,False,0.0,0.0
+19125,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,2,False,False,0.0,0.0
+19140,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19155,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19170,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19185,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19200,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19215,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19230,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+19245,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+19260,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+19275,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19290,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19305,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19320,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19335,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19350,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,4.0,6,True,True,1.0,2.0
+19365,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,6,False,False,0.0,0.0
+19380,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,6,False,False,0.0,0.0
+19395,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,7,False,False,0.0,0.0
+19410,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,7,False,False,0.0,0.0
+19425,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,7,False,False,0.0,0.0
+19440,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,8,False,False,0.0,0.0
+19455,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,8,False,False,0.0,0.0
+19470,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,8,False,False,0.0,0.0
+19485,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,9,False,False,0.0,0.0
+19500,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,Knight,58.0,4.0,6,True,True,3.0,3.0
+19515,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19530,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19545,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19560,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+19575,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+19590,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+19605,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,9,False,False,0.0,0.0
+19620,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,True,6.0,0.0
+19635,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19650,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19665,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19680,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19695,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+19710,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,4,False,True,1.0,0.0
+19725,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+19740,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,2,False,True,3.0,0.0
+19755,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,2,False,False,0.0,0.0
+19770,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19785,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19800,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19815,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19830,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19845,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19860,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19875,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19890,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19905,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+19920,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+19935,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19950,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19965,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19980,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19995,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+20010,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+20025,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+20040,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+20055,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+20070,Knight,58.0,Fireball,30.0,Fireball,30.0,The Log,98.0,Tesla,97.0,2.0,5,True,True,3.0,4.0
+20085,Knight,58.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+20100,Knight,58.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+20115,Knight,58.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+20130,Knight,58.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+20145,Knight,58.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+20160,Knight,58.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+20175,Knight,58.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,1,False,True,6.0,0.0
+20190,Knight,58.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,2,False,False,0.0,0.0
+20205,Knight,58.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,2,False,False,0.0,0.0
+20220,Knight,58.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,2,False,False,0.0,0.0
+20235,Knight,58.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+20250,Knight,58.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+20265,Knight,58.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,2,False,True,1.0,0.0
+20280,Knight,58.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+20295,Knight,58.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+20310,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,Knight,58.0,1.0,0,True,True,3.0,3.0
+20325,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,1,False,False,0.0,0.0
+20340,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,1,False,False,0.0,0.0
+20355,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,2,False,False,0.0,0.0
+20370,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,2,False,False,0.0,0.0
+20385,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,2,False,False,0.0,0.0
+20400,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+20415,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+20430,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,2,False,True,1.0,0.0
+20445,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+20460,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+20475,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+20490,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20505,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20520,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20535,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+20550,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+20565,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,3,False,True,2.0,0.0
+20580,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+20595,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+20610,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20625,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20640,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20655,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,3,False,True,1.0,0.0
+20670,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+20685,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+20700,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20715,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20730,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20745,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+20760,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+20775,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+20790,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+20805,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+20820,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+20835,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+20850,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+20865,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+20880,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+20895,Tesla,97.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+20910,Knight,58.0,Fireball,30.0,Fireball,30.0,The Log,98.0,Tesla,97.0,1.0,5,True,True,3.0,4.0
+20925,Knight,58.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+20940,Knight,58.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+20955,Knight,58.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+20970,Knight,58.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+20985,Knight,58.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+21000,Knight,58.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+21015,Knight,58.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+21030,Knight,58.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+21045,Knight,58.0,Fireball,30.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+21060,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,Fireball,30.0,3.0,3,True,True,4.0,4.0
+21075,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+21090,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+21105,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,3,False,True,1.0,0.0
+21120,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+21135,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+21150,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+21165,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+21180,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+21195,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+21210,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+21225,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+21240,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,7,False,False,0.0,0.0
+21255,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,7,False,False,0.0,0.0
+21270,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,Knight,58.0,1.0,4,True,True,3.0,3.0
+21285,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+21300,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+21315,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+21330,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+21345,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+21360,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+21375,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,7,False,False,0.0,0.0
+21390,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,7,False,False,0.0,0.0
+21405,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,2,False,True,5.0,0.0
+21420,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,2,False,False,0.0,0.0
+21435,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,2,False,False,0.0,0.0
+21450,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,3,False,False,0.0,0.0
+21465,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,3,False,False,0.0,0.0
+21480,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,3,False,False,0.0,0.0
+21495,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+21510,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,3,False,True,1.0,0.0
+21525,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,3,False,False,0.0,0.0
+21540,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+21555,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,1,False,True,3.0,0.0
+21570,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,1,False,False,0.0,0.0
+21585,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,2,False,False,0.0,0.0
+21600,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,2,False,False,0.0,0.0
+21615,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,2,False,False,0.0,0.0
+21630,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,2,False,False,0.0,0.0
+21645,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,2,False,False,0.0,0.0
+21660,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,3,False,False,0.0,0.0
+21675,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,3,False,False,0.0,0.0
+21690,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,0,False,True,3.0,0.0
+21705,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,1,False,False,0.0,0.0
+21720,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,1,False,False,0.0,0.0
+21735,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,1,False,False,0.0,0.0
+21750,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,2,False,False,0.0,0.0
+21765,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,2,False,False,0.0,0.0
+21780,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,2,False,False,0.0,0.0
+21795,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,3,False,False,0.0,0.0
+21810,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,3,False,False,0.0,0.0
+21825,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+21840,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+21855,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+21870,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+21885,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+21900,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+21915,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+21930,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+21945,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+21960,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,7,False,False,0.0,0.0
+21975,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,7,False,False,0.0,0.0
+21990,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,7,False,False,0.0,0.0
+22005,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,8,False,False,0.0,0.0
+22020,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,8,False,False,0.0,0.0
+22035,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,9,False,False,0.0,0.0
+22050,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,9,False,False,0.0,0.0
+22065,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,9,False,False,0.0,0.0
+22080,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,10,False,False,0.0,0.0
+22095,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,10,False,False,0.0,0.0
+22110,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,4,False,True,6.0,0.0
+22125,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+22140,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+22155,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+22170,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+22185,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+22200,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+22215,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+22230,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+22245,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,7,False,False,0.0,0.0
+22260,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,4,False,True,3.0,0.0
+22275,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+22290,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+22305,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+22320,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+22335,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+22350,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,7,False,False,0.0,0.0
+22365,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,4,False,True,3.0,0.0
+22380,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+22395,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+22410,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+22425,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,Tesla,97.0,1.0,2,True,True,4.0,4.0
+22440,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,3,False,False,0.0,0.0
+22455,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,3,False,False,0.0,0.0
+22470,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+22485,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+22500,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+22515,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+22530,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+22545,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,7,False,False,0.0,0.0
+22560,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,1,False,True,6.0,0.0
+22575,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,2,False,False,0.0,0.0
+22590,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,2,False,False,0.0,0.0
+22605,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,3,False,False,0.0,0.0
+22620,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,3,False,False,0.0,0.0
+22635,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,3,False,False,0.0,0.0
+22650,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,3,False,False,0.0,0.0
+22665,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+22680,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+22695,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+22710,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,4,False,True,1.0,0.0
+22725,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+22740,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+22755,Knight,58.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+22770,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,Knight,58.0,1.0,4,True,True,2.0,3.0
+22785,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+22800,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+22815,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+22830,Tesla,97.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+22845,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,Tesla,97.0,1.0,2,True,True,4.0,4.0
+22860,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,3,False,False,0.0,0.0
+22875,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,3,False,False,0.0,0.0
+22890,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+22905,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+22920,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+22935,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,4,False,True,1.0,0.0
+22950,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+22965,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+22980,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+22995,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+23010,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+23025,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,7,False,False,0.0,0.0
+23040,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,7,False,False,0.0,0.0
+23055,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,2,False,True,5.0,0.0
+23070,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,2,False,False,0.0,0.0
+23085,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,3,False,False,0.0,0.0
+23100,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,3,False,False,0.0,0.0
+23115,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+23130,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+23145,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+23160,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+23175,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+23190,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,7,False,False,0.0,0.0
+23205,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,7,False,False,0.0,0.0
+23220,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,8,False,False,0.0,0.0
+23235,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,8,False,False,0.0,0.0
+23250,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,9,False,False,0.0,0.0
+23265,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,9,False,False,0.0,0.0
+23280,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,10,False,False,0.0,0.0
+23295,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,7,False,True,3.0,0.0
+23310,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,8,False,False,0.0,0.0
+23325,The Log,98.0,Fireball,30.0,Knight,58.0,The Log,98.0,,,,8,False,False,0.0,0.0
+23340,The Log,98.0,Fireball,30.0,Tesla,97.0,The Log,98.0,Knight,58.0,3.0,6,True,True,2.0,3.0
+23355,The Log,98.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+23370,The Log,98.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+23385,The Log,98.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+23400,The Log,98.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+23415,The Log,98.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+23430,The Log,98.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+23445,The Log,98.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+23460,The Log,98.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,9,False,False,0.0,0.0
+23475,The Log,98.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,9,False,False,0.0,0.0
+23490,The Log,98.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,6,False,True,3.0,0.0
+23505,The Log,98.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+23520,The Log,98.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+23535,The Log,98.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+23550,The Log,98.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+23565,The Log,98.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+23580,The Log,98.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,9,False,False,0.0,0.0

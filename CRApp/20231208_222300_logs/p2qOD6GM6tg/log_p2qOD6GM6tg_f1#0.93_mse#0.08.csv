@@ -1,0 +1,423 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Musketeer,73.0,Miner,66.0,Skeletons,94.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+00255,Musketeer,73.0,Miner,66.0,Skeletons,94.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+00270,Musketeer,73.0,Miner,66.0,Skeletons,94.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+00285,Musketeer,73.0,Miner,66.0,Skeletons,94.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00300,Musketeer,73.0,Miner,66.0,Skeletons,94.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00315,Musketeer,73.0,Miner,66.0,Skeletons,94.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00330,Musketeer,73.0,Miner,66.0,Skeletons,94.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00345,Musketeer,73.0,Miner,66.0,Skeletons,94.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00360,Musketeer,73.0,Miner,66.0,Skeletons,94.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00375,Musketeer,73.0,Miner,66.0,Skeletons,94.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00390,Musketeer,73.0,Miner,66.0,Skeletons,94.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00405,Musketeer,73.0,Miner,66.0,Skeletons,94.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00420,Musketeer,73.0,Miner,66.0,Skeletons,94.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00435,Musketeer,73.0,Miner,66.0,Skeletons,94.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00450,Musketeer,73.0,Miner,66.0,Skeletons,94.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+00465,Musketeer,73.0,Miner,66.0,Skeletons,94.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+00480,Musketeer,73.0,Miner,66.0,Skeletons,94.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+00495,Musketeer,73.0,Miner,66.0,Skeletons,94.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+00510,Musketeer,73.0,Miner,66.0,Skeletons,94.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+00525,Musketeer,73.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,Miner,66.0,2.0,10,True,True,3.0,3.0
+00540,Musketeer,73.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,10,False,False,0.0,0.0
+00555,Musketeer,73.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00570,Musketeer,73.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00585,Musketeer,73.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00600,Musketeer,73.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00615,Musketeer,73.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00630,Musketeer,73.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00645,Musketeer,73.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00660,Musketeer,73.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00675,Musketeer,73.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00690,Musketeer,73.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00705,Musketeer,73.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+00720,Musketeer,73.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+00735,Musketeer,73.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+00750,Musketeer,73.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+00765,Knight,58.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,Musketeer,73.0,1.0,5,True,True,4.0,4.0
+00780,Knight,58.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+00795,Knight,58.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+00810,Knight,58.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+00825,Knight,58.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+00840,Knight,58.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+00855,Knight,58.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+00870,Knight,58.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00885,Knight,58.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00900,Knight,58.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00915,Knight,58.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00930,Knight,58.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00945,Knight,58.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00960,Knight,58.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00975,Knight,58.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00990,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,Skeletons,94.0,3.0,9,True,True,2.0,1.0
+01005,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+01020,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+01035,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+01050,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+01065,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+01080,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+01095,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+01110,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+01125,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+01140,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+01155,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+01170,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+01185,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,Knight,58.0,1.0,6,True,True,3.0,3.0
+01200,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+01215,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,Balloon,4.0,4.0,2,True,True,5.0,5.0
+01230,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,2,False,False,0.0,0.0
+01245,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,2,False,False,0.0,0.0
+01260,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,2,False,False,0.0,0.0
+01275,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,2,False,False,0.0,0.0
+01290,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,3,False,False,0.0,0.0
+01305,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,3,False,False,0.0,0.0
+01320,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,3,False,False,0.0,0.0
+01335,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,3,False,False,0.0,0.0
+01350,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,3,False,False,0.0,0.0
+01365,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,3,False,False,0.0,0.0
+01380,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,4,False,False,0.0,0.0
+01395,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,4,False,False,0.0,0.0
+01410,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,4,False,False,0.0,0.0
+01425,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,4,False,False,0.0,0.0
+01440,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,4,False,False,0.0,0.0
+01455,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,5,False,False,0.0,0.0
+01470,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,5,False,False,0.0,0.0
+01485,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,5,False,False,0.0,0.0
+01500,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,5,False,False,0.0,0.0
+01515,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,5,False,False,0.0,0.0
+01530,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,5,False,False,0.0,0.0
+01545,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,6,False,False,0.0,0.0
+01560,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,6,False,False,0.0,0.0
+01575,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,6,False,False,0.0,0.0
+01590,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,6,False,False,0.0,0.0
+01605,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,6,False,False,0.0,0.0
+01620,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,7,False,False,0.0,0.0
+01635,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,8,False,False,0.0,0.0
+01650,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,8,False,False,0.0,0.0
+01665,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,8,False,False,0.0,0.0
+01680,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,8,False,False,0.0,0.0
+01695,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,8,False,False,0.0,0.0
+01710,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,8,False,False,0.0,0.0
+01725,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,8,False,False,0.0,0.0
+01740,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,8,False,False,0.0,0.0
+01755,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,8,False,False,0.0,0.0
+01770,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,8,False,False,0.0,0.0
+01785,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,8,False,False,0.0,0.0
+01800,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,9,False,False,0.0,0.0
+01815,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,9,False,False,0.0,0.0
+01830,Musketeer,73.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,Giant Snowball,38.0,1.0,10,True,True,3.0,2.0
+01845,Musketeer,73.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,10,False,False,0.0,0.0
+01860,Musketeer,73.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,7,False,False,0.0,0.0
+01875,Musketeer,73.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,8,False,False,0.0,0.0
+01890,Musketeer,73.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,8,False,False,0.0,0.0
+01905,Musketeer,73.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,8,False,False,0.0,0.0
+01920,Musketeer,73.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,8,False,False,0.0,0.0
+01935,Musketeer,73.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,8,False,False,0.0,0.0
+01950,Musketeer,73.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,8,False,False,0.0,0.0
+01965,Musketeer,73.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,9,False,False,0.0,0.0
+01980,Musketeer,73.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,9,False,False,0.0,0.0
+01995,Musketeer,73.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,9,False,False,0.0,0.0
+02010,Musketeer,73.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,9,False,False,0.0,0.0
+02025,Musketeer,73.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,9,False,False,0.0,0.0
+02040,Musketeer,73.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,10,False,False,0.0,0.0
+02055,Musketeer,73.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,10,False,False,0.0,0.0
+02070,Musketeer,73.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,10,False,False,0.0,0.0
+02085,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,Musketeer,73.0,1.0,6,True,True,4.0,4.0
+02100,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,6,False,False,0.0,0.0
+02115,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,6,False,False,0.0,0.0
+02130,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,6,False,False,0.0,0.0
+02145,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,6,False,False,0.0,0.0
+02160,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,6,False,False,0.0,0.0
+02175,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,7,False,False,0.0,0.0
+02190,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,7,False,False,0.0,0.0
+02205,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,7,False,False,0.0,0.0
+02220,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,7,False,False,0.0,0.0
+02235,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,7,False,False,0.0,0.0
+02250,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,8,False,False,0.0,0.0
+02265,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,Skeletons,94.0,1.0,7,True,True,1.0,1.0
+02280,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,7,False,False,0.0,0.0
+02295,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,7,False,False,0.0,0.0
+02310,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,7,False,False,0.0,0.0
+02325,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,Miner,66.0,4.0,4,True,True,3.0,3.0
+02340,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+02355,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+02370,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+02385,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+02400,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+02415,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+02430,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+02445,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+02460,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+02475,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+02490,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+02505,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+02520,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+02535,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+02550,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+02565,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+02580,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,7,False,True,1.0,0.0
+02595,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+02610,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+02625,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+02640,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+02655,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+02670,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+02685,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+02700,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+02715,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+02730,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+02745,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+02760,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,10,False,False,0.0,0.0
+02775,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,10,False,False,0.0,0.0
+02790,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,Knight,58.0,1.0,7,True,True,3.0,3.0
+02805,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+02820,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+02835,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+02850,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+02865,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,Balloon,4.0,4.0,2,True,True,5.0,5.0
+02880,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+02895,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+02910,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+02925,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+02940,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+02955,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+02970,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+02985,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,Giant Snowball,38.0,1.0,2,True,True,2.0,2.0
+03000,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+03015,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+03030,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+03045,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+03060,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+03075,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+03090,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+03105,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+03120,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+03135,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+03150,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+03165,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+03180,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+03195,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+03210,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+03225,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+03240,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+03255,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+03270,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+03285,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+03300,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,Musketeer,73.0,4.0,2,True,True,3.0,4.0
+03315,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,2,False,False,0.0,0.0
+03330,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,2,False,False,0.0,0.0
+03345,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,2,False,False,0.0,0.0
+03360,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,2,False,False,0.0,0.0
+03375,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,3,False,False,0.0,0.0
+03390,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,3,False,False,0.0,0.0
+03405,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,3,False,False,0.0,0.0
+03420,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,3,False,False,0.0,0.0
+03435,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,3,False,False,0.0,0.0
+03450,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,3,False,False,0.0,0.0
+03465,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,4,False,False,0.0,0.0
+03480,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,4,False,False,0.0,0.0
+03495,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,4,False,False,0.0,0.0
+03510,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,4,False,False,0.0,0.0
+03525,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,4,False,False,0.0,0.0
+03540,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03555,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03570,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03585,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03600,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03615,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03630,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,6,False,False,0.0,0.0
+03645,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,6,False,False,0.0,0.0
+03660,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,6,False,False,0.0,0.0
+03675,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,6,False,False,0.0,0.0
+03690,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,6,False,False,0.0,0.0
+03705,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,6,False,False,0.0,0.0
+03720,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,7,False,False,0.0,0.0
+03735,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,7,False,False,0.0,0.0
+03750,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,7,False,False,0.0,0.0
+03765,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,7,False,False,0.0,0.0
+03780,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,7,False,False,0.0,0.0
+03795,Skeletons,94.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,9,False,False,0.0,0.0
+03810,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,Skeletons,94.0,1.0,8,True,True,1.0,1.0
+03825,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,8,False,False,0.0,0.0
+03840,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,9,False,False,0.0,0.0
+03855,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,9,False,False,0.0,0.0
+03870,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,9,False,False,0.0,0.0
+03885,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,10,False,False,0.0,0.0
+03900,Knight,58.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,10,False,False,0.0,0.0
+03915,Balloon,4.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,Knight,58.0,1.0,10,True,True,3.0,3.0
+03930,Balloon,4.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,10,False,False,0.0,0.0
+03945,Balloon,4.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,7,False,False,0.0,0.0
+03960,Balloon,4.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,8,False,False,0.0,0.0
+03975,Balloon,4.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,8,False,False,0.0,0.0
+03990,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,Balloon,4.0,1.0,3,True,True,5.0,5.0
+04005,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,4,False,False,0.0,0.0
+04020,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,4,False,False,0.0,0.0
+04035,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,4,False,False,0.0,0.0
+04050,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Miner,66.0,,,,5,False,False,0.0,0.0
+04065,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,Miner,66.0,4.0,2,True,True,3.0,3.0
+04080,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+04095,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+04110,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+04125,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+04140,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+04155,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+04170,Giant Snowball,38.0,Bomb Tower,12.0,Arrows,2.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+04185,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Musketeer,73.0,Arrows,2.0,3.0,2,True,True,3.0,3.0
+04200,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+04215,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+04230,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+04245,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+04260,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+04275,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+04290,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+04305,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+04320,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+04335,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+04350,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+04365,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+04380,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Knight,58.0,Musketeer,73.0,4.0,3,True,True,3.0,4.0
+04395,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Knight,58.0,,,,3,False,False,0.0,0.0
+04410,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Knight,58.0,,,,3,False,False,0.0,0.0
+04425,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Knight,58.0,,,,4,False,False,0.0,0.0
+04440,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,Knight,58.0,4.0,1,True,True,3.0,3.0
+04455,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,1,False,False,0.0,0.0
+04470,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+04485,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+04500,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+04515,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+04530,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+04545,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+04560,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+04575,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+04590,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+04605,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+04620,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+04635,Miner,66.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,Giant Snowball,38.0,1.0,4,True,True,1.0,2.0
+04650,Miner,66.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+04665,Miner,66.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+04680,Miner,66.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+04695,Miner,66.0,Bomb Tower,12.0,Skeletons,94.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+04710,Miner,66.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,Skeletons,94.0,3.0,5,True,False,0.0,1.0
+04725,Miner,66.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+04740,Miner,66.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+04755,Musketeer,73.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,Miner,66.0,1.0,3,True,True,2.0,3.0
+04770,Musketeer,73.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+04785,Musketeer,73.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+04800,Musketeer,73.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+04815,Musketeer,73.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+04830,Musketeer,73.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+04845,Musketeer,73.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+04860,Musketeer,73.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+04875,Musketeer,73.0,Knight,58.0,Arrows,2.0,Balloon,4.0,Bomb Tower,12.0,2.0,4,True,True,1.0,4.0
+04890,Musketeer,73.0,Knight,58.0,Arrows,2.0,Balloon,4.0,,,,2,False,True,2.0,0.0
+04905,Musketeer,73.0,Knight,58.0,Arrows,2.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+04920,Musketeer,73.0,Knight,58.0,Arrows,2.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+04935,Musketeer,73.0,Knight,58.0,Arrows,2.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+04950,Musketeer,73.0,Knight,58.0,Arrows,2.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+04965,Musketeer,73.0,Knight,58.0,Arrows,2.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+04980,Musketeer,73.0,Knight,58.0,Arrows,2.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+04995,Musketeer,73.0,Knight,58.0,Arrows,2.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+05010,Musketeer,73.0,Giant Snowball,38.0,Arrows,2.0,Balloon,4.0,Knight,58.0,2.0,2,True,True,2.0,3.0
+05025,Musketeer,73.0,Giant Snowball,38.0,Arrows,2.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+05040,Musketeer,73.0,Giant Snowball,38.0,Arrows,2.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+05055,Musketeer,73.0,Giant Snowball,38.0,Arrows,2.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+05070,Musketeer,73.0,Giant Snowball,38.0,Arrows,2.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+05085,Musketeer,73.0,Giant Snowball,38.0,Arrows,2.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+05100,Musketeer,73.0,Giant Snowball,38.0,Arrows,2.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+05115,Musketeer,73.0,Giant Snowball,38.0,Arrows,2.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+05130,Musketeer,73.0,Giant Snowball,38.0,Arrows,2.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+05145,Skeletons,94.0,Giant Snowball,38.0,Arrows,2.0,Balloon,4.0,Musketeer,73.0,1.0,1,True,True,4.0,4.0
+05160,Skeletons,94.0,Giant Snowball,38.0,Arrows,2.0,Balloon,4.0,,,,1,False,False,0.0,0.0
+05175,Skeletons,94.0,Giant Snowball,38.0,Arrows,2.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+05190,Skeletons,94.0,Giant Snowball,38.0,Arrows,2.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+05205,Skeletons,94.0,Giant Snowball,38.0,Arrows,2.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+05220,Skeletons,94.0,Giant Snowball,38.0,Arrows,2.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+05235,Skeletons,94.0,Giant Snowball,38.0,Arrows,2.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+05250,Skeletons,94.0,Giant Snowball,38.0,Arrows,2.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+05265,Skeletons,94.0,Giant Snowball,38.0,Arrows,2.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+05280,Skeletons,94.0,Giant Snowball,38.0,Arrows,2.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+05295,Miner,66.0,Giant Snowball,38.0,Arrows,2.0,Balloon,4.0,Skeletons,94.0,1.0,3,True,True,1.0,1.0
+05310,Miner,66.0,Giant Snowball,38.0,Arrows,2.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+05325,Miner,66.0,Giant Snowball,38.0,Arrows,2.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+05340,Miner,66.0,Giant Snowball,38.0,Arrows,2.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+05355,Miner,66.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,Giant Snowball,38.0,2.0,3,True,True,2.0,2.0
+05370,Miner,66.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+05385,Miner,66.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+05400,Miner,66.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+05415,Miner,66.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+05430,Miner,66.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+05445,Miner,66.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+05460,Miner,66.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+05475,Miner,66.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+05490,Miner,66.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+05505,Miner,66.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+05520,Miner,66.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+05535,Miner,66.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+05550,Miner,66.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+05565,Miner,66.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+05580,Miner,66.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+05595,Miner,66.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+05610,Miner,66.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+05625,Miner,66.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+05640,Miner,66.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,10,False,False,0.0,0.0
+05655,Miner,66.0,Bomb Tower,12.0,Arrows,2.0,Balloon,4.0,,,,10,False,False,0.0,0.0
+05670,Miner,66.0,Knight,58.0,Arrows,2.0,Balloon,4.0,Bomb Tower,12.0,2.0,6,True,True,4.0,4.0
+05685,Miner,66.0,Knight,58.0,Arrows,2.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+05700,Miner,66.0,Knight,58.0,Arrows,2.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+05715,Miner,66.0,Knight,58.0,Arrows,2.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+05730,Miner,66.0,Knight,58.0,Arrows,2.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+05745,Miner,66.0,Knight,58.0,Arrows,2.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+05760,Miner,66.0,Knight,58.0,Arrows,2.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+05775,Miner,66.0,Knight,58.0,Arrows,2.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+05790,Miner,66.0,Knight,58.0,Arrows,2.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+05805,Miner,66.0,Knight,58.0,Arrows,2.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+05820,Miner,66.0,Knight,58.0,Arrows,2.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+05835,Miner,66.0,Knight,58.0,Arrows,2.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+05850,Miner,66.0,Knight,58.0,Musketeer,73.0,Balloon,4.0,Arrows,2.0,3.0,7,True,True,2.0,3.0
+05865,Miner,66.0,Knight,58.0,Musketeer,73.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+05880,Miner,66.0,Knight,58.0,Musketeer,73.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+05895,Miner,66.0,Knight,58.0,Musketeer,73.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+05910,Miner,66.0,Knight,58.0,Musketeer,73.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+05925,Miner,66.0,Knight,58.0,Musketeer,73.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+05940,Miner,66.0,Knight,58.0,Musketeer,73.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+05955,Miner,66.0,Knight,58.0,Musketeer,73.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+05970,Miner,66.0,Knight,58.0,Musketeer,73.0,Balloon,4.0,,,,10,False,False,0.0,0.0
+05985,Miner,66.0,Knight,58.0,Musketeer,73.0,Balloon,4.0,,,,10,False,False,0.0,0.0
+06000,Miner,66.0,Knight,58.0,Musketeer,73.0,Balloon,4.0,,,,10,False,False,0.0,0.0
+06015,Miner,66.0,Knight,58.0,Musketeer,73.0,Balloon,4.0,,,,10,False,False,0.0,0.0
+06030,Miner,66.0,Knight,58.0,Skeletons,94.0,Balloon,4.0,Musketeer,73.0,3.0,6,True,True,4.0,4.0
+06045,Miner,66.0,Knight,58.0,Skeletons,94.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+06060,Miner,66.0,Knight,58.0,Skeletons,94.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+06075,Miner,66.0,Knight,58.0,Skeletons,94.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+06090,Miner,66.0,Knight,58.0,Skeletons,94.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+06105,Miner,66.0,Knight,58.0,Skeletons,94.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+06120,Miner,66.0,Knight,58.0,Skeletons,94.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+06135,Miner,66.0,Knight,58.0,Skeletons,94.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+06150,Miner,66.0,Knight,58.0,Skeletons,94.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+06165,Miner,66.0,Knight,58.0,Skeletons,94.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+06180,Miner,66.0,Knight,58.0,Skeletons,94.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+06195,Miner,66.0,Giant Snowball,38.0,Skeletons,94.0,Balloon,4.0,Knight,58.0,2.0,7,True,True,2.0,3.0
+06210,Miner,66.0,Giant Snowball,38.0,Skeletons,94.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+06225,Miner,66.0,Giant Snowball,38.0,Skeletons,94.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+06240,Miner,66.0,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Balloon,4.0,4.0,3,True,True,4.0,5.0
+06255,Miner,66.0,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+06270,Miner,66.0,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+06285,Miner,66.0,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+06300,Arrows,2.0,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Miner,66.0,1.0,1,True,True,3.0,3.0
+06315,Arrows,2.0,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+06330,Arrows,2.0,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+06345,Arrows,2.0,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+06360,Arrows,2.0,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+06375,Arrows,2.0,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+06390,Arrows,2.0,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+06405,Arrows,2.0,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,,,,1,False,True,2.0,0.0
+06420,Arrows,2.0,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+06435,Arrows,2.0,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+06450,Arrows,2.0,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+06465,Arrows,2.0,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+06480,Arrows,2.0,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+06495,Arrows,2.0,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,,,,1,False,True,2.0,0.0
+06510,Arrows,2.0,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+06525,Arrows,2.0,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+06540,Arrows,2.0,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+06555,Arrows,2.0,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0

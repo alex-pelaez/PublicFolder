@@ -1,0 +1,610 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00225,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+00240,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+00255,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+00270,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+00285,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+00300,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+00315,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+00330,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+00345,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+00360,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+00375,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+00390,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+00405,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+00420,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+00435,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+00450,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+00465,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+00480,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+00495,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+00510,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+00525,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,10,False,False,0.0,0.0
+00540,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,10,False,False,0.0,0.0
+00555,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,Heal Spirit,50.0,4.0,9,True,True,1.0,1.0
+00570,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,9,False,False,0.0,0.0
+00585,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,9,False,False,0.0,0.0
+00600,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,9,False,False,0.0,0.0
+00615,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,9,False,False,0.0,0.0
+00630,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,9,False,False,0.0,0.0
+00645,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,10,False,False,0.0,0.0
+00660,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,10,False,False,0.0,0.0
+00675,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,10,False,False,0.0,0.0
+00690,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,10,False,False,0.0,0.0
+00705,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,10,False,False,0.0,0.0
+00720,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,The Log,98.0,4.0,8,True,True,2.0,2.0
+00735,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00750,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00765,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00780,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00795,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00810,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00825,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00840,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00855,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00870,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00885,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,10,False,False,0.0,0.0
+00900,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,10,False,False,0.0,0.0
+00915,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,Hunter,52.0,4.0,6,True,True,4.0,4.0
+00930,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+00945,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+00960,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+00975,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+00990,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+01005,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+01020,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+01035,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+01050,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+01065,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+01080,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+01095,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+01110,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+01125,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+01140,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+01155,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+01170,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+01185,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+01200,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+01215,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+01230,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+01245,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+01260,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Royal Hogs,88.0,Magic Archer,62.0,4.0,6,True,True,3.0,4.0
+01275,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+01290,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+01305,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+01320,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+01335,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+01350,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+01365,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+01380,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+01395,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+01410,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+01425,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Royal Hogs,88.0,,,,8,False,False,0.0,0.0
+01440,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Royal Hogs,88.0,,,,8,False,False,0.0,0.0
+01455,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,Royal Hogs,88.0,4.0,3,True,True,5.0,5.0
+01470,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+01485,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+01500,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+01515,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+01530,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+01545,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+01560,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+01575,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+01590,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+01605,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+01620,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+01635,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+01650,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+01665,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+01680,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,Heal Spirit,50.0,4.0,5,True,False,0.0,1.0
+01695,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+01710,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+01725,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+01740,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+01755,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+01770,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+01785,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+01800,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+01815,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+01830,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+01845,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+01860,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+01875,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+01890,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+01905,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+01920,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+01935,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+01950,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+01965,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+01980,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+01995,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+02010,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,9,False,False,0.0,0.0
+02025,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,9,False,False,0.0,0.0
+02040,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,9,False,False,0.0,0.0
+02055,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,9,False,False,0.0,0.0
+02070,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,9,False,False,0.0,0.0
+02085,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,The Log,98.0,4.0,7,True,True,2.0,2.0
+02100,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+02115,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+02130,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+02145,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+02160,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+02175,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+02190,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+02205,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+02220,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+02235,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,Hunter,52.0,4.0,5,True,True,4.0,4.0
+02250,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+02265,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+02280,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+02295,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+02310,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+02325,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+02340,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+02355,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+02370,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+02385,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+02400,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+02415,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+02430,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+02445,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+02460,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+02475,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+02490,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+02505,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+02520,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+02535,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+02550,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+02565,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+02580,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+02595,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,10,False,False,0.0,0.0
+02610,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Royal Hogs,88.0,Magic Archer,62.0,4.0,6,True,True,4.0,4.0
+02625,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+02640,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+02655,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+02670,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,Royal Hogs,88.0,4.0,1,True,True,5.0,5.0
+02685,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+02700,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+02715,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+02730,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+02745,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+02760,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+02775,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+02790,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+02805,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+02820,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+02835,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+02850,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+02865,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+02880,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+02895,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+02910,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+02925,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+02940,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+02955,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+02970,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+02985,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+03000,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+03015,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+03030,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+03045,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+03060,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+03075,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+03090,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+03105,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+03120,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+03135,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+03150,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+03165,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+03180,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+03195,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+03210,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,Heal Spirit,50.0,4.0,7,True,True,1.0,1.0
+03225,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+03240,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+03255,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+03270,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+03285,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+03300,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+03315,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+03330,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+03345,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,The Log,98.0,4.0,6,True,True,2.0,2.0
+03360,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+03375,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+03390,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+03405,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+03420,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+03435,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+03450,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+03465,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+03480,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+03495,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+03510,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+03525,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+03540,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+03555,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+03570,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+03585,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,Hunter,52.0,4.0,5,True,True,4.0,4.0
+03600,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+03615,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+03630,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+03645,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+03660,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+03675,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+03690,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+03705,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+03720,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+03735,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+03750,Mini P.E.K.K.A,67.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+03765,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Magic Archer,62.0,Ice Golem,53.0,2.0,5,True,True,2.0,2.0
+03780,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+03795,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+03810,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+03825,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+03840,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+03855,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Heal Spirit,50.0,Magic Archer,62.0,4.0,4,True,True,3.0,4.0
+03870,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+03885,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+03900,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+03915,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+03930,Mini P.E.K.K.A,67.0,The Log,98.0,Fireball,30.0,Heal Spirit,50.0,Royal Hogs,88.0,2.0,0,True,True,5.0,5.0
+03945,Mini P.E.K.K.A,67.0,The Log,98.0,Fireball,30.0,Heal Spirit,50.0,,,,1,False,False,0.0,0.0
+03960,Mini P.E.K.K.A,67.0,The Log,98.0,Fireball,30.0,Heal Spirit,50.0,,,,1,False,False,0.0,0.0
+03975,Mini P.E.K.K.A,67.0,The Log,98.0,Fireball,30.0,Heal Spirit,50.0,,,,1,False,False,0.0,0.0
+03990,Mini P.E.K.K.A,67.0,The Log,98.0,Fireball,30.0,Hunter,52.0,Heal Spirit,50.0,4.0,1,True,False,0.0,1.0
+04005,Mini P.E.K.K.A,67.0,The Log,98.0,Fireball,30.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+04020,Mini P.E.K.K.A,67.0,The Log,98.0,Fireball,30.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+04035,Mini P.E.K.K.A,67.0,The Log,98.0,Fireball,30.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+04050,Mini P.E.K.K.A,67.0,The Log,98.0,Fireball,30.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+04065,Mini P.E.K.K.A,67.0,The Log,98.0,Fireball,30.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+04080,Mini P.E.K.K.A,67.0,The Log,98.0,Fireball,30.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+04095,Mini P.E.K.K.A,67.0,The Log,98.0,Fireball,30.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+04110,Mini P.E.K.K.A,67.0,The Log,98.0,Fireball,30.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+04125,Mini P.E.K.K.A,67.0,The Log,98.0,Fireball,30.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+04140,Mini P.E.K.K.A,67.0,The Log,98.0,Fireball,30.0,Ice Golem,53.0,Hunter,52.0,4.0,0,True,True,4.0,4.0
+04155,Mini P.E.K.K.A,67.0,The Log,98.0,Fireball,30.0,Ice Golem,53.0,,,,1,False,False,0.0,0.0
+04170,Mini P.E.K.K.A,67.0,The Log,98.0,Fireball,30.0,Ice Golem,53.0,,,,1,False,False,0.0,0.0
+04185,Mini P.E.K.K.A,67.0,The Log,98.0,Fireball,30.0,Ice Golem,53.0,,,,1,False,False,0.0,0.0
+04200,Mini P.E.K.K.A,67.0,The Log,98.0,Fireball,30.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+04215,Mini P.E.K.K.A,67.0,The Log,98.0,Fireball,30.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+04230,Mini P.E.K.K.A,67.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,The Log,98.0,2.0,0,True,True,2.0,2.0
+04245,Mini P.E.K.K.A,67.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,1,False,False,0.0,0.0
+04260,Mini P.E.K.K.A,67.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,1,False,False,0.0,0.0
+04275,Mini P.E.K.K.A,67.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+04290,Mini P.E.K.K.A,67.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+04305,Mini P.E.K.K.A,67.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+04320,Mini P.E.K.K.A,67.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+04335,Mini P.E.K.K.A,67.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+04350,Mini P.E.K.K.A,67.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+04365,Mini P.E.K.K.A,67.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+04380,Mini P.E.K.K.A,67.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+04395,Mini P.E.K.K.A,67.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+04410,Mini P.E.K.K.A,67.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+04425,Mini P.E.K.K.A,67.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+04440,Mini P.E.K.K.A,67.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+04455,Mini P.E.K.K.A,67.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+04470,Mini P.E.K.K.A,67.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+04485,Mini P.E.K.K.A,67.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,7,False,False,0.0,0.0
+04500,Mini P.E.K.K.A,67.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,7,False,False,0.0,0.0
+04515,Mini P.E.K.K.A,67.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,7,False,False,0.0,0.0
+04530,Mini P.E.K.K.A,67.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,8,False,False,0.0,0.0
+04545,Mini P.E.K.K.A,67.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,8,False,False,0.0,0.0
+04560,Mini P.E.K.K.A,67.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,8,False,False,0.0,0.0
+04575,Mini P.E.K.K.A,67.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,9,False,False,0.0,0.0
+04590,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Ice Golem,53.0,Magic Archer,62.0,2.0,5,True,True,4.0,4.0
+04605,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+04620,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+04635,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+04650,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+04665,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Ice Golem,53.0,,,,7,False,False,0.0,0.0
+04680,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Ice Golem,53.0,,,,7,False,False,0.0,0.0
+04695,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Ice Golem,53.0,,,,8,False,False,0.0,0.0
+04710,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Ice Golem,53.0,,,,8,False,False,0.0,0.0
+04725,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Ice Golem,53.0,,,,8,False,False,0.0,0.0
+04740,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Ice Golem,53.0,,,,9,False,False,0.0,0.0
+04755,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Ice Golem,53.0,,,,9,False,False,0.0,0.0
+04770,Mini P.E.K.K.A,67.0,Heal Spirit,50.0,Fireball,30.0,Ice Golem,53.0,Royal Hogs,88.0,2.0,4,True,True,5.0,5.0
+04785,Hunter,52.0,Heal Spirit,50.0,Fireball,30.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,1.0,1,True,True,3.0,4.0
+04800,Hunter,52.0,Heal Spirit,50.0,Fireball,30.0,Ice Golem,53.0,,,,1,False,False,0.0,0.0
+04815,Hunter,52.0,Heal Spirit,50.0,Fireball,30.0,Ice Golem,53.0,,,,1,False,False,0.0,0.0
+04830,Hunter,52.0,Heal Spirit,50.0,Fireball,30.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+04845,Hunter,52.0,Heal Spirit,50.0,Fireball,30.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+04860,Hunter,52.0,Heal Spirit,50.0,Fireball,30.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+04875,Hunter,52.0,The Log,98.0,Fireball,30.0,Ice Golem,53.0,Heal Spirit,50.0,2.0,2,True,False,0.0,1.0
+04890,Hunter,52.0,The Log,98.0,Fireball,30.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+04905,Hunter,52.0,The Log,98.0,Fireball,30.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+04920,Hunter,52.0,The Log,98.0,Fireball,30.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+04935,Hunter,52.0,The Log,98.0,Fireball,30.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+04950,Hunter,52.0,The Log,98.0,Fireball,30.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+04965,Hunter,52.0,The Log,98.0,Fireball,30.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+04980,Hunter,52.0,The Log,98.0,Fireball,30.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+04995,Hunter,52.0,The Log,98.0,Fireball,30.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+05010,Hunter,52.0,The Log,98.0,Fireball,30.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+05025,Hunter,52.0,The Log,98.0,Fireball,30.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+05040,Hunter,52.0,The Log,98.0,Fireball,30.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+05055,Hunter,52.0,The Log,98.0,Fireball,30.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+05070,Hunter,52.0,The Log,98.0,Fireball,30.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+05085,Hunter,52.0,The Log,98.0,Fireball,30.0,Ice Golem,53.0,,,,7,False,False,0.0,0.0
+05100,Hunter,52.0,The Log,98.0,Fireball,30.0,Ice Golem,53.0,,,,7,False,False,0.0,0.0
+05115,Hunter,52.0,The Log,98.0,Fireball,30.0,Ice Golem,53.0,,,,8,False,False,0.0,0.0
+05130,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,The Log,98.0,2.0,6,True,True,2.0,2.0
+05145,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+05160,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,7,False,False,0.0,0.0
+05175,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,7,False,False,0.0,0.0
+05190,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,7,False,False,0.0,0.0
+05205,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,8,False,False,0.0,0.0
+05220,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Ice Golem,53.0,,,,8,False,False,0.0,0.0
+05235,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Royal Hogs,88.0,Ice Golem,53.0,4.0,6,True,True,2.0,2.0
+05250,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+05265,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+05280,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+05295,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,4.0,3,True,True,4.0,5.0
+05310,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05325,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05340,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05355,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05370,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+05385,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+05400,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+05415,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+05430,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+05445,Hunter,52.0,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Magic Archer,62.0,2.0,2,True,True,4.0,4.0
+05460,Hunter,52.0,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05475,Hunter,52.0,The Log,98.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Heal Spirit,50.0,2.0,2,True,True,1.0,1.0
+05490,Hunter,52.0,The Log,98.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+05505,Hunter,52.0,The Log,98.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05520,Hunter,52.0,The Log,98.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05535,Hunter,52.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,The Log,98.0,2.0,2,True,True,1.0,2.0
+05550,Hunter,52.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+05565,Hunter,52.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+05580,Hunter,52.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05595,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,2.0,1,True,True,2.0,2.0
+05610,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+05625,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+05640,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+05655,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+05670,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05685,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05700,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05715,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05730,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05745,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+05760,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+05775,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+05790,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,2.0,2,True,True,3.0,5.0
+05805,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,1,False,True,1.0,0.0
+05820,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+05835,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+05850,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+05865,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+05880,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05895,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05910,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05925,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05940,Hunter,52.0,Magic Archer,62.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05955,Hunter,52.0,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Magic Archer,62.0,2.0,1,True,True,3.0,4.0
+05970,Hunter,52.0,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+05985,Hunter,52.0,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+06000,Hunter,52.0,Heal Spirit,50.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+06015,Hunter,52.0,The Log,98.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Heal Spirit,50.0,2.0,2,True,True,1.0,1.0
+06030,Hunter,52.0,The Log,98.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+06045,Hunter,52.0,The Log,98.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+06060,Hunter,52.0,The Log,98.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+06075,Hunter,52.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,The Log,98.0,2.0,0,True,True,2.0,2.0
+06090,Hunter,52.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+06105,Hunter,52.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+06120,Hunter,52.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+06135,Hunter,52.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+06150,Hunter,52.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+06165,Hunter,52.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+06180,Hunter,52.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+06195,Hunter,52.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+06210,Hunter,52.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+06225,Hunter,52.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+06240,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Hunter,52.0,1.0,5,True,True,4.0,4.0
+06255,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+06270,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+06285,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+06300,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+06315,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+06330,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+06345,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+06360,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+06375,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+06390,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+06405,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+06420,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+06435,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+06450,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+06465,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+06480,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+06495,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+06510,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+06525,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+06540,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+06555,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+06570,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+06585,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+06600,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+06615,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+06630,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+06645,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+06660,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,Mini P.E.K.K.A,67.0,4.0,10,True,True,4.0,4.0
+06675,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+06690,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+06705,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+06720,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+06735,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+06750,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+06765,Royal Hogs,88.0,Ice Golem,53.0,Fireball,30.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+06780,Royal Hogs,88.0,Heal Spirit,50.0,Fireball,30.0,Magic Archer,62.0,Ice Golem,53.0,2.0,6,True,True,2.0,2.0
+06795,Royal Hogs,88.0,Heal Spirit,50.0,Fireball,30.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+06810,Royal Hogs,88.0,Heal Spirit,50.0,Fireball,30.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+06825,Royal Hogs,88.0,Heal Spirit,50.0,Fireball,30.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+06840,Royal Hogs,88.0,Heal Spirit,50.0,Fireball,30.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+06855,Royal Hogs,88.0,Heal Spirit,50.0,Fireball,30.0,The Log,98.0,Magic Archer,62.0,4.0,4,True,True,4.0,4.0
+06870,Royal Hogs,88.0,Heal Spirit,50.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+06885,Royal Hogs,88.0,Heal Spirit,50.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+06900,Royal Hogs,88.0,Heal Spirit,50.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+06915,Royal Hogs,88.0,Heal Spirit,50.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+06930,Royal Hogs,88.0,Heal Spirit,50.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+06945,Royal Hogs,88.0,Heal Spirit,50.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+06960,Hunter,52.0,Heal Spirit,50.0,Fireball,30.0,The Log,98.0,Royal Hogs,88.0,1.0,2,True,True,4.0,5.0
+06975,Hunter,52.0,Heal Spirit,50.0,Fireball,30.0,The Log,98.0,,,,2,False,False,0.0,0.0
+06990,Hunter,52.0,Heal Spirit,50.0,Fireball,30.0,The Log,98.0,,,,2,False,False,0.0,0.0
+07005,Hunter,52.0,Heal Spirit,50.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+07020,Hunter,52.0,Heal Spirit,50.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+07035,Hunter,52.0,Heal Spirit,50.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+07050,Hunter,52.0,Heal Spirit,50.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+07065,Hunter,52.0,Heal Spirit,50.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+07080,Mini P.E.K.K.A,67.0,Heal Spirit,50.0,Fireball,30.0,The Log,98.0,Hunter,52.0,1.0,1,True,True,3.0,4.0
+07095,Mini P.E.K.K.A,67.0,Heal Spirit,50.0,Fireball,30.0,The Log,98.0,,,,1,False,False,0.0,0.0
+07110,Mini P.E.K.K.A,67.0,Heal Spirit,50.0,Fireball,30.0,The Log,98.0,,,,1,False,False,0.0,0.0
+07125,Mini P.E.K.K.A,67.0,Heal Spirit,50.0,Fireball,30.0,The Log,98.0,,,,2,False,False,0.0,0.0
+07140,Mini P.E.K.K.A,67.0,Heal Spirit,50.0,Fireball,30.0,The Log,98.0,,,,2,False,False,0.0,0.0
+07155,Mini P.E.K.K.A,67.0,Heal Spirit,50.0,Fireball,30.0,Ice Golem,53.0,The Log,98.0,4.0,0,True,True,2.0,2.0
+07170,Mini P.E.K.K.A,67.0,Heal Spirit,50.0,Fireball,30.0,Ice Golem,53.0,,,,1,False,False,0.0,0.0
+07185,Mini P.E.K.K.A,67.0,Heal Spirit,50.0,Fireball,30.0,Ice Golem,53.0,,,,1,False,False,0.0,0.0
+07200,Mini P.E.K.K.A,67.0,Heal Spirit,50.0,Fireball,30.0,Ice Golem,53.0,,,,1,False,False,0.0,0.0
+07215,Mini P.E.K.K.A,67.0,Heal Spirit,50.0,Fireball,30.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+07230,Mini P.E.K.K.A,67.0,Heal Spirit,50.0,Fireball,30.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+07245,Mini P.E.K.K.A,67.0,Heal Spirit,50.0,Fireball,30.0,Magic Archer,62.0,Ice Golem,53.0,4.0,1,True,True,1.0,2.0
+07260,Mini P.E.K.K.A,67.0,Heal Spirit,50.0,Fireball,30.0,Magic Archer,62.0,,,,1,False,False,0.0,0.0
+07275,Mini P.E.K.K.A,67.0,Heal Spirit,50.0,Fireball,30.0,Magic Archer,62.0,,,,1,False,False,0.0,0.0
+07290,Mini P.E.K.K.A,67.0,Heal Spirit,50.0,Fireball,30.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+07305,Mini P.E.K.K.A,67.0,Heal Spirit,50.0,Fireball,30.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+07320,Mini P.E.K.K.A,67.0,Heal Spirit,50.0,Fireball,30.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+07335,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Magic Archer,62.0,Heal Spirit,50.0,2.0,2,True,False,0.0,1.0
+07350,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+07365,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+07380,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07395,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07410,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07425,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,Fireball,30.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07440,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,Magic Archer,62.0,Mini P.E.K.K.A,67.0,1.0,1,True,True,3.0,4.0
+07455,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+07470,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+07485,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07500,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07515,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07530,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07545,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07560,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07575,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+07590,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+07605,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+07620,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,The Log,98.0,Magic Archer,62.0,4.0,3,True,True,4.0,4.0
+07635,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+07650,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+07665,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+07680,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+07695,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+07710,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+07725,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+07740,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+07755,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+07770,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,The Log,98.0,,,,9,False,False,0.0,0.0
+07785,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,The Log,98.0,,,,9,False,False,0.0,0.0
+07800,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,The Log,98.0,,,,10,False,False,0.0,0.0
+07815,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,The Log,98.0,,,,10,False,False,0.0,0.0
+07830,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,The Log,98.0,,,,10,False,False,0.0,0.0
+07845,Hunter,52.0,Royal Hogs,88.0,Fireball,30.0,The Log,98.0,,,,10,False,False,0.0,0.0
+07860,Ice Golem,53.0,Royal Hogs,88.0,Fireball,30.0,The Log,98.0,Hunter,52.0,1.0,6,True,True,4.0,4.0
+07875,Ice Golem,53.0,Royal Hogs,88.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+07890,Ice Golem,53.0,Royal Hogs,88.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+07905,Ice Golem,53.0,Royal Hogs,88.0,Fireball,30.0,Heal Spirit,50.0,The Log,98.0,4.0,6,True,True,1.0,2.0
+07920,Ice Golem,53.0,Royal Hogs,88.0,Fireball,30.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+07935,Ice Golem,53.0,Royal Hogs,88.0,Fireball,30.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+07950,Ice Golem,53.0,Royal Hogs,88.0,Fireball,30.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+07965,Ice Golem,53.0,Royal Hogs,88.0,Fireball,30.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+07980,Ice Golem,53.0,Royal Hogs,88.0,Fireball,30.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+07995,Ice Golem,53.0,Royal Hogs,88.0,Fireball,30.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+08010,Ice Golem,53.0,Royal Hogs,88.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Heal Spirit,50.0,4.0,8,True,True,1.0,1.0
+08025,Ice Golem,53.0,Royal Hogs,88.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+08040,Ice Golem,53.0,Royal Hogs,88.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+08055,Ice Golem,53.0,Royal Hogs,88.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+08070,Ice Golem,53.0,Royal Hogs,88.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+08085,Magic Archer,62.0,Royal Hogs,88.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,1.0,8,True,True,2.0,2.0
+08100,Magic Archer,62.0,Royal Hogs,88.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+08115,Magic Archer,62.0,Royal Hogs,88.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+08130,Magic Archer,62.0,Hunter,52.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,2.0,5,True,True,4.0,5.0
+08145,The Log,98.0,Hunter,52.0,Fireball,30.0,Mini P.E.K.K.A,67.0,Magic Archer,62.0,1.0,1,True,True,4.0,4.0
+08160,The Log,98.0,Hunter,52.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+08175,The Log,98.0,Hunter,52.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+08190,The Log,98.0,Hunter,52.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+08205,The Log,98.0,Hunter,52.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+08220,Heal Spirit,50.0,Hunter,52.0,Fireball,30.0,Mini P.E.K.K.A,67.0,The Log,98.0,1.0,2,True,True,1.0,2.0
+08235,Heal Spirit,50.0,Hunter,52.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+08250,Heal Spirit,50.0,Hunter,52.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+08265,Heal Spirit,50.0,Hunter,52.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+08280,Heal Spirit,50.0,Hunter,52.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+08295,Heal Spirit,50.0,Hunter,52.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+08310,Heal Spirit,50.0,Hunter,52.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+08325,Heal Spirit,50.0,Hunter,52.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+08340,Heal Spirit,50.0,Hunter,52.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+08355,Heal Spirit,50.0,Hunter,52.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+08370,Heal Spirit,50.0,Hunter,52.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+08385,Heal Spirit,50.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,Fireball,30.0,3.0,4,True,True,3.0,4.0
+08400,Heal Spirit,50.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+08415,Heal Spirit,50.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+08430,Heal Spirit,50.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+08445,Heal Spirit,50.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+08460,Heal Spirit,50.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+08475,Heal Spirit,50.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+08490,Heal Spirit,50.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+08505,Heal Spirit,50.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+08520,Heal Spirit,50.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+08535,Heal Spirit,50.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+08550,Royal Hogs,88.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,Heal Spirit,50.0,1.0,9,True,False,0.0,1.0
+08565,Royal Hogs,88.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+08580,Royal Hogs,88.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+08595,Royal Hogs,88.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+08610,Magic Archer,62.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,Royal Hogs,88.0,1.0,5,True,True,5.0,5.0
+08625,Magic Archer,62.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+08640,Magic Archer,62.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+08655,The Log,98.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,Magic Archer,62.0,1.0,3,True,True,3.0,4.0
+08670,The Log,98.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+08685,The Log,98.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+08700,Fireball,30.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,98.0,1.0,2,True,True,2.0,2.0
+08715,Fireball,30.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+08730,Fireball,30.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+08745,Fireball,30.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+08760,Fireball,30.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+08775,Fireball,30.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+08790,Fireball,30.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+08805,Heal Spirit,50.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,Fireball,30.0,1.0,2,True,True,3.0,4.0
+08820,Heal Spirit,50.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+08835,Heal Spirit,50.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+08850,Heal Spirit,50.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+08865,Heal Spirit,50.0,Hunter,52.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,3,False,True,1.0,0.0
+08880,Heal Spirit,50.0,Hunter,52.0,Magic Archer,62.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,3.0,2,True,True,1.0,2.0
+08895,Heal Spirit,50.0,Hunter,52.0,Magic Archer,62.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+08910,Heal Spirit,50.0,Hunter,52.0,Magic Archer,62.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+08925,Heal Spirit,50.0,Hunter,52.0,Magic Archer,62.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+08940,Heal Spirit,50.0,Hunter,52.0,Magic Archer,62.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+08955,Heal Spirit,50.0,Hunter,52.0,Magic Archer,62.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+08970,Heal Spirit,50.0,Hunter,52.0,The Log,98.0,Mini P.E.K.K.A,67.0,Magic Archer,62.0,3.0,1,True,True,3.0,4.0
+08985,Heal Spirit,50.0,Hunter,52.0,The Log,98.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+09000,Heal Spirit,50.0,Hunter,52.0,The Log,98.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+09015,Heal Spirit,50.0,Hunter,52.0,The Log,98.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+09030,Heal Spirit,50.0,Hunter,52.0,Fireball,30.0,Mini P.E.K.K.A,67.0,The Log,98.0,3.0,2,True,True,1.0,2.0
+09045,Heal Spirit,50.0,Hunter,52.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+09060,Heal Spirit,50.0,Hunter,52.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+09075,Heal Spirit,50.0,Hunter,52.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+09090,Heal Spirit,50.0,Hunter,52.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+09105,Heal Spirit,50.0,Hunter,52.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+09120,Heal Spirit,50.0,Hunter,52.0,Fireball,30.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+09135,Heal Spirit,50.0,Hunter,52.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,Fireball,30.0,3.0,1,True,True,3.0,4.0
+09150,Heal Spirit,50.0,Hunter,52.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+09165,Heal Spirit,50.0,Hunter,52.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+09180,Heal Spirit,50.0,Hunter,52.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+09195,Heal Spirit,50.0,Hunter,52.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+09210,Heal Spirit,50.0,Hunter,52.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+09225,Heal Spirit,50.0,Hunter,52.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+09240,Heal Spirit,50.0,Hunter,52.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+09255,Heal Spirit,50.0,Hunter,52.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+09270,Heal Spirit,50.0,Hunter,52.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+09285,Heal Spirit,50.0,Hunter,52.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+09300,Heal Spirit,50.0,Hunter,52.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+09315,Heal Spirit,50.0,Hunter,52.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+09330,Heal Spirit,50.0,Hunter,52.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+09345,Heal Spirit,50.0,Hunter,52.0,Heal Spirit,50.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0

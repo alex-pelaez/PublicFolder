@@ -1,0 +1,399 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,6,False,False,0.0,0.0
+00255,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,6,False,False,0.0,0.0
+00270,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,6,False,False,0.0,0.0
+00285,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,7,False,False,0.0,0.0
+00300,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,7,False,False,0.0,0.0
+00315,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,7,False,False,0.0,0.0
+00330,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,7,False,False,0.0,0.0
+00345,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,7,False,False,0.0,0.0
+00360,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00375,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00390,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00405,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00420,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00435,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00450,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,9,False,False,0.0,0.0
+00465,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,9,False,False,0.0,0.0
+00480,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,9,False,False,0.0,0.0
+00495,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,9,False,False,0.0,0.0
+00510,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,9,False,False,0.0,0.0
+00525,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,10,False,False,0.0,0.0
+00540,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,10,False,False,0.0,0.0
+00555,Knight,58.0,The Log,98.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,4.0,7,True,True,3.0,3.0
+00570,Knight,58.0,The Log,98.0,Tesla,97.0,Electro Spirit,23.0,,,,7,False,False,0.0,0.0
+00585,Knight,58.0,The Log,98.0,Tesla,97.0,Electro Spirit,23.0,,,,7,False,False,0.0,0.0
+00600,Knight,58.0,The Log,98.0,Tesla,97.0,Electro Spirit,23.0,,,,7,False,False,0.0,0.0
+00615,Knight,58.0,The Log,98.0,Tesla,97.0,Electro Spirit,23.0,,,,7,False,False,0.0,0.0
+00630,Knight,58.0,The Log,98.0,Tesla,97.0,Electro Spirit,23.0,,,,8,False,False,0.0,0.0
+00645,Knight,58.0,The Log,98.0,Tesla,97.0,Skeletons,94.0,Electro Spirit,23.0,4.0,7,True,True,1.0,1.0
+00660,Knight,58.0,The Log,98.0,Tesla,97.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+00675,Knight,58.0,The Log,98.0,Tesla,97.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+00690,Knight,58.0,The Log,98.0,Tesla,97.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+00705,Knight,58.0,The Log,98.0,Tesla,97.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+00720,Knight,58.0,The Log,98.0,Tesla,97.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+00735,Knight,58.0,The Log,98.0,Tesla,97.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+00750,Knight,58.0,The Log,98.0,Tesla,97.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+00765,Knight,58.0,The Log,98.0,Tesla,97.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+00780,Knight,58.0,The Log,98.0,Tesla,97.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+00795,Knight,58.0,The Log,98.0,Tesla,97.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+00810,Knight,58.0,The Log,98.0,Tesla,97.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+00825,Knight,58.0,The Log,98.0,Tesla,97.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+00840,Knight,58.0,The Log,98.0,Tesla,97.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+00855,Knight,58.0,The Log,98.0,Tesla,97.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+00870,Knight,58.0,The Log,98.0,Tesla,97.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+00885,Knight,58.0,The Log,98.0,Tesla,97.0,Skeletons,94.0,,,,10,False,False,0.0,0.0
+00900,Knight,58.0,The Log,98.0,Tesla,97.0,Skeletons,94.0,,,,10,False,False,0.0,0.0
+00915,Knight,58.0,The Log,98.0,Tesla,97.0,Skeletons,94.0,,,,10,False,False,0.0,0.0
+00930,Knight,58.0,The Log,98.0,Tesla,97.0,Skeletons,94.0,,,,10,False,False,0.0,0.0
+00945,Knight,58.0,The Log,98.0,Tesla,97.0,Skeletons,94.0,,,,10,False,False,0.0,0.0
+00960,Knight,58.0,The Log,98.0,Tesla,97.0,Skeletons,94.0,,,,10,False,False,0.0,0.0
+00975,X,106.0,The Log,98.0,Tesla,97.0,Skeletons,94.0,Knight,58.0,1.0,7,True,True,3.0,3.0
+00990,X,106.0,The Log,98.0,Tesla,97.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+01005,X,106.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,Tesla,97.0,3.0,3,True,True,4.0,4.0
+01020,X,106.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+01035,X,106.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+01050,X,106.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+01065,X,106.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+01080,X,106.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+01095,X,106.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+01110,X,106.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+01125,X,106.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+01140,X,106.0,The Log,98.0,Fireball,30.0,Archers,1.0,Skeletons,94.0,4.0,4,True,False,0.0,1.0
+01155,X,106.0,The Log,98.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+01170,X,106.0,The Log,98.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+01185,X,106.0,The Log,98.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+01200,X,106.0,The Log,98.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+01215,X,106.0,The Log,98.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+01230,X,106.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,The Log,98.0,2.0,3,True,True,1.0,2.0
+01245,X,106.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+01260,X,106.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+01275,X,106.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+01290,X,106.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+01305,X,106.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+01320,X,106.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+01335,X,106.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+01350,X,106.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+01365,X,106.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+01380,X,106.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+01395,X,106.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,5,False,False,0.0,0.0
+01410,X,106.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,5,False,False,0.0,0.0
+01425,X,106.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,5,False,False,0.0,0.0
+01440,X,106.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,5,False,False,0.0,0.0
+01455,X,106.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,5,False,False,0.0,0.0
+01470,X,106.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,5,False,False,0.0,0.0
+01485,X,106.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,6,False,False,0.0,0.0
+01500,X,106.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,6,False,False,0.0,0.0
+01515,X,106.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,6,False,False,0.0,0.0
+01530,Knight,58.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,X,106.0,1.0,0,True,True,6.0,6.0
+01545,Knight,58.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,0,False,False,0.0,0.0
+01560,Knight,58.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,1,False,False,0.0,0.0
+01575,Knight,58.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,1,False,False,0.0,0.0
+01590,Knight,58.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,1,False,False,0.0,0.0
+01605,Knight,58.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,1,False,False,0.0,0.0
+01620,Knight,58.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,1,False,False,0.0,0.0
+01635,Knight,58.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,1,False,False,0.0,0.0
+01650,Knight,58.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+01665,Knight,58.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+01680,Knight,58.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+01695,Knight,58.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+01710,Knight,58.0,Electro Spirit,23.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+01725,Knight,58.0,Tesla,97.0,Fireball,30.0,Archers,1.0,Electro Spirit,23.0,2.0,2,True,False,0.0,1.0
+01740,Knight,58.0,Tesla,97.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+01755,Knight,58.0,Tesla,97.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+01770,Knight,58.0,Tesla,97.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+01785,Knight,58.0,Tesla,97.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+01800,Knight,58.0,Tesla,97.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+01815,Knight,58.0,Tesla,97.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+01830,Knight,58.0,Tesla,97.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+01845,Knight,58.0,Tesla,97.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+01860,Knight,58.0,Tesla,97.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+01875,Knight,58.0,Tesla,97.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+01890,Knight,58.0,Tesla,97.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+01905,Knight,58.0,Tesla,97.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+01920,Knight,58.0,Tesla,97.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+01935,Knight,58.0,Tesla,97.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+01950,Knight,58.0,Tesla,97.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+01965,Knight,58.0,Tesla,97.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+01980,Knight,58.0,Tesla,97.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,4.0,2,True,True,2.0,3.0
+01995,Knight,58.0,Tesla,97.0,Fireball,30.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+02010,Knight,58.0,Tesla,97.0,Fireball,30.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+02025,Knight,58.0,Tesla,97.0,Fireball,30.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+02040,Knight,58.0,Tesla,97.0,Fireball,30.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+02055,Knight,58.0,Tesla,97.0,Fireball,30.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+02070,Knight,58.0,Tesla,97.0,Fireball,30.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+02085,Knight,58.0,Tesla,97.0,Fireball,30.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+02100,Knight,58.0,Tesla,97.0,Fireball,30.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+02115,Knight,58.0,Tesla,97.0,Fireball,30.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+02130,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,Skeletons,94.0,4.0,2,True,True,1.0,1.0
+02145,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+02160,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+02175,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+02190,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+02205,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+02220,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+02235,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+02250,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+02265,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+02280,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+02295,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+02310,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+02325,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+02340,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+02355,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+02370,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+02385,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+02400,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+02415,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+02430,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+02445,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+02460,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+02475,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+02490,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,True,3.0,0.0
+02505,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+02520,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+02535,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+02550,X,106.0,Tesla,97.0,Fireball,30.0,The Log,98.0,Knight,58.0,1.0,4,True,False,0.0,3.0
+02565,X,106.0,Tesla,97.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+02580,X,106.0,Tesla,97.0,Electro Spirit,23.0,The Log,98.0,Fireball,30.0,3.0,1,True,True,4.0,4.0
+02595,X,106.0,Tesla,97.0,Electro Spirit,23.0,The Log,98.0,,,,1,False,False,0.0,0.0
+02610,X,106.0,Tesla,97.0,Electro Spirit,23.0,The Log,98.0,,,,1,False,False,0.0,0.0
+02625,X,106.0,Tesla,97.0,Electro Spirit,23.0,The Log,98.0,,,,1,False,False,0.0,0.0
+02640,X,106.0,Tesla,97.0,Electro Spirit,23.0,The Log,98.0,,,,1,False,False,0.0,0.0
+02655,X,106.0,Tesla,97.0,Electro Spirit,23.0,The Log,98.0,,,,2,False,False,0.0,0.0
+02670,X,106.0,Tesla,97.0,Electro Spirit,23.0,The Log,98.0,,,,2,False,False,0.0,0.0
+02685,X,106.0,Tesla,97.0,Electro Spirit,23.0,The Log,98.0,,,,2,False,False,0.0,0.0
+02700,X,106.0,Tesla,97.0,Electro Spirit,23.0,The Log,98.0,,,,2,False,False,0.0,0.0
+02715,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,The Log,98.0,4.0,0,True,True,2.0,2.0
+02730,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,1,False,False,0.0,0.0
+02745,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,1,False,False,0.0,0.0
+02760,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,1,False,False,0.0,0.0
+02775,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,1,False,False,0.0,0.0
+02790,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,1,False,False,0.0,0.0
+02805,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,1,False,False,0.0,0.0
+02820,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,2,False,False,0.0,0.0
+02835,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,2,False,False,0.0,0.0
+02850,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,2,False,False,0.0,0.0
+02865,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,2,False,False,0.0,0.0
+02880,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,2,False,False,0.0,0.0
+02895,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,2,False,False,0.0,0.0
+02910,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,3,False,False,0.0,0.0
+02925,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,3,False,False,0.0,0.0
+02940,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,3,False,False,0.0,0.0
+02955,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,3,False,False,0.0,0.0
+02970,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,3,False,False,0.0,0.0
+02985,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,4,False,False,0.0,0.0
+03000,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,4,False,False,0.0,0.0
+03015,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,4,False,False,0.0,0.0
+03030,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,4,False,False,0.0,0.0
+03045,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,4,False,False,0.0,0.0
+03060,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,4,False,False,0.0,0.0
+03075,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,5,False,False,0.0,0.0
+03090,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,5,False,False,0.0,0.0
+03105,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,5,False,False,0.0,0.0
+03120,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,5,False,False,0.0,0.0
+03135,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,5,False,False,0.0,0.0
+03150,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,5,False,False,0.0,0.0
+03165,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,6,False,False,0.0,0.0
+03180,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,6,False,False,0.0,0.0
+03195,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,6,False,False,0.0,0.0
+03210,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,6,False,False,0.0,0.0
+03225,X,106.0,Tesla,97.0,Electro Spirit,23.0,Archers,1.0,,,,6,False,False,0.0,0.0
+03240,X,106.0,Tesla,97.0,Electro Spirit,23.0,Skeletons,94.0,Archers,1.0,4.0,4,True,True,2.0,3.0
+03255,X,106.0,Tesla,97.0,Electro Spirit,23.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+03270,X,106.0,Tesla,97.0,Electro Spirit,23.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+03285,X,106.0,Tesla,97.0,Knight,58.0,Skeletons,94.0,Electro Spirit,23.0,3.0,3,True,True,1.0,1.0
+03300,X,106.0,Tesla,97.0,Knight,58.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+03315,X,106.0,Tesla,97.0,Knight,58.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+03330,X,106.0,Tesla,97.0,Knight,58.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+03345,X,106.0,Tesla,97.0,Knight,58.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+03360,X,106.0,Tesla,97.0,Knight,58.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+03375,X,106.0,Tesla,97.0,Knight,58.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+03390,X,106.0,Tesla,97.0,Knight,58.0,Fireball,30.0,Skeletons,94.0,4.0,3,True,True,1.0,1.0
+03405,X,106.0,Tesla,97.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03420,X,106.0,Tesla,97.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03435,X,106.0,Tesla,97.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03450,X,106.0,Tesla,97.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03465,X,106.0,Tesla,97.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03480,X,106.0,Tesla,97.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03495,X,106.0,Tesla,97.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03510,X,106.0,Tesla,97.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03525,X,106.0,Tesla,97.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03540,X,106.0,Tesla,97.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03555,X,106.0,Tesla,97.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03570,X,106.0,Tesla,97.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03585,X,106.0,Tesla,97.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03600,X,106.0,Tesla,97.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03615,X,106.0,Tesla,97.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03630,X,106.0,Tesla,97.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03645,X,106.0,Tesla,97.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03660,X,106.0,Tesla,97.0,Knight,58.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03675,X,106.0,Tesla,97.0,Knight,58.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03690,X,106.0,Tesla,97.0,Knight,58.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03705,X,106.0,Tesla,97.0,Knight,58.0,Fireball,30.0,,,,7,False,True,1.0,0.0
+03720,X,106.0,The Log,98.0,Knight,58.0,Fireball,30.0,Tesla,97.0,2.0,3,True,True,4.0,4.0
+03735,X,106.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03750,X,106.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03765,X,106.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03780,X,106.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03795,X,106.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03810,X,106.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03825,X,106.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03840,X,106.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03855,X,106.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03870,X,106.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03885,X,106.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03900,X,106.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03915,Archers,1.0,The Log,98.0,Knight,58.0,Fireball,30.0,X,106.0,1.0,2,True,True,5.0,6.0
+03930,Archers,1.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+03945,Archers,1.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+03960,Archers,1.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03975,Archers,1.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03990,Archers,1.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04005,Archers,1.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04020,Archers,1.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04035,Archers,1.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04050,Archers,1.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04065,Archers,1.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,The Log,98.0,2.0,3,True,True,2.0,2.0
+04080,Archers,1.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04095,Archers,1.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04110,Archers,1.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04125,Archers,1.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04140,Archers,1.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04155,Archers,1.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04170,Archers,1.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04185,Archers,1.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04200,Archers,1.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04215,Archers,1.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04230,Archers,1.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04245,Skeletons,94.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,Archers,1.0,1.0,5,True,True,2.0,3.0
+04260,Skeletons,94.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04275,Skeletons,94.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04290,Skeletons,94.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04305,Skeletons,94.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04320,Skeletons,94.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04335,Skeletons,94.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04350,Skeletons,94.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04365,Skeletons,94.0,Tesla,97.0,Knight,58.0,Fireball,30.0,Electro Spirit,23.0,2.0,6,True,True,1.0,1.0
+04380,Skeletons,94.0,Tesla,97.0,X,106.0,Fireball,30.0,Knight,58.0,3.0,4,True,True,2.0,3.0
+04395,Skeletons,94.0,Tesla,97.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04410,Skeletons,94.0,Tesla,97.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04425,Skeletons,94.0,Tesla,97.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04440,Skeletons,94.0,Tesla,97.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04455,Skeletons,94.0,The Log,98.0,X,106.0,Fireball,30.0,Tesla,97.0,2.0,2,True,True,3.0,4.0
+04470,Skeletons,94.0,The Log,98.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04485,Skeletons,94.0,The Log,98.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04500,Skeletons,94.0,The Log,98.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04515,Archers,1.0,The Log,98.0,X,106.0,Fireball,30.0,Skeletons,94.0,1.0,2,True,True,1.0,1.0
+04530,Archers,1.0,The Log,98.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04545,Archers,1.0,Electro Spirit,23.0,X,106.0,Fireball,30.0,The Log,98.0,2.0,1,True,True,1.0,2.0
+04560,Archers,1.0,Electro Spirit,23.0,X,106.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+04575,Archers,1.0,Electro Spirit,23.0,X,106.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+04590,Archers,1.0,Electro Spirit,23.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04605,Archers,1.0,Electro Spirit,23.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04620,Archers,1.0,Electro Spirit,23.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04635,Archers,1.0,Electro Spirit,23.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04650,Archers,1.0,Electro Spirit,23.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04665,Archers,1.0,Electro Spirit,23.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04680,Archers,1.0,Electro Spirit,23.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04695,Archers,1.0,Electro Spirit,23.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04710,Archers,1.0,Electro Spirit,23.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04725,Archers,1.0,Electro Spirit,23.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04740,Archers,1.0,Electro Spirit,23.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04755,Archers,1.0,Electro Spirit,23.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04770,Archers,1.0,Electro Spirit,23.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04785,Archers,1.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,X,106.0,3.0,0,True,True,6.0,6.0
+04800,Archers,1.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+04815,Archers,1.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+04830,Archers,1.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+04845,Archers,1.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04860,Archers,1.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04875,Archers,1.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04890,Archers,1.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04905,Archers,1.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04920,Archers,1.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04935,Archers,1.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04950,Archers,1.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04965,Archers,1.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04980,Archers,1.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04995,Archers,1.0,Electro Spirit,23.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05010,Archers,1.0,Electro Spirit,23.0,Tesla,97.0,Fireball,30.0,Knight,58.0,3.0,3,True,True,2.0,3.0
+05025,Archers,1.0,Electro Spirit,23.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05040,Archers,1.0,Electro Spirit,23.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05055,Skeletons,94.0,Electro Spirit,23.0,Tesla,97.0,Fireball,30.0,Archers,1.0,1.0,1,True,True,2.0,3.0
+05070,Skeletons,94.0,Electro Spirit,23.0,Tesla,97.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+05085,Skeletons,94.0,Electro Spirit,23.0,Tesla,97.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+05100,Skeletons,94.0,The Log,98.0,Tesla,97.0,Fireball,30.0,Electro Spirit,23.0,2.0,1,True,False,0.0,1.0
+05115,Skeletons,94.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+05130,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,Skeletons,94.0,1.0,1,True,False,0.0,1.0
+05145,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+05160,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+05175,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05190,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05205,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05220,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05235,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05250,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05265,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05280,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05295,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05310,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05325,X,106.0,The Log,98.0,Knight,58.0,Fireball,30.0,Tesla,97.0,3.0,1,True,True,4.0,4.0
+05340,X,106.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05355,X,106.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05370,X,106.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05385,X,106.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05400,X,106.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05415,X,106.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05430,X,106.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05445,X,106.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05460,X,106.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05475,X,106.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05490,X,106.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05505,X,106.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05520,X,106.0,Archers,1.0,Knight,58.0,Fireball,30.0,The Log,98.0,2.0,4,True,True,2.0,2.0
+05535,X,106.0,Archers,1.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05550,X,106.0,Archers,1.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05565,X,106.0,Archers,1.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05580,X,106.0,Archers,1.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05595,X,106.0,Archers,1.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05610,X,106.0,Archers,1.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05625,Electro Spirit,23.0,Archers,1.0,Knight,58.0,Fireball,30.0,X,106.0,1.0,0,True,True,6.0,6.0
+05640,Electro Spirit,23.0,Archers,1.0,Knight,58.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+05655,Electro Spirit,23.0,Archers,1.0,Knight,58.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+05670,Electro Spirit,23.0,Archers,1.0,Knight,58.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+05685,Electro Spirit,23.0,Archers,1.0,Knight,58.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05700,Electro Spirit,23.0,Archers,1.0,Knight,58.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05715,Electro Spirit,23.0,Archers,1.0,Knight,58.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05730,Electro Spirit,23.0,Archers,1.0,Knight,58.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05745,Electro Spirit,23.0,Archers,1.0,Knight,58.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05760,Electro Spirit,23.0,Archers,1.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05775,Electro Spirit,23.0,Skeletons,94.0,Knight,58.0,Fireball,30.0,Archers,1.0,2.0,1,True,True,3.0,3.0
+05790,Electro Spirit,23.0,Skeletons,94.0,Knight,58.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+05805,Electro Spirit,23.0,Skeletons,94.0,Knight,58.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05820,Electro Spirit,23.0,Skeletons,94.0,Knight,58.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05835,Electro Spirit,23.0,Skeletons,94.0,Knight,58.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05850,Electro Spirit,23.0,Skeletons,94.0,Knight,58.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05865,Electro Spirit,23.0,Skeletons,94.0,Knight,58.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05880,Electro Spirit,23.0,Skeletons,94.0,Knight,58.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05895,Electro Spirit,23.0,Skeletons,94.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05910,Electro Spirit,23.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,Knight,58.0,3.0,1,True,True,3.0,3.0
+05925,Electro Spirit,23.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05940,Electro Spirit,23.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05955,Electro Spirit,23.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05970,Electro Spirit,23.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05985,Electro Spirit,23.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+06000,Electro Spirit,23.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+06015,Electro Spirit,23.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+06030,Electro Spirit,23.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+06045,Electro Spirit,23.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+06060,Electro Spirit,23.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+06075,Electro Spirit,23.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+06090,Electro Spirit,23.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+06105,Electro Spirit,23.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06120,Electro Spirit,23.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06135,Electro Spirit,23.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06150,Electro Spirit,23.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+06165,Electro Spirit,23.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+06180,Electro Spirit,23.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,Fireball,30.0,4.0,4,True,True,3.0,4.0
+06195,Electro Spirit,23.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0

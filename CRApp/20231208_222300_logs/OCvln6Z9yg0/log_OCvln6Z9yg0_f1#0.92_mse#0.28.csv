@@ -1,0 +1,579 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00225,Tesla,97.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,6,False,False,0.0,0.0
+00240,Tesla,97.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,6,False,False,0.0,0.0
+00255,Tesla,97.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,6,False,False,0.0,0.0
+00270,Tesla,97.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,7,False,False,0.0,0.0
+00285,Tesla,97.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,7,False,False,0.0,0.0
+00300,Tesla,97.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,7,False,False,0.0,0.0
+00315,Tesla,97.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,7,False,False,0.0,0.0
+00330,Tesla,97.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,7,False,False,0.0,0.0
+00345,Tesla,97.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,7,False,False,0.0,0.0
+00360,Tesla,97.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00375,Tesla,97.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00390,Tesla,97.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00405,Tesla,97.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00420,Tesla,97.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00435,Tesla,97.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00450,Tesla,97.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,9,False,False,0.0,0.0
+00465,Tesla,97.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,9,False,False,0.0,0.0
+00480,Tesla,97.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,9,False,False,0.0,0.0
+00495,Tesla,97.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,9,False,False,0.0,0.0
+00510,Tesla,97.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,9,False,False,0.0,0.0
+00525,Tesla,97.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,10,False,False,0.0,0.0
+00540,Tesla,97.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,10,False,False,0.0,0.0
+00555,Tesla,97.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,10,False,False,0.0,0.0
+00570,Tesla,97.0,Fireball,30.0,The Log,98.0,Archers,1.0,Skeletons,94.0,3.0,9,True,True,1.0,1.0
+00585,Tesla,97.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,9,False,False,0.0,0.0
+00600,Tesla,97.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,9,False,False,0.0,0.0
+00615,Tesla,97.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,9,False,False,0.0,0.0
+00630,Tesla,97.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,The Log,98.0,3.0,7,True,True,2.0,2.0
+00645,Tesla,97.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,,,,7,False,False,0.0,0.0
+00660,Tesla,97.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00675,Tesla,97.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00690,Tesla,97.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00705,Tesla,97.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00720,Tesla,97.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00735,Tesla,97.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,,,,9,False,False,0.0,0.0
+00750,Tesla,97.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,,,,9,False,False,0.0,0.0
+00765,Tesla,97.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,,,,9,False,False,0.0,0.0
+00780,Tesla,97.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,,,,9,False,False,0.0,0.0
+00795,Tesla,97.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,,,,9,False,False,0.0,0.0
+00810,Tesla,97.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,,,,9,False,False,0.0,0.0
+00825,Tesla,97.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,,,,10,False,False,0.0,0.0
+00840,X,106.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,Tesla,97.0,1.0,6,True,True,4.0,4.0
+00855,X,106.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,,,,6,False,False,0.0,0.0
+00870,X,106.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,,,,6,False,False,0.0,0.0
+00885,X,106.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,,,,6,False,False,0.0,0.0
+00900,X,106.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,,,,6,False,False,0.0,0.0
+00915,X,106.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,,,,7,False,False,0.0,0.0
+00930,X,106.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,,,,7,False,False,0.0,0.0
+00945,X,106.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,,,,7,False,False,0.0,0.0
+00960,X,106.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,,,,7,False,False,0.0,0.0
+00975,X,106.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,,,,7,False,False,0.0,0.0
+00990,X,106.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,,,,7,False,False,0.0,0.0
+01005,X,106.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,,,,8,False,False,0.0,0.0
+01020,X,106.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,,,,8,False,False,0.0,0.0
+01035,X,106.0,Fireball,30.0,Ice Golem,53.0,Archers,1.0,,,,8,False,False,0.0,0.0
+01050,X,106.0,Fireball,30.0,Ice Spirit,54.0,Archers,1.0,Ice Golem,53.0,3.0,6,True,True,2.0,2.0
+01065,X,106.0,Fireball,30.0,Ice Spirit,54.0,Archers,1.0,,,,6,False,False,0.0,0.0
+01080,X,106.0,Fireball,30.0,Ice Spirit,54.0,Archers,1.0,,,,7,False,False,0.0,0.0
+01095,X,106.0,Fireball,30.0,Ice Spirit,54.0,Archers,1.0,,,,7,False,False,0.0,0.0
+01110,X,106.0,Fireball,30.0,Ice Spirit,54.0,Archers,1.0,,,,7,False,False,0.0,0.0
+01125,X,106.0,Fireball,30.0,Ice Spirit,54.0,Archers,1.0,,,,7,False,False,0.0,0.0
+01140,X,106.0,Fireball,30.0,Ice Spirit,54.0,Archers,1.0,,,,7,False,False,0.0,0.0
+01155,X,106.0,Fireball,30.0,Ice Spirit,54.0,Archers,1.0,,,,7,False,False,0.0,0.0
+01170,X,106.0,Fireball,30.0,Ice Spirit,54.0,Archers,1.0,,,,8,False,False,0.0,0.0
+01185,X,106.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,Ice Spirit,54.0,3.0,7,True,True,1.0,1.0
+01200,X,106.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,7,False,False,0.0,0.0
+01215,X,106.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,7,False,False,0.0,0.0
+01230,X,106.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,7,False,False,0.0,0.0
+01245,X,106.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,8,False,False,0.0,0.0
+01260,X,106.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,8,False,False,0.0,0.0
+01275,X,106.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,8,False,False,0.0,0.0
+01290,X,106.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,8,False,False,0.0,0.0
+01305,X,106.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,8,False,False,0.0,0.0
+01320,X,106.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,8,False,False,0.0,0.0
+01335,X,106.0,Fireball,30.0,Skeletons,94.0,Archers,1.0,,,,9,False,False,0.0,0.0
+01350,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,Skeletons,94.0,3.0,8,True,True,1.0,1.0
+01365,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,8,False,False,0.0,0.0
+01380,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,8,False,False,0.0,0.0
+01395,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,8,False,False,0.0,0.0
+01410,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,8,False,False,0.0,0.0
+01425,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,9,False,False,0.0,0.0
+01440,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,9,False,False,0.0,0.0
+01455,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,9,False,False,0.0,0.0
+01470,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,9,False,False,0.0,0.0
+01485,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,9,False,False,0.0,0.0
+01500,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,The Log,98.0,3.0,8,True,True,1.0,2.0
+01515,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,8,False,False,0.0,0.0
+01530,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,8,False,False,0.0,0.0
+01545,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,8,False,False,0.0,0.0
+01560,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,8,False,False,0.0,0.0
+01575,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,8,False,False,0.0,0.0
+01590,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,9,False,False,0.0,0.0
+01605,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,9,False,False,0.0,0.0
+01620,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,9,False,False,0.0,0.0
+01635,X,106.0,Ice Golem,53.0,Tesla,97.0,Archers,1.0,Fireball,30.0,2.0,5,True,True,4.0,4.0
+01650,X,106.0,Ice Golem,53.0,Tesla,97.0,Archers,1.0,,,,5,False,False,0.0,0.0
+01665,X,106.0,Ice Golem,53.0,Tesla,97.0,Archers,1.0,,,,5,False,False,0.0,0.0
+01680,X,106.0,Ice Golem,53.0,Tesla,97.0,Archers,1.0,,,,6,False,False,0.0,0.0
+01695,X,106.0,Ice Golem,53.0,Tesla,97.0,Archers,1.0,,,,6,False,False,0.0,0.0
+01710,X,106.0,Ice Golem,53.0,Tesla,97.0,Archers,1.0,,,,6,False,False,0.0,0.0
+01725,X,106.0,Ice Golem,53.0,Tesla,97.0,Archers,1.0,,,,6,False,False,0.0,0.0
+01740,X,106.0,Ice Golem,53.0,Tesla,97.0,Archers,1.0,,,,6,False,False,0.0,0.0
+01755,X,106.0,Ice Golem,53.0,Tesla,97.0,Archers,1.0,,,,7,False,False,0.0,0.0
+01770,X,106.0,Ice Golem,53.0,Tesla,97.0,Archers,1.0,,,,7,False,False,0.0,0.0
+01785,X,106.0,Ice Golem,53.0,Tesla,97.0,Archers,1.0,,,,7,False,False,0.0,0.0
+01800,X,106.0,Ice Golem,53.0,Tesla,97.0,Archers,1.0,,,,7,False,False,0.0,0.0
+01815,X,106.0,Ice Golem,53.0,Tesla,97.0,Archers,1.0,,,,7,False,False,0.0,0.0
+01830,X,106.0,Ice Golem,53.0,Tesla,97.0,Archers,1.0,,,,7,False,False,0.0,0.0
+01845,X,106.0,Ice Golem,53.0,Tesla,97.0,Archers,1.0,,,,8,False,False,0.0,0.0
+01860,X,106.0,Ice Golem,53.0,Tesla,97.0,Archers,1.0,,,,8,False,False,0.0,0.0
+01875,X,106.0,Ice Golem,53.0,Tesla,97.0,Archers,1.0,,,,8,False,False,0.0,0.0
+01890,X,106.0,Ice Golem,53.0,Tesla,97.0,Archers,1.0,,,,8,False,False,0.0,0.0
+01905,X,106.0,Ice Golem,53.0,Tesla,97.0,Archers,1.0,,,,8,False,False,0.0,0.0
+01920,X,106.0,Ice Golem,53.0,Tesla,97.0,Archers,1.0,,,,9,False,False,0.0,0.0
+01935,X,106.0,Ice Golem,53.0,Tesla,97.0,Archers,1.0,,,,9,False,False,0.0,0.0
+01950,X,106.0,Ice Golem,53.0,Tesla,97.0,Archers,1.0,,,,9,False,False,0.0,0.0
+01965,X,106.0,Ice Golem,53.0,Tesla,97.0,Archers,1.0,,,,9,False,False,0.0,0.0
+01980,X,106.0,Ice Golem,53.0,Tesla,97.0,Archers,1.0,,,,9,False,False,0.0,0.0
+01995,X,106.0,Ice Golem,53.0,Tesla,97.0,Archers,1.0,,,,9,False,False,0.0,0.0
+02010,X,106.0,Ice Golem,53.0,Tesla,97.0,Archers,1.0,,,,10,False,False,0.0,0.0
+02025,X,106.0,Ice Golem,53.0,Ice Spirit,54.0,Archers,1.0,Tesla,97.0,3.0,6,True,True,4.0,4.0
+02040,X,106.0,Ice Golem,53.0,Ice Spirit,54.0,Archers,1.0,,,,6,False,False,0.0,0.0
+02055,X,106.0,Ice Golem,53.0,Ice Spirit,54.0,Archers,1.0,,,,6,False,False,0.0,0.0
+02070,X,106.0,Ice Golem,53.0,Ice Spirit,54.0,Archers,1.0,,,,6,False,False,0.0,0.0
+02085,X,106.0,Ice Golem,53.0,Ice Spirit,54.0,Archers,1.0,,,,6,False,False,0.0,0.0
+02100,X,106.0,Ice Golem,53.0,Ice Spirit,54.0,Archers,1.0,,,,7,False,False,0.0,0.0
+02115,X,106.0,Ice Golem,53.0,Ice Spirit,54.0,Archers,1.0,,,,7,False,False,0.0,0.0
+02130,X,106.0,Ice Golem,53.0,Ice Spirit,54.0,Archers,1.0,,,,7,False,False,0.0,0.0
+02145,X,106.0,Ice Golem,53.0,Ice Spirit,54.0,Archers,1.0,,,,7,False,False,0.0,0.0
+02160,X,106.0,Skeletons,94.0,Ice Spirit,54.0,Archers,1.0,Ice Golem,53.0,2.0,5,True,True,2.0,2.0
+02175,X,106.0,Skeletons,94.0,Ice Spirit,54.0,The Log,98.0,Archers,1.0,4.0,2,True,True,3.0,3.0
+02190,X,106.0,Skeletons,94.0,Ice Spirit,54.0,The Log,98.0,,,,3,False,False,0.0,0.0
+02205,X,106.0,Skeletons,94.0,Ice Spirit,54.0,The Log,98.0,,,,3,False,False,0.0,0.0
+02220,X,106.0,Skeletons,94.0,Ice Spirit,54.0,The Log,98.0,,,,3,False,False,0.0,0.0
+02235,X,106.0,Skeletons,94.0,Ice Spirit,54.0,The Log,98.0,,,,3,False,False,0.0,0.0
+02250,X,106.0,Skeletons,94.0,Ice Spirit,54.0,Fireball,30.0,The Log,98.0,4.0,3,True,True,2.0,2.0
+02265,X,106.0,Skeletons,94.0,Ice Spirit,54.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+02280,X,106.0,Skeletons,94.0,Ice Spirit,54.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02295,X,106.0,Skeletons,94.0,Ice Spirit,54.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02310,X,106.0,Skeletons,94.0,Ice Spirit,54.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02325,X,106.0,Skeletons,94.0,Ice Spirit,54.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02340,X,106.0,Skeletons,94.0,Ice Spirit,54.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02355,X,106.0,Skeletons,94.0,Ice Spirit,54.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02370,X,106.0,Tesla,97.0,Ice Spirit,54.0,Fireball,30.0,Skeletons,94.0,2.0,2,True,True,1.0,1.0
+02385,X,106.0,Tesla,97.0,Ice Spirit,54.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02400,X,106.0,Tesla,97.0,Ice Spirit,54.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02415,X,106.0,Tesla,97.0,Ice Spirit,54.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02430,X,106.0,Tesla,97.0,Ice Spirit,54.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02445,X,106.0,Tesla,97.0,Ice Spirit,54.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02460,X,106.0,Tesla,97.0,Ice Spirit,54.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02475,X,106.0,Tesla,97.0,Ice Spirit,54.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02490,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,Ice Spirit,54.0,3.0,2,True,True,1.0,1.0
+02505,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02520,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02535,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02550,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02565,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02580,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02595,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02610,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+02625,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+02640,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+02655,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+02670,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+02685,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+02700,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+02715,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+02730,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+02745,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+02760,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+02775,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+02790,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+02805,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+02820,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+02835,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+02850,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+02865,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+02880,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+02895,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+02910,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+02925,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+02940,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+02955,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+02970,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+02985,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03000,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03015,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03030,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+03045,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+03060,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+03075,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+03090,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+03105,X,106.0,Archers,1.0,Ice Golem,53.0,Fireball,30.0,Tesla,97.0,2.0,5,True,True,4.0,4.0
+03120,X,106.0,Archers,1.0,Ice Golem,53.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03135,X,106.0,Archers,1.0,Ice Golem,53.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03150,X,106.0,Archers,1.0,Ice Golem,53.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03165,X,106.0,Archers,1.0,Ice Golem,53.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03180,X,106.0,Archers,1.0,Ice Golem,53.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03195,X,106.0,Archers,1.0,Ice Golem,53.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03210,X,106.0,Archers,1.0,Ice Golem,53.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03225,X,106.0,Archers,1.0,Ice Golem,53.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03240,X,106.0,Archers,1.0,Ice Golem,53.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03255,X,106.0,Archers,1.0,Ice Golem,53.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03270,X,106.0,Archers,1.0,Ice Golem,53.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03285,X,106.0,Archers,1.0,Ice Golem,53.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03300,X,106.0,Archers,1.0,Ice Golem,53.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03315,X,106.0,Archers,1.0,Ice Golem,53.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03330,X,106.0,Archers,1.0,Ice Golem,53.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03345,X,106.0,Archers,1.0,The Log,98.0,Fireball,30.0,Ice Golem,53.0,3.0,6,True,True,2.0,2.0
+03360,X,106.0,Archers,1.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03375,X,106.0,Archers,1.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03390,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,Archers,1.0,2.0,4,True,True,3.0,3.0
+03405,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03420,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03435,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03450,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03465,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03480,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03495,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03510,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03525,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03540,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03555,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03570,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03585,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03600,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03615,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03630,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03645,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03660,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03675,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03690,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03705,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03720,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03735,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03750,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03765,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03780,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+03795,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+03810,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+03825,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+03840,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+03855,X,106.0,Skeletons,94.0,Ice Spirit,54.0,Fireball,30.0,The Log,98.0,3.0,8,True,True,2.0,2.0
+03870,X,106.0,Tesla,97.0,Ice Spirit,54.0,Fireball,30.0,Skeletons,94.0,2.0,7,True,True,1.0,1.0
+03885,X,106.0,Tesla,97.0,Ice Spirit,54.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03900,X,106.0,Tesla,97.0,Ice Spirit,54.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03915,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,Ice Spirit,54.0,3.0,9,True,True,1.0,1.0
+03930,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+03945,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03960,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03975,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+03990,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+04005,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+04020,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+04035,Archers,1.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,X,106.0,1.0,4,True,True,6.0,6.0
+04050,Archers,1.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04065,Archers,1.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04080,Archers,1.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04095,Archers,1.0,Tesla,97.0,The Log,98.0,Fireball,30.0,Ice Golem,53.0,3.0,3,True,True,2.0,2.0
+04110,Archers,1.0,Tesla,97.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04125,Archers,1.0,Tesla,97.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04140,Archers,1.0,Tesla,97.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04155,Archers,1.0,Tesla,97.0,The Log,98.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04170,Archers,1.0,Tesla,97.0,The Log,98.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04185,Skeletons,94.0,Tesla,97.0,The Log,98.0,Fireball,30.0,Archers,1.0,1.0,2,True,True,3.0,3.0
+04200,Skeletons,94.0,Tesla,97.0,The Log,98.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04215,Skeletons,94.0,Tesla,97.0,The Log,98.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04230,Skeletons,94.0,Tesla,97.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04245,Skeletons,94.0,Tesla,97.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04260,Skeletons,94.0,Tesla,97.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04275,Skeletons,94.0,Tesla,97.0,The Log,98.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04290,Skeletons,94.0,Tesla,97.0,The Log,98.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04305,Ice Spirit,54.0,Tesla,97.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,1.0,4,True,True,1.0,1.0
+04320,Ice Spirit,54.0,Tesla,97.0,The Log,98.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04335,Ice Spirit,54.0,Tesla,97.0,The Log,98.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04350,Ice Spirit,54.0,Tesla,97.0,The Log,98.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04365,X,106.0,Tesla,97.0,The Log,98.0,Fireball,30.0,Ice Spirit,54.0,1.0,5,True,False,0.0,1.0
+04380,X,106.0,Tesla,97.0,The Log,98.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04395,X,106.0,Tesla,97.0,The Log,98.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04410,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,The Log,98.0,3.0,4,True,True,1.0,2.0
+04425,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04440,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04455,X,106.0,Tesla,97.0,Ice Golem,53.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04470,X,106.0,Archers,1.0,Ice Golem,53.0,Fireball,30.0,Tesla,97.0,2.0,1,True,True,4.0,4.0
+04485,X,106.0,Archers,1.0,Ice Golem,53.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04500,X,106.0,Archers,1.0,Ice Golem,53.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04515,X,106.0,Archers,1.0,Ice Golem,53.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04530,X,106.0,Archers,1.0,Ice Golem,53.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04545,X,106.0,Archers,1.0,Ice Golem,53.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04560,X,106.0,Archers,1.0,Ice Golem,53.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04575,X,106.0,Archers,1.0,Skeletons,94.0,Fireball,30.0,Ice Golem,53.0,3.0,2,True,True,1.0,2.0
+04590,X,106.0,Archers,1.0,Skeletons,94.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04605,X,106.0,Archers,1.0,Skeletons,94.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04620,X,106.0,Archers,1.0,Skeletons,94.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04635,X,106.0,Archers,1.0,Skeletons,94.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04650,X,106.0,Ice Spirit,54.0,Skeletons,94.0,Fireball,30.0,Archers,1.0,2.0,0,True,True,3.0,3.0
+04665,X,106.0,Ice Spirit,54.0,Skeletons,94.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+04680,X,106.0,Ice Spirit,54.0,Skeletons,94.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+04695,X,106.0,Ice Spirit,54.0,Skeletons,94.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04710,X,106.0,Ice Spirit,54.0,Skeletons,94.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04725,X,106.0,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,3.0,1,True,True,1.0,1.0
+04740,X,106.0,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04755,X,106.0,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04770,X,106.0,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04785,X,106.0,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04800,X,106.0,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04815,X,106.0,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04830,X,106.0,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04845,X,106.0,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04860,X,106.0,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04875,X,106.0,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04890,X,106.0,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04905,X,106.0,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04920,X,106.0,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04935,X,106.0,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04950,X,106.0,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04965,X,106.0,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04980,X,106.0,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04995,X,106.0,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+05010,X,106.0,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+05025,X,106.0,Ice Spirit,54.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+05040,X,106.0,Tesla,97.0,The Log,98.0,Fireball,30.0,Ice Spirit,54.0,2.0,8,True,False,0.0,1.0
+05055,X,106.0,Tesla,97.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+05070,X,106.0,Tesla,97.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+05085,X,106.0,Tesla,97.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+05100,X,106.0,Tesla,97.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+05115,X,106.0,Ice Golem,53.0,The Log,98.0,Fireball,30.0,Tesla,97.0,2.0,6,True,True,3.0,4.0
+05130,X,106.0,Ice Golem,53.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05145,X,106.0,Ice Golem,53.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05160,X,106.0,Ice Golem,53.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+05175,X,106.0,Ice Golem,53.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+05190,X,106.0,Archers,1.0,The Log,98.0,Fireball,30.0,Ice Golem,53.0,2.0,5,True,True,2.0,2.0
+05205,X,106.0,Archers,1.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05220,X,106.0,Archers,1.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05235,X,106.0,Archers,1.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05250,X,106.0,Archers,1.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+05265,X,106.0,Archers,1.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+05280,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,Archers,1.0,2.0,4,True,True,3.0,3.0
+05295,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05310,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05325,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05340,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05355,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05370,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+05385,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+05400,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+05415,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+05430,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+05445,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+05460,X,106.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+05475,Ice Spirit,54.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,X,106.0,1.0,3,True,True,6.0,6.0
+05490,Ice Spirit,54.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05505,Ice Spirit,54.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05520,Ice Spirit,54.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05535,Ice Spirit,54.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05550,Ice Spirit,54.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05565,Ice Spirit,54.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05580,Ice Spirit,54.0,Skeletons,94.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05595,Ice Spirit,54.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,The Log,98.0,3.0,4,True,True,2.0,2.0
+05610,Ice Spirit,54.0,Ice Golem,53.0,Tesla,97.0,Fireball,30.0,Skeletons,94.0,2.0,3,True,True,1.0,1.0
+05625,Archers,1.0,Ice Golem,53.0,Tesla,97.0,Fireball,30.0,Ice Spirit,54.0,1.0,3,True,False,0.0,1.0
+05640,Archers,1.0,Ice Golem,53.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05655,Archers,1.0,Ice Golem,53.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05670,Archers,1.0,Ice Golem,53.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05685,Archers,1.0,X,106.0,Tesla,97.0,Fireball,30.0,Ice Golem,53.0,2.0,2,True,True,2.0,2.0
+05700,Archers,1.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05715,Archers,1.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05730,Archers,1.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05745,The Log,98.0,X,106.0,Tesla,97.0,Fireball,30.0,Archers,1.0,1.0,3,True,True,2.0,3.0
+05760,The Log,98.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+05775,The Log,98.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+05790,The Log,98.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05805,The Log,98.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05820,The Log,98.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05835,Skeletons,94.0,X,106.0,Tesla,97.0,Fireball,30.0,The Log,98.0,1.0,1,True,True,1.0,2.0
+05850,Skeletons,94.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+05865,Skeletons,94.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+05880,Skeletons,94.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05895,Ice Spirit,54.0,X,106.0,Tesla,97.0,Fireball,30.0,Skeletons,94.0,1.0,2,True,False,0.0,1.0
+05910,Ice Spirit,54.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05925,Ice Spirit,54.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05940,Ice Spirit,54.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05955,Ice Spirit,54.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05970,Ice Spirit,54.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05985,Ice Spirit,54.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+06000,Ice Spirit,54.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+06015,Ice Spirit,54.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+06030,Ice Spirit,54.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+06045,Ice Spirit,54.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+06060,Ice Spirit,54.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+06075,Ice Spirit,54.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+06090,Ice Spirit,54.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06105,Ice Spirit,54.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06120,Ice Spirit,54.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06135,Ice Golem,53.0,X,106.0,Tesla,97.0,Fireball,30.0,Ice Spirit,54.0,1.0,6,True,False,0.0,1.0
+06150,Ice Golem,53.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06165,Ice Golem,53.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+06180,Ice Golem,53.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+06195,Ice Golem,53.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+06210,Ice Golem,53.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+06225,Ice Golem,53.0,X,106.0,Archers,1.0,Fireball,30.0,Tesla,97.0,3.0,4,True,True,4.0,4.0
+06240,Ice Golem,53.0,X,106.0,Archers,1.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+06255,Ice Golem,53.0,X,106.0,Archers,1.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+06270,Ice Golem,53.0,X,106.0,Archers,1.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+06285,Ice Golem,53.0,X,106.0,Archers,1.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+06300,Ice Golem,53.0,X,106.0,Archers,1.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06315,Ice Golem,53.0,X,106.0,Archers,1.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06330,Ice Golem,53.0,X,106.0,Archers,1.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+06345,Ice Golem,53.0,X,106.0,Archers,1.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+06360,The Log,98.0,X,106.0,Archers,1.0,Fireball,30.0,Ice Golem,53.0,1.0,5,True,True,4.0,2.0
+06375,The Log,98.0,X,106.0,Archers,1.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06390,The Log,98.0,X,106.0,Archers,1.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06405,The Log,98.0,X,106.0,Archers,1.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06420,The Log,98.0,Skeletons,94.0,Archers,1.0,Fireball,30.0,X,106.0,2.0,7,True,False,0.0,6.0
+06435,The Log,98.0,Skeletons,94.0,Archers,1.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+06450,The Log,98.0,Skeletons,94.0,Archers,1.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+06465,The Log,98.0,Ice Spirit,54.0,Archers,1.0,Fireball,30.0,Skeletons,94.0,2.0,7,True,True,6.0,1.0
+06480,The Log,98.0,Ice Spirit,54.0,Archers,1.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+06495,The Log,98.0,Ice Spirit,54.0,Archers,1.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+06510,The Log,98.0,Ice Spirit,54.0,Archers,1.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+06525,The Log,98.0,Ice Spirit,54.0,Archers,1.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+06540,Tesla,97.0,Ice Spirit,54.0,Archers,1.0,Fireball,30.0,The Log,98.0,1.0,0,True,True,2.0,2.0
+06555,Tesla,97.0,Ice Spirit,54.0,Archers,1.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+06570,Tesla,97.0,Ice Spirit,54.0,Archers,1.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+06585,Tesla,97.0,Ice Spirit,54.0,Archers,1.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+06600,Tesla,97.0,Ice Spirit,54.0,Archers,1.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+06615,Tesla,97.0,Ice Spirit,54.0,Archers,1.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+06630,Tesla,97.0,Ice Spirit,54.0,Archers,1.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+06645,Tesla,97.0,Ice Golem,53.0,Archers,1.0,Fireball,30.0,Ice Spirit,54.0,2.0,2,True,True,1.0,1.0
+06660,Tesla,97.0,Ice Golem,53.0,Archers,1.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+06675,Tesla,97.0,Ice Golem,53.0,Archers,1.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+06690,Tesla,97.0,Ice Golem,53.0,Archers,1.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+06705,Tesla,97.0,Ice Golem,53.0,Archers,1.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+06720,Tesla,97.0,Ice Golem,53.0,Archers,1.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+06735,Tesla,97.0,Ice Golem,53.0,Archers,1.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+06750,Tesla,97.0,Ice Golem,53.0,Archers,1.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+06765,Tesla,97.0,Ice Golem,53.0,Archers,1.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+06780,Tesla,97.0,X,106.0,Archers,1.0,Fireball,30.0,Ice Golem,53.0,2.0,3,True,True,2.0,2.0
+06795,Tesla,97.0,X,106.0,Archers,1.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+06810,Tesla,97.0,X,106.0,Archers,1.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+06825,Tesla,97.0,X,106.0,Archers,1.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+06840,Tesla,97.0,X,106.0,Archers,1.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+06855,Tesla,97.0,X,106.0,Archers,1.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+06870,Tesla,97.0,X,106.0,Archers,1.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+06885,Tesla,97.0,X,106.0,Archers,1.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06900,Tesla,97.0,X,106.0,Archers,1.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06915,Tesla,97.0,X,106.0,Archers,1.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06930,Tesla,97.0,X,106.0,Archers,1.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+06945,Tesla,97.0,X,106.0,Archers,1.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+06960,Tesla,97.0,X,106.0,Archers,1.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+06975,Tesla,97.0,Skeletons,94.0,Archers,1.0,Fireball,30.0,X,106.0,2.0,2,True,True,5.0,6.0
+06990,Tesla,97.0,Skeletons,94.0,Archers,1.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+07005,Tesla,97.0,Skeletons,94.0,Archers,1.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+07020,Tesla,97.0,The Log,98.0,Archers,1.0,Fireball,30.0,Skeletons,94.0,2.0,2,True,True,1.0,1.0
+07035,Tesla,97.0,The Log,98.0,Archers,1.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+07050,Tesla,97.0,The Log,98.0,Archers,1.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+07065,Tesla,97.0,The Log,98.0,Archers,1.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+07080,Tesla,97.0,X,106.0,Ice Spirit,54.0,Fireball,30.0,Archers,1.0,3.0,0,True,True,3.0,3.0
+07095,Tesla,97.0,X,106.0,Ice Spirit,54.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+07110,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,Fireball,30.0,X,106.0,2.0,1,True,False,0.0,6.0
+07125,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+07140,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+07155,Tesla,97.0,The Log,98.0,Ice Golem,53.0,Fireball,30.0,Ice Spirit,54.0,3.0,1,True,True,1.0,1.0
+07170,Tesla,97.0,The Log,98.0,Ice Golem,53.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+07185,Tesla,97.0,The Log,98.0,Ice Golem,53.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+07200,Tesla,97.0,The Log,98.0,Ice Golem,53.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+07215,Tesla,97.0,X,106.0,X,106.0,Fireball,30.0,Ice Golem,53.0,3.0,1,True,True,1.0,2.0
+07230,Tesla,97.0,X,106.0,X,106.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+07245,Tesla,97.0,The Log,98.0,X,106.0,Fireball,30.0,X,106.0,2.0,1,True,False,0.0,6.0
+07260,Tesla,97.0,The Log,98.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+07275,Tesla,97.0,The Log,98.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+07290,Tesla,97.0,The Log,98.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+07305,Tesla,97.0,The Log,98.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+07320,Tesla,97.0,The Log,98.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+07335,Tesla,97.0,The Log,98.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+07350,Tesla,97.0,The Log,98.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+07365,Tesla,97.0,The Log,98.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+07380,Tesla,97.0,The Log,98.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+07395,Tesla,97.0,The Log,98.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+07410,Skeletons,94.0,The Log,98.0,X,106.0,Fireball,30.0,Tesla,97.0,1.0,2,True,True,3.0,4.0
+07425,Skeletons,94.0,The Log,98.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+07440,Skeletons,94.0,The Log,98.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+07455,Skeletons,94.0,The Log,98.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+07470,Skeletons,94.0,The Log,98.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+07485,Skeletons,94.0,The Log,98.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+07500,Skeletons,94.0,Archers,1.0,X,106.0,Fireball,30.0,The Log,98.0,2.0,3,True,True,1.0,2.0
+07515,Skeletons,94.0,Archers,1.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+07530,Skeletons,94.0,Archers,1.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+07545,Skeletons,94.0,Archers,1.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+07560,Skeletons,94.0,Archers,1.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+07575,Ice Spirit,54.0,Archers,1.0,X,106.0,Fireball,30.0,Skeletons,94.0,1.0,4,True,True,1.0,1.0
+07590,Ice Spirit,54.0,Archers,1.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+07605,Ice Spirit,54.0,Ice Golem,53.0,X,106.0,Fireball,30.0,Archers,1.0,2.0,3,True,True,2.0,3.0
+07620,Ice Spirit,54.0,Ice Golem,53.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+07635,Ice Spirit,54.0,Ice Golem,53.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+07650,Ice Spirit,54.0,Ice Golem,53.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+07665,Ice Spirit,54.0,Tesla,97.0,X,106.0,Fireball,30.0,Ice Golem,53.0,2.0,3,True,True,1.0,2.0
+07680,Ice Spirit,54.0,Tesla,97.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+07695,Ice Spirit,54.0,Tesla,97.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+07710,Ice Spirit,54.0,Tesla,97.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+07725,Ice Spirit,54.0,Tesla,97.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+07740,Ice Spirit,54.0,Tesla,97.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+07755,The Log,98.0,Tesla,97.0,X,106.0,Fireball,30.0,Ice Spirit,54.0,1.0,5,True,False,0.0,1.0
+07770,The Log,98.0,Tesla,97.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+07785,The Log,98.0,Tesla,97.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+07800,The Log,98.0,Skeletons,94.0,X,106.0,Fireball,30.0,Tesla,97.0,2.0,2,True,True,4.0,4.0
+07815,The Log,98.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+07830,The Log,98.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+07845,The Log,98.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+07860,The Log,98.0,Archers,1.0,X,106.0,Fireball,30.0,Skeletons,94.0,2.0,4,True,False,0.0,1.0
+07875,The Log,98.0,Archers,1.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+07890,The Log,98.0,Archers,1.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+07905,The Log,98.0,Ice Golem,53.0,X,106.0,Fireball,30.0,Archers,1.0,2.0,2,True,True,3.0,3.0
+07920,The Log,98.0,Ice Golem,53.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+07935,The Log,98.0,Ice Golem,53.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+07950,The Log,98.0,Ice Golem,53.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+07965,Ice Spirit,54.0,Ice Golem,53.0,X,106.0,Fireball,30.0,The Log,98.0,1.0,2,True,True,2.0,2.0
+07980,Ice Spirit,54.0,Ice Golem,53.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+07995,Ice Spirit,54.0,Ice Golem,53.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+08010,Ice Spirit,54.0,Ice Golem,53.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+08025,Ice Spirit,54.0,Ice Golem,53.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+08040,Ice Spirit,54.0,Ice Golem,53.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+08055,Ice Spirit,54.0,Ice Golem,53.0,X,106.0,Tesla,97.0,Fireball,30.0,4.0,2,True,True,3.0,4.0
+08070,Ice Spirit,54.0,Ice Golem,53.0,X,106.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+08085,Ice Spirit,54.0,Ice Golem,53.0,X,106.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+08100,Ice Spirit,54.0,Ice Golem,53.0,X,106.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+08115,Ice Spirit,54.0,Skeletons,94.0,X,106.0,Tesla,97.0,Ice Golem,53.0,2.0,2,True,True,1.0,2.0
+08130,Ice Spirit,54.0,Skeletons,94.0,X,106.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+08145,Ice Spirit,54.0,Skeletons,94.0,X,106.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+08160,Ice Spirit,54.0,Skeletons,94.0,X,106.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+08175,Ice Spirit,54.0,Archers,1.0,X,106.0,Tesla,97.0,Skeletons,94.0,2.0,3,True,False,0.0,1.0
+08190,Ice Spirit,54.0,Archers,1.0,X,106.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+08205,The Log,98.0,Archers,1.0,X,106.0,Tesla,97.0,Ice Spirit,54.0,1.0,3,True,False,0.0,1.0
+08220,The Log,98.0,Archers,1.0,X,106.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+08235,The Log,98.0,Fireball,30.0,X,106.0,Tesla,97.0,Archers,1.0,2.0,1,True,True,3.0,3.0
+08250,The Log,98.0,Fireball,30.0,X,106.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+08265,The Log,98.0,Fireball,30.0,X,106.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+08280,The Log,98.0,Fireball,30.0,X,106.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+08295,Ice Golem,53.0,Fireball,30.0,X,106.0,Tesla,97.0,The Log,98.0,1.0,1,True,True,2.0,2.0
+08310,Ice Golem,53.0,Fireball,30.0,X,106.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+08325,Ice Golem,53.0,Fireball,30.0,X,106.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+08340,Ice Golem,53.0,Fireball,30.0,X,106.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+08355,Ice Golem,53.0,Fireball,30.0,X,106.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+08370,Skeletons,94.0,Fireball,30.0,X,106.0,Tesla,97.0,Ice Golem,53.0,1.0,2,True,True,1.0,2.0
+08385,Skeletons,94.0,Fireball,30.0,X,106.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+08400,Skeletons,94.0,Fireball,30.0,X,106.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+08415,Skeletons,94.0,Fireball,30.0,X,106.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+08430,Ice Spirit,54.0,Fireball,30.0,X,106.0,Tesla,97.0,Skeletons,94.0,1.0,3,True,True,1.0,1.0
+08445,Ice Spirit,54.0,Fireball,30.0,X,106.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+08460,Ice Spirit,54.0,Fireball,30.0,X,106.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+08475,Ice Spirit,54.0,Fireball,30.0,X,106.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+08490,Ice Spirit,54.0,Fireball,30.0,X,106.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+08505,Ice Spirit,54.0,Fireball,30.0,X,106.0,Archers,1.0,Tesla,97.0,4.0,2,True,True,3.0,4.0
+08520,The Log,98.0,Fireball,30.0,X,106.0,Archers,1.0,Ice Spirit,54.0,1.0,1,True,True,1.0,1.0
+08535,The Log,98.0,Fireball,30.0,X,106.0,Archers,1.0,,,,2,False,False,0.0,0.0
+08550,The Log,98.0,Fireball,30.0,X,106.0,Archers,1.0,,,,2,False,False,0.0,0.0
+08565,The Log,98.0,Fireball,30.0,X,106.0,Archers,1.0,,,,3,False,False,0.0,0.0
+08580,The Log,98.0,Fireball,30.0,X,106.0,Archers,1.0,,,,3,False,False,0.0,0.0
+08595,The Log,98.0,Fireball,30.0,X,106.0,Archers,1.0,,,,4,False,False,0.0,0.0
+08610,The Log,98.0,Fireball,30.0,X,106.0,Archers,1.0,,,,5,False,False,0.0,0.0
+08625,The Log,98.0,Ice Golem,53.0,X,106.0,Archers,1.0,Fireball,30.0,2.0,1,True,True,4.0,4.0
+08640,The Log,98.0,Ice Golem,53.0,X,106.0,Archers,1.0,,,,2,False,False,0.0,0.0
+08655,The Log,98.0,Ice Golem,53.0,X,106.0,Archers,1.0,,,,2,False,False,0.0,0.0
+08670,Skeletons,94.0,Ice Golem,53.0,X,106.0,Archers,1.0,The Log,98.0,1.0,2,True,True,1.0,2.0
+08685,Skeletons,94.0,Ice Golem,53.0,X,106.0,Archers,1.0,,,,1,False,False,0.0,0.0
+08700,Skeletons,94.0,Ice Golem,53.0,X,106.0,Archers,1.0,,,,2,False,False,0.0,0.0
+08715,Skeletons,94.0,Ice Golem,53.0,X,106.0,Archers,1.0,,,,2,False,False,0.0,0.0
+08730,Skeletons,94.0,Ice Golem,53.0,X,106.0,Archers,1.0,,,,3,False,False,0.0,0.0
+08745,Skeletons,94.0,Ice Golem,53.0,X,106.0,Archers,1.0,,,,3,False,False,0.0,0.0
+08760,Skeletons,94.0,Ice Golem,53.0,X,106.0,Archers,1.0,,,,4,False,False,0.0,0.0
+08775,Skeletons,94.0,Ice Golem,53.0,X,106.0,Archers,1.0,,,,4,False,False,0.0,0.0
+08790,Skeletons,94.0,Ice Golem,53.0,X,106.0,Archers,1.0,,,,5,False,False,0.0,0.0
+08805,Skeletons,94.0,Ice Golem,53.0,X,106.0,Archers,1.0,,,,5,False,False,0.0,0.0
+08820,Skeletons,94.0,Ice Golem,53.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+08835,Skeletons,94.0,Ice Golem,53.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+08850,Skeletons,94.0,Ice Golem,53.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+08865,Skeletons,94.0,Ice Golem,53.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0
+08880,Skeletons,94.0,Ice Golem,53.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0

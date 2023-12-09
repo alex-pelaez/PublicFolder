@@ -1,0 +1,583 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00225,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+00240,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+00255,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+00270,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+00285,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+00300,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+00315,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+00330,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+00345,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+00360,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+00375,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+00390,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+00405,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+00420,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+00435,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+00450,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+00465,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+00480,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+00495,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+00510,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+00525,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Zappies,108.0,,,,10,False,False,0.0,0.0
+00540,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Zappies,108.0,,,,10,False,False,0.0,0.0
+00555,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,Zappies,108.0,4.0,6,True,True,4.0,4.0
+00570,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+00585,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+00600,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+00615,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+00630,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+00645,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+00660,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+00675,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+00690,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+00705,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+00720,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+00735,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+00750,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+00765,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+00780,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+00795,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+00810,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+00825,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+00840,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+00855,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+00870,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+00885,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+00900,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+00915,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+00930,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+00945,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+00960,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+00975,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+00990,Cannon Cart,16.0,Valkyrie,102.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+01005,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,Zap,107.0,3.0,8,True,True,2.0,2.0
+01020,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+01035,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+01050,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+01065,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+01080,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+01095,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+01110,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+01125,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+01140,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+01155,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+01170,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+01185,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+01200,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+01215,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+01230,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+01245,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+01260,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+01275,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+01290,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+01305,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+01320,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,Cannon Cart,16.0,1.0,4,True,True,6.0,5.0
+01335,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+01350,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+01365,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+01380,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+01395,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+01410,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+01425,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+01440,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+01455,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+01470,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+01485,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+01500,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+01515,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+01530,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+01545,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+01560,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+01575,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+01590,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,Mini P.E.K.K.A,67.0,4.0,3,True,True,4.0,4.0
+01605,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01620,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01635,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01650,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01665,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01680,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01695,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01710,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01725,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01740,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,5,False,False,0.0,0.0
+01755,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,5,False,False,0.0,0.0
+01770,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,5,False,False,0.0,0.0
+01785,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,5,False,False,0.0,0.0
+01800,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,5,False,False,0.0,0.0
+01815,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01830,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01845,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01860,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01875,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01890,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01905,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01920,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01935,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01950,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01965,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01980,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01995,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02010,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02025,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02040,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02055,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02070,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02085,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02100,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02115,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02130,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02145,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02160,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,10,False,False,0.0,0.0
+02175,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,10,False,False,0.0,0.0
+02190,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,10,False,False,0.0,0.0
+02205,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,10,False,False,0.0,0.0
+02220,P.E.K.K.A,76.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,Valkyrie,102.0,2.0,6,True,True,4.0,4.0
+02235,P.E.K.K.A,76.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02250,P.E.K.K.A,76.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02265,P.E.K.K.A,76.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02280,P.E.K.K.A,76.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02295,P.E.K.K.A,76.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02310,P.E.K.K.A,76.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02325,P.E.K.K.A,76.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02340,Zap,107.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,P.E.K.K.A,76.0,1.0,0,True,True,7.0,7.0
+02355,Zap,107.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,0,False,False,0.0,0.0
+02370,Zap,107.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,0,False,False,0.0,0.0
+02385,Zap,107.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,1,False,False,0.0,0.0
+02400,Zap,107.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,1,False,False,0.0,0.0
+02415,Zap,107.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,1,False,False,0.0,0.0
+02430,Zap,107.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,1,False,False,0.0,0.0
+02445,Zap,107.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,1,False,False,0.0,0.0
+02460,Zap,107.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,1,False,False,0.0,0.0
+02475,Zap,107.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02490,Zap,107.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02505,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,Zap,107.0,1.0,0,True,True,2.0,2.0
+02520,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,0,False,False,0.0,0.0
+02535,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,0,False,False,0.0,0.0
+02550,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,0,False,False,0.0,0.0
+02565,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,1,False,False,0.0,0.0
+02580,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,1,False,False,0.0,0.0
+02595,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,1,False,False,0.0,0.0
+02610,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,1,False,False,0.0,0.0
+02625,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,1,False,False,0.0,0.0
+02640,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02655,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02670,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02685,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02700,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02715,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02730,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02745,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02760,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02775,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02790,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02805,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02820,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02835,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02850,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02865,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02880,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02895,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,5,False,False,0.0,0.0
+02910,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,5,False,False,0.0,0.0
+02925,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,5,False,False,0.0,0.0
+02940,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,5,False,False,0.0,0.0
+02955,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,5,False,False,0.0,0.0
+02970,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,5,False,False,0.0,0.0
+02985,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03000,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03015,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03030,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03045,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03060,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03075,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03090,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03105,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03120,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03135,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03150,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,8,False,False,0.0,0.0
+03165,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Poison,78.0,,,,8,False,False,0.0,0.0
+03180,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,Zappies,108.0,2.0,4,True,True,4.0,4.0
+03195,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,4,False,False,0.0,0.0
+03210,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,4,False,False,0.0,0.0
+03225,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,5,False,False,0.0,0.0
+03240,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,5,False,False,0.0,0.0
+03255,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,5,False,False,0.0,0.0
+03270,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,5,False,False,0.0,0.0
+03285,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,5,False,False,0.0,0.0
+03300,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,5,False,False,0.0,0.0
+03315,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03330,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03345,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03360,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03375,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03390,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03405,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03420,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03435,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03450,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03465,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03480,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,8,False,False,0.0,0.0
+03495,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,8,False,False,0.0,0.0
+03510,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,8,False,False,0.0,0.0
+03525,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,8,False,False,0.0,0.0
+03540,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,8,False,False,0.0,0.0
+03555,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,8,False,False,0.0,0.0
+03570,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,9,False,False,0.0,0.0
+03585,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,9,False,False,0.0,0.0
+03600,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,9,False,False,0.0,0.0
+03615,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,9,False,False,0.0,0.0
+03630,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Poison,78.0,,,,9,False,False,0.0,0.0
+03645,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,Mini P.E.K.K.A,67.0,2.0,6,True,True,3.0,4.0
+03660,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03675,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03690,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03705,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03720,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03735,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03750,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03765,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03780,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03795,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,8,False,False,0.0,0.0
+03810,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,8,False,False,0.0,0.0
+03825,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,,,,9,False,False,0.0,0.0
+03840,Cannon Cart,16.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,Valkyrie,102.0,2.0,5,True,True,4.0,4.0
+03855,Cannon Cart,16.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03870,Cannon Cart,16.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03885,Cannon Cart,16.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03900,Cannon Cart,16.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03915,Cannon Cart,16.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03930,Cannon Cart,16.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03945,Cannon Cart,16.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,8,False,False,0.0,0.0
+03960,Cannon Cart,16.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,8,False,False,0.0,0.0
+03975,Cannon Cart,16.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,8,False,False,0.0,0.0
+03990,Cannon Cart,16.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Zap,107.0,Poison,78.0,4.0,5,True,True,3.0,4.0
+04005,Cannon Cart,16.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04020,Cannon Cart,16.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04035,Cannon Cart,16.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04050,Cannon Cart,16.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04065,Cannon Cart,16.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04080,Cannon Cart,16.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04095,Cannon Cart,16.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04110,Cannon Cart,16.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04125,Cannon Cart,16.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Zap,107.0,,,,8,False,False,0.0,0.0
+04140,Cannon Cart,16.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Zap,107.0,,,,8,False,False,0.0,0.0
+04155,Cannon Cart,16.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Zap,107.0,,,,9,False,False,0.0,0.0
+04170,Cannon Cart,16.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Zap,107.0,,,,9,False,False,0.0,0.0
+04185,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Zap,107.0,P.E.K.K.A,76.0,2.0,2,True,True,7.0,7.0
+04200,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04215,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04230,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04245,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04260,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04275,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04290,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04305,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04320,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04335,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04350,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04365,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04380,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Zap,107.0,,,,8,False,False,0.0,0.0
+04395,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Zap,107.0,,,,8,False,False,0.0,0.0
+04410,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Zap,107.0,,,,8,False,False,0.0,0.0
+04425,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Zap,107.0,,,,8,False,False,0.0,0.0
+04440,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Zap,107.0,,,,8,False,False,0.0,0.0
+04455,Cannon Cart,16.0,Zappies,108.0,Electro Wizard,24.0,Zap,107.0,,,,9,False,False,0.0,0.0
+04470,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Zap,107.0,Zappies,108.0,2.0,5,True,True,4.0,4.0
+04485,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04500,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04515,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04530,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04545,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04560,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04575,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Zap,107.0,Mini P.E.K.K.A,67.0,2.0,4,True,True,3.0,4.0
+04590,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04605,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04620,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04635,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04650,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04665,Cannon Cart,16.0,Valkyrie,102.0,Electro Wizard,24.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04680,P.E.K.K.A,76.0,Poison,78.0,Electro Wizard,24.0,Zap,107.0,Valkyrie,102.0,2.0,2,True,True,4.0,4.0
+04695,P.E.K.K.A,76.0,Poison,78.0,Electro Wizard,24.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04710,P.E.K.K.A,76.0,Poison,78.0,Electro Wizard,24.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04725,P.E.K.K.A,76.0,Poison,78.0,Electro Wizard,24.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04740,P.E.K.K.A,76.0,Poison,78.0,Electro Wizard,24.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04755,P.E.K.K.A,76.0,Poison,78.0,Electro Wizard,24.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04770,P.E.K.K.A,76.0,Poison,78.0,Electro Wizard,24.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04785,P.E.K.K.A,76.0,Poison,78.0,Electro Wizard,24.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04800,P.E.K.K.A,76.0,Poison,78.0,Electro Wizard,24.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04815,P.E.K.K.A,76.0,Poison,78.0,Electro Wizard,24.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04830,P.E.K.K.A,76.0,Poison,78.0,Electro Wizard,24.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04845,P.E.K.K.A,76.0,Poison,78.0,Electro Wizard,24.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04860,P.E.K.K.A,76.0,Poison,78.0,Electro Wizard,24.0,Zap,107.0,,,,0,False,True,6.0,0.0
+04875,P.E.K.K.A,76.0,Poison,78.0,Electro Wizard,24.0,Zap,107.0,,,,1,False,False,0.0,0.0
+04890,P.E.K.K.A,76.0,Poison,78.0,Electro Wizard,24.0,Zap,107.0,,,,1,False,False,0.0,0.0
+04905,P.E.K.K.A,76.0,Poison,78.0,Electro Wizard,24.0,Zap,107.0,,,,2,False,False,0.0,0.0
+04920,P.E.K.K.A,76.0,Poison,78.0,Electro Wizard,24.0,Zap,107.0,,,,2,False,False,0.0,0.0
+04935,P.E.K.K.A,76.0,Poison,78.0,Electro Wizard,24.0,Zap,107.0,,,,2,False,False,0.0,0.0
+04950,P.E.K.K.A,76.0,Poison,78.0,Electro Wizard,24.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04965,P.E.K.K.A,76.0,Poison,78.0,Electro Wizard,24.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04980,P.E.K.K.A,76.0,Poison,78.0,Electro Wizard,24.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04995,P.E.K.K.A,76.0,Poison,78.0,Electro Wizard,24.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05010,P.E.K.K.A,76.0,Poison,78.0,Electro Wizard,24.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05025,P.E.K.K.A,76.0,Poison,78.0,Zappies,108.0,Zap,107.0,Electro Wizard,24.0,3.0,0,True,True,4.0,4.0
+05040,P.E.K.K.A,76.0,Poison,78.0,Zappies,108.0,Zap,107.0,,,,1,False,False,0.0,0.0
+05055,P.E.K.K.A,76.0,Poison,78.0,Zappies,108.0,Zap,107.0,,,,1,False,False,0.0,0.0
+05070,P.E.K.K.A,76.0,Poison,78.0,Zappies,108.0,Zap,107.0,,,,1,False,False,0.0,0.0
+05085,P.E.K.K.A,76.0,Poison,78.0,Zappies,108.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05100,P.E.K.K.A,76.0,Poison,78.0,Zappies,108.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05115,P.E.K.K.A,76.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,Zap,107.0,4.0,1,True,True,1.0,2.0
+05130,P.E.K.K.A,76.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+05145,P.E.K.K.A,76.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+05160,P.E.K.K.A,76.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+05175,P.E.K.K.A,76.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+05190,P.E.K.K.A,76.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+05205,P.E.K.K.A,76.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05220,P.E.K.K.A,76.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05235,P.E.K.K.A,76.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05250,P.E.K.K.A,76.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05265,P.E.K.K.A,76.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05280,P.E.K.K.A,76.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05295,P.E.K.K.A,76.0,Valkyrie,102.0,Zappies,108.0,Mini P.E.K.K.A,67.0,Poison,78.0,2.0,1,True,True,3.0,4.0
+05310,P.E.K.K.A,76.0,Valkyrie,102.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+05325,P.E.K.K.A,76.0,Valkyrie,102.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+05340,P.E.K.K.A,76.0,Valkyrie,102.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+05355,P.E.K.K.A,76.0,Valkyrie,102.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+05370,P.E.K.K.A,76.0,Valkyrie,102.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05385,P.E.K.K.A,76.0,Valkyrie,102.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05400,P.E.K.K.A,76.0,Valkyrie,102.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05415,P.E.K.K.A,76.0,Valkyrie,102.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05430,P.E.K.K.A,76.0,Valkyrie,102.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05445,P.E.K.K.A,76.0,Valkyrie,102.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05460,P.E.K.K.A,76.0,Valkyrie,102.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+05475,P.E.K.K.A,76.0,Valkyrie,102.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+05490,P.E.K.K.A,76.0,Valkyrie,102.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+05505,P.E.K.K.A,76.0,Valkyrie,102.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+05520,P.E.K.K.A,76.0,Valkyrie,102.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+05535,P.E.K.K.A,76.0,Valkyrie,102.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+05550,P.E.K.K.A,76.0,Valkyrie,102.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+05565,P.E.K.K.A,76.0,Valkyrie,102.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+05580,P.E.K.K.A,76.0,Valkyrie,102.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+05595,P.E.K.K.A,76.0,Valkyrie,102.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+05610,P.E.K.K.A,76.0,Valkyrie,102.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+05625,P.E.K.K.A,76.0,Valkyrie,102.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+05640,P.E.K.K.A,76.0,Cannon Cart,16.0,Zappies,108.0,Mini P.E.K.K.A,67.0,Valkyrie,102.0,2.0,5,True,True,4.0,4.0
+05655,P.E.K.K.A,76.0,Cannon Cart,16.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+05670,P.E.K.K.A,76.0,Cannon Cart,16.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+05685,P.E.K.K.A,76.0,Cannon Cart,16.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+05700,P.E.K.K.A,76.0,Cannon Cart,16.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+05715,P.E.K.K.A,76.0,Cannon Cart,16.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+05730,P.E.K.K.A,76.0,Cannon Cart,16.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+05745,P.E.K.K.A,76.0,Cannon Cart,16.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+05760,P.E.K.K.A,76.0,Electro Wizard,24.0,Zappies,108.0,Mini P.E.K.K.A,67.0,Cannon Cart,16.0,2.0,8,True,False,0.0,5.0
+05775,P.E.K.K.A,76.0,Electro Wizard,24.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+05790,P.E.K.K.A,76.0,Electro Wizard,24.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+05805,P.E.K.K.A,76.0,Electro Wizard,24.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,3,False,True,6.0,0.0
+05820,P.E.K.K.A,76.0,Electro Wizard,24.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05835,P.E.K.K.A,76.0,Electro Wizard,24.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05850,P.E.K.K.A,76.0,Electro Wizard,24.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05865,P.E.K.K.A,76.0,Electro Wizard,24.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05880,P.E.K.K.A,76.0,Electro Wizard,24.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+05895,P.E.K.K.A,76.0,Electro Wizard,24.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+05910,P.E.K.K.A,76.0,Electro Wizard,24.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+05925,P.E.K.K.A,76.0,Electro Wizard,24.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+05940,P.E.K.K.A,76.0,Electro Wizard,24.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+05955,P.E.K.K.A,76.0,Electro Wizard,24.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+05970,P.E.K.K.A,76.0,Electro Wizard,24.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+05985,P.E.K.K.A,76.0,Electro Wizard,24.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+06000,P.E.K.K.A,76.0,Electro Wizard,24.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+06015,P.E.K.K.A,76.0,Electro Wizard,24.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+06030,Zap,107.0,Electro Wizard,24.0,Zappies,108.0,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,1.0,7,True,True,1.0,7.0
+06045,Zap,107.0,Electro Wizard,24.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,2,False,True,5.0,0.0
+06060,Zap,107.0,Electro Wizard,24.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+06075,Zap,107.0,Electro Wizard,24.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+06090,Zap,107.0,Electro Wizard,24.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+06105,Zap,107.0,Electro Wizard,24.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+06120,Zap,107.0,Electro Wizard,24.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+06135,Zap,107.0,Electro Wizard,24.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+06150,Zap,107.0,Electro Wizard,24.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+06165,Zap,107.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,Electro Wizard,24.0,2.0,0,True,True,4.0,4.0
+06180,Zap,107.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+06195,Zap,107.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+06210,Zap,107.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+06225,Zap,107.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+06240,Zap,107.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+06255,Zap,107.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+06270,Zap,107.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+06285,Zap,107.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+06300,Zap,107.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+06315,Zap,107.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+06330,Zap,107.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+06345,Zap,107.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+06360,Zap,107.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+06375,Zap,107.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+06390,Zap,107.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+06405,Zap,107.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+06420,Zap,107.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+06435,Zap,107.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+06450,Zap,107.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+06465,Zap,107.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+06480,Zap,107.0,Poison,78.0,Zappies,108.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+06495,Zap,107.0,Poison,78.0,Valkyrie,102.0,Mini P.E.K.K.A,67.0,Zappies,108.0,3.0,4,True,True,4.0,4.0
+06510,Zap,107.0,Poison,78.0,Valkyrie,102.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+06525,Zap,107.0,Poison,78.0,Valkyrie,102.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+06540,Zap,107.0,Poison,78.0,Valkyrie,102.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+06555,Zap,107.0,Poison,78.0,Valkyrie,102.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+06570,Zap,107.0,Poison,78.0,Valkyrie,102.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+06585,Zap,107.0,Poison,78.0,Valkyrie,102.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+06600,Zap,107.0,Poison,78.0,Valkyrie,102.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+06615,Zap,107.0,Poison,78.0,Valkyrie,102.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+06630,Zap,107.0,Poison,78.0,Valkyrie,102.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+06645,Zap,107.0,Poison,78.0,Valkyrie,102.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+06660,Zap,107.0,Poison,78.0,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Valkyrie,102.0,3.0,4,True,True,4.0,4.0
+06675,Zap,107.0,Poison,78.0,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+06690,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,Poison,78.0,2.0,1,True,True,4.0,4.0
+06705,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+06720,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+06735,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+06750,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+06765,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+06780,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+06795,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+06810,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+06825,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+06840,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+06855,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+06870,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+06885,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+06900,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+06915,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+06930,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+06945,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+06960,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+06975,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+06990,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Electro Wizard,24.0,Mini P.E.K.K.A,67.0,4.0,4,True,True,4.0,4.0
+07005,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+07020,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+07035,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+07050,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+07065,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+07080,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+07095,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+07110,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+07125,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+07140,Zap,107.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+07155,Zappies,108.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Electro Wizard,24.0,Zap,107.0,1.0,6,True,True,2.0,2.0
+07170,Zappies,108.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+07185,Zappies,108.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+07200,Zappies,108.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+07215,Zappies,108.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+07230,Zappies,108.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+07245,Zappies,108.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+07260,Zappies,108.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+07275,Zappies,108.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+07290,Zappies,108.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+07305,Zappies,108.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+07320,Zappies,108.0,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Cannon Cart,16.0,3.0,4,True,True,6.0,5.0
+07335,Zappies,108.0,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+07350,Zappies,108.0,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+07365,Zappies,108.0,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+07380,Zappies,108.0,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+07395,Zappies,108.0,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+07410,Zappies,108.0,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+07425,Zappies,108.0,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+07440,Zappies,108.0,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+07455,Zappies,108.0,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+07470,Zappies,108.0,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+07485,Poison,78.0,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Zappies,108.0,1.0,5,True,True,4.0,4.0
+07500,Poison,78.0,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+07515,Poison,78.0,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+07530,Poison,78.0,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+07545,Poison,78.0,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+07560,Poison,78.0,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+07575,Poison,78.0,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+07590,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,Poison,78.0,1.0,5,True,True,3.0,4.0
+07605,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+07620,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+07635,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+07650,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+07665,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+07680,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+07695,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+07710,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Valkyrie,102.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+07725,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zap,107.0,Electro Wizard,24.0,Valkyrie,102.0,3.0,6,True,True,3.0,4.0
+07740,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zap,107.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+07755,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zap,107.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+07770,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zap,107.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+07785,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zap,107.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+07800,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zap,107.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+07815,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Cannon Cart,16.0,Electro Wizard,24.0,Zap,107.0,3.0,7,True,True,2.0,2.0
+07830,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Electro Wizard,24.0,Cannon Cart,16.0,3.0,8,True,False,0.0,5.0
+07845,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+07860,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+07875,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+07890,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Electro Wizard,24.0,,,,4,False,True,5.0,0.0
+07905,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+07920,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+07935,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Poison,78.0,Electro Wizard,24.0,4.0,1,True,True,4.0,4.0
+07950,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Poison,78.0,,,,2,False,False,0.0,0.0
+07965,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Poison,78.0,,,,2,False,False,0.0,0.0
+07980,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Poison,78.0,,,,3,False,False,0.0,0.0
+07995,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Poison,78.0,,,,4,False,False,0.0,0.0
+08010,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Poison,78.0,,,,4,False,False,0.0,0.0
+08025,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Poison,78.0,,,,5,False,False,0.0,0.0
+08040,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Valkyrie,102.0,Poison,78.0,4.0,7,True,True,5.0,4.0
+08055,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+08070,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+08085,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+08100,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+08115,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+08130,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+08145,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+08160,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+08175,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+08190,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Zap,107.0,Valkyrie,102.0,4.0,3,True,True,3.0,4.0
+08205,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Zap,107.0,,,,3,False,False,0.0,0.0
+08220,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Zap,107.0,,,,4,False,False,0.0,0.0
+08235,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Zap,107.0,,,,4,False,False,0.0,0.0
+08250,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Zap,107.0,,,,5,False,False,0.0,0.0
+08265,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Zap,107.0,,,,5,False,False,0.0,0.0
+08280,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Zap,107.0,,,,6,False,False,0.0,0.0
+08295,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Zap,107.0,,,,6,False,False,0.0,0.0
+08310,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Zap,107.0,,,,7,False,False,0.0,0.0
+08325,Mini P.E.K.K.A,67.0,P.E.K.K.A,76.0,Zappies,108.0,Zap,107.0,,,,7,False,False,0.0,0.0
+08340,Electro Wizard,24.0,P.E.K.K.A,76.0,Zappies,108.0,Zap,107.0,Mini P.E.K.K.A,67.0,1.0,4,True,True,3.0,4.0
+08355,Electro Wizard,24.0,P.E.K.K.A,76.0,Zappies,108.0,Zap,107.0,,,,4,False,False,0.0,0.0
+08370,Electro Wizard,24.0,P.E.K.K.A,76.0,Zappies,108.0,Zap,107.0,,,,5,False,False,0.0,0.0
+08385,Electro Wizard,24.0,P.E.K.K.A,76.0,Zappies,108.0,Zap,107.0,,,,5,False,False,0.0,0.0
+08400,Electro Wizard,24.0,P.E.K.K.A,76.0,Zappies,108.0,Zap,107.0,,,,6,False,False,0.0,0.0
+08415,Electro Wizard,24.0,P.E.K.K.A,76.0,Zappies,108.0,Zap,107.0,,,,2,False,True,4.0,0.0
+08430,Electro Wizard,24.0,P.E.K.K.A,76.0,Zappies,108.0,Zap,107.0,,,,1,False,True,1.0,0.0
+08445,Electro Wizard,24.0,P.E.K.K.A,76.0,Zappies,108.0,Zap,107.0,,,,2,False,False,0.0,0.0
+08460,Electro Wizard,24.0,P.E.K.K.A,76.0,Zappies,108.0,Zap,107.0,,,,2,False,False,0.0,0.0
+08475,Electro Wizard,24.0,P.E.K.K.A,76.0,Zappies,108.0,Zap,107.0,,,,3,False,False,0.0,0.0
+08490,Electro Wizard,24.0,P.E.K.K.A,76.0,Zappies,108.0,Zap,107.0,,,,3,False,False,0.0,0.0
+08505,Electro Wizard,24.0,P.E.K.K.A,76.0,Zappies,108.0,Zap,107.0,,,,4,False,False,0.0,0.0
+08520,Electro Wizard,24.0,P.E.K.K.A,76.0,Zappies,108.0,Zap,107.0,,,,4,False,False,0.0,0.0
+08535,Electro Wizard,24.0,P.E.K.K.A,76.0,Zappies,108.0,Zap,107.0,,,,5,False,False,0.0,0.0
+08550,Electro Wizard,24.0,P.E.K.K.A,76.0,Zappies,108.0,Zap,107.0,,,,5,False,False,0.0,0.0
+08565,Electro Wizard,24.0,P.E.K.K.A,76.0,Poison,78.0,Zap,107.0,Zappies,108.0,3.0,2,True,True,3.0,4.0
+08580,Electro Wizard,24.0,P.E.K.K.A,76.0,Poison,78.0,Zap,107.0,,,,2,False,False,0.0,0.0
+08595,Electro Wizard,24.0,P.E.K.K.A,76.0,Poison,78.0,Zap,107.0,,,,3,False,False,0.0,0.0
+08610,Electro Wizard,24.0,P.E.K.K.A,76.0,Poison,78.0,Zap,107.0,,,,4,False,False,0.0,0.0
+08625,Electro Wizard,24.0,P.E.K.K.A,76.0,Poison,78.0,Zap,107.0,,,,4,False,False,0.0,0.0
+08640,Electro Wizard,24.0,P.E.K.K.A,76.0,Poison,78.0,Zap,107.0,,,,5,False,False,0.0,0.0
+08655,Electro Wizard,24.0,P.E.K.K.A,76.0,Poison,78.0,Zap,107.0,,,,5,False,False,0.0,0.0
+08670,Electro Wizard,24.0,P.E.K.K.A,76.0,Poison,78.0,Valkyrie,102.0,Zap,107.0,4.0,4,True,True,1.0,2.0
+08685,Electro Wizard,24.0,P.E.K.K.A,76.0,Poison,78.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+08700,Electro Wizard,24.0,P.E.K.K.A,76.0,Poison,78.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+08715,Electro Wizard,24.0,P.E.K.K.A,76.0,Poison,78.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+08730,Electro Wizard,24.0,P.E.K.K.A,76.0,Poison,78.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+08745,Electro Wizard,24.0,P.E.K.K.A,76.0,Poison,78.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+08760,Electro Wizard,24.0,P.E.K.K.A,76.0,Poison,78.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+08775,Electro Wizard,24.0,P.E.K.K.A,76.0,Poison,78.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+08790,Electro Wizard,24.0,P.E.K.K.A,76.0,Mini P.E.K.K.A,67.0,Valkyrie,102.0,Poison,78.0,3.0,4,True,True,3.0,4.0
+08805,Electro Wizard,24.0,P.E.K.K.A,76.0,Mini P.E.K.K.A,67.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+08820,Electro Wizard,24.0,P.E.K.K.A,76.0,Mini P.E.K.K.A,67.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+08835,Electro Wizard,24.0,P.E.K.K.A,76.0,Mini P.E.K.K.A,67.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+08850,Electro Wizard,24.0,P.E.K.K.A,76.0,Mini P.E.K.K.A,67.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+08865,Electro Wizard,24.0,P.E.K.K.A,76.0,Mini P.E.K.K.A,67.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+08880,Electro Wizard,24.0,P.E.K.K.A,76.0,Mini P.E.K.K.A,67.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+08895,Electro Wizard,24.0,P.E.K.K.A,76.0,Mini P.E.K.K.A,67.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+08910,Electro Wizard,24.0,P.E.K.K.A,76.0,Mini P.E.K.K.A,67.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+08925,Electro Wizard,24.0,P.E.K.K.A,76.0,Mini P.E.K.K.A,67.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+08940,Electro Wizard,24.0,P.E.K.K.A,76.0,Mini P.E.K.K.A,67.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0

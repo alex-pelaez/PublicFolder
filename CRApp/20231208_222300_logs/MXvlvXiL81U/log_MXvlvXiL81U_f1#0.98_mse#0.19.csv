@@ -1,0 +1,609 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00255,Bandit,5.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00270,Bandit,5.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00285,Bandit,5.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00300,Bandit,5.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00315,Bandit,5.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00330,Bandit,5.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00345,Bandit,5.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00360,Bandit,5.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00375,Bandit,5.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00390,Bandit,5.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00405,Bandit,5.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00420,Bandit,5.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00435,Bandit,5.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00450,Bandit,5.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00465,Bandit,5.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00480,Bandit,5.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00495,Elixir Collector,26.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,Bandit,5.0,1.0,6,True,True,3.0,3.0
+00510,Elixir Collector,26.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00525,Elixir Collector,26.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00540,Elixir Collector,26.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00555,Elixir Collector,26.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00570,Elixir Collector,26.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00585,Elixir Collector,26.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00600,Elixir Collector,26.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00615,Elixir Collector,26.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00630,Elixir Collector,26.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00645,Elixir Collector,26.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00660,Elixir Collector,26.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00675,Elixir Collector,26.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00690,Elixir Collector,26.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00705,Elixir Collector,26.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00720,Elixir Collector,26.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00735,Elixir Collector,26.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00750,Elixir Collector,26.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00765,Elixir Collector,26.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00780,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,Elixir Collector,26.0,1.0,3,True,True,6.0,6.0
+00795,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+00810,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+00825,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+00840,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+00855,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+00870,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+00885,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+00900,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+00915,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+00930,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+00945,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+00960,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00975,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00990,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01005,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01020,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01035,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01050,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01065,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01080,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01095,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01110,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01125,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+01140,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+01155,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+01170,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+01185,Battle Ram,11.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+01200,Three Musketeers,99.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,Battle Ram,11.0,1.0,5,True,True,4.0,4.0
+01215,Three Musketeers,99.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01230,Three Musketeers,99.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01245,Three Musketeers,99.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01260,Three Musketeers,99.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01275,Three Musketeers,99.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01290,Three Musketeers,99.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01305,Three Musketeers,99.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01320,Three Musketeers,99.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01335,Three Musketeers,99.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01350,Three Musketeers,99.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01365,Three Musketeers,99.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01380,Three Musketeers,99.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+01395,Three Musketeers,99.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+01410,Three Musketeers,99.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+01425,Three Musketeers,99.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+01440,Three Musketeers,99.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+01455,Royal Ghost,86.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,1.0,0,True,True,9.0,9.0
+01470,Royal Ghost,86.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+01485,Royal Ghost,86.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+01500,Royal Ghost,86.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+01515,Royal Ghost,86.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+01530,Royal Ghost,86.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+01545,Royal Ghost,86.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+01560,Royal Ghost,86.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+01575,Royal Ghost,86.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+01590,Royal Ghost,86.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+01605,Royal Ghost,86.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+01620,Royal Ghost,86.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+01635,Royal Ghost,86.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+01650,Royal Ghost,86.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+01665,Royal Ghost,86.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+01680,Royal Ghost,86.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+01695,Royal Ghost,86.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+01710,Royal Ghost,86.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+01725,Royal Ghost,86.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+01740,Royal Ghost,86.0,Barbarian Barrel,6.0,Ice Golem,53.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+01755,Royal Ghost,86.0,Barbarian Barrel,6.0,Bandit,5.0,Hunter,52.0,Ice Golem,53.0,3.0,2,True,True,2.0,2.0
+01770,Royal Ghost,86.0,Barbarian Barrel,6.0,Bandit,5.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+01785,Royal Ghost,86.0,Barbarian Barrel,6.0,Bandit,5.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+01800,Royal Ghost,86.0,Barbarian Barrel,6.0,Bandit,5.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+01815,Royal Ghost,86.0,Barbarian Barrel,6.0,Bandit,5.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+01830,Elixir Collector,26.0,Barbarian Barrel,6.0,Bandit,5.0,Hunter,52.0,Royal Ghost,86.0,1.0,0,True,True,3.0,3.0
+01845,Elixir Collector,26.0,Barbarian Barrel,6.0,Bandit,5.0,Hunter,52.0,,,,0,False,False,0.0,0.0
+01860,Elixir Collector,26.0,Barbarian Barrel,6.0,Bandit,5.0,Hunter,52.0,,,,0,False,False,0.0,0.0
+01875,Elixir Collector,26.0,Barbarian Barrel,6.0,Bandit,5.0,Hunter,52.0,,,,0,False,False,0.0,0.0
+01890,Elixir Collector,26.0,Barbarian Barrel,6.0,Bandit,5.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+01905,Elixir Collector,26.0,Barbarian Barrel,6.0,Bandit,5.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+01920,Elixir Collector,26.0,Barbarian Barrel,6.0,Bandit,5.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+01935,Elixir Collector,26.0,Barbarian Barrel,6.0,Bandit,5.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+01950,Elixir Collector,26.0,Barbarian Barrel,6.0,Bandit,5.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+01965,Elixir Collector,26.0,Barbarian Barrel,6.0,Bandit,5.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+01980,Elixir Collector,26.0,Barbarian Barrel,6.0,Bandit,5.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+01995,Elixir Collector,26.0,Barbarian Barrel,6.0,Bandit,5.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+02010,Elixir Collector,26.0,Barbarian Barrel,6.0,Bandit,5.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+02025,Elixir Collector,26.0,Barbarian Barrel,6.0,Bandit,5.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+02040,Elixir Collector,26.0,Barbarian Barrel,6.0,Bandit,5.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+02055,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,Barbarian Barrel,6.0,2.0,1,True,True,1.0,2.0
+02070,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+02085,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+02100,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+02115,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+02130,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+02145,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+02160,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+02175,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+02190,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+02205,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+02220,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+02235,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+02250,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+02265,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+02280,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+02295,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+02310,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+02325,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+02340,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+02355,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+02370,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+02385,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+02400,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+02415,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+02430,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+02445,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+02460,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+02475,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+02490,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+02505,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+02520,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+02535,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+02550,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+02565,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+02580,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+02595,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+02610,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+02625,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+02640,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+02655,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+02670,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+02685,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+02700,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+02715,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+02730,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+02745,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+02760,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+02775,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+02790,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+02805,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,Bandit,5.0,3.0,7,True,True,2.0,3.0
+02820,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+02835,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+02850,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+02865,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+02880,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+02895,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+02910,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+02925,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+02940,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+02955,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+02970,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+02985,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+03000,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+03015,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+03030,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+03045,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+03060,Elixir Collector,26.0,Battle Ram,11.0,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,3.0,7,True,True,2.0,9.0
+03075,Elixir Collector,26.0,Battle Ram,11.0,Ice Golem,53.0,Hunter,52.0,,,,1,False,True,6.0,0.0
+03090,Elixir Collector,26.0,Battle Ram,11.0,Ice Golem,53.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+03105,Elixir Collector,26.0,Battle Ram,11.0,Ice Golem,53.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+03120,Elixir Collector,26.0,Battle Ram,11.0,Ice Golem,53.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+03135,Elixir Collector,26.0,Battle Ram,11.0,Ice Golem,53.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+03150,Elixir Collector,26.0,Battle Ram,11.0,Ice Golem,53.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+03165,Elixir Collector,26.0,Battle Ram,11.0,Ice Golem,53.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+03180,Elixir Collector,26.0,Battle Ram,11.0,Ice Golem,53.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+03195,Elixir Collector,26.0,Battle Ram,11.0,Ice Golem,53.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+03210,Elixir Collector,26.0,Battle Ram,11.0,Ice Golem,53.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+03225,Elixir Collector,26.0,Battle Ram,11.0,Ice Golem,53.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03240,Elixir Collector,26.0,Battle Ram,11.0,Ice Golem,53.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03255,Elixir Collector,26.0,Battle Ram,11.0,Ice Golem,53.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03270,Elixir Collector,26.0,Battle Ram,11.0,Ice Golem,53.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03285,Elixir Collector,26.0,Battle Ram,11.0,Ice Golem,53.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03300,Elixir Collector,26.0,Battle Ram,11.0,Ice Golem,53.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03315,Elixir Collector,26.0,Battle Ram,11.0,Ice Golem,53.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03330,Elixir Collector,26.0,Battle Ram,11.0,Ice Golem,53.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03345,Elixir Collector,26.0,Battle Ram,11.0,Royal Ghost,86.0,Hunter,52.0,Ice Golem,53.0,3.0,2,True,True,2.0,2.0
+03360,Elixir Collector,26.0,Battle Ram,11.0,Royal Ghost,86.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+03375,Elixir Collector,26.0,Battle Ram,11.0,Royal Ghost,86.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+03390,Elixir Collector,26.0,Battle Ram,11.0,Royal Ghost,86.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03405,Elixir Collector,26.0,Battle Ram,11.0,Royal Ghost,86.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03420,Elixir Collector,26.0,Battle Ram,11.0,Royal Ghost,86.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03435,Elixir Collector,26.0,Battle Ram,11.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,3.0,0,True,True,3.0,3.0
+03450,Elixir Collector,26.0,Battle Ram,11.0,Barbarian Barrel,6.0,Hunter,52.0,,,,0,False,False,0.0,0.0
+03465,Elixir Collector,26.0,Battle Ram,11.0,Barbarian Barrel,6.0,Hunter,52.0,,,,0,False,False,0.0,0.0
+03480,Elixir Collector,26.0,Battle Ram,11.0,Barbarian Barrel,6.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+03495,Elixir Collector,26.0,Battle Ram,11.0,Barbarian Barrel,6.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+03510,Elixir Collector,26.0,Battle Ram,11.0,Barbarian Barrel,6.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+03525,Elixir Collector,26.0,Battle Ram,11.0,Barbarian Barrel,6.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+03540,Elixir Collector,26.0,Battle Ram,11.0,Barbarian Barrel,6.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+03555,Elixir Collector,26.0,Battle Ram,11.0,Barbarian Barrel,6.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+03570,Elixir Collector,26.0,Battle Ram,11.0,Barbarian Barrel,6.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+03585,Elixir Collector,26.0,Battle Ram,11.0,Barbarian Barrel,6.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+03600,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,Barbarian Barrel,6.0,3.0,0,True,True,2.0,2.0
+03615,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,0,False,False,0.0,0.0
+03630,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,0,False,False,0.0,0.0
+03645,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+03660,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+03675,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+03690,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+03705,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+03720,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+03735,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+03750,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+03765,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+03780,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+03795,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+03810,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03825,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03840,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03855,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03870,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03885,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03900,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+03915,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+03930,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+03945,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+03960,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+03975,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+03990,Elixir Collector,26.0,Battle Ram,11.0,Bandit,5.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+04005,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,Bandit,5.0,3.0,5,True,True,3.0,3.0
+04020,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+04035,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+04050,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+04065,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+04080,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+04095,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+04110,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+04125,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+04140,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+04155,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+04170,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+04185,Elixir Collector,26.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+04200,Ice Golem,53.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,Elixir Collector,26.0,1.0,4,True,True,5.0,6.0
+04215,Ice Golem,53.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+04230,Ice Golem,53.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+04245,Ice Golem,53.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+04260,Ice Golem,53.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+04275,Ice Golem,53.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+04290,Ice Golem,53.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+04305,Ice Golem,53.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+04320,Ice Golem,53.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+04335,Ice Golem,53.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+04350,Ice Golem,53.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+04365,Ice Golem,53.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+04380,Ice Golem,53.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+04395,Ice Golem,53.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+04410,Ice Golem,53.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+04425,Ice Golem,53.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+04440,Royal Ghost,86.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,Ice Golem,53.0,1.0,8,True,True,1.0,2.0
+04455,Royal Ghost,86.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+04470,Royal Ghost,86.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+04485,Royal Ghost,86.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,10,False,False,0.0,0.0
+04500,Royal Ghost,86.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,10,False,False,0.0,0.0
+04515,Royal Ghost,86.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,10,False,False,0.0,0.0
+04530,Barbarian Barrel,6.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,Royal Ghost,86.0,1.0,7,True,True,3.0,3.0
+04545,Barbarian Barrel,6.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+04560,Barbarian Barrel,6.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+04575,Barbarian Barrel,6.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+04590,Bandit,5.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,Barbarian Barrel,6.0,1.0,6,True,True,2.0,2.0
+04605,Bandit,5.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+04620,Bandit,5.0,Battle Ram,11.0,Three Musketeers,99.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+04635,Bandit,5.0,Battle Ram,11.0,Three Musketeers,99.0,Elixir Collector,26.0,Hunter,52.0,4.0,3,True,True,4.0,4.0
+04650,Bandit,5.0,Battle Ram,11.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04665,Bandit,5.0,Battle Ram,11.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04680,Ice Golem,53.0,Battle Ram,11.0,Three Musketeers,99.0,Elixir Collector,26.0,Bandit,5.0,1.0,2,True,True,2.0,3.0
+04695,Ice Golem,53.0,Battle Ram,11.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+04710,Ice Golem,53.0,Battle Ram,11.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+04725,Ice Golem,53.0,Battle Ram,11.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+04740,Ice Golem,53.0,Battle Ram,11.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04755,Ice Golem,53.0,Battle Ram,11.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04770,Ice Golem,53.0,Battle Ram,11.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04785,Ice Golem,53.0,Battle Ram,11.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04800,Ice Golem,53.0,Battle Ram,11.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04815,Ice Golem,53.0,Battle Ram,11.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+04830,Ice Golem,53.0,Royal Ghost,86.0,Three Musketeers,99.0,Elixir Collector,26.0,Battle Ram,11.0,2.0,2,True,True,4.0,4.0
+04845,Ice Golem,53.0,Royal Ghost,86.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+04860,Ice Golem,53.0,Royal Ghost,86.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+04875,Ice Golem,53.0,Royal Ghost,86.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+04890,Ice Golem,53.0,Royal Ghost,86.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+04905,Ice Golem,53.0,Royal Ghost,86.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04920,Ice Golem,53.0,Barbarian Barrel,6.0,Three Musketeers,99.0,Elixir Collector,26.0,Royal Ghost,86.0,2.0,1,True,True,3.0,3.0
+04935,Ice Golem,53.0,Barbarian Barrel,6.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+04950,Ice Golem,53.0,Barbarian Barrel,6.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+04965,Ice Golem,53.0,Barbarian Barrel,6.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+04980,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Elixir Collector,26.0,Barbarian Barrel,6.0,2.0,1,True,True,1.0,2.0
+04995,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+05010,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+05025,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+05040,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+05055,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+05070,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+05085,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+05100,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+05115,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+05130,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+05145,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+05160,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+05175,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+05190,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+05205,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+05220,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+05235,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+05250,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+05265,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Bandit,5.0,Elixir Collector,26.0,4.0,3,True,True,6.0,6.0
+05280,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+05295,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+05310,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+05325,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+05340,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+05355,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+05370,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+05385,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+05400,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+05415,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+05430,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+05445,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+05460,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+05475,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+05490,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+05505,Ice Golem,53.0,Hunter,52.0,Three Musketeers,99.0,Bandit,5.0,,,,10,False,False,0.0,0.0
+05520,Ice Golem,53.0,Hunter,52.0,Battle Ram,11.0,Bandit,5.0,Three Musketeers,99.0,3.0,1,True,True,9.0,9.0
+05535,Ice Golem,53.0,Hunter,52.0,Battle Ram,11.0,Bandit,5.0,,,,1,False,False,0.0,0.0
+05550,Ice Golem,53.0,Hunter,52.0,Battle Ram,11.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+05565,Ice Golem,53.0,Hunter,52.0,Battle Ram,11.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+05580,Ice Golem,53.0,Hunter,52.0,Battle Ram,11.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+05595,Ice Golem,53.0,Hunter,52.0,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,4.0,3,True,True,2.0,3.0
+05610,Ice Golem,53.0,Hunter,52.0,Battle Ram,11.0,Royal Ghost,86.0,,,,1,False,False,0.0,0.0
+05625,Ice Golem,53.0,Hunter,52.0,Battle Ram,11.0,Royal Ghost,86.0,,,,1,False,False,0.0,0.0
+05640,Ice Golem,53.0,Hunter,52.0,Battle Ram,11.0,Royal Ghost,86.0,,,,2,False,False,0.0,0.0
+05655,Ice Golem,53.0,Hunter,52.0,Battle Ram,11.0,Royal Ghost,86.0,,,,2,False,False,0.0,0.0
+05670,Ice Golem,53.0,Hunter,52.0,Battle Ram,11.0,Royal Ghost,86.0,,,,2,False,False,0.0,0.0
+05685,Ice Golem,53.0,Hunter,52.0,Battle Ram,11.0,Royal Ghost,86.0,,,,3,False,False,0.0,0.0
+05700,Ice Golem,53.0,Hunter,52.0,Battle Ram,11.0,Royal Ghost,86.0,,,,3,False,False,0.0,0.0
+05715,Ice Golem,53.0,Hunter,52.0,Battle Ram,11.0,Royal Ghost,86.0,,,,3,False,False,0.0,0.0
+05730,Ice Golem,53.0,Hunter,52.0,Battle Ram,11.0,Royal Ghost,86.0,,,,4,False,False,0.0,0.0
+05745,Ice Golem,53.0,Hunter,52.0,Battle Ram,11.0,Royal Ghost,86.0,,,,4,False,False,0.0,0.0
+05760,Ice Golem,53.0,Hunter,52.0,Battle Ram,11.0,Royal Ghost,86.0,,,,5,False,False,0.0,0.0
+05775,Ice Golem,53.0,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Battle Ram,11.0,3.0,2,True,True,3.0,4.0
+05790,Ice Golem,53.0,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,,,,2,False,False,0.0,0.0
+05805,Ice Golem,53.0,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,,,,3,False,False,0.0,0.0
+05820,Ice Golem,53.0,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,,,,4,False,False,0.0,0.0
+05835,Elixir Collector,26.0,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Ice Golem,53.0,1.0,2,True,True,2.0,2.0
+05850,Elixir Collector,26.0,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,,,,3,False,False,0.0,0.0
+05865,Elixir Collector,26.0,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,,,,3,False,False,0.0,0.0
+05880,Elixir Collector,26.0,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,,,,3,False,False,0.0,0.0
+05895,Elixir Collector,26.0,Hunter,52.0,Barbarian Barrel,6.0,Three Musketeers,99.0,Royal Ghost,86.0,4.0,3,True,True,2.0,3.0
+05910,Elixir Collector,26.0,Hunter,52.0,Barbarian Barrel,6.0,Three Musketeers,99.0,,,,1,False,False,0.0,0.0
+05925,Elixir Collector,26.0,Hunter,52.0,Barbarian Barrel,6.0,Three Musketeers,99.0,,,,1,False,False,0.0,0.0
+05940,Elixir Collector,26.0,Hunter,52.0,Barbarian Barrel,6.0,Three Musketeers,99.0,,,,2,False,False,0.0,0.0
+05955,Elixir Collector,26.0,Hunter,52.0,Barbarian Barrel,6.0,Three Musketeers,99.0,,,,2,False,False,0.0,0.0
+05970,Elixir Collector,26.0,Hunter,52.0,Barbarian Barrel,6.0,Three Musketeers,99.0,,,,2,False,False,0.0,0.0
+05985,Elixir Collector,26.0,Hunter,52.0,Barbarian Barrel,6.0,Three Musketeers,99.0,,,,3,False,False,0.0,0.0
+06000,Elixir Collector,26.0,Hunter,52.0,Bandit,5.0,Three Musketeers,99.0,Barbarian Barrel,6.0,3.0,1,True,True,2.0,2.0
+06015,Elixir Collector,26.0,Hunter,52.0,Bandit,5.0,Three Musketeers,99.0,,,,3,False,False,0.0,0.0
+06030,Elixir Collector,26.0,Hunter,52.0,Bandit,5.0,Three Musketeers,99.0,,,,3,False,False,0.0,0.0
+06045,Elixir Collector,26.0,Hunter,52.0,Bandit,5.0,Three Musketeers,99.0,,,,3,False,False,0.0,0.0
+06060,Elixir Collector,26.0,Hunter,52.0,Bandit,5.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+06075,Elixir Collector,26.0,Hunter,52.0,Bandit,5.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+06090,Elixir Collector,26.0,Hunter,52.0,Bandit,5.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+06105,Elixir Collector,26.0,Hunter,52.0,Bandit,5.0,Three Musketeers,99.0,,,,5,False,False,0.0,0.0
+06120,Elixir Collector,26.0,Hunter,52.0,Bandit,5.0,Three Musketeers,99.0,,,,5,False,False,0.0,0.0
+06135,Elixir Collector,26.0,Hunter,52.0,Bandit,5.0,Three Musketeers,99.0,,,,5,False,False,0.0,0.0
+06150,Elixir Collector,26.0,Hunter,52.0,Bandit,5.0,Three Musketeers,99.0,,,,6,False,False,0.0,0.0
+06165,Elixir Collector,26.0,Hunter,52.0,Bandit,5.0,Three Musketeers,99.0,,,,6,False,False,0.0,0.0
+06180,Elixir Collector,26.0,Hunter,52.0,Bandit,5.0,Three Musketeers,99.0,,,,6,False,False,0.0,0.0
+06195,Elixir Collector,26.0,Hunter,52.0,Bandit,5.0,Three Musketeers,99.0,,,,7,False,False,0.0,0.0
+06210,Elixir Collector,26.0,Hunter,52.0,Bandit,5.0,Three Musketeers,99.0,,,,7,False,False,0.0,0.0
+06225,Elixir Collector,26.0,Hunter,52.0,Bandit,5.0,Three Musketeers,99.0,,,,8,False,False,0.0,0.0
+06240,Elixir Collector,26.0,Hunter,52.0,Bandit,5.0,Three Musketeers,99.0,,,,8,False,False,0.0,0.0
+06255,Elixir Collector,26.0,Hunter,52.0,Bandit,5.0,Three Musketeers,99.0,,,,8,False,False,0.0,0.0
+06270,Elixir Collector,26.0,Hunter,52.0,Bandit,5.0,Three Musketeers,99.0,,,,10,False,False,0.0,0.0
+06285,Elixir Collector,26.0,Hunter,52.0,Bandit,5.0,Three Musketeers,99.0,,,,10,False,False,0.0,0.0
+06300,Elixir Collector,26.0,Hunter,52.0,Battle Ram,11.0,Three Musketeers,99.0,Bandit,5.0,3.0,7,True,True,3.0,3.0
+06315,Elixir Collector,26.0,Hunter,52.0,Battle Ram,11.0,Three Musketeers,99.0,,,,7,False,False,0.0,0.0
+06330,Elixir Collector,26.0,Hunter,52.0,Battle Ram,11.0,Three Musketeers,99.0,,,,7,False,False,0.0,0.0
+06345,Elixir Collector,26.0,Hunter,52.0,Battle Ram,11.0,Three Musketeers,99.0,,,,8,False,False,0.0,0.0
+06360,Elixir Collector,26.0,Hunter,52.0,Battle Ram,11.0,Three Musketeers,99.0,,,,8,False,False,0.0,0.0
+06375,Elixir Collector,26.0,Hunter,52.0,Ice Golem,53.0,Three Musketeers,99.0,Battle Ram,11.0,3.0,4,True,True,4.0,4.0
+06390,Elixir Collector,26.0,Hunter,52.0,Ice Golem,53.0,Three Musketeers,99.0,,,,5,False,False,0.0,0.0
+06405,Elixir Collector,26.0,Hunter,52.0,Ice Golem,53.0,Three Musketeers,99.0,,,,5,False,False,0.0,0.0
+06420,Elixir Collector,26.0,Hunter,52.0,Ice Golem,53.0,Three Musketeers,99.0,,,,5,False,False,0.0,0.0
+06435,Elixir Collector,26.0,Hunter,52.0,Ice Golem,53.0,Three Musketeers,99.0,,,,6,False,False,0.0,0.0
+06450,Elixir Collector,26.0,Hunter,52.0,Ice Golem,53.0,Three Musketeers,99.0,,,,6,False,False,0.0,0.0
+06465,Elixir Collector,26.0,Hunter,52.0,Ice Golem,53.0,Three Musketeers,99.0,,,,7,False,False,0.0,0.0
+06480,Elixir Collector,26.0,Hunter,52.0,Ice Golem,53.0,Three Musketeers,99.0,,,,3,False,False,0.0,0.0
+06495,Elixir Collector,26.0,Royal Ghost,86.0,Ice Golem,53.0,Three Musketeers,99.0,Hunter,52.0,2.0,3,True,True,4.0,4.0
+06510,Elixir Collector,26.0,Royal Ghost,86.0,Ice Golem,53.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+06525,Elixir Collector,26.0,Royal Ghost,86.0,Ice Golem,53.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+06540,Elixir Collector,26.0,Royal Ghost,86.0,Ice Golem,53.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+06555,Elixir Collector,26.0,Royal Ghost,86.0,Ice Golem,53.0,Three Musketeers,99.0,,,,5,False,False,0.0,0.0
+06570,Elixir Collector,26.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Three Musketeers,99.0,Ice Golem,53.0,3.0,3,True,True,2.0,2.0
+06585,Elixir Collector,26.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Three Musketeers,99.0,,,,3,False,False,0.0,0.0
+06600,Elixir Collector,26.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+06615,Elixir Collector,26.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+06630,Elixir Collector,26.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+06645,Elixir Collector,26.0,Bandit,5.0,Barbarian Barrel,6.0,Three Musketeers,99.0,Royal Ghost,86.0,2.0,2,True,True,2.0,3.0
+06660,Elixir Collector,26.0,Bandit,5.0,Barbarian Barrel,6.0,Three Musketeers,99.0,,,,2,False,False,0.0,0.0
+06675,Elixir Collector,26.0,Bandit,5.0,Barbarian Barrel,6.0,Three Musketeers,99.0,,,,3,False,False,0.0,0.0
+06690,Elixir Collector,26.0,Bandit,5.0,Barbarian Barrel,6.0,Three Musketeers,99.0,,,,3,False,False,0.0,0.0
+06705,Elixir Collector,26.0,Bandit,5.0,Barbarian Barrel,6.0,Three Musketeers,99.0,,,,3,False,False,0.0,0.0
+06720,Elixir Collector,26.0,Bandit,5.0,Barbarian Barrel,6.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+06735,Elixir Collector,26.0,Bandit,5.0,Barbarian Barrel,6.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+06750,Elixir Collector,26.0,Bandit,5.0,Barbarian Barrel,6.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+06765,Elixir Collector,26.0,Battle Ram,11.0,Barbarian Barrel,6.0,Three Musketeers,99.0,Bandit,5.0,2.0,2,True,True,2.0,3.0
+06780,Elixir Collector,26.0,Battle Ram,11.0,Barbarian Barrel,6.0,Three Musketeers,99.0,,,,2,False,False,0.0,0.0
+06795,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,Barbarian Barrel,6.0,3.0,0,True,True,2.0,2.0
+06810,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,1,False,False,0.0,0.0
+06825,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,1,False,False,0.0,0.0
+06840,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,2,False,False,0.0,0.0
+06855,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,2,False,False,0.0,0.0
+06870,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,2,False,False,0.0,0.0
+06885,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,3,False,False,0.0,0.0
+06900,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,3,False,False,0.0,0.0
+06915,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,3,False,False,0.0,0.0
+06930,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+06945,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+06960,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+06975,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,5,False,False,0.0,0.0
+06990,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,5,False,False,0.0,0.0
+07005,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,5,False,False,0.0,0.0
+07020,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,6,False,False,0.0,0.0
+07035,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,6,False,False,0.0,0.0
+07050,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,7,False,False,0.0,0.0
+07065,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,7,False,False,0.0,0.0
+07080,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,7,False,False,0.0,0.0
+07095,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,8,False,False,0.0,0.0
+07110,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,8,False,False,0.0,0.0
+07125,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,8,False,False,0.0,0.0
+07140,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,9,False,False,0.0,0.0
+07155,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,9,False,False,0.0,0.0
+07170,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,9,False,False,0.0,0.0
+07185,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,Three Musketeers,99.0,4.0,1,True,True,8.0,9.0
+07200,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,1,False,False,0.0,0.0
+07215,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,1,False,False,0.0,0.0
+07230,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+07245,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+07260,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+07275,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+07290,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+07305,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+07320,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+07335,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+07350,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+07365,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+07380,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+07395,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+07410,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+07425,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,7,False,False,0.0,0.0
+07440,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,7,False,False,0.0,0.0
+07455,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,8,False,False,0.0,0.0
+07470,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,9,False,False,0.0,0.0
+07485,Elixir Collector,26.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,9,False,False,0.0,0.0
+07500,Royal Ghost,86.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,Elixir Collector,26.0,1.0,4,True,True,5.0,6.0
+07515,Royal Ghost,86.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+07530,Royal Ghost,86.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+07545,Royal Ghost,86.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+07560,Royal Ghost,86.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+07575,Royal Ghost,86.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+07590,Royal Ghost,86.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,7,False,False,0.0,0.0
+07605,Royal Ghost,86.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,7,False,False,0.0,0.0
+07620,Royal Ghost,86.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,8,False,False,0.0,0.0
+07635,Royal Ghost,86.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,8,False,False,0.0,0.0
+07650,Royal Ghost,86.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,9,False,False,0.0,0.0
+07665,Royal Ghost,86.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,9,False,False,0.0,0.0
+07680,Bandit,5.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,Royal Ghost,86.0,1.0,7,True,True,2.0,3.0
+07695,Bandit,5.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,8,False,False,0.0,0.0
+07710,Bandit,5.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,8,False,False,0.0,0.0
+07725,Bandit,5.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,9,False,False,0.0,0.0
+07740,Barbarian Barrel,6.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,Bandit,5.0,1.0,6,True,True,3.0,3.0
+07755,Barbarian Barrel,6.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,7,False,False,0.0,0.0
+07770,Barbarian Barrel,6.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,7,False,False,0.0,0.0
+07785,Barbarian Barrel,6.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,9,False,False,0.0,0.0
+07800,Barbarian Barrel,6.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,9,False,False,0.0,0.0
+07815,Barbarian Barrel,6.0,Battle Ram,11.0,Hunter,52.0,Ice Golem,53.0,,,,10,False,False,0.0,0.0
+07830,Barbarian Barrel,6.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,Ice Golem,53.0,4.0,8,True,True,2.0,2.0
+07845,Barbarian Barrel,6.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,8,False,False,0.0,0.0
+07860,Barbarian Barrel,6.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,9,False,False,0.0,0.0
+07875,Barbarian Barrel,6.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,9,False,False,0.0,0.0
+07890,Barbarian Barrel,6.0,Battle Ram,11.0,Hunter,52.0,Three Musketeers,99.0,,,,10,False,False,0.0,0.0
+07905,Barbarian Barrel,6.0,Battle Ram,11.0,Elixir Collector,26.0,Three Musketeers,99.0,Hunter,52.0,3.0,6,True,True,4.0,4.0
+07920,Barbarian Barrel,6.0,Battle Ram,11.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,7,False,False,0.0,0.0
+07935,Barbarian Barrel,6.0,Battle Ram,11.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,7,False,False,0.0,0.0
+07950,Barbarian Barrel,6.0,Battle Ram,11.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,8,False,False,0.0,0.0
+07965,Barbarian Barrel,6.0,Battle Ram,11.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,8,False,False,0.0,0.0
+07980,Barbarian Barrel,6.0,Battle Ram,11.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,9,False,False,0.0,0.0
+07995,Barbarian Barrel,6.0,Battle Ram,11.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,9,False,False,0.0,0.0
+08010,Barbarian Barrel,6.0,Royal Ghost,86.0,Elixir Collector,26.0,Three Musketeers,99.0,Battle Ram,11.0,2.0,6,True,True,3.0,4.0
+08025,Barbarian Barrel,6.0,Royal Ghost,86.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,6,False,False,0.0,0.0
+08040,Barbarian Barrel,6.0,Royal Ghost,86.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,8,False,False,0.0,0.0
+08055,Barbarian Barrel,6.0,Royal Ghost,86.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,8,False,False,0.0,0.0
+08070,Barbarian Barrel,6.0,Bandit,5.0,Elixir Collector,26.0,Three Musketeers,99.0,Royal Ghost,86.0,2.0,6,True,True,2.0,3.0
+08085,Ice Golem,53.0,Bandit,5.0,Elixir Collector,26.0,Three Musketeers,99.0,Barbarian Barrel,6.0,1.0,5,True,True,1.0,2.0
+08100,Ice Golem,53.0,Bandit,5.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,5,False,False,0.0,0.0
+08115,Ice Golem,53.0,Bandit,5.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,6,False,False,0.0,0.0
+08130,Ice Golem,53.0,Bandit,5.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,6,False,False,0.0,0.0
+08145,Ice Golem,53.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,Bandit,5.0,2.0,4,True,True,2.0,3.0
+08160,Ice Golem,53.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+08175,Ice Golem,53.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,5,False,False,0.0,0.0
+08190,Ice Golem,53.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,5,False,False,0.0,0.0
+08205,Ice Golem,53.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,6,False,False,0.0,0.0
+08220,Ice Golem,53.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,6,False,False,0.0,0.0
+08235,Ice Golem,53.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,3,False,False,0.0,0.0
+08250,Battle Ram,11.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,Ice Golem,53.0,1.0,5,True,True,3.0,2.0
+08265,Battle Ram,11.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,6,False,False,0.0,0.0
+08280,Battle Ram,11.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,7,False,False,0.0,0.0
+08295,Battle Ram,11.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,8,False,False,0.0,0.0
+08310,Battle Ram,11.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,8,False,False,0.0,0.0
+08325,Battle Ram,11.0,Royal Ghost,86.0,Elixir Collector,26.0,Three Musketeers,99.0,Hunter,52.0,2.0,5,True,True,3.0,4.0
+08340,Battle Ram,11.0,Royal Ghost,86.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,6,False,False,0.0,0.0
+08355,Battle Ram,11.0,Royal Ghost,86.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,6,False,False,0.0,0.0
+08370,Battle Ram,11.0,Barbarian Barrel,6.0,Elixir Collector,26.0,Three Musketeers,99.0,Royal Ghost,86.0,2.0,4,True,True,2.0,3.0
+08385,Battle Ram,11.0,Barbarian Barrel,6.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+08400,Battle Ram,11.0,Barbarian Barrel,6.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,5,False,False,0.0,0.0
+08415,Bandit,5.0,Barbarian Barrel,6.0,Elixir Collector,26.0,Three Musketeers,99.0,Battle Ram,11.0,1.0,1,True,True,4.0,4.0
+08430,Bandit,5.0,Barbarian Barrel,6.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,2,False,False,0.0,0.0
+08445,Bandit,5.0,Barbarian Barrel,6.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,2,False,False,0.0,0.0
+08460,Bandit,5.0,Ice Golem,53.0,Elixir Collector,26.0,Three Musketeers,99.0,Barbarian Barrel,6.0,2.0,2,True,False,0.0,2.0
+08475,Bandit,5.0,Ice Golem,53.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,2,False,False,0.0,0.0
+08490,Bandit,5.0,Ice Golem,53.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,2,False,False,0.0,0.0
+08505,Bandit,5.0,Ice Golem,53.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,3,False,False,0.0,0.0
+08520,Bandit,5.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,Ice Golem,53.0,2.0,3,True,True,1.0,2.0
+08535,Bandit,5.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,2,False,False,0.0,0.0
+08550,Bandit,5.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,3,False,False,0.0,0.0
+08565,Bandit,5.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+08580,Bandit,5.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+08595,Bandit,5.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,5,False,False,0.0,0.0
+08610,Royal Ghost,86.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,Bandit,5.0,1.0,2,True,True,3.0,3.0
+08625,Royal Ghost,86.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,3,False,False,0.0,0.0
+08640,Royal Ghost,86.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,3,False,False,0.0,0.0
+08655,Royal Ghost,86.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+08670,Battle Ram,11.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,Royal Ghost,86.0,1.0,2,True,True,2.0,3.0
+08685,Battle Ram,11.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,2,False,False,0.0,0.0
+08700,Battle Ram,11.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,3,False,False,0.0,0.0
+08715,Battle Ram,11.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,3,False,False,0.0,0.0
+08730,Battle Ram,11.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+08745,Battle Ram,11.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+08760,Battle Ram,11.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,5,False,False,0.0,0.0
+08775,Battle Ram,11.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,5,False,False,0.0,0.0
+08790,Barbarian Barrel,6.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,Battle Ram,11.0,1.0,2,True,True,3.0,4.0
+08805,Barbarian Barrel,6.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,3,False,False,0.0,0.0
+08820,Barbarian Barrel,6.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+08835,Ice Golem,53.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,Barbarian Barrel,6.0,1.0,2,True,True,2.0,2.0
+08850,Ice Golem,53.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,3,False,False,0.0,0.0
+08865,Ice Golem,53.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+08880,Ice Golem,53.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+08895,Ice Golem,53.0,Hunter,52.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,5,False,False,0.0,0.0
+08910,Ice Golem,53.0,Bandit,5.0,Elixir Collector,26.0,Three Musketeers,99.0,Hunter,52.0,2.0,1,True,True,4.0,4.0
+08925,Ice Golem,53.0,Bandit,5.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,2,False,False,0.0,0.0
+08940,Ice Golem,53.0,Bandit,5.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,2,False,False,0.0,0.0
+08955,Ice Golem,53.0,Bandit,5.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,3,False,False,0.0,0.0
+08970,Ice Golem,53.0,Bandit,5.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,3,False,False,0.0,0.0
+08985,Ice Golem,53.0,Royal Ghost,86.0,Elixir Collector,26.0,Three Musketeers,99.0,Bandit,5.0,2.0,1,True,True,2.0,3.0
+09000,Ice Golem,53.0,Royal Ghost,86.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,1,False,False,0.0,0.0
+09015,Ice Golem,53.0,Royal Ghost,86.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,2,False,False,0.0,0.0
+09030,Ice Golem,53.0,Royal Ghost,86.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,2,False,False,0.0,0.0
+09045,Ice Golem,53.0,Royal Ghost,86.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,3,False,False,0.0,0.0
+09060,Ice Golem,53.0,Royal Ghost,86.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+09075,Ice Golem,53.0,Battle Ram,11.0,Elixir Collector,26.0,Three Musketeers,99.0,Royal Ghost,86.0,2.0,2,True,True,2.0,3.0
+09090,Ice Golem,53.0,Battle Ram,11.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,3,False,False,0.0,0.0
+09105,Ice Golem,53.0,Battle Ram,11.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,3,False,False,0.0,0.0
+09120,Ice Golem,53.0,Battle Ram,11.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+09135,Ice Golem,53.0,Battle Ram,11.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,4,False,False,0.0,0.0
+09150,Ice Golem,53.0,Battle Ram,11.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,5,False,False,0.0,0.0
+09165,Ice Golem,53.0,Battle Ram,11.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,5,False,False,0.0,0.0
+09180,Ice Golem,53.0,Battle Ram,11.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,6,False,False,0.0,0.0
+09195,Ice Golem,53.0,Battle Ram,11.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,6,False,False,0.0,0.0
+09210,Ice Golem,53.0,Battle Ram,11.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,7,False,False,0.0,0.0
+09225,Ice Golem,53.0,Battle Ram,11.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,7,False,False,0.0,0.0
+09240,Ice Golem,53.0,Battle Ram,11.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,7,False,False,0.0,0.0
+09255,Ice Golem,53.0,Battle Ram,11.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,7,False,False,0.0,0.0
+09270,Ice Golem,53.0,Battle Ram,11.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,7,False,False,0.0,0.0
+09285,Ice Golem,53.0,Battle Ram,11.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,7,False,False,0.0,0.0
+09300,Ice Golem,53.0,Battle Ram,11.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,7,False,False,0.0,0.0
+09315,Ice Golem,53.0,Battle Ram,11.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,7,False,False,0.0,0.0
+09330,Ice Golem,53.0,Battle Ram,11.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,7,False,False,0.0,0.0
+09345,Ice Golem,53.0,Battle Ram,11.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,7,False,False,0.0,0.0
+09360,Ice Golem,53.0,Battle Ram,11.0,Elixir Collector,26.0,Three Musketeers,99.0,,,,7,False,False,0.0,0.0

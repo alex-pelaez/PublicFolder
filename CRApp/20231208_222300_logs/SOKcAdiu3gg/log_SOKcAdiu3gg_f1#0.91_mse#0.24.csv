@@ -1,0 +1,555 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Goblin Cage,40.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+00255,Goblin Cage,40.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+00270,Goblin Cage,40.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+00285,Goblin Cage,40.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+00300,Goblin Cage,40.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+00315,Goblin Cage,40.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+00330,Goblin Cage,40.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+00345,Goblin Cage,40.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+00360,Goblin Cage,40.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+00375,Goblin Cage,40.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+00390,Goblin Cage,40.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+00405,Goblin Cage,40.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+00420,Goblin Cage,40.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+00435,Goblin Cage,40.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+00450,Goblin Cage,40.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+00465,Goblin Cage,40.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+00480,Goblin Cage,40.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+00495,Goblin Cage,40.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+00510,Goblin Cage,40.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+00525,Goblin Cage,40.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+00540,Goblin Cage,40.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00555,Goblin Cage,40.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00570,Goblin Cage,40.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00585,Goblin Cage,40.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00600,Goblin Cage,40.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00615,Goblin Cage,40.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00630,Heal Spirit,50.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,Goblin Cage,40.0,1.0,6,True,True,4.0,4.0
+00645,Heal Spirit,50.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+00660,Heal Spirit,50.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+00675,Heal Spirit,50.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+00690,Heal Spirit,50.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+00705,Heal Spirit,50.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+00720,Heal Spirit,50.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+00735,Heal Spirit,50.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+00750,Heal Spirit,50.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+00765,Heal Spirit,50.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+00780,Heal Spirit,50.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+00795,Heal Spirit,50.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+00810,Heal Spirit,50.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+00825,Heal Spirit,50.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+00840,Heal Spirit,50.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+00855,Heal Spirit,50.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+00870,Heal Spirit,50.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+00885,Heal Spirit,50.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,Cannon Cart,16.0,2.0,3,True,True,6.0,5.0
+00900,Heal Spirit,50.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+00915,Heal Spirit,50.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+00930,Heal Spirit,50.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+00945,Heal Spirit,50.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+00960,Heal Spirit,50.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+00975,Heal Spirit,50.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+00990,Heal Spirit,50.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+01005,Heal Spirit,50.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+01020,Heal Spirit,50.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+01035,Heal Spirit,50.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01050,Heal Spirit,50.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01065,Heal Spirit,50.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01080,Heal Spirit,50.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,Baby Dragon,3.0,3.0,1,True,True,4.0,4.0
+01095,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,Heal Spirit,50.0,1.0,0,True,True,1.0,1.0
+01110,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,0,False,False,0.0,0.0
+01125,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+01140,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+01155,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+01170,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+01185,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+01200,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+01215,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+01230,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+01245,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+01260,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+01275,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+01290,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+01305,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+01320,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+01335,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+01350,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+01365,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+01380,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+01395,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+01410,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+01425,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+01440,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+01455,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01470,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01485,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01500,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01515,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01530,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01545,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01560,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01575,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01590,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01605,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01620,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01635,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01650,Lightning,60.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01665,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,Fisherman,32.0,3.0,4,True,True,3.0,3.0
+01680,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+01695,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+01710,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01725,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01740,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01755,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01770,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01785,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01800,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01815,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01830,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01845,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01860,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01875,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01890,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01905,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01920,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01935,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01950,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01965,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01980,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01995,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02010,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02025,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02040,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02055,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+02070,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+02085,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+02100,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+02115,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+02130,Lightning,60.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+02145,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,Goblin Cage,40.0,3.0,6,True,True,4.0,4.0
+02160,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02175,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02190,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02205,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02220,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02235,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02250,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02265,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02280,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02295,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02310,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02325,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02340,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02355,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02370,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02385,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02400,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+02415,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+02430,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+02445,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+02460,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+02475,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+02490,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+02505,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+02520,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+02535,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+02550,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Baby Dragon,3.0,Electro Wizard,24.0,4.0,6,True,True,4.0,4.0
+02565,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+02580,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+02595,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+02610,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+02625,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+02640,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+02655,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+02670,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+02685,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+02700,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+02715,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Baby Dragon,3.0,,,,8,False,False,0.0,0.0
+02730,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Baby Dragon,3.0,,,,8,False,False,0.0,0.0
+02745,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Baby Dragon,3.0,,,,8,False,False,0.0,0.0
+02760,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Baby Dragon,3.0,,,,8,False,False,0.0,0.0
+02775,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Baby Dragon,3.0,,,,8,False,False,0.0,0.0
+02790,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Baby Dragon,3.0,,,,8,False,False,0.0,0.0
+02805,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Baby Dragon,3.0,,,,9,False,False,0.0,0.0
+02820,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Baby Dragon,3.0,,,,9,False,False,0.0,0.0
+02835,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Baby Dragon,3.0,,,,9,False,False,0.0,0.0
+02850,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Baby Dragon,3.0,,,,9,False,False,0.0,0.0
+02865,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Heal Spirit,50.0,Baby Dragon,3.0,4.0,5,True,True,4.0,4.0
+02880,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+02895,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+02910,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+02925,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+02940,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+02955,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+02970,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+02985,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+03000,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+03015,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+03030,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+03045,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+03060,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+03075,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+03090,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+03105,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+03120,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+03135,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+03150,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+03165,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+03180,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Fisherman,32.0,Heal Spirit,50.0,4.0,8,True,True,1.0,1.0
+03195,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+03210,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+03225,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+03240,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+03255,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+03270,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+03285,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+03300,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Goblin Cage,40.0,Fisherman,32.0,4.0,10,True,True,3.0,3.0
+03315,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Goblin Cage,40.0,,,,10,False,False,0.0,0.0
+03330,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Goblin Cage,40.0,,,,7,False,False,0.0,0.0
+03345,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Goblin Cage,40.0,,,,7,False,False,0.0,0.0
+03360,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Goblin Cage,40.0,,,,7,False,False,0.0,0.0
+03375,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Goblin Cage,40.0,,,,7,False,False,0.0,0.0
+03390,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Goblin Cage,40.0,,,,8,False,False,0.0,0.0
+03405,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Goblin Cage,40.0,,,,8,False,False,0.0,0.0
+03420,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,Cannon Cart,16.0,3.0,8,True,False,0.0,5.0
+03435,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,Goblin Cage,40.0,4.0,4,True,True,4.0,4.0
+03450,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+03465,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+03480,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03495,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03510,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03525,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03540,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03555,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03570,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03585,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03600,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03615,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03630,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03645,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03660,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03675,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03690,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03705,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03720,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03735,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03750,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03765,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03780,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,2,False,True,6.0,0.0
+03795,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+03810,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+03825,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+03840,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+03855,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03870,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03885,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03900,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03915,Lightning,60.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03930,Heal Spirit,50.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,Lightning,60.0,1.0,0,True,True,6.0,6.0
+03945,Heal Spirit,50.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+03960,Heal Spirit,50.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+03975,Heal Spirit,50.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+03990,Fisherman,32.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,Heal Spirit,50.0,1.0,1,True,True,1.0,1.0
+04005,Fisherman,32.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+04020,Fisherman,32.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+04035,Fisherman,32.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+04050,Fisherman,32.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+04065,Fisherman,32.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+04080,Fisherman,32.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+04095,Fisherman,32.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+04110,Fisherman,32.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04125,Fisherman,32.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04140,Fisherman,32.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04155,Fisherman,32.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04170,Fisherman,32.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04185,Fisherman,32.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04200,Fisherman,32.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04215,Fisherman,32.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04230,Fisherman,32.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04245,Fisherman,32.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04260,Fisherman,32.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04275,Fisherman,32.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,Baby Dragon,3.0,3.0,4,True,True,3.0,4.0
+04290,Fisherman,32.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04305,Fisherman,32.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04320,Fisherman,32.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04335,Fisherman,32.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04350,Fisherman,32.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04365,Fisherman,32.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04380,Fisherman,32.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04395,Fisherman,32.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04410,Fisherman,32.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04425,Fisherman,32.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04440,Fisherman,32.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,Goblin Cage,40.0,3.0,4,True,True,3.0,4.0
+04455,Fisherman,32.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04470,Fisherman,32.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04485,Fisherman,32.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04500,Fisherman,32.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04515,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,Fisherman,32.0,1.0,2,True,True,3.0,3.0
+04530,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+04545,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+04560,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+04575,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04590,Lightning,60.0,Heal Spirit,50.0,Cannon Cart,16.0,Electro Wizard,24.0,Barbarian Barrel,6.0,2.0,2,True,True,2.0,2.0
+04605,Lightning,60.0,Heal Spirit,50.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+04620,Lightning,60.0,Heal Spirit,50.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+04635,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,Heal Spirit,50.0,2.0,2,True,True,1.0,1.0
+04650,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+04665,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+04680,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+04695,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04710,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04725,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04740,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04755,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04770,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04785,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04800,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04815,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04830,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04845,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04860,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+04875,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+04890,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+04905,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,Cannon Cart,16.0,3.0,3,True,True,5.0,5.0
+04920,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+04935,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+04950,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04965,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04980,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04995,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05010,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05025,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05040,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05055,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05070,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+05085,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+05100,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+05115,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,Lightning,60.0,1.0,2,True,True,5.0,6.0
+05130,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+05145,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+05160,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+05175,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+05190,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+05205,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05220,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05235,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05250,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05265,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05280,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05295,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05310,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05325,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+05340,Fisherman,32.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Goblin Cage,40.0,3.0,3,True,True,4.0,4.0
+05355,Fisherman,32.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+05370,Fisherman,32.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05385,Fisherman,32.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05400,Fisherman,32.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05415,Heal Spirit,50.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Fisherman,32.0,1.0,2,True,True,2.0,3.0
+05430,Heal Spirit,50.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+05445,Heal Spirit,50.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+05460,Heal Spirit,50.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+05475,Heal Spirit,50.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+05490,Heal Spirit,50.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05505,Heal Spirit,50.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05520,Heal Spirit,50.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05535,Heal Spirit,50.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05550,Heal Spirit,50.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05565,Heal Spirit,50.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,Barbarian Barrel,6.0,3.0,3,True,True,2.0,2.0
+05580,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,Heal Spirit,50.0,1.0,3,True,False,0.0,1.0
+05595,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+05610,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+05625,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05640,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05655,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05670,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05685,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05700,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05715,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05730,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05745,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+05760,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+05775,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+05790,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+05805,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+05820,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+05835,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+05850,Lightning,60.0,Baby Dragon,3.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+05865,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,Cannon Cart,16.0,3.0,3,True,True,6.0,5.0
+05880,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05895,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05910,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05925,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05940,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05955,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05970,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05985,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+06000,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+06015,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+06030,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+06045,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+06060,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+06075,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+06090,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+06105,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+06120,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+06135,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Fisherman,32.0,Electro Wizard,24.0,4.0,6,True,True,4.0,4.0
+06150,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+06165,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+06180,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+06195,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+06210,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+06225,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Barbarian Barrel,6.0,Fisherman,32.0,4.0,5,True,True,3.0,3.0
+06240,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06255,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06270,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Heal Spirit,50.0,Barbarian Barrel,6.0,4.0,4,True,True,2.0,2.0
+06285,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+06300,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+06315,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+06330,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+06345,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+06360,Lightning,60.0,Baby Dragon,3.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+06375,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,Heal Spirit,50.0,Lightning,60.0,1.0,7,True,True,6.0,6.0
+06390,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,1,False,False,0.0,0.0
+06405,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,1,False,False,0.0,0.0
+06420,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+06435,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+06450,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+06465,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+06480,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+06495,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+06510,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+06525,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+06540,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+06555,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+06570,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+06585,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,Heal Spirit,50.0,4.0,5,True,False,0.0,1.0
+06600,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+06615,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+06630,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+06645,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+06660,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+06675,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+06690,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,Cannon Cart,16.0,1.0,7,True,False,0.0,5.0
+06705,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+06720,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+06735,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+06750,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+06765,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,3,False,True,5.0,0.0
+06780,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+06795,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06810,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06825,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,Fisherman,32.0,1.0,4,True,True,2.0,3.0
+06840,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+06855,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+06870,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+06885,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+06900,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+06915,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+06930,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06945,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06960,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,Lightning,60.0,Electro Wizard,24.0,4.0,0,True,True,4.0,4.0
+06975,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,Lightning,60.0,,,,1,False,False,0.0,0.0
+06990,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,Lightning,60.0,,,,1,False,False,0.0,0.0
+07005,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+07020,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+07035,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+07050,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+07065,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+07080,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+07095,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+07110,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+07125,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+07140,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+07155,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+07170,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+07185,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+07200,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+07215,Heal Spirit,50.0,Baby Dragon,3.0,Goblin Cage,40.0,Lightning,60.0,Barbarian Barrel,6.0,1.0,5,True,True,1.0,2.0
+07230,Heal Spirit,50.0,Baby Dragon,3.0,Goblin Cage,40.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+07245,Heal Spirit,50.0,Baby Dragon,3.0,Goblin Cage,40.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+07260,Heal Spirit,50.0,Baby Dragon,3.0,Goblin Cage,40.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+07275,Heal Spirit,50.0,Baby Dragon,3.0,Goblin Cage,40.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+07290,Heal Spirit,50.0,Baby Dragon,3.0,Goblin Cage,40.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+07305,Heal Spirit,50.0,Baby Dragon,3.0,Goblin Cage,40.0,Cannon Cart,16.0,Lightning,60.0,4.0,1,True,True,5.0,6.0
+07320,Heal Spirit,50.0,Baby Dragon,3.0,Goblin Cage,40.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+07335,Heal Spirit,50.0,Baby Dragon,3.0,Goblin Cage,40.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+07350,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Cannon Cart,16.0,Heal Spirit,50.0,1.0,1,True,False,0.0,1.0
+07365,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+07380,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+07395,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+07410,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+07425,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+07440,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+07455,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+07470,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+07485,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+07500,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+07515,Fisherman,32.0,Baby Dragon,3.0,Goblin Cage,40.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+07530,Electro Wizard,24.0,Baby Dragon,3.0,Goblin Cage,40.0,Cannon Cart,16.0,Fisherman,32.0,1.0,4,True,True,2.0,3.0
+07545,Electro Wizard,24.0,Baby Dragon,3.0,Goblin Cage,40.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+07560,Electro Wizard,24.0,Baby Dragon,3.0,Goblin Cage,40.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+07575,Electro Wizard,24.0,Baby Dragon,3.0,Goblin Cage,40.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+07590,Electro Wizard,24.0,Baby Dragon,3.0,Goblin Cage,40.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+07605,Electro Wizard,24.0,Baby Dragon,3.0,Goblin Cage,40.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+07620,Electro Wizard,24.0,Baby Dragon,3.0,Goblin Cage,40.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+07635,Electro Wizard,24.0,Baby Dragon,3.0,Goblin Cage,40.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+07650,Electro Wizard,24.0,Baby Dragon,3.0,Goblin Cage,40.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+07665,Electro Wizard,24.0,Baby Dragon,3.0,Goblin Cage,40.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+07680,Electro Wizard,24.0,Baby Dragon,3.0,Goblin Cage,40.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+07695,Electro Wizard,24.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Goblin Cage,40.0,3.0,6,True,True,3.0,4.0
+07710,Electro Wizard,24.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+07725,Electro Wizard,24.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+07740,Electro Wizard,24.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+07755,Electro Wizard,24.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+07770,Electro Wizard,24.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+07785,Electro Wizard,24.0,Baby Dragon,3.0,Lightning,60.0,Cannon Cart,16.0,Barbarian Barrel,6.0,3.0,7,True,True,1.0,2.0
+07800,Electro Wizard,24.0,Baby Dragon,3.0,Lightning,60.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+07815,Electro Wizard,24.0,Baby Dragon,3.0,Lightning,60.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+07830,Electro Wizard,24.0,Baby Dragon,3.0,Heal Spirit,50.0,Cannon Cart,16.0,Lightning,60.0,3.0,3,True,True,5.0,6.0
+07845,Electro Wizard,24.0,Baby Dragon,3.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+07860,Electro Wizard,24.0,Baby Dragon,3.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+07875,Electro Wizard,24.0,Baby Dragon,3.0,Fisherman,32.0,Cannon Cart,16.0,Heal Spirit,50.0,3.0,3,True,True,1.0,1.0
+07890,Electro Wizard,24.0,Baby Dragon,3.0,Fisherman,32.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+07905,Electro Wizard,24.0,Baby Dragon,3.0,Fisherman,32.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+07920,Electro Wizard,24.0,Baby Dragon,3.0,Fisherman,32.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+07935,Electro Wizard,24.0,Baby Dragon,3.0,Fisherman,32.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+07950,Electro Wizard,24.0,Baby Dragon,3.0,Fisherman,32.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+07965,Electro Wizard,24.0,Baby Dragon,3.0,Fisherman,32.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+07980,Electro Wizard,24.0,Baby Dragon,3.0,Fisherman,32.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+07995,Electro Wizard,24.0,Baby Dragon,3.0,Fisherman,32.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+08010,Electro Wizard,24.0,Baby Dragon,3.0,Fisherman,32.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+08025,Electro Wizard,24.0,Baby Dragon,3.0,Fisherman,32.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+08040,Electro Wizard,24.0,Baby Dragon,3.0,Fisherman,32.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+08055,Electro Wizard,24.0,Baby Dragon,3.0,Fisherman,32.0,Goblin Cage,40.0,Cannon Cart,16.0,4.0,4,True,True,5.0,5.0
+08070,Electro Wizard,24.0,Baby Dragon,3.0,Fisherman,32.0,Goblin Cage,40.0,,,,4,False,False,0.0,0.0
+08085,Electro Wizard,24.0,Baby Dragon,3.0,Fisherman,32.0,Goblin Cage,40.0,,,,5,False,False,0.0,0.0
+08100,Electro Wizard,24.0,Baby Dragon,3.0,Fisherman,32.0,Goblin Cage,40.0,,,,5,False,False,0.0,0.0
+08115,Electro Wizard,24.0,Barbarian Barrel,6.0,Fisherman,32.0,Goblin Cage,40.0,Baby Dragon,3.0,2.0,2,True,True,3.0,4.0
+08130,Electro Wizard,24.0,Barbarian Barrel,6.0,Fisherman,32.0,Goblin Cage,40.0,,,,2,False,False,0.0,0.0
+08145,Electro Wizard,24.0,Barbarian Barrel,6.0,Fisherman,32.0,Goblin Cage,40.0,,,,3,False,False,0.0,0.0
+08160,Electro Wizard,24.0,Barbarian Barrel,6.0,Fisherman,32.0,Goblin Cage,40.0,,,,3,False,False,0.0,0.0
+08175,Electro Wizard,24.0,Barbarian Barrel,6.0,Lightning,60.0,Goblin Cage,40.0,Fisherman,32.0,3.0,3,True,True,2.0,3.0
+08190,Electro Wizard,24.0,Barbarian Barrel,6.0,Lightning,60.0,Goblin Cage,40.0,,,,1,False,False,0.0,0.0
+08205,Electro Wizard,24.0,Barbarian Barrel,6.0,Lightning,60.0,Goblin Cage,40.0,,,,2,False,False,0.0,0.0
+08220,Electro Wizard,24.0,Barbarian Barrel,6.0,Lightning,60.0,Goblin Cage,40.0,,,,2,False,False,0.0,0.0
+08235,Electro Wizard,24.0,Barbarian Barrel,6.0,Lightning,60.0,Goblin Cage,40.0,,,,3,False,False,0.0,0.0
+08250,Electro Wizard,24.0,Heal Spirit,50.0,Lightning,60.0,Goblin Cage,40.0,Barbarian Barrel,6.0,2.0,2,True,True,1.0,2.0
+08265,Electro Wizard,24.0,Heal Spirit,50.0,Lightning,60.0,Goblin Cage,40.0,,,,2,False,False,0.0,0.0
+08280,Electro Wizard,24.0,Heal Spirit,50.0,Lightning,60.0,Goblin Cage,40.0,,,,3,False,False,0.0,0.0
+08295,Electro Wizard,24.0,Heal Spirit,50.0,Lightning,60.0,Goblin Cage,40.0,,,,3,False,False,0.0,0.0
+08310,Electro Wizard,24.0,Cannon Cart,16.0,Lightning,60.0,Goblin Cage,40.0,Heal Spirit,50.0,2.0,3,True,False,0.0,1.0
+08325,Electro Wizard,24.0,Cannon Cart,16.0,Lightning,60.0,Goblin Cage,40.0,,,,3,False,False,0.0,0.0
+08340,Electro Wizard,24.0,Cannon Cart,16.0,Lightning,60.0,Goblin Cage,40.0,,,,4,False,False,0.0,0.0
+08355,Electro Wizard,24.0,Cannon Cart,16.0,Lightning,60.0,Goblin Cage,40.0,,,,4,False,False,0.0,0.0
+08370,Electro Wizard,24.0,Cannon Cart,16.0,Lightning,60.0,Goblin Cage,40.0,,,,5,False,False,0.0,0.0
+08385,Electro Wizard,24.0,Cannon Cart,16.0,Lightning,60.0,Goblin Cage,40.0,,,,5,False,False,0.0,0.0
+08400,Electro Wizard,24.0,Cannon Cart,16.0,Lightning,60.0,Goblin Cage,40.0,,,,6,False,False,0.0,0.0
+08415,Electro Wizard,24.0,Cannon Cart,16.0,Lightning,60.0,Goblin Cage,40.0,,,,6,False,False,0.0,0.0
+08430,Electro Wizard,24.0,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,Lightning,60.0,3.0,7,True,True,6.0,6.0
+08445,Electro Wizard,24.0,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,,,,1,False,False,0.0,0.0
+08460,Electro Wizard,24.0,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,,,,2,False,False,0.0,0.0
+08475,Electro Wizard,24.0,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,,,,3,False,False,0.0,0.0
+08490,Electro Wizard,24.0,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,,,,3,False,False,0.0,0.0
+08505,Electro Wizard,24.0,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,,,,4,False,False,0.0,0.0
+08520,Electro Wizard,24.0,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,,,,4,False,False,0.0,0.0
+08535,Electro Wizard,24.0,Cannon Cart,16.0,Baby Dragon,3.0,Goblin Cage,40.0,,,,5,False,False,0.0,0.0

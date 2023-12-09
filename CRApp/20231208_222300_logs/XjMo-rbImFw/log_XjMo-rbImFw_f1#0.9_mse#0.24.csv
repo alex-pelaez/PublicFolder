@@ -1,0 +1,464 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Skeleton Dragons,92.0,Electro Wizard,24.0,Fire Spirit,29.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+00255,Skeleton Dragons,92.0,Electro Wizard,24.0,Fire Spirit,29.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+00270,Skeleton Dragons,92.0,Electro Wizard,24.0,Fire Spirit,29.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+00285,Skeleton Dragons,92.0,Electro Wizard,24.0,Fire Spirit,29.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+00300,Skeleton Dragons,92.0,Electro Wizard,24.0,Fire Spirit,29.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+00315,Skeleton Dragons,92.0,Electro Wizard,24.0,Fire Spirit,29.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+00330,Skeleton Dragons,92.0,Electro Wizard,24.0,Fire Spirit,29.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+00345,Skeleton Dragons,92.0,Electro Wizard,24.0,Fire Spirit,29.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+00360,Skeleton Dragons,92.0,Electro Wizard,24.0,Fire Spirit,29.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+00375,Skeleton Dragons,92.0,Electro Wizard,24.0,Fire Spirit,29.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+00390,Skeleton Dragons,92.0,Electro Wizard,24.0,Fire Spirit,29.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+00405,Skeleton Dragons,92.0,Electro Wizard,24.0,Fire Spirit,29.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+00420,Skeleton Dragons,92.0,Electro Wizard,24.0,Fire Spirit,29.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+00435,Skeleton Dragons,92.0,Electro Wizard,24.0,Fire Spirit,29.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+00450,Skeleton Dragons,92.0,Electro Wizard,24.0,Fire Spirit,29.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+00465,Skeleton Dragons,92.0,Electro Wizard,24.0,Fire Spirit,29.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+00480,Skeleton Dragons,92.0,Electro Wizard,24.0,Fire Spirit,29.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+00495,Skeleton Dragons,92.0,Electro Wizard,24.0,Fire Spirit,29.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+00510,Skeleton Dragons,92.0,Electro Wizard,24.0,Fire Spirit,29.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+00525,Skeleton Dragons,92.0,Electro Wizard,24.0,Fire Spirit,29.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+00540,Skeleton Dragons,92.0,Electro Wizard,24.0,Fire Spirit,29.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+00555,Skeleton Dragons,92.0,Electro Wizard,24.0,Fire Spirit,29.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+00570,Skeleton Dragons,92.0,Electro Wizard,24.0,Fire Spirit,29.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+00585,Skeleton Dragons,92.0,Electro Wizard,24.0,Fire Spirit,29.0,Cannon Cart,16.0,Sparky,95.0,4.0,4,True,True,6.0,6.0
+00600,Skeleton Dragons,92.0,Electro Wizard,24.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Fire Spirit,29.0,3.0,2,True,True,2.0,1.0
+00615,Skeleton Dragons,92.0,Electro Wizard,24.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+00630,Skeleton Dragons,92.0,Electro Wizard,24.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+00645,Skeleton Dragons,92.0,Electro Wizard,24.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+00660,Skeleton Dragons,92.0,Electro Wizard,24.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+00675,Skeleton Dragons,92.0,Electro Wizard,24.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+00690,Skeleton Dragons,92.0,Electro Wizard,24.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+00705,Skeleton Dragons,92.0,Electro Wizard,24.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+00720,Skeleton Dragons,92.0,Electro Wizard,24.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+00735,Skeleton Dragons,92.0,Electro Wizard,24.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+00750,Skeleton Dragons,92.0,Electro Wizard,24.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+00765,Skeleton Dragons,92.0,Electro Wizard,24.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+00780,Skeleton Dragons,92.0,Electro Wizard,24.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+00795,Skeleton Dragons,92.0,Electro Wizard,24.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+00810,Skeleton Dragons,92.0,Electro Wizard,24.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+00825,Skeleton Dragons,92.0,Electro Wizard,24.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+00840,Skeleton Dragons,92.0,Electro Wizard,24.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+00855,Skeleton Dragons,92.0,Electro Wizard,24.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+00870,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,Barbarian Barrel,6.0,3.0,3,True,True,2.0,2.0
+00885,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+00900,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+00915,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+00930,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+00945,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+00960,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+00975,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+00990,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+01005,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01020,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01035,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01050,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01065,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01080,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01095,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01110,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01125,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01140,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01155,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01170,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01185,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01200,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01215,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01230,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01245,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01260,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01275,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01290,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01305,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01320,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01335,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01350,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01365,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01380,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01395,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01410,Skeleton Dragons,92.0,Electro Wizard,24.0,Lumberjack,61.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01425,Skeleton Dragons,92.0,Electro Wizard,24.0,Heal Spirit,50.0,Cannon Cart,16.0,Lumberjack,61.0,3.0,6,True,True,3.0,4.0
+01440,Skeleton Dragons,92.0,Electro Wizard,24.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01455,Skeleton Dragons,92.0,Electro Wizard,24.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01470,Skeleton Dragons,92.0,Electro Wizard,24.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01485,Skeleton Dragons,92.0,Electro Wizard,24.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01500,Skeleton Dragons,92.0,Electro Wizard,24.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01515,Skeleton Dragons,92.0,Electro Wizard,24.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01530,Skeleton Dragons,92.0,Electro Wizard,24.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01545,Skeleton Dragons,92.0,Electro Wizard,24.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01560,Skeleton Dragons,92.0,Electro Wizard,24.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01575,Skeleton Dragons,92.0,Electro Wizard,24.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01590,Skeleton Dragons,92.0,Electro Wizard,24.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01605,Skeleton Dragons,92.0,Electro Wizard,24.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01620,Skeleton Dragons,92.0,Electro Wizard,24.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01635,Skeleton Dragons,92.0,Electro Wizard,24.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01650,Skeleton Dragons,92.0,Electro Wizard,24.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01665,Skeleton Dragons,92.0,Electro Wizard,24.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01680,Skeleton Dragons,92.0,Electro Wizard,24.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01695,Skeleton Dragons,92.0,Electro Wizard,24.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01710,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,Electro Wizard,24.0,2.0,5,True,True,4.0,4.0
+01725,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01740,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01755,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01770,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01785,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01800,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01815,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01830,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01845,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01860,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01875,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01890,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01905,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01920,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01935,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01950,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01965,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01980,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01995,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02010,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+02025,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+02040,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+02055,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+02070,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+02085,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+02100,Fire Spirit,29.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,Skeleton Dragons,92.0,1.0,6,True,True,3.0,4.0
+02115,Fire Spirit,29.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+02130,Fire Spirit,29.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+02145,Fire Spirit,29.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+02160,Fire Spirit,29.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+02175,Fire Spirit,29.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+02190,Fire Spirit,29.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02205,Fire Spirit,29.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02220,Fire Spirit,29.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02235,Fire Spirit,29.0,Sparky,95.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02250,Fire Spirit,29.0,Sparky,95.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Cannon Cart,16.0,4.0,7,True,False,0.0,5.0
+02265,Fire Spirit,29.0,Sparky,95.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02280,Fire Spirit,29.0,Sparky,95.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02295,Fire Spirit,29.0,Sparky,95.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02310,Fire Spirit,29.0,Sparky,95.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02325,Fire Spirit,29.0,Sparky,95.0,Lumberjack,61.0,Barbarian Barrel,6.0,Heal Spirit,50.0,3.0,8,True,True,7.0,1.0
+02340,Fire Spirit,29.0,Sparky,95.0,Lumberjack,61.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+02355,Fire Spirit,29.0,Sparky,95.0,Lumberjack,61.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+02370,Fire Spirit,29.0,Sparky,95.0,Lumberjack,61.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+02385,Fire Spirit,29.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,Barbarian Barrel,6.0,4.0,0,True,True,2.0,2.0
+02400,Fire Spirit,29.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,0,False,False,0.0,0.0
+02415,Fire Spirit,29.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,0,False,False,0.0,0.0
+02430,Fire Spirit,29.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,0,False,False,0.0,0.0
+02445,Fire Spirit,29.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+02460,Fire Spirit,29.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+02475,Fire Spirit,29.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+02490,Fire Spirit,29.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+02505,Fire Spirit,29.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+02520,Fire Spirit,29.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+02535,Fire Spirit,29.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+02550,Fire Spirit,29.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+02565,Fire Spirit,29.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+02580,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,Fire Spirit,29.0,1.0,0,True,True,2.0,1.0
+02595,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,0,False,False,0.0,0.0
+02610,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+02625,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+02640,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+02655,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+02670,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+02685,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+02700,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+02715,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+02730,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+02745,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+02760,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+02775,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+02790,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+02805,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+02820,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+02835,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+02850,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+02865,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+02880,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+02895,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+02910,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+02925,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+02940,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+02955,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+02970,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+02985,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03000,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03015,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03030,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03045,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03060,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03075,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03090,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03105,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03120,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03135,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03150,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03165,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03180,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03195,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03210,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03225,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03240,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03255,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03270,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03285,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03300,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03315,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03330,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03345,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03360,Skeleton Dragons,92.0,Sparky,95.0,Cannon Cart,16.0,Electro Wizard,24.0,Lumberjack,61.0,3.0,6,True,True,3.0,4.0
+03375,Skeleton Dragons,92.0,Sparky,95.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03390,Skeleton Dragons,92.0,Sparky,95.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03405,Skeleton Dragons,92.0,Sparky,95.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03420,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Electro Wizard,24.0,Cannon Cart,16.0,3.0,6,True,True,3.0,5.0
+03435,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03450,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03465,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03480,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03495,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03510,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03525,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Electro Wizard,24.0,,,,2,False,True,1.0,0.0
+03540,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+03555,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+03570,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+03585,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+03600,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+03615,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03630,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03645,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03660,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03675,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Heal Spirit,50.0,3.0,2,True,True,1.0,1.0
+03690,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+03705,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03720,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03735,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03750,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03765,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03780,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+03795,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+03810,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+03825,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Electro Wizard,24.0,4.0,1,True,True,3.0,4.0
+03840,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Fire Spirit,29.0,,,,1,False,False,0.0,0.0
+03855,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Fire Spirit,29.0,,,,1,False,False,0.0,0.0
+03870,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+03885,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+03900,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+03915,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+03930,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+03945,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+03960,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+03975,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+03990,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+04005,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+04020,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+04035,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,Barbarian Barrel,6.0,3.0,4,True,True,1.0,2.0
+04050,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+04065,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+04080,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+04095,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+04110,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+04125,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+04140,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+04155,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+04170,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+04185,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+04200,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+04215,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+04230,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+04245,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+04260,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+04275,Skeleton Dragons,92.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+04290,Skeleton Dragons,92.0,Sparky,95.0,Cannon Cart,16.0,Fire Spirit,29.0,Lumberjack,61.0,3.0,6,True,True,3.0,4.0
+04305,Skeleton Dragons,92.0,Sparky,95.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+04320,Skeleton Dragons,92.0,Sparky,95.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+04335,Skeleton Dragons,92.0,Sparky,95.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+04350,Skeleton Dragons,92.0,Sparky,95.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+04365,Skeleton Dragons,92.0,Sparky,95.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+04380,Skeleton Dragons,92.0,Sparky,95.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+04395,Skeleton Dragons,92.0,Sparky,95.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+04410,Skeleton Dragons,92.0,Sparky,95.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+04425,Skeleton Dragons,92.0,Sparky,95.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+04440,Skeleton Dragons,92.0,Sparky,95.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+04455,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Fire Spirit,29.0,Cannon Cart,16.0,3.0,4,True,True,5.0,5.0
+04470,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+04485,Skeleton Dragons,92.0,Sparky,95.0,Heal Spirit,50.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+04500,Electro Wizard,24.0,Sparky,95.0,Heal Spirit,50.0,Fire Spirit,29.0,Skeleton Dragons,92.0,1.0,1,True,True,3.0,4.0
+04515,Electro Wizard,24.0,Sparky,95.0,Heal Spirit,50.0,Fire Spirit,29.0,,,,1,False,False,0.0,0.0
+04530,Electro Wizard,24.0,Sparky,95.0,Heal Spirit,50.0,Fire Spirit,29.0,,,,1,False,False,0.0,0.0
+04545,Electro Wizard,24.0,Sparky,95.0,Heal Spirit,50.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+04560,Electro Wizard,24.0,Sparky,95.0,Heal Spirit,50.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+04575,Electro Wizard,24.0,Sparky,95.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Heal Spirit,50.0,3.0,2,True,False,0.0,1.0
+04590,Electro Wizard,24.0,Sparky,95.0,Barbarian Barrel,6.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+04605,Electro Wizard,24.0,Sparky,95.0,Barbarian Barrel,6.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+04620,Electro Wizard,24.0,Sparky,95.0,Barbarian Barrel,6.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+04635,Electro Wizard,24.0,Sparky,95.0,Barbarian Barrel,6.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+04650,Electro Wizard,24.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,Barbarian Barrel,6.0,3.0,3,True,True,1.0,2.0
+04665,Electro Wizard,24.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+04680,Electro Wizard,24.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+04695,Electro Wizard,24.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+04710,Electro Wizard,24.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+04725,Electro Wizard,24.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+04740,Electro Wizard,24.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+04755,Electro Wizard,24.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+04770,Electro Wizard,24.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+04785,Electro Wizard,24.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+04800,Electro Wizard,24.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+04815,Electro Wizard,24.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+04830,Electro Wizard,24.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+04845,Electro Wizard,24.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+04860,Electro Wizard,24.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+04875,Electro Wizard,24.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+04890,Electro Wizard,24.0,Sparky,95.0,Lumberjack,61.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+04905,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Fire Spirit,29.0,Sparky,95.0,2.0,1,True,True,6.0,6.0
+04920,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+04935,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+04950,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Skeleton Dragons,92.0,Fire Spirit,29.0,4.0,0,True,True,2.0,1.0
+04965,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Skeleton Dragons,92.0,,,,1,False,False,0.0,0.0
+04980,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Skeleton Dragons,92.0,,,,1,False,False,0.0,0.0
+04995,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Skeleton Dragons,92.0,,,,1,False,False,0.0,0.0
+05010,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+05025,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+05040,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+05055,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+05070,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+05085,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+05100,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+05115,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+05130,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+05145,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+05160,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+05175,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+05190,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+05205,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+05220,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+05235,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+05250,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+05265,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+05280,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+05295,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+05310,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+05325,Electro Wizard,24.0,Cannon Cart,16.0,Lumberjack,61.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+05340,Electro Wizard,24.0,Cannon Cart,16.0,Heal Spirit,50.0,Skeleton Dragons,92.0,Lumberjack,61.0,3.0,6,True,True,3.0,4.0
+05355,Electro Wizard,24.0,Cannon Cart,16.0,Heal Spirit,50.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+05370,Electro Wizard,24.0,Cannon Cart,16.0,Heal Spirit,50.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+05385,Electro Wizard,24.0,Cannon Cart,16.0,Heal Spirit,50.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+05400,Electro Wizard,24.0,Cannon Cart,16.0,Heal Spirit,50.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+05415,Electro Wizard,24.0,Cannon Cart,16.0,Heal Spirit,50.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+05430,Electro Wizard,24.0,Cannon Cart,16.0,Heal Spirit,50.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+05445,Electro Wizard,24.0,Cannon Cart,16.0,Heal Spirit,50.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+05460,Electro Wizard,24.0,Cannon Cart,16.0,Heal Spirit,50.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+05475,Electro Wizard,24.0,Cannon Cart,16.0,Heal Spirit,50.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+05490,Electro Wizard,24.0,Cannon Cart,16.0,Heal Spirit,50.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+05505,Electro Wizard,24.0,Cannon Cart,16.0,Heal Spirit,50.0,Skeleton Dragons,92.0,,,,10,False,False,0.0,0.0
+05520,Electro Wizard,24.0,Barbarian Barrel,6.0,Heal Spirit,50.0,Skeleton Dragons,92.0,Cannon Cart,16.0,2.0,4,True,True,6.0,5.0
+05535,Electro Wizard,24.0,Barbarian Barrel,6.0,Heal Spirit,50.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+05550,Electro Wizard,24.0,Barbarian Barrel,6.0,Heal Spirit,50.0,Sparky,95.0,Skeleton Dragons,92.0,4.0,0,True,True,4.0,4.0
+05565,Electro Wizard,24.0,Barbarian Barrel,6.0,Heal Spirit,50.0,Sparky,95.0,,,,1,False,False,0.0,0.0
+05580,Electro Wizard,24.0,Barbarian Barrel,6.0,Heal Spirit,50.0,Sparky,95.0,,,,1,False,False,0.0,0.0
+05595,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,Heal Spirit,50.0,3.0,0,True,True,1.0,1.0
+05610,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,1,False,False,0.0,0.0
+05625,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,1,False,False,0.0,0.0
+05640,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+05655,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+05670,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+05685,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+05700,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+05715,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+05730,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+05745,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+05760,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+05775,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+05790,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+05805,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+05820,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+05835,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+05850,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+05865,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+05880,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+05895,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+05910,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+05925,Electro Wizard,24.0,Lumberjack,61.0,Fire Spirit,29.0,Sparky,95.0,Barbarian Barrel,6.0,2.0,6,True,True,2.0,2.0
+05940,Electro Wizard,24.0,Lumberjack,61.0,Fire Spirit,29.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+05955,Electro Wizard,24.0,Lumberjack,61.0,Fire Spirit,29.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+05970,Electro Wizard,24.0,Lumberjack,61.0,Fire Spirit,29.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+05985,Electro Wizard,24.0,Lumberjack,61.0,Fire Spirit,29.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+06000,Electro Wizard,24.0,Lumberjack,61.0,Fire Spirit,29.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+06015,Electro Wizard,24.0,Lumberjack,61.0,Fire Spirit,29.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+06030,Electro Wizard,24.0,Lumberjack,61.0,Fire Spirit,29.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+06045,Electro Wizard,24.0,Cannon Cart,16.0,Fire Spirit,29.0,Sparky,95.0,Lumberjack,61.0,2.0,5,True,True,4.0,4.0
+06060,Electro Wizard,24.0,Cannon Cart,16.0,Fire Spirit,29.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+06075,Electro Wizard,24.0,Cannon Cart,16.0,Fire Spirit,29.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+06090,Electro Wizard,24.0,Skeleton Dragons,92.0,Fire Spirit,29.0,Sparky,95.0,Cannon Cart,16.0,2.0,0,True,True,6.0,5.0
+06105,Electro Wizard,24.0,Skeleton Dragons,92.0,Fire Spirit,29.0,Sparky,95.0,,,,1,False,False,0.0,0.0
+06120,Electro Wizard,24.0,Skeleton Dragons,92.0,Fire Spirit,29.0,Sparky,95.0,,,,1,False,False,0.0,0.0
+06135,Electro Wizard,24.0,Skeleton Dragons,92.0,Fire Spirit,29.0,Sparky,95.0,,,,1,False,False,0.0,0.0
+06150,Electro Wizard,24.0,Skeleton Dragons,92.0,Fire Spirit,29.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+06165,Electro Wizard,24.0,Skeleton Dragons,92.0,Fire Spirit,29.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+06180,Electro Wizard,24.0,Skeleton Dragons,92.0,Fire Spirit,29.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+06195,Electro Wizard,24.0,Skeleton Dragons,92.0,Fire Spirit,29.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+06210,Electro Wizard,24.0,Skeleton Dragons,92.0,Fire Spirit,29.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+06225,Electro Wizard,24.0,Skeleton Dragons,92.0,Fire Spirit,29.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+06240,Electro Wizard,24.0,Skeleton Dragons,92.0,Fire Spirit,29.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+06255,Electro Wizard,24.0,Skeleton Dragons,92.0,Fire Spirit,29.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+06270,Electro Wizard,24.0,Heal Spirit,50.0,Fire Spirit,29.0,Sparky,95.0,Skeleton Dragons,92.0,2.0,5,True,False,0.0,4.0
+06285,Electro Wizard,24.0,Heal Spirit,50.0,Fire Spirit,29.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+06300,Electro Wizard,24.0,Heal Spirit,50.0,Fire Spirit,29.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+06315,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,Heal Spirit,50.0,2.0,5,True,True,4.0,1.0
+06330,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,1,False,False,0.0,0.0
+06345,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,1,False,False,0.0,0.0
+06360,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+06375,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+06390,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+06405,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+06420,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+06435,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+06450,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+06465,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+06480,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+06495,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+06510,Electro Wizard,24.0,Barbarian Barrel,6.0,Fire Spirit,29.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+06525,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,Fire Spirit,29.0,3.0,5,True,False,0.0,1.0
+06540,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+06555,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+06570,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,3,False,True,2.0,0.0
+06585,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+06600,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+06615,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+06630,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+06645,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+06660,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+06675,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+06690,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+06705,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+06720,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+06735,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+06750,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+06765,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+06780,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+06795,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+06810,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+06825,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+06840,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+06855,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+06870,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+06885,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+06900,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+06915,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+06930,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+06945,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+06960,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+06975,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+06990,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+07005,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+07020,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+07035,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+07050,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+07065,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+07080,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+07095,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+07110,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+07125,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+07140,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+07155,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+07170,Electro Wizard,24.0,Barbarian Barrel,6.0,Lumberjack,61.0,Sparky,95.0,,,,5,False,False,0.0,0.0

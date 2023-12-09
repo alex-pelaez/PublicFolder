@@ -1,0 +1,593 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Knight,58.0,Skeletons,94.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00255,Knight,58.0,Skeletons,94.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00270,Knight,58.0,Skeletons,94.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00285,Knight,58.0,Skeletons,94.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00300,Knight,58.0,Skeletons,94.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00315,Knight,58.0,Skeletons,94.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00330,Knight,58.0,Skeletons,94.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00345,Knight,58.0,Skeletons,94.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00360,Knight,58.0,Skeletons,94.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00375,Knight,58.0,Skeletons,94.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00390,Knight,58.0,Skeletons,94.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00405,Knight,58.0,Skeletons,94.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00420,Knight,58.0,Skeletons,94.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00435,Knight,58.0,Skeletons,94.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00450,Knight,58.0,Skeletons,94.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+00465,Knight,58.0,Skeletons,94.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+00480,Knight,58.0,Skeletons,94.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+00495,Knight,58.0,Skeletons,94.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+00510,Knight,58.0,Hog Rider,51.0,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,2.0,8,True,True,1.0,1.0
+00525,Knight,58.0,Hog Rider,51.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00540,Knight,58.0,Hog Rider,51.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+00555,Knight,58.0,Hog Rider,51.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+00570,Knight,58.0,Hog Rider,51.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+00585,Knight,58.0,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,Hog Rider,51.0,2.0,5,True,True,4.0,4.0
+00600,Knight,58.0,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+00615,Knight,58.0,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00630,Knight,58.0,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00645,Knight,58.0,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00660,Knight,58.0,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00675,Knight,58.0,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00690,Knight,58.0,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00705,Knight,58.0,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00720,Knight,58.0,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00735,Knight,58.0,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00750,Knight,58.0,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00765,Knight,58.0,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00780,Knight,58.0,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00795,Knight,58.0,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00810,Knight,58.0,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00825,Knight,58.0,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00840,Knight,58.0,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00855,Knight,58.0,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00870,Knight,58.0,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+00885,Knight,58.0,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+00900,Knight,58.0,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+00915,Knight,58.0,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+00930,Knight,58.0,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+00945,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,Giant Snowball,38.0,3.0,7,True,True,2.0,2.0
+00960,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00975,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00990,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01005,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01020,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01035,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01050,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01065,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01080,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01095,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01110,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01125,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+01140,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+01155,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+01170,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+01185,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+01200,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+01215,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+01230,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+01245,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+01260,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+01275,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+01290,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+01305,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+01320,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+01335,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+01350,The Log,98.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,Knight,58.0,1.0,7,True,True,3.0,3.0
+01365,The Log,98.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01380,The Log,98.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01395,The Log,98.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01410,The Log,98.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01425,The Log,98.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01440,The Log,98.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01455,The Log,98.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01470,The Log,98.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01485,The Log,98.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01500,The Log,98.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01515,The Log,98.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01530,The Log,98.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01545,The Log,98.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01560,The Log,98.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01575,The Log,98.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01590,Skeletons,94.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,The Log,98.0,1.0,7,True,True,2.0,2.0
+01605,Skeletons,94.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01620,Skeletons,94.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01635,Skeletons,94.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01650,Skeletons,94.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01665,Skeletons,94.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01680,Skeletons,94.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01695,Skeletons,94.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01710,Skeletons,94.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01725,Skeletons,94.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01740,Skeletons,94.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01755,Skeletons,94.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,Musketeer,73.0,2.0,5,True,True,4.0,4.0
+01770,Skeletons,94.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+01785,Skeletons,94.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+01800,Skeletons,94.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+01815,Skeletons,94.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+01830,Skeletons,94.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+01845,Skeletons,94.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+01860,Skeletons,94.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01875,Skeletons,94.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01890,Skeletons,94.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01905,Skeletons,94.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01920,Skeletons,94.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01935,Skeletons,94.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01950,Skeletons,94.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01965,Skeletons,94.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01980,Skeletons,94.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01995,Skeletons,94.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02010,Skeletons,94.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02025,Giant Snowball,38.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,Skeletons,94.0,1.0,8,True,False,0.0,1.0
+02040,Giant Snowball,38.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02055,Giant Snowball,38.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02070,Giant Snowball,38.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02085,Knight,58.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,Giant Snowball,38.0,1.0,6,True,True,2.0,2.0
+02100,Knight,58.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02115,Knight,58.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02130,Knight,58.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02145,Knight,58.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02160,Knight,58.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02175,Knight,58.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02190,Knight,58.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02205,Knight,58.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02220,Knight,58.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02235,Knight,58.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02250,Knight,58.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02265,Knight,58.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02280,Knight,58.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02295,Knight,58.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02310,Knight,58.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02325,Knight,58.0,The Log,98.0,Earthquake,20.0,Bomb Tower,12.0,Hog Rider,51.0,2.0,5,True,True,4.0,4.0
+02340,Knight,58.0,The Log,98.0,Earthquake,20.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+02355,Knight,58.0,The Log,98.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02370,Knight,58.0,The Log,98.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02385,Knight,58.0,The Log,98.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02400,Knight,58.0,The Log,98.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02415,Knight,58.0,The Log,98.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02430,Knight,58.0,The Log,98.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02445,Knight,58.0,The Log,98.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02460,Knight,58.0,The Log,98.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02475,Knight,58.0,The Log,98.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02490,Knight,58.0,The Log,98.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02505,Knight,58.0,The Log,98.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02520,Knight,58.0,The Log,98.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02535,Knight,58.0,The Log,98.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02550,Knight,58.0,The Log,98.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02565,Knight,58.0,The Log,98.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02580,Knight,58.0,The Log,98.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02595,Knight,58.0,The Log,98.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02610,Knight,58.0,The Log,98.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02625,Knight,58.0,The Log,98.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02640,Knight,58.0,The Log,98.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02655,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,The Log,98.0,2.0,7,True,True,2.0,2.0
+02670,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02685,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02700,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02715,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02730,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02745,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02760,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02775,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02790,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02805,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02820,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02835,Knight,58.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02850,Skeletons,94.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,Knight,58.0,1.0,6,True,True,3.0,3.0
+02865,Skeletons,94.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02880,Skeletons,94.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02895,Skeletons,94.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02910,Skeletons,94.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02925,Skeletons,94.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02940,Skeletons,94.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02955,Skeletons,94.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02970,Skeletons,94.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02985,Skeletons,94.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+03000,Skeletons,94.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+03015,Skeletons,94.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+03030,Skeletons,94.0,Musketeer,73.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+03045,Skeletons,94.0,Giant Snowball,38.0,Earthquake,20.0,Bomb Tower,12.0,Musketeer,73.0,2.0,5,True,True,4.0,4.0
+03060,Skeletons,94.0,Giant Snowball,38.0,Earthquake,20.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+03075,Skeletons,94.0,Giant Snowball,38.0,Earthquake,20.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+03090,Skeletons,94.0,Giant Snowball,38.0,Earthquake,20.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+03105,Skeletons,94.0,Giant Snowball,38.0,Earthquake,20.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+03120,Skeletons,94.0,Giant Snowball,38.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+03135,Skeletons,94.0,Giant Snowball,38.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+03150,Skeletons,94.0,Giant Snowball,38.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+03165,Skeletons,94.0,Giant Snowball,38.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+03180,Skeletons,94.0,Giant Snowball,38.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+03195,Skeletons,94.0,Giant Snowball,38.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+03210,Skeletons,94.0,Giant Snowball,38.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+03225,Skeletons,94.0,Giant Snowball,38.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+03240,Skeletons,94.0,Giant Snowball,38.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+03255,Skeletons,94.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,Giant Snowball,38.0,2.0,5,True,True,2.0,2.0
+03270,Skeletons,94.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+03285,Skeletons,94.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+03300,Skeletons,94.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+03315,Skeletons,94.0,Hog Rider,51.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+03330,Skeletons,94.0,The Log,98.0,Earthquake,20.0,Bomb Tower,12.0,Hog Rider,51.0,2.0,2,True,True,4.0,4.0
+03345,Skeletons,94.0,The Log,98.0,Earthquake,20.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+03360,Skeletons,94.0,The Log,98.0,Earthquake,20.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+03375,Skeletons,94.0,The Log,98.0,Earthquake,20.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+03390,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,The Log,98.0,2.0,1,True,True,2.0,2.0
+03405,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+03420,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+03435,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+03450,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+03465,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+03480,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+03495,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+03510,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+03525,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+03540,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+03555,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+03570,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+03585,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+03600,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+03615,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+03630,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+03645,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+03660,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+03675,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+03690,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+03705,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+03720,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+03735,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+03750,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+03765,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+03780,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+03795,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+03810,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+03825,Skeletons,94.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+03840,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,Skeletons,94.0,1.0,7,True,True,1.0,1.0
+03855,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+03870,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+03885,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+03900,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+03915,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+03930,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+03945,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+03960,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+03975,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+03990,Musketeer,73.0,Knight,58.0,Giant Snowball,38.0,Bomb Tower,12.0,Earthquake,20.0,3.0,6,True,True,3.0,3.0
+04005,Musketeer,73.0,Knight,58.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+04020,Musketeer,73.0,Knight,58.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+04035,Musketeer,73.0,Knight,58.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+04050,Musketeer,73.0,Knight,58.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+04065,Musketeer,73.0,Knight,58.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+04080,Musketeer,73.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,Giant Snowball,38.0,3.0,7,True,True,1.0,2.0
+04095,Musketeer,73.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+04110,Musketeer,73.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+04125,Musketeer,73.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+04140,Musketeer,73.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+04155,Musketeer,73.0,Knight,58.0,The Log,98.0,Bomb Tower,12.0,Hog Rider,51.0,3.0,4,True,True,4.0,4.0
+04170,Musketeer,73.0,Knight,58.0,The Log,98.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+04185,Musketeer,73.0,Knight,58.0,The Log,98.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+04200,Musketeer,73.0,Knight,58.0,Skeletons,94.0,Bomb Tower,12.0,The Log,98.0,3.0,3,True,True,2.0,2.0
+04215,Musketeer,73.0,Knight,58.0,Skeletons,94.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+04230,Musketeer,73.0,Knight,58.0,Skeletons,94.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+04245,Musketeer,73.0,Knight,58.0,Skeletons,94.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+04260,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,Skeletons,94.0,3.0,4,True,True,1.0,1.0
+04275,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+04290,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+04305,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+04320,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+04335,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+04350,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+04365,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+04380,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+04395,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+04410,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+04425,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+04440,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+04455,Musketeer,73.0,Knight,58.0,Giant Snowball,38.0,Bomb Tower,12.0,Earthquake,20.0,3.0,6,True,True,2.0,3.0
+04470,Musketeer,73.0,Knight,58.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+04485,Musketeer,73.0,Knight,58.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+04500,Musketeer,73.0,Knight,58.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+04515,Musketeer,73.0,Knight,58.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+04530,Musketeer,73.0,Knight,58.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+04545,Musketeer,73.0,Knight,58.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+04560,Musketeer,73.0,Knight,58.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+04575,Musketeer,73.0,Knight,58.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+04590,Musketeer,73.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,Giant Snowball,38.0,3.0,7,True,True,1.0,2.0
+04605,Musketeer,73.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+04620,Musketeer,73.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+04635,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Bomb Tower,12.0,Knight,58.0,2.0,5,True,True,2.0,3.0
+04650,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+04665,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+04680,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+04695,Musketeer,73.0,Skeletons,94.0,Hog Rider,51.0,Bomb Tower,12.0,The Log,98.0,2.0,4,True,True,2.0,2.0
+04710,Musketeer,73.0,Skeletons,94.0,Hog Rider,51.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+04725,Musketeer,73.0,Skeletons,94.0,Earthquake,20.0,Bomb Tower,12.0,Hog Rider,51.0,3.0,1,True,True,4.0,4.0
+04740,Musketeer,73.0,Skeletons,94.0,Earthquake,20.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+04755,Musketeer,73.0,Skeletons,94.0,Earthquake,20.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+04770,Musketeer,73.0,Skeletons,94.0,Earthquake,20.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+04785,Musketeer,73.0,Skeletons,94.0,Earthquake,20.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+04800,Musketeer,73.0,Skeletons,94.0,Earthquake,20.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+04815,Musketeer,73.0,Skeletons,94.0,Earthquake,20.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+04830,Musketeer,73.0,Skeletons,94.0,Earthquake,20.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+04845,Musketeer,73.0,Skeletons,94.0,Earthquake,20.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+04860,Musketeer,73.0,Skeletons,94.0,Earthquake,20.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+04875,Musketeer,73.0,Skeletons,94.0,Earthquake,20.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+04890,Musketeer,73.0,Skeletons,94.0,Earthquake,20.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+04905,Musketeer,73.0,Giant Snowball,38.0,Earthquake,20.0,Bomb Tower,12.0,Skeletons,94.0,2.0,4,True,True,1.0,1.0
+04920,Musketeer,73.0,Giant Snowball,38.0,Earthquake,20.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+04935,Musketeer,73.0,Giant Snowball,38.0,Earthquake,20.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+04950,Musketeer,73.0,Giant Snowball,38.0,Earthquake,20.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+04965,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,Giant Snowball,38.0,2.0,4,True,True,1.0,2.0
+04980,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+04995,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+05010,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+05025,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+05040,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+05055,Musketeer,73.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+05070,The Log,98.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,Musketeer,73.0,1.0,2,True,True,4.0,4.0
+05085,The Log,98.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+05100,The Log,98.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+05115,The Log,98.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+05130,The Log,98.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+05145,The Log,98.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+05160,The Log,98.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+05175,The Log,98.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+05190,The Log,98.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+05205,The Log,98.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+05220,The Log,98.0,Knight,58.0,Earthquake,20.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+05235,The Log,98.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,Earthquake,20.0,3.0,3,True,True,3.0,3.0
+05250,The Log,98.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+05265,Skeletons,94.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,The Log,98.0,1.0,2,True,True,1.0,2.0
+05280,Skeletons,94.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+05295,Skeletons,94.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+05310,Skeletons,94.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+05325,Skeletons,94.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+05340,Giant Snowball,38.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,Skeletons,94.0,1.0,3,True,False,0.0,1.0
+05355,Giant Snowball,38.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+05370,Giant Snowball,38.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+05385,Giant Snowball,38.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+05400,Giant Snowball,38.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+05415,Giant Snowball,38.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+05430,Giant Snowball,38.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+05445,Giant Snowball,38.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+05460,Giant Snowball,38.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+05475,Giant Snowball,38.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+05490,Giant Snowball,38.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+05505,Giant Snowball,38.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+05520,Giant Snowball,38.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+05535,Giant Snowball,38.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+05550,Giant Snowball,38.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+05565,Giant Snowball,38.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+05580,Musketeer,73.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,Giant Snowball,38.0,1.0,6,True,True,2.0,2.0
+05595,Musketeer,73.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+05610,Musketeer,73.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+05625,Musketeer,73.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+05640,Musketeer,73.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+05655,Musketeer,73.0,Knight,58.0,Hog Rider,51.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+05670,Musketeer,73.0,Earthquake,20.0,Hog Rider,51.0,Bomb Tower,12.0,Knight,58.0,2.0,5,True,True,3.0,3.0
+05685,Musketeer,73.0,Earthquake,20.0,Hog Rider,51.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+05700,Musketeer,73.0,Earthquake,20.0,Hog Rider,51.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+05715,Musketeer,73.0,Earthquake,20.0,Hog Rider,51.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+05730,Musketeer,73.0,Earthquake,20.0,Hog Rider,51.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+05745,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Bomb Tower,12.0,Earthquake,20.0,2.0,4,True,True,3.0,3.0
+05760,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+05775,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+05790,Musketeer,73.0,Skeletons,94.0,Hog Rider,51.0,Bomb Tower,12.0,The Log,98.0,2.0,3,True,True,2.0,2.0
+05805,Musketeer,73.0,Skeletons,94.0,Hog Rider,51.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+05820,Musketeer,73.0,Skeletons,94.0,Hog Rider,51.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+05835,Musketeer,73.0,Skeletons,94.0,Hog Rider,51.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+05850,Musketeer,73.0,Skeletons,94.0,Hog Rider,51.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+05865,Musketeer,73.0,Skeletons,94.0,Hog Rider,51.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+05880,Musketeer,73.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,Bomb Tower,12.0,4.0,1,True,True,4.0,4.0
+05895,Musketeer,73.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+05910,Musketeer,73.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+05925,Musketeer,73.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+05940,Musketeer,73.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+05955,Musketeer,73.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+05970,Musketeer,73.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+05985,Musketeer,73.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+06000,Musketeer,73.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+06015,Musketeer,73.0,Skeletons,94.0,Musketeer,73.0,Knight,58.0,Giant Snowball,38.0,4.0,3,True,True,1.0,2.0
+06030,Musketeer,73.0,Earthquake,20.0,Musketeer,73.0,Knight,58.0,Skeletons,94.0,2.0,2,True,True,1.0,1.0
+06045,Musketeer,73.0,Earthquake,20.0,Musketeer,73.0,Knight,58.0,,,,2,False,False,0.0,0.0
+06060,Musketeer,73.0,Earthquake,20.0,Hog Rider,51.0,Knight,58.0,Musketeer,73.0,3.0,3,True,False,0.0,4.0
+06075,Musketeer,73.0,Earthquake,20.0,Hog Rider,51.0,Knight,58.0,,,,3,False,False,0.0,0.0
+06090,Musketeer,73.0,Earthquake,20.0,Hog Rider,51.0,Knight,58.0,,,,3,False,False,0.0,0.0
+06105,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Knight,58.0,Earthquake,20.0,2.0,1,True,True,2.0,3.0
+06120,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Knight,58.0,,,,1,False,False,0.0,0.0
+06135,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Knight,58.0,,,,2,False,False,0.0,0.0
+06150,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Knight,58.0,,,,2,False,False,0.0,0.0
+06165,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Knight,58.0,,,,2,False,False,0.0,0.0
+06180,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Knight,58.0,,,,3,False,False,0.0,0.0
+06195,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Knight,58.0,,,,3,False,False,0.0,0.0
+06210,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Knight,58.0,,,,3,False,False,0.0,0.0
+06225,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Knight,58.0,,,,4,False,False,0.0,0.0
+06240,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Knight,58.0,,,,4,False,False,0.0,0.0
+06255,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Knight,58.0,,,,4,False,False,0.0,0.0
+06270,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Knight,58.0,,,,5,False,False,0.0,0.0
+06285,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Knight,58.0,,,,5,False,False,0.0,0.0
+06300,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Knight,58.0,,,,5,False,False,0.0,0.0
+06315,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Knight,58.0,,,,6,False,False,0.0,0.0
+06330,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Knight,58.0,,,,6,False,False,0.0,0.0
+06345,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Knight,58.0,,,,7,False,False,0.0,0.0
+06360,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Knight,58.0,,,,7,False,False,0.0,0.0
+06375,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Knight,58.0,,,,7,False,False,0.0,0.0
+06390,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Knight,58.0,,,,8,False,False,0.0,0.0
+06405,Musketeer,73.0,The Log,98.0,Hog Rider,51.0,Knight,58.0,,,,8,False,False,0.0,0.0
+06420,Musketeer,73.0,Bomb Tower,12.0,Hog Rider,51.0,Knight,58.0,The Log,98.0,2.0,6,True,True,2.0,2.0
+06435,Musketeer,73.0,Bomb Tower,12.0,Hog Rider,51.0,Knight,58.0,,,,7,False,False,0.0,0.0
+06450,Musketeer,73.0,Bomb Tower,12.0,Hog Rider,51.0,Knight,58.0,,,,7,False,False,0.0,0.0
+06465,Musketeer,73.0,Bomb Tower,12.0,Hog Rider,51.0,Knight,58.0,,,,7,False,False,0.0,0.0
+06480,Musketeer,73.0,Bomb Tower,12.0,Hog Rider,51.0,Knight,58.0,,,,8,False,False,0.0,0.0
+06495,Musketeer,73.0,Bomb Tower,12.0,Hog Rider,51.0,Knight,58.0,,,,8,False,False,0.0,0.0
+06510,Musketeer,73.0,Bomb Tower,12.0,Hog Rider,51.0,Knight,58.0,,,,8,False,False,0.0,0.0
+06525,Musketeer,73.0,Bomb Tower,12.0,Hog Rider,51.0,Giant Snowball,38.0,Knight,58.0,4.0,6,True,True,2.0,3.0
+06540,Musketeer,73.0,Bomb Tower,12.0,Hog Rider,51.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+06555,Musketeer,73.0,Bomb Tower,12.0,Hog Rider,51.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+06570,Musketeer,73.0,Bomb Tower,12.0,Hog Rider,51.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+06585,Musketeer,73.0,Bomb Tower,12.0,Hog Rider,51.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+06600,Musketeer,73.0,Bomb Tower,12.0,Hog Rider,51.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+06615,Musketeer,73.0,Bomb Tower,12.0,Hog Rider,51.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+06630,Musketeer,73.0,Bomb Tower,12.0,Hog Rider,51.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+06645,Musketeer,73.0,Bomb Tower,12.0,Hog Rider,51.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+06660,Musketeer,73.0,Bomb Tower,12.0,Hog Rider,51.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+06675,Musketeer,73.0,Bomb Tower,12.0,Hog Rider,51.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+06690,Musketeer,73.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,Bomb Tower,12.0,2.0,6,True,True,3.0,4.0
+06705,Musketeer,73.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+06720,Musketeer,73.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+06735,Musketeer,73.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+06750,Musketeer,73.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+06765,Musketeer,73.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+06780,Musketeer,73.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+06795,Musketeer,73.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+06810,Musketeer,73.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+06825,Earthquake,20.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,Musketeer,73.0,1.0,5,True,True,3.0,4.0
+06840,Earthquake,20.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+06855,Earthquake,20.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+06870,Earthquake,20.0,The Log,98.0,Hog Rider,51.0,Giant Snowball,38.0,Skeletons,94.0,2.0,5,True,True,1.0,1.0
+06885,Earthquake,20.0,The Log,98.0,Hog Rider,51.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+06900,Earthquake,20.0,The Log,98.0,Hog Rider,51.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+06915,Knight,58.0,The Log,98.0,Hog Rider,51.0,Giant Snowball,38.0,Earthquake,20.0,1.0,3,True,True,3.0,3.0
+06930,Knight,58.0,The Log,98.0,Hog Rider,51.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+06945,Knight,58.0,The Log,98.0,Hog Rider,51.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+06960,Bomb Tower,12.0,The Log,98.0,Hog Rider,51.0,Giant Snowball,38.0,Knight,58.0,1.0,1,True,True,3.0,3.0
+06975,Bomb Tower,12.0,The Log,98.0,Hog Rider,51.0,Giant Snowball,38.0,,,,1,False,False,0.0,0.0
+06990,Bomb Tower,12.0,The Log,98.0,Hog Rider,51.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+07005,Bomb Tower,12.0,The Log,98.0,Hog Rider,51.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+07020,Bomb Tower,12.0,The Log,98.0,Hog Rider,51.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+07035,Bomb Tower,12.0,Musketeer,73.0,Hog Rider,51.0,Giant Snowball,38.0,The Log,98.0,2.0,1,True,True,1.0,2.0
+07050,Bomb Tower,12.0,Musketeer,73.0,Hog Rider,51.0,Giant Snowball,38.0,,,,1,False,False,0.0,0.0
+07065,Bomb Tower,12.0,Musketeer,73.0,Hog Rider,51.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+07080,Bomb Tower,12.0,Musketeer,73.0,Hog Rider,51.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+07095,Bomb Tower,12.0,Musketeer,73.0,Hog Rider,51.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+07110,Bomb Tower,12.0,Musketeer,73.0,Hog Rider,51.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+07125,Bomb Tower,12.0,Musketeer,73.0,Hog Rider,51.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+07140,Bomb Tower,12.0,Musketeer,73.0,Hog Rider,51.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+07155,Bomb Tower,12.0,Musketeer,73.0,Hog Rider,51.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+07170,Bomb Tower,12.0,Musketeer,73.0,Hog Rider,51.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+07185,Bomb Tower,12.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,Musketeer,73.0,2.0,0,True,True,4.0,4.0
+07200,Bomb Tower,12.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,,,,1,False,False,0.0,0.0
+07215,Bomb Tower,12.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,,,,1,False,False,0.0,0.0
+07230,Bomb Tower,12.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,,,,1,False,False,0.0,0.0
+07245,Bomb Tower,12.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+07260,Bomb Tower,12.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+07275,Bomb Tower,12.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+07290,Bomb Tower,12.0,Skeletons,94.0,Hog Rider,51.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+07305,Bomb Tower,12.0,Earthquake,20.0,Hog Rider,51.0,Giant Snowball,38.0,Skeletons,94.0,2.0,2,True,True,1.0,1.0
+07320,Bomb Tower,12.0,Earthquake,20.0,Hog Rider,51.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+07335,Bomb Tower,12.0,Earthquake,20.0,Hog Rider,51.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+07350,Bomb Tower,12.0,Earthquake,20.0,Hog Rider,51.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+07365,Bomb Tower,12.0,Earthquake,20.0,Hog Rider,51.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+07380,Bomb Tower,12.0,Earthquake,20.0,Hog Rider,51.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+07395,Bomb Tower,12.0,Earthquake,20.0,Hog Rider,51.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+07410,Bomb Tower,12.0,Earthquake,20.0,Hog Rider,51.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+07425,Bomb Tower,12.0,Earthquake,20.0,Hog Rider,51.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+07440,Bomb Tower,12.0,Earthquake,20.0,Hog Rider,51.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+07455,Bomb Tower,12.0,Knight,58.0,Hog Rider,51.0,Giant Snowball,38.0,Earthquake,20.0,2.0,4,True,True,2.0,3.0
+07470,Bomb Tower,12.0,Knight,58.0,Hog Rider,51.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+07485,Bomb Tower,12.0,Knight,58.0,Hog Rider,51.0,The Log,98.0,Giant Snowball,38.0,4.0,3,True,True,2.0,2.0
+07500,Bomb Tower,12.0,Knight,58.0,Hog Rider,51.0,The Log,98.0,,,,4,False,False,0.0,0.0
+07515,Bomb Tower,12.0,Knight,58.0,Hog Rider,51.0,The Log,98.0,,,,4,False,False,0.0,0.0
+07530,Bomb Tower,12.0,Knight,58.0,Hog Rider,51.0,The Log,98.0,,,,5,False,False,0.0,0.0
+07545,Bomb Tower,12.0,Knight,58.0,Hog Rider,51.0,Musketeer,73.0,The Log,98.0,4.0,3,True,True,2.0,2.0
+07560,Bomb Tower,12.0,Knight,58.0,Hog Rider,51.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+07575,Bomb Tower,12.0,Knight,58.0,Hog Rider,51.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+07590,Bomb Tower,12.0,Knight,58.0,Hog Rider,51.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+07605,Bomb Tower,12.0,Knight,58.0,Hog Rider,51.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+07620,Bomb Tower,12.0,Knight,58.0,Skeletons,94.0,Musketeer,73.0,Hog Rider,51.0,3.0,2,True,True,3.0,4.0
+07635,Bomb Tower,12.0,Knight,58.0,Skeletons,94.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+07650,Bomb Tower,12.0,Knight,58.0,Skeletons,94.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+07665,Bomb Tower,12.0,Knight,58.0,Skeletons,94.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+07680,Bomb Tower,12.0,Knight,58.0,Earthquake,20.0,Musketeer,73.0,Skeletons,94.0,3.0,3,True,True,1.0,1.0
+07695,Bomb Tower,12.0,Knight,58.0,Earthquake,20.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+07710,Bomb Tower,12.0,Knight,58.0,Earthquake,20.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+07725,Bomb Tower,12.0,Knight,58.0,Earthquake,20.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+07740,Bomb Tower,12.0,Knight,58.0,Earthquake,20.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+07755,Bomb Tower,12.0,Knight,58.0,Earthquake,20.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+07770,Bomb Tower,12.0,Knight,58.0,Earthquake,20.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+07785,Bomb Tower,12.0,Knight,58.0,Earthquake,20.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+07800,Giant Snowball,38.0,Knight,58.0,Earthquake,20.0,Musketeer,73.0,Bomb Tower,12.0,1.0,3,True,True,4.0,4.0
+07815,Giant Snowball,38.0,Knight,58.0,Earthquake,20.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+07830,Giant Snowball,38.0,Knight,58.0,Earthquake,20.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+07845,Giant Snowball,38.0,Knight,58.0,Earthquake,20.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+07860,Giant Snowball,38.0,Knight,58.0,Earthquake,20.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+07875,Giant Snowball,38.0,Knight,58.0,Earthquake,20.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+07890,Giant Snowball,38.0,Knight,58.0,Earthquake,20.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+07905,Giant Snowball,38.0,Knight,58.0,Earthquake,20.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+07920,Giant Snowball,38.0,Knight,58.0,Earthquake,20.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+07935,Giant Snowball,38.0,Knight,58.0,The Log,98.0,Musketeer,73.0,Earthquake,20.0,3.0,5,True,True,3.0,3.0
+07950,Giant Snowball,38.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+07965,Giant Snowball,38.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+07980,Giant Snowball,38.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+07995,Giant Snowball,38.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+08010,Giant Snowball,38.0,Hog Rider,51.0,The Log,98.0,Musketeer,73.0,Knight,58.0,2.0,5,True,True,2.0,3.0
+08025,Giant Snowball,38.0,Hog Rider,51.0,The Log,98.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+08040,Giant Snowball,38.0,Hog Rider,51.0,The Log,98.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+08055,Giant Snowball,38.0,Hog Rider,51.0,The Log,98.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+08070,Giant Snowball,38.0,Hog Rider,51.0,The Log,98.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+08085,Giant Snowball,38.0,Hog Rider,51.0,The Log,98.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+08100,Giant Snowball,38.0,Hog Rider,51.0,The Log,98.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+08115,Giant Snowball,38.0,Hog Rider,51.0,The Log,98.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+08130,Giant Snowball,38.0,Hog Rider,51.0,The Log,98.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+08145,Giant Snowball,38.0,Hog Rider,51.0,Skeletons,94.0,Musketeer,73.0,The Log,98.0,3.0,8,True,True,1.0,2.0
+08160,Bomb Tower,12.0,Hog Rider,51.0,Skeletons,94.0,Musketeer,73.0,Giant Snowball,38.0,1.0,6,True,True,2.0,2.0
+08175,Bomb Tower,12.0,Hog Rider,51.0,Skeletons,94.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+08190,Bomb Tower,12.0,Hog Rider,51.0,Earthquake,20.0,Musketeer,73.0,Skeletons,94.0,3.0,6,True,True,1.0,1.0
+08205,Bomb Tower,12.0,Hog Rider,51.0,Earthquake,20.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+08220,Bomb Tower,12.0,Hog Rider,51.0,Earthquake,20.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+08235,Bomb Tower,12.0,Hog Rider,51.0,Earthquake,20.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+08250,Bomb Tower,12.0,Knight,58.0,Earthquake,20.0,Musketeer,73.0,Hog Rider,51.0,2.0,4,True,True,4.0,4.0
+08265,Bomb Tower,12.0,Knight,58.0,Earthquake,20.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+08280,Bomb Tower,12.0,Knight,58.0,Earthquake,20.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+08295,Bomb Tower,12.0,Knight,58.0,Earthquake,20.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+08310,Bomb Tower,12.0,Knight,58.0,The Log,98.0,Musketeer,73.0,Earthquake,20.0,3.0,4,True,True,2.0,3.0
+08325,Bomb Tower,12.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+08340,Bomb Tower,12.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+08355,Bomb Tower,12.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+08370,Bomb Tower,12.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+08385,Bomb Tower,12.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+08400,Bomb Tower,12.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+08415,Bomb Tower,12.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+08430,Bomb Tower,12.0,Knight,58.0,The Log,98.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+08445,Bomb Tower,12.0,Giant Snowball,38.0,The Log,98.0,Musketeer,73.0,Knight,58.0,2.0,5,True,True,3.0,3.0
+08460,Bomb Tower,12.0,Giant Snowball,38.0,The Log,98.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+08475,Bomb Tower,12.0,Giant Snowball,38.0,The Log,98.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+08490,Bomb Tower,12.0,Giant Snowball,38.0,The Log,98.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+08505,Bomb Tower,12.0,Giant Snowball,38.0,The Log,98.0,Skeletons,94.0,Musketeer,73.0,4.0,4,True,True,3.0,4.0
+08520,Bomb Tower,12.0,Giant Snowball,38.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+08535,Bomb Tower,12.0,Giant Snowball,38.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+08550,Bomb Tower,12.0,Giant Snowball,38.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+08565,Bomb Tower,12.0,Giant Snowball,38.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+08580,Hog Rider,51.0,Giant Snowball,38.0,The Log,98.0,Skeletons,94.0,Bomb Tower,12.0,1.0,2,True,True,4.0,4.0
+08595,Hog Rider,51.0,Giant Snowball,38.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+08610,Hog Rider,51.0,Giant Snowball,38.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+08625,Hog Rider,51.0,Giant Snowball,38.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+08640,Hog Rider,51.0,Giant Snowball,38.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+08655,Earthquake,20.0,Giant Snowball,38.0,The Log,98.0,Skeletons,94.0,Hog Rider,51.0,1.0,1,True,True,3.0,4.0
+08670,Earthquake,20.0,Giant Snowball,38.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+08685,Earthquake,20.0,Giant Snowball,38.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+08700,Earthquake,20.0,Giant Snowball,38.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+08715,Earthquake,20.0,Giant Snowball,38.0,The Log,98.0,Knight,58.0,Skeletons,94.0,4.0,2,True,True,1.0,1.0
+08730,Earthquake,20.0,Giant Snowball,38.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+08745,Earthquake,20.0,Giant Snowball,38.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+08760,Earthquake,20.0,Giant Snowball,38.0,The Log,98.0,Knight,58.0,,,,4,False,False,0.0,0.0
+08775,Earthquake,20.0,Giant Snowball,38.0,The Log,98.0,Knight,58.0,,,,4,False,False,0.0,0.0
+08790,Earthquake,20.0,Giant Snowball,38.0,Musketeer,73.0,Knight,58.0,The Log,98.0,3.0,3,True,True,1.0,2.0
+08805,Earthquake,20.0,Giant Snowball,38.0,Musketeer,73.0,Knight,58.0,,,,3,False,False,0.0,0.0
+08820,Earthquake,20.0,Bomb Tower,12.0,Musketeer,73.0,Knight,58.0,Giant Snowball,38.0,2.0,2,True,True,1.0,2.0
+08835,Earthquake,20.0,Bomb Tower,12.0,Musketeer,73.0,Knight,58.0,,,,2,False,False,0.0,0.0
+08850,Earthquake,20.0,Bomb Tower,12.0,Musketeer,73.0,Knight,58.0,,,,3,False,False,0.0,0.0
+08865,Hog Rider,51.0,Bomb Tower,12.0,Musketeer,73.0,Knight,58.0,Earthquake,20.0,1.0,3,True,True,2.0,3.0
+08880,Hog Rider,51.0,Bomb Tower,12.0,Musketeer,73.0,Knight,58.0,,,,1,False,False,0.0,0.0
+08895,Hog Rider,51.0,Bomb Tower,12.0,Musketeer,73.0,Knight,58.0,,,,2,False,False,0.0,0.0
+08910,Hog Rider,51.0,Bomb Tower,12.0,Musketeer,73.0,Knight,58.0,,,,2,False,False,0.0,0.0
+08925,Hog Rider,51.0,Bomb Tower,12.0,Musketeer,73.0,Knight,58.0,,,,3,False,False,0.0,0.0
+08940,Hog Rider,51.0,Bomb Tower,12.0,Musketeer,73.0,Knight,58.0,,,,3,False,False,0.0,0.0
+08955,Hog Rider,51.0,Bomb Tower,12.0,Musketeer,73.0,Knight,58.0,,,,4,False,False,0.0,0.0
+08970,Hog Rider,51.0,Bomb Tower,12.0,Musketeer,73.0,Knight,58.0,,,,4,False,False,0.0,0.0
+08985,Hog Rider,51.0,Bomb Tower,12.0,Musketeer,73.0,Skeletons,94.0,Knight,58.0,4.0,2,True,True,2.0,3.0
+09000,Hog Rider,51.0,Bomb Tower,12.0,Musketeer,73.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+09015,Hog Rider,51.0,Bomb Tower,12.0,Musketeer,73.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+09030,Hog Rider,51.0,Bomb Tower,12.0,Musketeer,73.0,The Log,98.0,Skeletons,94.0,4.0,2,True,True,1.0,1.0
+09045,Hog Rider,51.0,Bomb Tower,12.0,Musketeer,73.0,The Log,98.0,,,,3,False,False,0.0,0.0
+09060,Hog Rider,51.0,Bomb Tower,12.0,Musketeer,73.0,The Log,98.0,,,,4,False,False,0.0,0.0
+09075,Hog Rider,51.0,Bomb Tower,12.0,Musketeer,73.0,Giant Snowball,38.0,The Log,98.0,4.0,2,True,True,2.0,2.0
+09090,Hog Rider,51.0,Bomb Tower,12.0,Musketeer,73.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+09105,Hog Rider,51.0,Bomb Tower,12.0,Musketeer,73.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0

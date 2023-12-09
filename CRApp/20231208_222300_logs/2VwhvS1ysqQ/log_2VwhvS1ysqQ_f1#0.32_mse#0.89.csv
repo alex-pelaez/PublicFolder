@@ -1,0 +1,1384 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,,,,,Balloon,4.0,,,,,,6,False,False,0.0,0.0
+00255,,,,,Balloon,4.0,,,,,,6,False,False,0.0,0.0
+00270,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,4.0,6,True,False,0.0,0.0
+00285,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+00300,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+00315,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+00330,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+00345,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+00360,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+00375,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+00390,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+00405,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+00420,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+00435,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+00450,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+00465,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+00480,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+00495,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+00510,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+00525,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+00540,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+00555,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,10,False,False,0.0,0.0
+00570,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,3,False,True,7.0,0.0
+00585,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+00600,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+00615,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+00630,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+00645,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+00660,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+00675,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+00690,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+00705,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+00720,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+00735,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+00750,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+00765,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+00780,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+00795,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,2,False,True,3.0,0.0
+00810,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+00825,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+00840,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+00855,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+00870,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+00885,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+00900,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+00915,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+00930,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+00945,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+00960,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+00975,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+00990,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+01005,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+01020,Balloon,4.0,Minion Horde,68.0,Balloon,4.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+01035,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,Balloon,4.0,3.0,0,True,True,5.0,5.0
+01050,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,0,False,False,0.0,0.0
+01065,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,0,False,False,0.0,0.0
+01080,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+01095,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+01110,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+01125,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+01140,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+01155,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+01170,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+01185,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+01200,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+01215,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+01230,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+01245,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+01260,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+01275,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+01290,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+01305,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+01320,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+01335,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+01350,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+01365,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+01380,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+01395,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,0,False,True,4.0,0.0
+01410,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+01425,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+01440,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+01455,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+01470,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+01485,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+01500,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+01515,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+01530,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+01545,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+01560,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+01575,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+01590,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+01605,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+01620,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+01635,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+01650,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+01665,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+01680,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+01695,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+01710,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+01725,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+01740,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+01755,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+01770,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+01785,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+01800,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+01815,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+01830,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+01845,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+01860,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+01875,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+01890,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+01905,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+01920,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+01935,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+01950,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+01965,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+01980,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+01995,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+02010,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+02025,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+02040,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+02055,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,2,False,True,6.0,0.0
+02070,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+02085,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+02100,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+02115,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+02130,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+02145,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+02160,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+02175,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+02190,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+02205,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+02220,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+02235,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+02250,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+02265,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+02280,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+02295,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+02310,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+02325,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+02340,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+02355,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+02370,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+02385,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+02400,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+02415,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+02430,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+02445,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+02460,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+02475,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+02490,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+02505,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+02520,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+02535,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+02550,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+02565,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,6,False,True,3.0,0.0
+02580,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+02595,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+02610,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+02625,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+02640,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+02655,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+02670,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+02685,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+02700,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+02715,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,5,False,True,4.0,0.0
+02730,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+02745,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+02760,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+02775,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+02790,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+02805,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+02820,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+02835,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,4,False,True,2.0,0.0
+02850,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+02865,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+02880,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+02895,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+02910,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+02925,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+02940,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+02955,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,2,False,True,4.0,0.0
+02970,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+02985,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+03000,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+03015,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+03030,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+03045,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+03060,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+03075,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+03090,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+03105,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+03120,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+03135,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+03150,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+03165,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+03180,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+03195,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+03210,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+03225,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+03240,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+03255,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+03270,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+03285,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+03300,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+03315,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+03330,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+03345,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+03360,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+03375,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+03390,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+03405,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+03420,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+03435,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,,,,10,False,False,0.0,0.0
+03450,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,Elixir Collector,26.0,3.0,4,True,True,6.0,6.0
+03465,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+03480,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+03495,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+03510,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+03525,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+03540,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+03555,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+03570,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+03585,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+03600,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+03615,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+03630,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+03645,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+03660,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+03675,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+03690,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+03705,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+03720,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,True,1.0,0.0
+03735,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,2,False,True,5.0,0.0
+03750,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+03765,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+03780,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+03795,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+03810,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+03825,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+03840,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+03855,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+03870,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+03885,Balloon,4.0,Minion Horde,68.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+03900,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Minion Horde,68.0,2.0,2,True,True,4.0,5.0
+03915,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+03930,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+03945,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+03960,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+03975,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+03990,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04005,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04020,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04035,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+04050,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+04065,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+04080,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+04095,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+04110,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+04125,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,True,4.0,0.0
+04140,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04155,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04170,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04185,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04200,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+04215,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+04230,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,2,False,True,4.0,0.0
+04245,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04260,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04275,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04290,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04305,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04320,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+04335,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,2,False,True,4.0,0.0
+04350,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+04365,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+04380,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+04395,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+04410,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+04425,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,1,False,True,2.0,0.0
+04440,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+04455,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+04470,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+04485,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+04500,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04515,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04530,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04545,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04560,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04575,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+04590,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+04605,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+04620,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+04635,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+04650,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+04665,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+04680,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+04695,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,1,False,True,7.0,0.0
+04710,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+04725,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+04740,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+04755,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04770,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04785,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04800,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04815,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04830,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+04845,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+04860,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+04875,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+04890,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+04905,Balloon,4.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+04920,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,Balloon,4.0,1.0,3,True,True,4.0,5.0
+04935,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+04950,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04965,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04980,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04995,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+05010,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+05025,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+05040,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+05055,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+05070,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+05085,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+05100,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+05115,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+05130,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+05145,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+05160,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,10,False,False,0.0,0.0
+05175,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,True,4.0,0.0
+05190,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+05205,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+05220,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+05235,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+05250,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+05265,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+05280,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+05295,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,True,4.0,0.0
+05310,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+05325,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+05340,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+05355,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+05370,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+05385,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+05400,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+05415,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+05430,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+05445,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+05460,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+05475,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+05490,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+05505,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,10,False,False,0.0,0.0
+05520,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,10,False,False,0.0,0.0
+05535,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,10,False,False,0.0,0.0
+05550,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,10,False,False,0.0,0.0
+05565,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,8,False,True,2.0,0.0
+05580,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,1,False,True,7.0,0.0
+05595,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+05610,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+05625,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+05640,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+05655,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+05670,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+05685,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+05700,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+05715,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,2,False,True,2.0,0.0
+05730,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+05745,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+05760,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+05775,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+05790,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+05805,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+05820,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+05835,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,0,False,True,4.0,0.0
+05850,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+05865,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+05880,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+05895,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+05910,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+05925,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+05940,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+05955,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+05970,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+05985,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+06000,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+06015,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+06030,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+06045,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+06060,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+06075,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+06090,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+06105,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+06120,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+06135,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+06150,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,3,False,True,5.0,0.0
+06165,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+06180,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+06195,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+06210,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+06225,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+06240,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,1,False,True,4.0,0.0
+06255,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+06270,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+06285,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+06300,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+06315,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+06330,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+06345,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+06360,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+06375,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+06390,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+06405,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+06420,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+06435,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+06450,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+06465,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+06480,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+06495,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+06510,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+06525,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+06540,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+06555,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,True,2.0,0.0
+06570,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+06585,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+06600,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+06615,Hunter,52.0,Balloon,4.0,Minion Horde,68.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+06630,Hunter,52.0,Balloon,4.0,Tornado,101.0,Elixir Collector,26.0,Minion Horde,68.0,3.0,2,True,True,5.0,5.0
+06645,Hunter,52.0,Balloon,4.0,Tornado,101.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+06660,Hunter,52.0,Balloon,4.0,Tornado,101.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+06675,Hunter,52.0,Balloon,4.0,Tornado,101.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+06690,Hunter,52.0,Balloon,4.0,Tornado,101.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+06705,Hunter,52.0,Balloon,4.0,Tornado,101.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+06720,Hunter,52.0,Balloon,4.0,Tornado,101.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+06735,Hunter,52.0,Balloon,4.0,Tornado,101.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+06750,Hunter,52.0,Balloon,4.0,Tornado,101.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+06765,Hunter,52.0,Balloon,4.0,Tornado,101.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+06780,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,Elixir Collector,26.0,4.0,3,True,True,3.0,6.0
+06795,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+06810,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+06825,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+06840,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,0,False,True,4.0,0.0
+06855,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,1,False,False,0.0,0.0
+06870,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,1,False,False,0.0,0.0
+06885,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,1,False,False,0.0,0.0
+06900,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+06915,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+06930,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+06945,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+06960,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+06975,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+06990,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+07005,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+07020,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+07035,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+07050,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+07065,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+07080,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+07095,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+07110,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+07125,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+07140,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+07155,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+07170,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+07185,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+07200,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+07215,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+07230,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+07245,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+07260,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+07275,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+07290,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+07305,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+07320,Hunter,52.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+07335,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,Balloon,4.0,4.0,5,True,False,0.0,5.0
+07350,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+07365,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+07380,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+07395,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+07410,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+07425,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+07440,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+07455,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+07470,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+07485,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+07500,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+07515,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+07530,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+07545,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+07560,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+07575,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+07590,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+07605,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+07620,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+07635,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+07650,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+07665,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+07680,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+07695,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+07710,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+07725,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+07740,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+07755,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+07770,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+07785,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+07800,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+07815,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+07830,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+07845,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+07860,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+07875,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+07890,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+07905,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+07920,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+07935,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+07950,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+07965,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+07980,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+07995,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+08010,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+08025,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+08040,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+08055,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+08070,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+08085,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+08100,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+08115,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+08130,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+08145,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+08160,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+08175,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+08190,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+08205,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+08220,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+08235,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+08250,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+08265,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+08280,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,True,4.0,0.0
+08295,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+08310,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+08325,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+08340,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+08355,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+08370,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+08385,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+08400,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+08415,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+08430,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+08445,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+08460,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+08475,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+08490,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+08505,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+08520,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+08535,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+08550,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+08565,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+08580,Hunter,52.0,Golem,47.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+08595,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,Golem,47.0,2.0,1,True,True,8.0,8.0
+08610,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,2,False,False,0.0,0.0
+08625,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,2,False,False,0.0,0.0
+08640,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,2,False,False,0.0,0.0
+08655,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,2,False,False,0.0,0.0
+08670,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,2,False,False,0.0,0.0
+08685,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+08700,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+08715,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+08730,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+08745,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+08760,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+08775,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+08790,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+08805,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+08820,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+08835,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+08850,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+08865,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+08880,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+08895,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+08910,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+08925,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+08940,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+08955,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+08970,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+08985,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+09000,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+09015,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+09030,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,True,3.0,0.0
+09045,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+09060,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+09075,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+09090,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+09105,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+09120,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+09135,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+09150,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+09165,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+09180,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+09195,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,1,False,True,3.0,0.0
+09210,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,1,False,False,0.0,0.0
+09225,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,1,False,False,0.0,0.0
+09240,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,1,False,False,0.0,0.0
+09255,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,1,False,False,0.0,0.0
+09270,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,1,False,False,0.0,0.0
+09285,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,2,False,False,0.0,0.0
+09300,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,2,False,False,0.0,0.0
+09315,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,2,False,False,0.0,0.0
+09330,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,2,False,False,0.0,0.0
+09345,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,2,False,False,0.0,0.0
+09360,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+09375,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+09390,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+09405,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+09420,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+09435,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+09450,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+09465,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+09480,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,Hunter,52.0,1.0,0,True,True,4.0,4.0
+09495,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,0,False,False,0.0,0.0
+09510,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,0,False,False,0.0,0.0
+09525,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,0,False,False,0.0,0.0
+09540,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,1,False,False,0.0,0.0
+09555,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,1,False,False,0.0,0.0
+09570,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,1,False,False,0.0,0.0
+09585,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,1,False,False,0.0,0.0
+09600,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,1,False,False,0.0,0.0
+09615,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,2,False,False,0.0,0.0
+09630,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,2,False,False,0.0,0.0
+09645,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,2,False,False,0.0,0.0
+09660,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,2,False,False,0.0,0.0
+09675,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,2,False,False,0.0,0.0
+09690,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,2,False,False,0.0,0.0
+09705,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+09720,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+09735,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+09750,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+09765,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+09780,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+09795,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+09810,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+09825,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+09840,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+09855,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+09870,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+09885,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+09900,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+09915,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+09930,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+09945,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+09960,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+09975,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+09990,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+10005,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+10020,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+10035,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+10050,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+10065,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+10080,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+10095,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+10110,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,True,4.0,0.0
+10125,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+10140,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+10155,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+10170,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+10185,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+10200,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+10215,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+10230,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+10245,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+10260,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+10275,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+10290,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+10305,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+10320,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+10335,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+10350,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+10365,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+10380,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+10395,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+10410,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+10425,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,True,1.0,0.0
+10440,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+10455,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+10470,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+10485,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+10500,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+10515,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+10530,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+10545,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+10560,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+10575,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+10590,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+10605,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+10620,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,True,1.0,0.0
+10635,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+10650,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+10665,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+10680,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+10695,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+10710,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+10725,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+10740,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+10755,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+10770,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+10785,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,True,4.0,0.0
+10800,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+10815,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+10830,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+10845,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+10860,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+10875,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+10890,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+10905,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,True,1.0,0.0
+10920,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+10935,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+10950,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+10965,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+10980,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+10995,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+11010,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,Golem,47.0,1.0,1,True,True,8.0,8.0
+11025,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,1,False,False,0.0,0.0
+11040,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,2,False,False,0.0,0.0
+11055,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,2,False,False,0.0,0.0
+11070,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+11085,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+11100,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+11115,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+11130,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+11145,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+11160,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+11175,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+11190,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+11205,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+11220,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+11235,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+11250,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+11265,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+11280,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+11295,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+11310,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+11325,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+11340,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+11355,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,True,4.0,0.0
+11370,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+11385,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+11400,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+11415,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+11430,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+11445,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+11460,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+11475,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+11490,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+11505,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+11520,Hunter,52.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+11535,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,Electro Dragon,21.0,2.0,5,True,True,4.0,5.0
+11550,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+11565,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+11580,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+11595,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+11610,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+11625,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+11640,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+11655,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+11670,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,True,3.0,0.0
+11685,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+11700,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+11715,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+11730,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+11745,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+11760,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+11775,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+11790,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+11805,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+11820,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+11835,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+11850,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,Hunter,52.0,1.0,4,True,True,4.0,4.0
+11865,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+11880,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+11895,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+11910,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+11925,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+11940,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+11955,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+11970,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+11985,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+12000,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+12015,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+12030,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+12045,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+12060,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+12075,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,True,4.0,0.0
+12090,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+12105,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+12120,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+12135,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+12150,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+12165,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+12180,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+12195,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+12210,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+12225,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+12240,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+12255,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,True,3.0,0.0
+12270,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+12285,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+12300,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+12315,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+12330,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+12345,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+12360,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+12375,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+12390,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+12405,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+12420,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+12435,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,True,4.0,0.0
+12450,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+12465,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+12480,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+12495,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+12510,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,True,3.0,0.0
+12525,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+12540,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+12555,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+12570,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+12585,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+12600,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+12615,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+12630,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+12645,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+12660,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+12675,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+12690,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+12705,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+12720,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+12735,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+12750,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,Hunter,52.0,2.0,5,True,True,4.0,4.0
+12765,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+12780,Golem,47.0,Electro Dragon,21.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+12795,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,Electro Dragon,21.0,2.0,6,True,False,0.0,5.0
+12810,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+12825,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+12840,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+12855,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+12870,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+12885,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+12900,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+12915,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,True,4.0,0.0
+12930,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+12945,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+12960,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+12975,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+12990,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+13005,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+13020,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+13035,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+13050,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,True,4.0,0.0
+13065,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+13080,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+13095,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,2,False,True,3.0,0.0
+13110,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,2,False,False,0.0,0.0
+13125,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,2,False,False,0.0,0.0
+13140,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+13155,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+13170,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+13185,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+13200,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+13215,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+13230,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+13245,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,1,False,True,4.0,0.0
+13260,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,1,False,False,0.0,0.0
+13275,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,2,False,False,0.0,0.0
+13290,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,2,False,False,0.0,0.0
+13305,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+13320,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+13335,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+13350,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+13365,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+13380,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+13395,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+13410,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+13425,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+13440,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+13455,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+13470,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+13485,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+13500,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+13515,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+13530,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+13545,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+13560,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+13575,Golem,47.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+13590,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,Hunter,52.0,2.0,5,True,True,4.0,4.0
+13605,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+13620,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+13635,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+13650,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+13665,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+13680,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+13695,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+13710,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+13725,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+13740,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+13755,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+13770,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,True,3.0,0.0
+13785,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+13800,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+13815,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+13830,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+13845,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+13860,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+13875,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+13890,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+13905,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+13920,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+13935,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,True,3.0,0.0
+13950,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+13965,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+13980,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+13995,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+14010,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+14025,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+14040,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+14055,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+14070,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+14085,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+14100,Golem,47.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+14115,Hunter,52.0,Rocket,84.0,Tornado,101.0,Electro Dragon,21.0,Golem,47.0,1.0,2,True,True,7.0,8.0
+14130,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,Rocket,84.0,2.0,2,True,False,0.0,6.0
+14145,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,2,False,False,0.0,0.0
+14160,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+14175,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+14190,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+14205,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+14220,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+14235,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+14250,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+14265,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+14280,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+14295,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+14310,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+14325,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+14340,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+14355,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+14370,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+14385,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+14400,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+14415,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+14430,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+14445,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,10,False,False,0.0,0.0
+14460,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,True,4.0,0.0
+14475,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+14490,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+14505,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+14520,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,7,False,False,0.0,0.0
+14535,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+14550,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,8,False,False,0.0,0.0
+14565,Hunter,52.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,9,False,False,0.0,0.0
+14580,Electro Dragon,21.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,Hunter,52.0,1.0,5,True,True,4.0,4.0
+14595,Electro Dragon,21.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,6,False,False,0.0,0.0
+14610,Electro Dragon,21.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,2,False,True,4.0,0.0
+14625,Electro Dragon,21.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+14640,Electro Dragon,21.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,3,False,False,0.0,0.0
+14655,Electro Dragon,21.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+14670,Electro Dragon,21.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,4,False,False,0.0,0.0
+14685,Electro Dragon,21.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+14700,Electro Dragon,21.0,Hunter,52.0,Tornado,101.0,Electro Dragon,21.0,,,,5,False,False,0.0,0.0
+14715,Tornado,101.0,Hunter,52.0,Tornado,101.0,Balloon,4.0,Electro Dragon,21.0,4.0,1,True,True,4.0,5.0
+14730,Tornado,101.0,Hunter,52.0,Tornado,101.0,Balloon,4.0,,,,1,False,False,0.0,0.0
+14745,Tornado,101.0,Hunter,52.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+14760,Tornado,101.0,Hunter,52.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+14775,Tornado,101.0,Hunter,52.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+14790,Tornado,101.0,Hunter,52.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+14805,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,Tornado,101.0,3.0,4,True,True,2.0,3.0
+14820,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+14835,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+14850,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+14865,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+14880,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+14895,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+14910,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,1,False,True,3.0,0.0
+14925,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+14940,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+14955,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+14970,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+14985,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+15000,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+15015,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+15030,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+15045,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,2,False,True,3.0,0.0
+15060,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+15075,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15090,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15105,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+15120,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+15135,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,1,False,True,4.0,0.0
+15150,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+15165,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+15180,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15195,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15210,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+15225,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+15240,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+15255,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,1,False,True,4.0,0.0
+15270,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+15285,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+15300,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15315,Tornado,101.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+15330,Rocket,84.0,Rocket,84.0,Electro Dragon,21.0,Balloon,4.0,Hunter,52.0,2.0,1,True,True,3.0,4.0
+15345,Rocket,84.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,Rocket,84.0,2.0,2,True,False,0.0,6.0
+15360,Rocket,84.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+15375,Rocket,84.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15390,Rocket,84.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15405,Rocket,84.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+15420,Rocket,84.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+15435,Rocket,84.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,1,False,True,3.0,0.0
+15450,Rocket,84.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,1,False,False,0.0,0.0
+15465,Rocket,84.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+15480,Rocket,84.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+15495,Rocket,84.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15510,Rocket,84.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+15525,Rocket,84.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+15540,Rocket,84.0,Hunter,52.0,Electro Dragon,21.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+15555,Rocket,84.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,Electro Dragon,21.0,3.0,1,True,True,4.0,5.0
+15570,Rocket,84.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+15585,Rocket,84.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+15600,Rocket,84.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15615,Rocket,84.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15630,Rocket,84.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15645,Rocket,84.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15660,Rocket,84.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15675,Rocket,84.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15690,Rocket,84.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15705,Rocket,84.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15720,Rocket,84.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15735,Rocket,84.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15750,Balloon,4.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,Rocket,84.0,1.0,3,True,False,0.0,6.0
+15765,Balloon,4.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15780,Balloon,4.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15795,Balloon,4.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15810,Balloon,4.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15825,Balloon,4.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15840,Balloon,4.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15855,Balloon,4.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15870,Balloon,4.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15885,Balloon,4.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15900,Balloon,4.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15915,Balloon,4.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15930,Balloon,4.0,Balloon,4.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15945,Balloon,4.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,Balloon,4.0,2.0,3,True,False,0.0,5.0
+15960,Balloon,4.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+15975,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,Balloon,4.0,1.0,3,True,False,0.0,5.0
+15990,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16005,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16020,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16035,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16050,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16065,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16080,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16095,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16110,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16125,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16140,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16155,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16170,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16185,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16200,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16215,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16230,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16245,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16260,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16275,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16290,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16305,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16320,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16335,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16350,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16365,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16380,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16395,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16410,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16425,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16440,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16455,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16470,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16485,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16500,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16515,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16530,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16545,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16560,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16575,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16590,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16605,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16620,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16635,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+16650,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+16665,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+16680,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+16695,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+16710,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+16725,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+16740,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+16755,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+16770,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+16785,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+16800,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+16815,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+16830,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+16845,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+16860,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+16875,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+16890,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+16905,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+16920,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+16935,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+16950,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+16965,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+16980,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+16995,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+17010,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,10,False,False,0.0,0.0
+17025,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,10,False,False,0.0,0.0
+17040,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,10,False,False,0.0,0.0
+17055,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,10,False,False,0.0,0.0
+17070,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,9,False,True,1.0,0.0
+17085,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+17100,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+17115,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+17130,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+17145,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+17160,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,10,False,False,0.0,0.0
+17175,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,10,False,False,0.0,0.0
+17190,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,10,False,False,0.0,0.0
+17205,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,True,4.0,0.0
+17220,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+17235,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+17250,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+17265,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+17280,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+17295,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+17310,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+17325,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+17340,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+17355,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+17370,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+17385,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+17400,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+17415,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+17430,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+17445,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+17460,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+17475,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+17490,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+17505,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+17520,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,True,6.0,0.0
+17535,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+17550,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+17565,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+17580,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+17595,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+17610,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+17625,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+17640,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+17655,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+17670,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+17685,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+17700,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+17715,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+17730,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+17745,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+17760,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+17775,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+17790,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,True,3.0,0.0
+17805,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+17820,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+17835,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+17850,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+17865,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+17880,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+17895,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+17910,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+17925,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+17940,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+17955,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+17970,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+17985,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+18000,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,1,False,True,6.0,0.0
+18015,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,1,False,False,0.0,0.0
+18030,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,1,False,False,0.0,0.0
+18045,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+18060,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+18075,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+18090,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+18105,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+18120,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+18135,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+18150,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+18165,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+18180,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+18195,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+18210,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+18225,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+18240,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+18255,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+18270,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+18285,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+18300,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+18315,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+18330,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+18345,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+18360,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,True,3.0,0.0
+18375,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+18390,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+18405,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+18420,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+18435,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+18450,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+18465,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+18480,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+18495,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+18510,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+18525,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+18540,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,1,False,True,2.0,0.0
+18555,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+18570,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+18585,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+18600,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+18615,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+18630,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+18645,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+18660,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+18675,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+18690,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+18705,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+18720,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+18735,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+18750,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+18765,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+18780,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+18795,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+18810,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+18825,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+18840,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+18855,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+18870,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+18885,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+18900,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+18915,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+18930,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+18945,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,0,False,True,6.0,0.0
+18960,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,1,False,False,0.0,0.0
+18975,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,1,False,False,0.0,0.0
+18990,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,1,False,False,0.0,0.0
+19005,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,1,False,False,0.0,0.0
+19020,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,1,False,False,0.0,0.0
+19035,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,1,False,False,0.0,0.0
+19050,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+19065,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+19080,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+19095,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+19110,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+19125,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+19140,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+19155,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+19170,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+19185,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+19200,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+19215,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+19230,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+19245,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+19260,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+19275,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+19290,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+19305,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+19320,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+19335,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+19350,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+19365,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+19380,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+19395,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+19410,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+19425,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+19440,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+19455,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+19470,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+19485,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+19500,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+19515,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+19530,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+19545,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+19560,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+19575,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+19590,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+19605,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+19620,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+19635,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,10,False,False,0.0,0.0
+19650,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,10,False,False,0.0,0.0
+19665,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,10,False,False,0.0,0.0
+19680,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,10,False,False,0.0,0.0
+19695,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,10,False,False,0.0,0.0
+19710,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,10,False,False,0.0,0.0
+19725,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,10,False,False,0.0,0.0
+19740,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,True,4.0,0.0
+19755,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+19770,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+19785,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+19800,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+19815,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+19830,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,True,3.0,0.0
+19845,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+19860,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+19875,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+19890,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+19905,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+19920,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+19935,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+19950,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+19965,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,True,3.0,0.0
+19980,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+19995,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+20010,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+20025,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+20040,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+20055,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+20070,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+20085,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+20100,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+20115,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,True,1.0,0.0
+20130,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+20145,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+20160,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+20175,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+20190,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+20205,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+20220,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+20235,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+20250,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+20265,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+20280,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+20295,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,True,5.0,0.0
+20310,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+20325,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+20340,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+20355,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+20370,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+20385,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,True,1.0,0.0
+20400,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+20415,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+20430,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+20445,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+20460,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,True,3.0,0.0
+20475,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+20490,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+20505,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+20520,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+20535,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,1,False,True,3.0,0.0
+20550,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,1,False,False,0.0,0.0
+20565,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,1,False,False,0.0,0.0
+20580,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+20595,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+20610,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+20625,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+20640,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,1,False,True,1.0,0.0
+20655,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,1,False,False,0.0,0.0
+20670,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+20685,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+20700,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+20715,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+20730,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+20745,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,1,False,True,2.0,0.0
+20760,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,1,False,False,0.0,0.0
+20775,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,1,False,False,0.0,0.0
+20790,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+20805,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+20820,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+20835,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+20850,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,True,1.0,0.0
+20865,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+20880,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+20895,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+20910,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+20925,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+20940,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+20955,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,1,False,True,3.0,0.0
+20970,Tornado,101.0,Rocket,84.0,Tornado,101.0,Balloon,4.0,,,,1,False,False,0.0,0.0

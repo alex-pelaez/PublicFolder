@@ -1,0 +1,493 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,,,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+00255,,,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+00270,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,1.0,6,True,False,0.0,0.0
+00285,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00300,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00315,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00330,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00345,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00360,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00375,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00390,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00405,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00420,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00435,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00450,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00465,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00480,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00495,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00510,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00525,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00540,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00555,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00570,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00585,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00600,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00615,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00630,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00645,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00660,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00675,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00690,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00705,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00720,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00735,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00750,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00765,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00780,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00795,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00810,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00825,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00840,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00855,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00870,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00885,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00900,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00915,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00930,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00945,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00960,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Royal Ghost,86.0,Barbarian Barrel,6.0,4.0,8,True,True,2.0,2.0
+00975,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Royal Ghost,86.0,,,,8,False,False,0.0,0.0
+00990,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Royal Ghost,86.0,,,,8,False,False,0.0,0.0
+01005,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Royal Ghost,86.0,,,,8,False,False,0.0,0.0
+01020,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Royal Ghost,86.0,,,,8,False,False,0.0,0.0
+01035,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Royal Ghost,86.0,,,,8,False,False,0.0,0.0
+01050,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Royal Ghost,86.0,,,,9,False,False,0.0,0.0
+01065,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Royal Ghost,86.0,,,,9,False,False,0.0,0.0
+01080,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Royal Ghost,86.0,,,,9,False,False,0.0,0.0
+01095,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Royal Ghost,86.0,,,,9,False,False,0.0,0.0
+01110,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Royal Ghost,86.0,,,,9,False,False,0.0,0.0
+01125,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Royal Ghost,86.0,,,,10,False,False,0.0,0.0
+01140,Three Musketeers,99.0,Hunter,52.0,Fisherman,32.0,Royal Ghost,86.0,,,,10,False,False,0.0,0.0
+01155,Three Musketeers,99.0,Hunter,52.0,Barbarian Hut,7.0,Royal Ghost,86.0,Fisherman,32.0,3.0,7,True,True,3.0,3.0
+01170,Three Musketeers,99.0,Hunter,52.0,Barbarian Hut,7.0,Royal Ghost,86.0,,,,7,False,False,0.0,0.0
+01185,Three Musketeers,99.0,Hunter,52.0,Barbarian Hut,7.0,Royal Ghost,86.0,,,,7,False,False,0.0,0.0
+01200,Three Musketeers,99.0,Hunter,52.0,Barbarian Hut,7.0,Royal Ghost,86.0,,,,7,False,False,0.0,0.0
+01215,Three Musketeers,99.0,Hunter,52.0,Barbarian Hut,7.0,Royal Ghost,86.0,,,,7,False,False,0.0,0.0
+01230,Three Musketeers,99.0,Hunter,52.0,Barbarian Hut,7.0,Royal Ghost,86.0,,,,7,False,False,0.0,0.0
+01245,Three Musketeers,99.0,Hunter,52.0,Barbarian Hut,7.0,Royal Ghost,86.0,,,,8,False,False,0.0,0.0
+01260,Three Musketeers,99.0,Hunter,52.0,Barbarian Hut,7.0,Royal Ghost,86.0,,,,8,False,False,0.0,0.0
+01275,Three Musketeers,99.0,Hunter,52.0,Barbarian Hut,7.0,Royal Ghost,86.0,,,,8,False,False,0.0,0.0
+01290,Three Musketeers,99.0,Hunter,52.0,Barbarian Hut,7.0,Royal Ghost,86.0,,,,8,False,False,0.0,0.0
+01305,Three Musketeers,99.0,Hunter,52.0,Barbarian Hut,7.0,Royal Ghost,86.0,,,,8,False,False,0.0,0.0
+01320,Three Musketeers,99.0,Hunter,52.0,Barbarian Hut,7.0,Royal Ghost,86.0,,,,9,False,False,0.0,0.0
+01335,Three Musketeers,99.0,Hunter,52.0,Barbarian Hut,7.0,Royal Ghost,86.0,,,,9,False,False,0.0,0.0
+01350,Three Musketeers,99.0,Hunter,52.0,Barbarian Hut,7.0,Royal Ghost,86.0,,,,9,False,False,0.0,0.0
+01365,Three Musketeers,99.0,Hunter,52.0,Barbarian Hut,7.0,Royal Ghost,86.0,,,,9,False,False,0.0,0.0
+01380,Three Musketeers,99.0,Hunter,52.0,Barbarian Hut,7.0,Royal Ghost,86.0,,,,9,False,False,0.0,0.0
+01395,Three Musketeers,99.0,Hunter,52.0,Barbarian Hut,7.0,Royal Ghost,86.0,,,,9,False,False,0.0,0.0
+01410,Three Musketeers,99.0,Hunter,52.0,Barbarian Hut,7.0,Royal Ghost,86.0,,,,10,False,False,0.0,0.0
+01425,Three Musketeers,99.0,Hunter,52.0,Barbarian Hut,7.0,Royal Ghost,86.0,,,,10,False,False,0.0,0.0
+01440,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,Barbarian Hut,7.0,3.0,3,True,True,7.0,6.0
+01455,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,3,False,False,0.0,0.0
+01470,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,3,False,False,0.0,0.0
+01485,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,3,False,False,0.0,0.0
+01500,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,3,False,False,0.0,0.0
+01515,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,4,False,False,0.0,0.0
+01530,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,4,False,False,0.0,0.0
+01545,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,4,False,False,0.0,0.0
+01560,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,4,False,False,0.0,0.0
+01575,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,4,False,False,0.0,0.0
+01590,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,4,False,False,0.0,0.0
+01605,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,5,False,False,0.0,0.0
+01620,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,5,False,False,0.0,0.0
+01635,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,5,False,False,0.0,0.0
+01650,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,5,False,False,0.0,0.0
+01665,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,5,False,False,0.0,0.0
+01680,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,5,False,False,0.0,0.0
+01695,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,6,False,False,0.0,0.0
+01710,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,6,False,False,0.0,0.0
+01725,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,6,False,False,0.0,0.0
+01740,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,6,False,False,0.0,0.0
+01755,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,6,False,False,0.0,0.0
+01770,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,7,False,False,0.0,0.0
+01785,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,7,False,False,0.0,0.0
+01800,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,7,False,False,0.0,0.0
+01815,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,7,False,False,0.0,0.0
+01830,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,7,False,False,0.0,0.0
+01845,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,7,False,False,0.0,0.0
+01860,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,8,False,False,0.0,0.0
+01875,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,8,False,False,0.0,0.0
+01890,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,8,False,False,0.0,0.0
+01905,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,8,False,False,0.0,0.0
+01920,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,8,False,False,0.0,0.0
+01935,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,9,False,False,0.0,0.0
+01950,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,9,False,False,0.0,0.0
+01965,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,9,False,False,0.0,0.0
+01980,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,9,False,False,0.0,0.0
+01995,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,9,False,False,0.0,0.0
+02010,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,9,False,False,0.0,0.0
+02025,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,10,False,False,0.0,0.0
+02040,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Royal Ghost,86.0,,,,10,False,False,0.0,0.0
+02055,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Heal Spirit,50.0,Royal Ghost,86.0,4.0,10,True,True,3.0,3.0
+02070,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,10,False,False,0.0,0.0
+02085,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+02100,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+02115,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+02130,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+02145,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+02160,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+02175,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+02190,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+02205,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+02220,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+02235,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+02250,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+02265,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+02280,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+02295,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+02310,Three Musketeers,99.0,Hunter,52.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,10,False,False,0.0,0.0
+02325,Three Musketeers,99.0,Barbarian Barrel,6.0,Royal Hogs,88.0,Heal Spirit,50.0,Hunter,52.0,2.0,6,True,True,4.0,4.0
+02340,Three Musketeers,99.0,Barbarian Barrel,6.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+02355,Three Musketeers,99.0,Barbarian Barrel,6.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+02370,Three Musketeers,99.0,Barbarian Barrel,6.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+02385,Three Musketeers,99.0,Barbarian Barrel,6.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+02400,Three Musketeers,99.0,Barbarian Barrel,6.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+02415,Three Musketeers,99.0,Barbarian Barrel,6.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+02430,Three Musketeers,99.0,Barbarian Barrel,6.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+02445,Three Musketeers,99.0,Barbarian Barrel,6.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+02460,Three Musketeers,99.0,Barbarian Barrel,6.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+02475,Three Musketeers,99.0,Barbarian Barrel,6.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+02490,Three Musketeers,99.0,Barbarian Barrel,6.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+02505,Three Musketeers,99.0,Barbarian Barrel,6.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+02520,Three Musketeers,99.0,Fisherman,32.0,Royal Hogs,88.0,Heal Spirit,50.0,Barbarian Barrel,6.0,2.0,6,True,True,2.0,2.0
+02535,Three Musketeers,99.0,Fisherman,32.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+02550,Three Musketeers,99.0,Fisherman,32.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+02565,Three Musketeers,99.0,Fisherman,32.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+02580,Three Musketeers,99.0,Fisherman,32.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+02595,Three Musketeers,99.0,Fisherman,32.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+02610,Three Musketeers,99.0,Fisherman,32.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+02625,Three Musketeers,99.0,Fisherman,32.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+02640,Three Musketeers,99.0,Fisherman,32.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+02655,Three Musketeers,99.0,Fisherman,32.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+02670,Three Musketeers,99.0,Fisherman,32.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+02685,Three Musketeers,99.0,Fisherman,32.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+02700,Three Musketeers,99.0,Fisherman,32.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+02715,Three Musketeers,99.0,Fisherman,32.0,Barbarian Hut,7.0,Heal Spirit,50.0,Royal Hogs,88.0,3.0,3,True,True,5.0,5.0
+02730,Three Musketeers,99.0,Fisherman,32.0,Barbarian Hut,7.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+02745,Three Musketeers,99.0,Fisherman,32.0,Barbarian Hut,7.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+02760,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Heal Spirit,50.0,Fisherman,32.0,2.0,1,True,True,3.0,3.0
+02775,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,Heal Spirit,50.0,4.0,0,True,True,1.0,1.0
+02790,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,,,,0,False,False,0.0,0.0
+02805,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,,,,0,False,False,0.0,0.0
+02820,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+02835,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+02850,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+02865,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+02880,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+02895,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+02910,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+02925,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+02940,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+02955,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+02970,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+02985,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03000,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03015,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03030,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03045,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03060,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03075,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03090,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03105,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03120,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03135,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03150,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03165,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03180,Three Musketeers,99.0,Royal Ghost,86.0,Barbarian Hut,7.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03195,Three Musketeers,99.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Hunter,52.0,Royal Ghost,86.0,2.0,2,True,True,3.0,3.0
+03210,Three Musketeers,99.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+03225,Three Musketeers,99.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+03240,Three Musketeers,99.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03255,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,Barbarian Barrel,6.0,2.0,1,True,True,2.0,2.0
+03270,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+03285,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+03300,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+03315,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+03330,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+03345,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+03360,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+03375,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+03390,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+03405,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03420,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03435,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03450,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03465,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03480,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03495,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03510,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03525,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03540,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03555,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03570,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03585,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03600,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03615,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03630,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03645,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03660,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+03675,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+03690,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+03705,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+03720,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+03735,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+03750,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+03765,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+03780,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+03795,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+03810,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+03825,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+03840,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+03855,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+03870,Three Musketeers,99.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,10,False,False,0.0,0.0
+03885,Three Musketeers,99.0,Royal Hogs,88.0,Fisherman,32.0,Hunter,52.0,Barbarian Hut,7.0,3.0,3,True,True,7.0,6.0
+03900,Three Musketeers,99.0,Royal Hogs,88.0,Fisherman,32.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03915,Three Musketeers,99.0,Royal Hogs,88.0,Fisherman,32.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03930,Three Musketeers,99.0,Royal Hogs,88.0,Fisherman,32.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03945,Three Musketeers,99.0,Royal Hogs,88.0,Fisherman,32.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03960,Three Musketeers,99.0,Royal Hogs,88.0,Fisherman,32.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03975,Three Musketeers,99.0,Royal Hogs,88.0,Fisherman,32.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03990,Three Musketeers,99.0,Royal Hogs,88.0,Fisherman,32.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+04005,Three Musketeers,99.0,Royal Hogs,88.0,Fisherman,32.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+04020,Three Musketeers,99.0,Royal Hogs,88.0,Fisherman,32.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+04035,Three Musketeers,99.0,Royal Hogs,88.0,Fisherman,32.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+04050,Three Musketeers,99.0,Royal Hogs,88.0,Fisherman,32.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+04065,Three Musketeers,99.0,Royal Hogs,88.0,Fisherman,32.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+04080,Three Musketeers,99.0,Royal Hogs,88.0,Heal Spirit,50.0,Hunter,52.0,Fisherman,32.0,3.0,5,True,True,2.0,3.0
+04095,Three Musketeers,99.0,Royal Hogs,88.0,Heal Spirit,50.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+04110,Three Musketeers,99.0,Royal Hogs,88.0,Heal Spirit,50.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+04125,Three Musketeers,99.0,Royal Hogs,88.0,Heal Spirit,50.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+04140,Three Musketeers,99.0,Royal Hogs,88.0,Heal Spirit,50.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+04155,Three Musketeers,99.0,Royal Hogs,88.0,Heal Spirit,50.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+04170,Three Musketeers,99.0,Royal Hogs,88.0,Heal Spirit,50.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+04185,Three Musketeers,99.0,Royal Hogs,88.0,Heal Spirit,50.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+04200,Three Musketeers,99.0,Royal Hogs,88.0,Heal Spirit,50.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+04215,Three Musketeers,99.0,Royal Hogs,88.0,Heal Spirit,50.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+04230,Three Musketeers,99.0,Royal Hogs,88.0,Heal Spirit,50.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+04245,Three Musketeers,99.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,Heal Spirit,50.0,3.0,7,True,True,1.0,1.0
+04260,Three Musketeers,99.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+04275,Three Musketeers,99.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+04290,Three Musketeers,99.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+04305,Three Musketeers,99.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+04320,Three Musketeers,99.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+04335,Three Musketeers,99.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,,,,10,False,False,0.0,0.0
+04350,Three Musketeers,99.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,,,,10,False,False,0.0,0.0
+04365,Barbarian Barrel,6.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,Three Musketeers,99.0,1.0,1,True,True,9.0,9.0
+04380,Barbarian Barrel,6.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+04395,Barbarian Barrel,6.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+04410,Barbarian Barrel,6.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+04425,Barbarian Barrel,6.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+04440,Barbarian Barrel,6.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+04455,Barbarian Barrel,6.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+04470,Barbarian Barrel,6.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+04485,Barbarian Barrel,6.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+04500,Barbarian Barrel,6.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+04515,Barbarian Barrel,6.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+04530,Barbarian Barrel,6.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+04545,Barbarian Barrel,6.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+04560,Barbarian Barrel,6.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+04575,Barbarian Barrel,6.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+04590,Barbarian Barrel,6.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+04605,Barbarian Barrel,6.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+04620,Barbarian Barrel,6.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+04635,Barbarian Barrel,6.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+04650,Barbarian Barrel,6.0,Royal Hogs,88.0,Royal Ghost,86.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+04665,Barbarian Barrel,6.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,Royal Ghost,86.0,3.0,5,True,True,2.0,3.0
+04680,Barbarian Barrel,6.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+04695,Barbarian Barrel,6.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+04710,Barbarian Barrel,6.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+04725,Barbarian Barrel,6.0,Royal Hogs,88.0,Barbarian Hut,7.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+04740,Barbarian Barrel,6.0,Fisherman,32.0,Barbarian Hut,7.0,Hunter,52.0,Royal Hogs,88.0,2.0,2,True,True,4.0,5.0
+04755,Barbarian Barrel,6.0,Fisherman,32.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+04770,Barbarian Barrel,6.0,Fisherman,32.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+04785,Barbarian Barrel,6.0,Fisherman,32.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+04800,Barbarian Barrel,6.0,Fisherman,32.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+04815,Barbarian Barrel,6.0,Fisherman,32.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+04830,Barbarian Barrel,6.0,Heal Spirit,50.0,Barbarian Hut,7.0,Hunter,52.0,Fisherman,32.0,2.0,1,True,True,2.0,3.0
+04845,Barbarian Barrel,6.0,Heal Spirit,50.0,Barbarian Hut,7.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+04860,Barbarian Barrel,6.0,Heal Spirit,50.0,Barbarian Hut,7.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+04875,Barbarian Barrel,6.0,Heal Spirit,50.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+04890,Barbarian Barrel,6.0,Heal Spirit,50.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+04905,Barbarian Barrel,6.0,Heal Spirit,50.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+04920,Barbarian Barrel,6.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,Heal Spirit,50.0,2.0,2,True,False,0.0,1.0
+04935,Barbarian Barrel,6.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+04950,Barbarian Barrel,6.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+04965,Barbarian Barrel,6.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+04980,Royal Ghost,86.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,Barbarian Barrel,6.0,1.0,1,True,True,2.0,2.0
+04995,Royal Ghost,86.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+05010,Royal Ghost,86.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+05025,Royal Ghost,86.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+05040,Royal Ghost,86.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+05055,Royal Ghost,86.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+05070,Royal Ghost,86.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+05085,Royal Ghost,86.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+05100,Royal Ghost,86.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+05115,Royal Hogs,88.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,Royal Ghost,86.0,1.0,4,True,True,2.0,3.0
+05130,Royal Hogs,88.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+05145,Royal Hogs,88.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+05160,Royal Hogs,88.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+05175,Royal Hogs,88.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+05190,Royal Hogs,88.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+05205,Royal Hogs,88.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+05220,Royal Hogs,88.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+05235,Royal Hogs,88.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+05250,Royal Hogs,88.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+05265,Royal Hogs,88.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+05280,Royal Hogs,88.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+05295,Royal Hogs,88.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+05310,Royal Hogs,88.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+05325,Royal Hogs,88.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+05340,Royal Hogs,88.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+05355,Royal Hogs,88.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+05370,Royal Hogs,88.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+05385,Fisherman,32.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,Royal Hogs,88.0,1.0,3,True,True,5.0,5.0
+05400,Fisherman,32.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+05415,Fisherman,32.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+05430,Fisherman,32.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+05445,Heal Spirit,50.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,Fisherman,32.0,1.0,1,True,True,3.0,3.0
+05460,Heal Spirit,50.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+05475,Heal Spirit,50.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+05490,Heal Spirit,50.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+05505,Barbarian Barrel,6.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,Heal Spirit,50.0,1.0,2,True,False,0.0,1.0
+05520,Barbarian Barrel,6.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+05535,Barbarian Barrel,6.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+05550,Barbarian Barrel,6.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+05565,Barbarian Barrel,6.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+05580,Royal Ghost,86.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,Barbarian Barrel,6.0,1.0,2,True,True,1.0,2.0
+05595,Royal Ghost,86.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+05610,Royal Ghost,86.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+05625,Royal Ghost,86.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+05640,Royal Ghost,86.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+05655,Royal Ghost,86.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+05670,Royal Ghost,86.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+05685,Royal Ghost,86.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+05700,Royal Ghost,86.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+05715,Royal Ghost,86.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+05730,Royal Ghost,86.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+05745,Royal Ghost,86.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+05760,Royal Ghost,86.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+05775,Royal Ghost,86.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+05790,Royal Ghost,86.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+05805,Royal Ghost,86.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+05820,Royal Ghost,86.0,Three Musketeers,99.0,Barbarian Hut,7.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+05835,Royal Ghost,86.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,Barbarian Hut,7.0,3.0,1,True,True,6.0,6.0
+05850,Royal Ghost,86.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+05865,Royal Ghost,86.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+05880,Royal Ghost,86.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+05895,Royal Ghost,86.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+05910,Royal Ghost,86.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+05925,Royal Ghost,86.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+05940,Royal Ghost,86.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+05955,Royal Ghost,86.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+05970,Royal Ghost,86.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+05985,Royal Ghost,86.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+06000,Royal Ghost,86.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+06015,Royal Ghost,86.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+06030,Royal Ghost,86.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+06045,Royal Ghost,86.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+06060,Royal Ghost,86.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+06075,Royal Ghost,86.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+06090,Royal Ghost,86.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+06105,Royal Ghost,86.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+06120,Royal Ghost,86.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+06135,Royal Ghost,86.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+06150,Royal Ghost,86.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+06165,Royal Ghost,86.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+06180,Royal Ghost,86.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+06195,Royal Ghost,86.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+06210,Royal Ghost,86.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,10,False,False,0.0,0.0
+06225,Royal Ghost,86.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,Three Musketeers,99.0,2.0,7,True,True,3.0,9.0
+06240,Royal Ghost,86.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,1,False,True,6.0,0.0
+06255,Royal Ghost,86.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+06270,Royal Ghost,86.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+06285,Royal Ghost,86.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+06300,Royal Ghost,86.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+06315,Royal Ghost,86.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+06330,Royal Ghost,86.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+06345,Royal Ghost,86.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+06360,Royal Ghost,86.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+06375,Royal Ghost,86.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+06390,Royal Ghost,86.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+06405,Royal Ghost,86.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+06420,Royal Ghost,86.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+06435,Royal Ghost,86.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+06450,Royal Ghost,86.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+06465,Royal Ghost,86.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+06480,Royal Ghost,86.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+06495,Royal Ghost,86.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+06510,Royal Ghost,86.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+06525,Royal Ghost,86.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+06540,Royal Ghost,86.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+06555,Royal Ghost,86.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+06570,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,Royal Ghost,86.0,1.0,6,True,True,2.0,3.0
+06585,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+06600,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+06615,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+06630,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+06645,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+06660,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+06675,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+06690,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+06705,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+06720,Heal Spirit,50.0,Fisherman,32.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Hogs,88.0,3.0,4,True,True,5.0,5.0
+06735,Heal Spirit,50.0,Fisherman,32.0,Barbarian Barrel,6.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+06750,Heal Spirit,50.0,Fisherman,32.0,Barbarian Barrel,6.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+06765,Barbarian Hut,7.0,Fisherman,32.0,Barbarian Barrel,6.0,Hunter,52.0,Heal Spirit,50.0,1.0,4,True,True,1.0,1.0
+06780,Barbarian Hut,7.0,Three Musketeers,99.0,Barbarian Barrel,6.0,Hunter,52.0,Fisherman,32.0,2.0,2,True,True,2.0,3.0
+06795,Barbarian Hut,7.0,Three Musketeers,99.0,Barbarian Barrel,6.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+06810,Barbarian Hut,7.0,Three Musketeers,99.0,Barbarian Barrel,6.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+06825,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,Barbarian Barrel,6.0,3.0,1,True,True,2.0,2.0
+06840,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+06855,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+06870,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+06885,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+06900,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+06915,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+06930,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+06945,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+06960,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+06975,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+06990,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+07005,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+07020,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+07035,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+07050,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+07065,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+07080,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+07095,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+07110,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+07125,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+07140,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+07155,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+07170,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+07185,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+07200,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,10,False,False,0.0,0.0
+07215,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,Royal Ghost,86.0,3.0,7,True,True,3.0,3.0
+07230,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+07245,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+07260,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+07275,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+07290,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Hogs,88.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+07305,Barbarian Hut,7.0,Three Musketeers,99.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,3.0,4,True,True,5.0,5.0
+07320,Barbarian Hut,7.0,Three Musketeers,99.0,Heal Spirit,50.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+07335,Barbarian Hut,7.0,Three Musketeers,99.0,Heal Spirit,50.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+07350,Barbarian Hut,7.0,Three Musketeers,99.0,Heal Spirit,50.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+07365,Barbarian Hut,7.0,Three Musketeers,99.0,Fisherman,32.0,Hunter,52.0,Heal Spirit,50.0,3.0,5,True,False,0.0,1.0
+07380,Barbarian Hut,7.0,Three Musketeers,99.0,Fisherman,32.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+07395,Barbarian Hut,7.0,Three Musketeers,99.0,Fisherman,32.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+07410,Barbarian Hut,7.0,Three Musketeers,99.0,Fisherman,32.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+07425,Barbarian Hut,7.0,Three Musketeers,99.0,Barbarian Barrel,6.0,Hunter,52.0,Fisherman,32.0,3.0,4,True,True,2.0,3.0
+07440,Barbarian Hut,7.0,Three Musketeers,99.0,Barbarian Barrel,6.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+07455,Barbarian Hut,7.0,Three Musketeers,99.0,Barbarian Barrel,6.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+07470,Barbarian Hut,7.0,Three Musketeers,99.0,Barbarian Barrel,6.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+07485,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,Barbarian Barrel,6.0,3.0,4,True,True,1.0,2.0
+07500,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+07515,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+07530,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+07545,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+07560,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+07575,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+07590,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+07605,Barbarian Hut,7.0,Three Musketeers,99.0,Royal Ghost,86.0,Hunter,52.0,,,,8,False,False,0.0,0.0

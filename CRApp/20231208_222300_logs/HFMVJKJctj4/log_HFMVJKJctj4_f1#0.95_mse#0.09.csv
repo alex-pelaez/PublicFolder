@@ -1,0 +1,573 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00225,Barbarian Barrel,6.0,Musketeer,73.0,,,Zap,107.0,,,,6,False,False,0.0,0.0
+00240,Barbarian Barrel,6.0,Musketeer,73.0,,,Zap,107.0,,,,6,False,False,0.0,0.0
+00255,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,3.0,6,True,False,0.0,0.0
+00270,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,6,False,False,0.0,0.0
+00285,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,7,False,False,0.0,0.0
+00300,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,7,False,False,0.0,0.0
+00315,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,7,False,False,0.0,0.0
+00330,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,7,False,False,0.0,0.0
+00345,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,7,False,False,0.0,0.0
+00360,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,8,False,False,0.0,0.0
+00375,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,8,False,False,0.0,0.0
+00390,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,8,False,False,0.0,0.0
+00405,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,8,False,False,0.0,0.0
+00420,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,8,False,False,0.0,0.0
+00435,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,8,False,False,0.0,0.0
+00450,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,9,False,False,0.0,0.0
+00465,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,9,False,False,0.0,0.0
+00480,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,9,False,False,0.0,0.0
+00495,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,9,False,False,0.0,0.0
+00510,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,9,False,False,0.0,0.0
+00525,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,9,False,False,0.0,0.0
+00540,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,10,False,False,0.0,0.0
+00555,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,10,False,False,0.0,0.0
+00570,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,10,False,False,0.0,0.0
+00585,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,10,False,False,0.0,0.0
+00600,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,10,False,False,0.0,0.0
+00615,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,10,False,False,0.0,0.0
+00630,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,10,False,False,0.0,0.0
+00645,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,10,False,False,0.0,0.0
+00660,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,10,False,False,0.0,0.0
+00675,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,10,False,False,0.0,0.0
+00690,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,10,False,False,0.0,0.0
+00705,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Zap,107.0,,,,10,False,False,0.0,0.0
+00720,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,Zap,107.0,4.0,8,True,True,2.0,2.0
+00735,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,,,,8,False,False,0.0,0.0
+00750,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,,,,8,False,False,0.0,0.0
+00765,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,,,,8,False,False,0.0,0.0
+00780,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,,,,8,False,False,0.0,0.0
+00795,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,,,,8,False,False,0.0,0.0
+00810,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,,,,9,False,False,0.0,0.0
+00825,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,,,,9,False,False,0.0,0.0
+00840,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,,,,9,False,False,0.0,0.0
+00855,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,,,,9,False,False,0.0,0.0
+00870,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,,,,9,False,False,0.0,0.0
+00885,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,,,,10,False,False,0.0,0.0
+00900,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Miner,66.0,Wall Breakers,103.0,4.0,8,True,True,2.0,2.0
+00915,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Miner,66.0,,,,8,False,False,0.0,0.0
+00930,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Miner,66.0,,,,8,False,False,0.0,0.0
+00945,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Miner,66.0,,,,8,False,False,0.0,0.0
+00960,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Miner,66.0,,,,8,False,False,0.0,0.0
+00975,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Miner,66.0,,,,8,False,False,0.0,0.0
+00990,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Miner,66.0,,,,9,False,False,0.0,0.0
+01005,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Miner,66.0,,,,9,False,False,0.0,0.0
+01020,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Miner,66.0,,,,9,False,False,0.0,0.0
+01035,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Miner,66.0,,,,9,False,False,0.0,0.0
+01050,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Miner,66.0,,,,9,False,False,0.0,0.0
+01065,Barbarian Barrel,6.0,Musketeer,73.0,Mega Knight,63.0,Miner,66.0,,,,10,False,False,0.0,0.0
+01080,Barbarian Barrel,6.0,Prince,79.0,Mega Knight,63.0,Miner,66.0,Musketeer,73.0,2.0,6,True,True,4.0,4.0
+01095,Barbarian Barrel,6.0,Prince,79.0,Mega Knight,63.0,Miner,66.0,,,,6,False,False,0.0,0.0
+01110,Barbarian Barrel,6.0,Prince,79.0,Mega Knight,63.0,Miner,66.0,,,,6,False,False,0.0,0.0
+01125,Barbarian Barrel,6.0,Prince,79.0,Mega Knight,63.0,Miner,66.0,,,,6,False,False,0.0,0.0
+01140,Barbarian Barrel,6.0,Prince,79.0,Mega Knight,63.0,Miner,66.0,,,,6,False,False,0.0,0.0
+01155,Barbarian Barrel,6.0,Prince,79.0,Mega Knight,63.0,Miner,66.0,,,,6,False,False,0.0,0.0
+01170,Barbarian Barrel,6.0,Prince,79.0,Mega Knight,63.0,Miner,66.0,,,,7,False,False,0.0,0.0
+01185,Barbarian Barrel,6.0,Prince,79.0,Mega Knight,63.0,Miner,66.0,,,,7,False,False,0.0,0.0
+01200,Barbarian Barrel,6.0,Prince,79.0,Mega Knight,63.0,Miner,66.0,,,,7,False,False,0.0,0.0
+01215,Barbarian Barrel,6.0,Prince,79.0,Mega Knight,63.0,Miner,66.0,,,,7,False,False,0.0,0.0
+01230,Barbarian Barrel,6.0,Prince,79.0,Mega Knight,63.0,Miner,66.0,,,,7,False,False,0.0,0.0
+01245,Barbarian Barrel,6.0,Bats,9.0,Mega Knight,63.0,Miner,66.0,Prince,79.0,2.0,3,True,True,4.0,5.0
+01260,Barbarian Barrel,6.0,Bats,9.0,Mega Knight,63.0,Miner,66.0,,,,3,False,False,0.0,0.0
+01275,Barbarian Barrel,6.0,Bats,9.0,Mega Knight,63.0,Miner,66.0,,,,3,False,False,0.0,0.0
+01290,Barbarian Barrel,6.0,Bats,9.0,Mega Knight,63.0,Miner,66.0,,,,3,False,False,0.0,0.0
+01305,Barbarian Barrel,6.0,Bats,9.0,Mega Knight,63.0,Miner,66.0,,,,3,False,False,0.0,0.0
+01320,Barbarian Barrel,6.0,Bats,9.0,Mega Knight,63.0,Miner,66.0,,,,3,False,False,0.0,0.0
+01335,Barbarian Barrel,6.0,Bats,9.0,Mega Knight,63.0,Miner,66.0,,,,4,False,False,0.0,0.0
+01350,Zap,107.0,Bats,9.0,Mega Knight,63.0,Miner,66.0,Barbarian Barrel,6.0,1.0,2,True,True,2.0,2.0
+01365,Zap,107.0,Bats,9.0,Mega Knight,63.0,Miner,66.0,,,,2,False,False,0.0,0.0
+01380,Zap,107.0,Bats,9.0,Mega Knight,63.0,Miner,66.0,,,,2,False,False,0.0,0.0
+01395,Zap,107.0,Bats,9.0,Mega Knight,63.0,Miner,66.0,,,,2,False,False,0.0,0.0
+01410,Zap,107.0,Bats,9.0,Mega Knight,63.0,Miner,66.0,,,,2,False,False,0.0,0.0
+01425,Zap,107.0,Bats,9.0,Mega Knight,63.0,Miner,66.0,,,,3,False,False,0.0,0.0
+01440,Zap,107.0,Bats,9.0,Mega Knight,63.0,Miner,66.0,,,,3,False,False,0.0,0.0
+01455,Zap,107.0,Bats,9.0,Mega Knight,63.0,Wall Breakers,103.0,Miner,66.0,4.0,0,True,True,3.0,3.0
+01470,Zap,107.0,Bats,9.0,Mega Knight,63.0,Wall Breakers,103.0,,,,0,False,False,0.0,0.0
+01485,Zap,107.0,Bats,9.0,Mega Knight,63.0,Wall Breakers,103.0,,,,0,False,False,0.0,0.0
+01500,Zap,107.0,Bats,9.0,Mega Knight,63.0,Wall Breakers,103.0,,,,1,False,False,0.0,0.0
+01515,Zap,107.0,Bats,9.0,Mega Knight,63.0,Wall Breakers,103.0,,,,1,False,False,0.0,0.0
+01530,Zap,107.0,Bats,9.0,Mega Knight,63.0,Wall Breakers,103.0,,,,1,False,False,0.0,0.0
+01545,Zap,107.0,Bats,9.0,Mega Knight,63.0,Wall Breakers,103.0,,,,1,False,False,0.0,0.0
+01560,Zap,107.0,Bats,9.0,Mega Knight,63.0,Wall Breakers,103.0,,,,1,False,False,0.0,0.0
+01575,Zap,107.0,Bats,9.0,Mega Knight,63.0,Wall Breakers,103.0,,,,1,False,False,0.0,0.0
+01590,Zap,107.0,Bats,9.0,Mega Knight,63.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+01605,Zap,107.0,Bats,9.0,Mega Knight,63.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+01620,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,Bats,9.0,2.0,3,True,False,0.0,2.0
+01635,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,,,,3,False,False,0.0,0.0
+01650,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,,,,3,False,False,0.0,0.0
+01665,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,,,,3,False,False,0.0,0.0
+01680,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,,,,1,False,True,2.0,0.0
+01695,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,,,,1,False,False,0.0,0.0
+01710,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,,,,1,False,False,0.0,0.0
+01725,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,,,,1,False,False,0.0,0.0
+01740,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,,,,1,False,False,0.0,0.0
+01755,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+01770,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+01785,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,Wall Breakers,103.0,4.0,0,True,True,2.0,2.0
+01800,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,0,False,False,0.0,0.0
+01815,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,0,False,False,0.0,0.0
+01830,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,0,False,False,0.0,0.0
+01845,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,1,False,False,0.0,0.0
+01860,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,1,False,False,0.0,0.0
+01875,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,1,False,False,0.0,0.0
+01890,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,1,False,False,0.0,0.0
+01905,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,1,False,False,0.0,0.0
+01920,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,2,False,False,0.0,0.0
+01935,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,2,False,False,0.0,0.0
+01950,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,2,False,False,0.0,0.0
+01965,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,2,False,False,0.0,0.0
+01980,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,2,False,False,0.0,0.0
+01995,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,2,False,False,0.0,0.0
+02010,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,3,False,False,0.0,0.0
+02025,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,3,False,False,0.0,0.0
+02040,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,3,False,False,0.0,0.0
+02055,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,3,False,False,0.0,0.0
+02070,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,3,False,False,0.0,0.0
+02085,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,4,False,False,0.0,0.0
+02100,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,4,False,False,0.0,0.0
+02115,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,4,False,False,0.0,0.0
+02130,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,4,False,False,0.0,0.0
+02145,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,4,False,False,0.0,0.0
+02160,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,4,False,False,0.0,0.0
+02175,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,5,False,False,0.0,0.0
+02190,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,5,False,False,0.0,0.0
+02205,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,5,False,False,0.0,0.0
+02220,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,5,False,False,0.0,0.0
+02235,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,5,False,False,0.0,0.0
+02250,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,5,False,False,0.0,0.0
+02265,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,6,False,False,0.0,0.0
+02280,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,6,False,False,0.0,0.0
+02295,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,6,False,False,0.0,0.0
+02310,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,6,False,False,0.0,0.0
+02325,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,6,False,False,0.0,0.0
+02340,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,7,False,False,0.0,0.0
+02355,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,7,False,False,0.0,0.0
+02370,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,7,False,False,0.0,0.0
+02385,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,7,False,False,0.0,0.0
+02400,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,7,False,False,0.0,0.0
+02415,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,7,False,False,0.0,0.0
+02430,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,8,False,False,0.0,0.0
+02445,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,8,False,False,0.0,0.0
+02460,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,8,False,False,0.0,0.0
+02475,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,8,False,False,0.0,0.0
+02490,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,8,False,False,0.0,0.0
+02505,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,8,False,False,0.0,0.0
+02520,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,9,False,False,0.0,0.0
+02535,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,9,False,False,0.0,0.0
+02550,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,9,False,False,0.0,0.0
+02565,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,9,False,False,0.0,0.0
+02580,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,9,False,False,0.0,0.0
+02595,Zap,107.0,Musketeer,73.0,Mega Knight,63.0,Prince,79.0,,,,10,False,False,0.0,0.0
+02610,Zap,107.0,Barbarian Barrel,6.0,Mega Knight,63.0,Prince,79.0,Musketeer,73.0,2.0,6,True,True,4.0,4.0
+02625,Zap,107.0,Barbarian Barrel,6.0,Mega Knight,63.0,Prince,79.0,,,,6,False,False,0.0,0.0
+02640,Zap,107.0,Barbarian Barrel,6.0,Mega Knight,63.0,Prince,79.0,,,,6,False,False,0.0,0.0
+02655,Zap,107.0,Barbarian Barrel,6.0,Mega Knight,63.0,Prince,79.0,,,,6,False,False,0.0,0.0
+02670,Zap,107.0,Barbarian Barrel,6.0,Mega Knight,63.0,Prince,79.0,,,,6,False,False,0.0,0.0
+02685,Zap,107.0,Barbarian Barrel,6.0,Mega Knight,63.0,Prince,79.0,,,,7,False,False,0.0,0.0
+02700,Zap,107.0,Barbarian Barrel,6.0,Mega Knight,63.0,Prince,79.0,,,,7,False,False,0.0,0.0
+02715,Zap,107.0,Barbarian Barrel,6.0,Mega Knight,63.0,Prince,79.0,,,,7,False,False,0.0,0.0
+02730,Zap,107.0,Barbarian Barrel,6.0,Mega Knight,63.0,Prince,79.0,,,,7,False,False,0.0,0.0
+02745,Zap,107.0,Barbarian Barrel,6.0,Mega Knight,63.0,Prince,79.0,,,,7,False,False,0.0,0.0
+02760,Zap,107.0,Barbarian Barrel,6.0,Miner,66.0,Prince,79.0,Mega Knight,63.0,3.0,0,True,True,7.0,7.0
+02775,Zap,107.0,Barbarian Barrel,6.0,Miner,66.0,Prince,79.0,,,,1,False,False,0.0,0.0
+02790,Zap,107.0,Barbarian Barrel,6.0,Miner,66.0,Prince,79.0,,,,1,False,False,0.0,0.0
+02805,Zap,107.0,Barbarian Barrel,6.0,Miner,66.0,Prince,79.0,,,,1,False,False,0.0,0.0
+02820,Zap,107.0,Barbarian Barrel,6.0,Miner,66.0,Prince,79.0,,,,1,False,False,0.0,0.0
+02835,Zap,107.0,Barbarian Barrel,6.0,Miner,66.0,Prince,79.0,,,,1,False,False,0.0,0.0
+02850,Zap,107.0,Barbarian Barrel,6.0,Miner,66.0,Prince,79.0,,,,2,False,False,0.0,0.0
+02865,Zap,107.0,Barbarian Barrel,6.0,Miner,66.0,Prince,79.0,,,,2,False,False,0.0,0.0
+02880,Zap,107.0,Barbarian Barrel,6.0,Miner,66.0,Prince,79.0,,,,2,False,False,0.0,0.0
+02895,Zap,107.0,Bats,9.0,Miner,66.0,Prince,79.0,Barbarian Barrel,6.0,2.0,0,True,True,2.0,2.0
+02910,Zap,107.0,Bats,9.0,Miner,66.0,Prince,79.0,,,,0,False,False,0.0,0.0
+02925,Zap,107.0,Bats,9.0,Miner,66.0,Prince,79.0,,,,0,False,False,0.0,0.0
+02940,Zap,107.0,Bats,9.0,Miner,66.0,Prince,79.0,,,,1,False,False,0.0,0.0
+02955,Zap,107.0,Bats,9.0,Miner,66.0,Prince,79.0,,,,1,False,False,0.0,0.0
+02970,Zap,107.0,Bats,9.0,Miner,66.0,Prince,79.0,,,,1,False,False,0.0,0.0
+02985,Zap,107.0,Bats,9.0,Miner,66.0,Prince,79.0,,,,1,False,False,0.0,0.0
+03000,Zap,107.0,Bats,9.0,Miner,66.0,Prince,79.0,,,,1,False,False,0.0,0.0
+03015,Zap,107.0,Bats,9.0,Miner,66.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03030,Zap,107.0,Bats,9.0,Miner,66.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03045,Zap,107.0,Bats,9.0,Miner,66.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03060,Zap,107.0,Wall Breakers,103.0,Miner,66.0,Prince,79.0,Bats,9.0,2.0,0,True,True,2.0,2.0
+03075,Zap,107.0,Wall Breakers,103.0,Miner,66.0,Prince,79.0,,,,0,False,False,0.0,0.0
+03090,Zap,107.0,Wall Breakers,103.0,Miner,66.0,Prince,79.0,,,,0,False,False,0.0,0.0
+03105,Zap,107.0,Wall Breakers,103.0,Miner,66.0,Prince,79.0,,,,1,False,False,0.0,0.0
+03120,Zap,107.0,Wall Breakers,103.0,Miner,66.0,Prince,79.0,,,,1,False,False,0.0,0.0
+03135,Zap,107.0,Wall Breakers,103.0,Miner,66.0,Prince,79.0,,,,1,False,False,0.0,0.0
+03150,Zap,107.0,Wall Breakers,103.0,Miner,66.0,Prince,79.0,,,,1,False,False,0.0,0.0
+03165,Zap,107.0,Wall Breakers,103.0,Miner,66.0,Prince,79.0,,,,1,False,False,0.0,0.0
+03180,Zap,107.0,Wall Breakers,103.0,Miner,66.0,Prince,79.0,,,,1,False,False,0.0,0.0
+03195,Zap,107.0,Wall Breakers,103.0,Miner,66.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03210,Zap,107.0,Wall Breakers,103.0,Miner,66.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03225,Zap,107.0,Wall Breakers,103.0,Miner,66.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03240,Zap,107.0,Wall Breakers,103.0,Miner,66.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03255,Zap,107.0,Wall Breakers,103.0,Miner,66.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03270,Zap,107.0,Wall Breakers,103.0,Miner,66.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03285,Zap,107.0,Wall Breakers,103.0,Miner,66.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03300,Zap,107.0,Wall Breakers,103.0,Miner,66.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03315,Zap,107.0,Wall Breakers,103.0,Miner,66.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03330,Zap,107.0,Wall Breakers,103.0,Miner,66.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03345,Zap,107.0,Wall Breakers,103.0,Miner,66.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03360,Zap,107.0,Wall Breakers,103.0,Miner,66.0,Prince,79.0,,,,4,False,False,0.0,0.0
+03375,Zap,107.0,Wall Breakers,103.0,Miner,66.0,Prince,79.0,,,,4,False,False,0.0,0.0
+03390,Zap,107.0,Wall Breakers,103.0,Miner,66.0,Prince,79.0,,,,4,False,False,0.0,0.0
+03405,Zap,107.0,Wall Breakers,103.0,Miner,66.0,Prince,79.0,,,,4,False,False,0.0,0.0
+03420,Zap,107.0,Wall Breakers,103.0,Miner,66.0,Prince,79.0,,,,4,False,False,0.0,0.0
+03435,Zap,107.0,Wall Breakers,103.0,Musketeer,73.0,Prince,79.0,Miner,66.0,3.0,2,True,True,2.0,3.0
+03450,Zap,107.0,Wall Breakers,103.0,Musketeer,73.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03465,Zap,107.0,Wall Breakers,103.0,Musketeer,73.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03480,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,Wall Breakers,103.0,2.0,0,True,True,2.0,2.0
+03495,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,0,False,False,0.0,0.0
+03510,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,0,False,False,0.0,0.0
+03525,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,1,False,False,0.0,0.0
+03540,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,1,False,False,0.0,0.0
+03555,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,1,False,False,0.0,0.0
+03570,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,1,False,False,0.0,0.0
+03585,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,1,False,False,0.0,0.0
+03600,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03615,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03630,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03645,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03660,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03675,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03690,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03705,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03720,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03735,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03750,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03765,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03780,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,4,False,False,0.0,0.0
+03795,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,4,False,False,0.0,0.0
+03810,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,4,False,False,0.0,0.0
+03825,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,5,False,False,0.0,0.0
+03840,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,5,False,False,0.0,0.0
+03855,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,6,False,False,0.0,0.0
+03870,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,6,False,False,0.0,0.0
+03885,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,6,False,False,0.0,0.0
+03900,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,7,False,False,0.0,0.0
+03915,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,7,False,False,0.0,0.0
+03930,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,7,False,False,0.0,0.0
+03945,Zap,107.0,Mega Knight,63.0,Musketeer,73.0,Prince,79.0,,,,8,False,False,0.0,0.0
+03960,Zap,107.0,Mega Knight,63.0,Barbarian Barrel,6.0,Prince,79.0,Musketeer,73.0,3.0,4,True,True,4.0,4.0
+03975,Zap,107.0,Mega Knight,63.0,Barbarian Barrel,6.0,Prince,79.0,,,,4,False,False,0.0,0.0
+03990,Zap,107.0,Mega Knight,63.0,Barbarian Barrel,6.0,Prince,79.0,,,,5,False,False,0.0,0.0
+04005,Zap,107.0,Mega Knight,63.0,Barbarian Barrel,6.0,Prince,79.0,,,,5,False,False,0.0,0.0
+04020,Zap,107.0,Mega Knight,63.0,Barbarian Barrel,6.0,Prince,79.0,,,,5,False,False,0.0,0.0
+04035,Zap,107.0,Mega Knight,63.0,Barbarian Barrel,6.0,Prince,79.0,,,,6,False,False,0.0,0.0
+04050,Zap,107.0,Mega Knight,63.0,Barbarian Barrel,6.0,Prince,79.0,,,,6,False,False,0.0,0.0
+04065,Zap,107.0,Mega Knight,63.0,Barbarian Barrel,6.0,Prince,79.0,,,,7,False,False,0.0,0.0
+04080,Zap,107.0,Mega Knight,63.0,Barbarian Barrel,6.0,Prince,79.0,,,,7,False,False,0.0,0.0
+04095,Zap,107.0,Mega Knight,63.0,Barbarian Barrel,6.0,Prince,79.0,,,,7,False,False,0.0,0.0
+04110,Zap,107.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,Mega Knight,63.0,2.0,1,True,True,6.0,7.0
+04125,Zap,107.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,,,,1,False,False,0.0,0.0
+04140,Zap,107.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,,,,1,False,False,0.0,0.0
+04155,Zap,107.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,,,,2,False,False,0.0,0.0
+04170,Zap,107.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,,,,2,False,False,0.0,0.0
+04185,Miner,66.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,Zap,107.0,1.0,0,True,True,2.0,2.0
+04200,Miner,66.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,,,,1,False,False,0.0,0.0
+04215,Miner,66.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,,,,1,False,False,0.0,0.0
+04230,Miner,66.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,,,,1,False,False,0.0,0.0
+04245,Miner,66.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,,,,2,False,False,0.0,0.0
+04260,Miner,66.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,,,,2,False,False,0.0,0.0
+04275,Miner,66.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,,,,2,False,False,0.0,0.0
+04290,Miner,66.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,,,,3,False,False,0.0,0.0
+04305,Miner,66.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,,,,3,False,False,0.0,0.0
+04320,Miner,66.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,Barbarian Barrel,6.0,3.0,2,True,True,1.0,2.0
+04335,Miner,66.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,2,False,False,0.0,0.0
+04350,Miner,66.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,2,False,False,0.0,0.0
+04365,Miner,66.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,3,False,False,0.0,0.0
+04380,Miner,66.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,3,False,False,0.0,0.0
+04395,Miner,66.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,3,False,False,0.0,0.0
+04410,Musketeer,73.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,Miner,66.0,1.0,1,True,True,2.0,3.0
+04425,Musketeer,73.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,1,False,False,0.0,0.0
+04440,Musketeer,73.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,1,False,False,0.0,0.0
+04455,Musketeer,73.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,2,False,False,0.0,0.0
+04470,Musketeer,73.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,2,False,False,0.0,0.0
+04485,Musketeer,73.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,3,False,False,0.0,0.0
+04500,Musketeer,73.0,Bats,9.0,Mega Knight,63.0,Prince,79.0,Wall Breakers,103.0,3.0,3,True,True,2.0,2.0
+04515,Musketeer,73.0,Bats,9.0,Mega Knight,63.0,Prince,79.0,,,,1,False,False,0.0,0.0
+04530,Musketeer,73.0,Bats,9.0,Mega Knight,63.0,Prince,79.0,,,,2,False,False,0.0,0.0
+04545,Musketeer,73.0,Bats,9.0,Mega Knight,63.0,Prince,79.0,,,,2,False,False,0.0,0.0
+04560,Musketeer,73.0,Bats,9.0,Mega Knight,63.0,Prince,79.0,,,,2,False,False,0.0,0.0
+04575,Musketeer,73.0,Bats,9.0,Mega Knight,63.0,Prince,79.0,,,,3,False,False,0.0,0.0
+04590,Musketeer,73.0,Bats,9.0,Mega Knight,63.0,Prince,79.0,,,,3,False,False,0.0,0.0
+04605,Musketeer,73.0,Bats,9.0,Mega Knight,63.0,Prince,79.0,,,,3,False,False,0.0,0.0
+04620,Musketeer,73.0,Bats,9.0,Mega Knight,63.0,Prince,79.0,,,,4,False,False,0.0,0.0
+04635,Musketeer,73.0,Bats,9.0,Mega Knight,63.0,Prince,79.0,,,,4,False,False,0.0,0.0
+04650,Musketeer,73.0,Bats,9.0,Mega Knight,63.0,Prince,79.0,,,,4,False,False,0.0,0.0
+04665,Musketeer,73.0,Bats,9.0,Mega Knight,63.0,Prince,79.0,,,,5,False,False,0.0,0.0
+04680,Musketeer,73.0,Bats,9.0,Mega Knight,63.0,Prince,79.0,,,,5,False,False,0.0,0.0
+04695,Musketeer,73.0,Bats,9.0,Mega Knight,63.0,Prince,79.0,,,,6,False,False,0.0,0.0
+04710,Musketeer,73.0,Bats,9.0,Mega Knight,63.0,Prince,79.0,,,,6,False,False,0.0,0.0
+04725,Musketeer,73.0,Bats,9.0,Mega Knight,63.0,Prince,79.0,,,,6,False,False,0.0,0.0
+04740,Musketeer,73.0,Bats,9.0,Mega Knight,63.0,Prince,79.0,,,,7,False,False,0.0,0.0
+04755,Musketeer,73.0,Bats,9.0,Mega Knight,63.0,Prince,79.0,,,,7,False,False,0.0,0.0
+04770,Musketeer,73.0,Bats,9.0,Mega Knight,63.0,Prince,79.0,,,,7,False,False,0.0,0.0
+04785,Musketeer,73.0,Bats,9.0,Zap,107.0,Prince,79.0,Mega Knight,63.0,3.0,1,True,True,6.0,7.0
+04800,Musketeer,73.0,Bats,9.0,Zap,107.0,Prince,79.0,,,,1,False,False,0.0,0.0
+04815,Musketeer,73.0,Bats,9.0,Zap,107.0,Prince,79.0,,,,1,False,False,0.0,0.0
+04830,Musketeer,73.0,Bats,9.0,Zap,107.0,Prince,79.0,,,,2,False,False,0.0,0.0
+04845,Musketeer,73.0,Bats,9.0,Zap,107.0,Prince,79.0,,,,2,False,False,0.0,0.0
+04860,Musketeer,73.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,Zap,107.0,3.0,0,True,True,2.0,2.0
+04875,Musketeer,73.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,,,,1,False,False,0.0,0.0
+04890,Musketeer,73.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,,,,1,False,False,0.0,0.0
+04905,Musketeer,73.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,,,,2,False,False,0.0,0.0
+04920,Musketeer,73.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,,,,2,False,False,0.0,0.0
+04935,Musketeer,73.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,,,,2,False,False,0.0,0.0
+04950,Musketeer,73.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,,,,3,False,False,0.0,0.0
+04965,Musketeer,73.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,,,,3,False,False,0.0,0.0
+04980,Musketeer,73.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,,,,3,False,False,0.0,0.0
+04995,Musketeer,73.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,,,,4,False,False,0.0,0.0
+05010,Musketeer,73.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,,,,4,False,False,0.0,0.0
+05025,Miner,66.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,Musketeer,73.0,1.0,0,True,True,4.0,4.0
+05040,Miner,66.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,,,,1,False,False,0.0,0.0
+05055,Miner,66.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,,,,1,False,False,0.0,0.0
+05070,Miner,66.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,,,,1,False,False,0.0,0.0
+05085,Miner,66.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,,,,2,False,False,0.0,0.0
+05100,Miner,66.0,Bats,9.0,Barbarian Barrel,6.0,Prince,79.0,,,,2,False,False,0.0,0.0
+05115,Miner,66.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,Barbarian Barrel,6.0,3.0,1,True,True,1.0,2.0
+05130,Miner,66.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,1,False,False,0.0,0.0
+05145,Miner,66.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,1,False,False,0.0,0.0
+05160,Miner,66.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,2,False,False,0.0,0.0
+05175,Miner,66.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,2,False,False,0.0,0.0
+05190,Miner,66.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,2,False,False,0.0,0.0
+05205,Miner,66.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,3,False,False,0.0,0.0
+05220,Miner,66.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,3,False,False,0.0,0.0
+05235,Miner,66.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,3,False,False,0.0,0.0
+05250,Miner,66.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,4,False,False,0.0,0.0
+05265,Miner,66.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,4,False,False,0.0,0.0
+05280,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,Miner,66.0,1.0,1,True,True,3.0,3.0
+05295,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,2,False,False,0.0,0.0
+05310,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,2,False,False,0.0,0.0
+05325,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,3,False,False,0.0,0.0
+05340,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,3,False,False,0.0,0.0
+05355,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,3,False,False,0.0,0.0
+05370,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,4,False,False,0.0,0.0
+05385,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,4,False,False,0.0,0.0
+05400,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,4,False,False,0.0,0.0
+05415,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,5,False,False,0.0,0.0
+05430,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,5,False,False,0.0,0.0
+05445,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,5,False,False,0.0,0.0
+05460,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,6,False,False,0.0,0.0
+05475,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,6,False,False,0.0,0.0
+05490,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Prince,79.0,Bats,9.0,2.0,4,True,True,2.0,2.0
+05505,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Prince,79.0,,,,5,False,False,0.0,0.0
+05520,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Prince,79.0,,,,5,False,False,0.0,0.0
+05535,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Musketeer,73.0,Prince,79.0,4.0,1,True,True,4.0,5.0
+05550,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+05565,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+05580,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+05595,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+05610,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+05625,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+05640,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+05655,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+05670,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+05685,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+05700,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Barbarian Barrel,6.0,Musketeer,73.0,4.0,0,True,True,4.0,4.0
+05715,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+05730,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+05745,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+05760,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+05775,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+05790,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05805,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Miner,66.0,Barbarian Barrel,6.0,4.0,1,True,True,2.0,2.0
+05820,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Miner,66.0,,,,1,False,False,0.0,0.0
+05835,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Miner,66.0,,,,2,False,False,0.0,0.0
+05850,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Miner,66.0,,,,2,False,False,0.0,0.0
+05865,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Miner,66.0,,,,2,False,False,0.0,0.0
+05880,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Miner,66.0,,,,3,False,False,0.0,0.0
+05895,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Miner,66.0,,,,3,False,False,0.0,0.0
+05910,Mega Knight,63.0,Zap,107.0,Wall Breakers,103.0,Miner,66.0,,,,3,False,False,0.0,0.0
+05925,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Miner,66.0,Zap,107.0,2.0,2,True,True,1.0,2.0
+05940,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Miner,66.0,,,,2,False,False,0.0,0.0
+05955,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Miner,66.0,,,,2,False,False,0.0,0.0
+05970,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Miner,66.0,,,,3,False,False,0.0,0.0
+05985,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Miner,66.0,,,,3,False,False,0.0,0.0
+06000,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Miner,66.0,,,,4,False,False,0.0,0.0
+06015,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Miner,66.0,,,,4,False,False,0.0,0.0
+06030,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Miner,66.0,,,,4,False,False,0.0,0.0
+06045,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Miner,66.0,,,,5,False,False,0.0,0.0
+06060,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Miner,66.0,,,,5,False,False,0.0,0.0
+06075,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Miner,66.0,,,,5,False,False,0.0,0.0
+06090,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Miner,66.0,,,,6,False,False,0.0,0.0
+06105,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Miner,66.0,,,,6,False,False,0.0,0.0
+06120,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Miner,66.0,,,,6,False,False,0.0,0.0
+06135,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Miner,66.0,,,,7,False,False,0.0,0.0
+06150,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Miner,66.0,,,,7,False,False,0.0,0.0
+06165,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Miner,66.0,,,,7,False,False,0.0,0.0
+06180,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Miner,66.0,,,,8,False,False,0.0,0.0
+06195,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Miner,66.0,,,,8,False,False,0.0,0.0
+06210,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Miner,66.0,,,,9,False,False,0.0,0.0
+06225,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Miner,66.0,,,,9,False,False,0.0,0.0
+06240,Mega Knight,63.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,Miner,66.0,4.0,6,True,True,3.0,3.0
+06255,Mega Knight,63.0,Bats,9.0,Musketeer,73.0,Prince,79.0,Wall Breakers,103.0,3.0,5,True,True,1.0,2.0
+06270,Mega Knight,63.0,Bats,9.0,Musketeer,73.0,Prince,79.0,,,,5,False,False,0.0,0.0
+06285,Mega Knight,63.0,Barbarian Barrel,6.0,Musketeer,73.0,Prince,79.0,Bats,9.0,2.0,3,True,True,2.0,2.0
+06300,Mega Knight,63.0,Barbarian Barrel,6.0,Musketeer,73.0,Prince,79.0,,,,4,False,False,0.0,0.0
+06315,Mega Knight,63.0,Barbarian Barrel,6.0,Musketeer,73.0,Prince,79.0,,,,4,False,False,0.0,0.0
+06330,Mega Knight,63.0,Barbarian Barrel,6.0,Musketeer,73.0,Prince,79.0,,,,4,False,False,0.0,0.0
+06345,Mega Knight,63.0,Zap,107.0,Barbarian Barrel,6.0,Prince,79.0,Musketeer,73.0,3.0,3,True,True,1.0,4.0
+06360,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Prince,79.0,Barbarian Barrel,6.0,3.0,3,True,False,0.0,2.0
+06375,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Prince,79.0,,,,3,False,False,0.0,0.0
+06390,Mega Knight,63.0,Zap,107.0,Musketeer,73.0,Prince,79.0,,,,4,False,False,0.0,0.0
+06405,Mega Knight,63.0,Miner,66.0,Musketeer,73.0,Prince,79.0,Zap,107.0,2.0,2,True,True,2.0,2.0
+06420,Mega Knight,63.0,Miner,66.0,Musketeer,73.0,Prince,79.0,,,,3,False,False,0.0,0.0
+06435,Mega Knight,63.0,Miner,66.0,Musketeer,73.0,Prince,79.0,,,,3,False,False,0.0,0.0
+06450,Mega Knight,63.0,Miner,66.0,Musketeer,73.0,Prince,79.0,,,,3,False,False,0.0,0.0
+06465,Mega Knight,63.0,Miner,66.0,Musketeer,73.0,Prince,79.0,,,,4,False,False,0.0,0.0
+06480,Mega Knight,63.0,Miner,66.0,Musketeer,73.0,Prince,79.0,,,,4,False,False,0.0,0.0
+06495,Mega Knight,63.0,Miner,66.0,Musketeer,73.0,Prince,79.0,,,,4,False,False,0.0,0.0
+06510,Mega Knight,63.0,Miner,66.0,Musketeer,73.0,Prince,79.0,,,,5,False,False,0.0,0.0
+06525,Mega Knight,63.0,Miner,66.0,Musketeer,73.0,Prince,79.0,,,,5,False,False,0.0,0.0
+06540,Mega Knight,63.0,Miner,66.0,Musketeer,73.0,Prince,79.0,,,,5,False,False,0.0,0.0
+06555,Mega Knight,63.0,Miner,66.0,Musketeer,73.0,Prince,79.0,,,,6,False,False,0.0,0.0
+06570,Mega Knight,63.0,Miner,66.0,Musketeer,73.0,Prince,79.0,,,,6,False,False,0.0,0.0
+06585,Mega Knight,63.0,Miner,66.0,Musketeer,73.0,Prince,79.0,,,,7,False,False,0.0,0.0
+06600,Mega Knight,63.0,Miner,66.0,Musketeer,73.0,Prince,79.0,,,,7,False,False,0.0,0.0
+06615,Mega Knight,63.0,Miner,66.0,Musketeer,73.0,Prince,79.0,,,,7,False,False,0.0,0.0
+06630,Mega Knight,63.0,Miner,66.0,Musketeer,73.0,Prince,79.0,,,,8,False,False,0.0,0.0
+06645,Mega Knight,63.0,Miner,66.0,Musketeer,73.0,Prince,79.0,,,,8,False,False,0.0,0.0
+06660,Mega Knight,63.0,Miner,66.0,Musketeer,73.0,Prince,79.0,,,,8,False,False,0.0,0.0
+06675,Mega Knight,63.0,Miner,66.0,Musketeer,73.0,Prince,79.0,,,,9,False,False,0.0,0.0
+06690,Mega Knight,63.0,Miner,66.0,Musketeer,73.0,Prince,79.0,,,,9,False,False,0.0,0.0
+06705,Mega Knight,63.0,Miner,66.0,Musketeer,73.0,Prince,79.0,,,,9,False,False,0.0,0.0
+06720,Mega Knight,63.0,Miner,66.0,Wall Breakers,103.0,Prince,79.0,Musketeer,73.0,3.0,6,True,True,3.0,4.0
+06735,Mega Knight,63.0,Miner,66.0,Wall Breakers,103.0,Prince,79.0,,,,6,False,False,0.0,0.0
+06750,Mega Knight,63.0,Miner,66.0,Wall Breakers,103.0,Prince,79.0,,,,6,False,False,0.0,0.0
+06765,Mega Knight,63.0,Miner,66.0,Wall Breakers,103.0,Prince,79.0,,,,7,False,False,0.0,0.0
+06780,Mega Knight,63.0,Miner,66.0,Wall Breakers,103.0,Prince,79.0,,,,7,False,False,0.0,0.0
+06795,Mega Knight,63.0,Miner,66.0,Wall Breakers,103.0,Prince,79.0,,,,7,False,False,0.0,0.0
+06810,Bats,9.0,Miner,66.0,Wall Breakers,103.0,Prince,79.0,Mega Knight,63.0,1.0,1,True,True,6.0,7.0
+06825,Bats,9.0,Miner,66.0,Wall Breakers,103.0,Prince,79.0,,,,1,False,False,0.0,0.0
+06840,Bats,9.0,Miner,66.0,Wall Breakers,103.0,Prince,79.0,,,,2,False,False,0.0,0.0
+06855,Bats,9.0,Miner,66.0,Wall Breakers,103.0,Prince,79.0,,,,2,False,False,0.0,0.0
+06870,Bats,9.0,Miner,66.0,Wall Breakers,103.0,Prince,79.0,,,,2,False,False,0.0,0.0
+06885,Bats,9.0,Miner,66.0,Wall Breakers,103.0,Prince,79.0,,,,3,False,False,0.0,0.0
+06900,Bats,9.0,Miner,66.0,Wall Breakers,103.0,Prince,79.0,,,,3,False,False,0.0,0.0
+06915,Bats,9.0,Miner,66.0,Wall Breakers,103.0,Prince,79.0,,,,3,False,False,0.0,0.0
+06930,Bats,9.0,Barbarian Barrel,6.0,Wall Breakers,103.0,Prince,79.0,Miner,66.0,2.0,1,True,True,2.0,3.0
+06945,Bats,9.0,Barbarian Barrel,6.0,Wall Breakers,103.0,Prince,79.0,,,,1,False,False,0.0,0.0
+06960,Bats,9.0,Barbarian Barrel,6.0,Wall Breakers,103.0,Prince,79.0,,,,1,False,False,0.0,0.0
+06975,Bats,9.0,Barbarian Barrel,6.0,Wall Breakers,103.0,Prince,79.0,,,,2,False,False,0.0,0.0
+06990,Bats,9.0,Barbarian Barrel,6.0,Wall Breakers,103.0,Prince,79.0,,,,2,False,False,0.0,0.0
+07005,Bats,9.0,Barbarian Barrel,6.0,Wall Breakers,103.0,Prince,79.0,,,,2,False,False,0.0,0.0
+07020,Bats,9.0,Zap,107.0,Wall Breakers,103.0,Prince,79.0,Barbarian Barrel,6.0,2.0,1,True,True,1.0,2.0
+07035,Bats,9.0,Zap,107.0,Wall Breakers,103.0,Prince,79.0,,,,1,False,False,0.0,0.0
+07050,Bats,9.0,Zap,107.0,Wall Breakers,103.0,Prince,79.0,,,,1,False,False,0.0,0.0
+07065,Bats,9.0,Zap,107.0,Wall Breakers,103.0,Prince,79.0,,,,2,False,False,0.0,0.0
+07080,Bats,9.0,Zap,107.0,Wall Breakers,103.0,Prince,79.0,,,,2,False,False,0.0,0.0
+07095,Bats,9.0,Zap,107.0,Wall Breakers,103.0,Prince,79.0,,,,3,False,False,0.0,0.0
+07110,Bats,9.0,Zap,107.0,Wall Breakers,103.0,Prince,79.0,,,,3,False,False,0.0,0.0
+07125,Bats,9.0,Zap,107.0,Wall Breakers,103.0,Prince,79.0,,,,3,False,False,0.0,0.0
+07140,Musketeer,73.0,Zap,107.0,Wall Breakers,103.0,Prince,79.0,Bats,9.0,1.0,2,True,True,1.0,2.0
+07155,Musketeer,73.0,Zap,107.0,Wall Breakers,103.0,Prince,79.0,,,,2,False,False,0.0,0.0
+07170,Musketeer,73.0,Zap,107.0,Wall Breakers,103.0,Prince,79.0,,,,2,False,False,0.0,0.0
+07185,Musketeer,73.0,Zap,107.0,Wall Breakers,103.0,Prince,79.0,,,,3,False,False,0.0,0.0
+07200,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,Prince,79.0,Zap,107.0,2.0,1,True,True,2.0,2.0
+07215,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,Prince,79.0,,,,1,False,False,0.0,0.0
+07230,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,Prince,79.0,,,,2,False,False,0.0,0.0
+07245,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,Prince,79.0,,,,2,False,False,0.0,0.0
+07260,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,Prince,79.0,,,,3,False,False,0.0,0.0
+07275,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,Prince,79.0,,,,3,False,False,0.0,0.0
+07290,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,Prince,79.0,,,,3,False,False,0.0,0.0
+07305,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,Prince,79.0,,,,4,False,False,0.0,0.0
+07320,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,Prince,79.0,,,,4,False,False,0.0,0.0
+07335,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,Prince,79.0,,,,4,False,False,0.0,0.0
+07350,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,Prince,79.0,,,,5,False,False,0.0,0.0
+07365,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,Prince,79.0,,,,5,False,False,0.0,0.0
+07380,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,Prince,79.0,,,,5,False,False,0.0,0.0
+07395,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,Prince,79.0,,,,6,False,False,0.0,0.0
+07410,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,Prince,79.0,,,,6,False,False,0.0,0.0
+07425,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,Prince,79.0,,,,7,False,False,0.0,0.0
+07440,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,Prince,79.0,,,,7,False,False,0.0,0.0
+07455,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,Prince,79.0,,,,8,False,False,0.0,0.0
+07470,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,Prince,79.0,,,,9,False,False,0.0,0.0
+07485,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,Prince,79.0,,,,9,False,False,0.0,0.0
+07500,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,Prince,79.0,,,,10,False,False,0.0,0.0
+07515,Musketeer,73.0,Mega Knight,63.0,Wall Breakers,103.0,Prince,79.0,,,,10,False,False,0.0,0.0
+07530,Miner,66.0,Mega Knight,63.0,Wall Breakers,103.0,Prince,79.0,Musketeer,73.0,1.0,6,True,True,4.0,4.0
+07545,Miner,66.0,Mega Knight,63.0,Wall Breakers,103.0,Prince,79.0,,,,6,False,False,0.0,0.0
+07560,Miner,66.0,Mega Knight,63.0,Wall Breakers,103.0,Prince,79.0,,,,7,False,False,0.0,0.0
+07575,Miner,66.0,Mega Knight,63.0,Wall Breakers,103.0,Prince,79.0,,,,7,False,False,0.0,0.0
+07590,Miner,66.0,Barbarian Barrel,6.0,Wall Breakers,103.0,Prince,79.0,Mega Knight,63.0,2.0,1,True,True,6.0,7.0
+07605,Miner,66.0,Barbarian Barrel,6.0,Wall Breakers,103.0,Prince,79.0,,,,1,False,False,0.0,0.0
+07620,Miner,66.0,Barbarian Barrel,6.0,Wall Breakers,103.0,Prince,79.0,,,,2,False,False,0.0,0.0
+07635,Miner,66.0,Barbarian Barrel,6.0,Wall Breakers,103.0,Prince,79.0,,,,2,False,False,0.0,0.0
+07650,Miner,66.0,Barbarian Barrel,6.0,Wall Breakers,103.0,Prince,79.0,,,,3,False,False,0.0,0.0
+07665,Miner,66.0,Barbarian Barrel,6.0,Wall Breakers,103.0,Prince,79.0,,,,3,False,False,0.0,0.0
+07680,Miner,66.0,Barbarian Barrel,6.0,Wall Breakers,103.0,Prince,79.0,,,,4,False,False,0.0,0.0
+07695,Miner,66.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,Barbarian Barrel,6.0,2.0,2,True,True,2.0,2.0
+07710,Miner,66.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,3,False,False,0.0,0.0
+07725,Miner,66.0,Bats,9.0,Wall Breakers,103.0,Prince,79.0,,,,4,False,False,0.0,0.0
+07740,Miner,66.0,Bats,9.0,Zap,107.0,Prince,79.0,Wall Breakers,103.0,3.0,2,True,True,2.0,2.0
+07755,Miner,66.0,Bats,9.0,Zap,107.0,Prince,79.0,,,,3,False,False,0.0,0.0
+07770,Miner,66.0,Bats,9.0,Zap,107.0,Prince,79.0,,,,3,False,False,0.0,0.0
+07785,Miner,66.0,Bats,9.0,Zap,107.0,Prince,79.0,,,,4,False,False,0.0,0.0
+07800,Miner,66.0,Bats,9.0,Zap,107.0,Prince,79.0,,,,4,False,False,0.0,0.0
+07815,Miner,66.0,Musketeer,73.0,Zap,107.0,Prince,79.0,Bats,9.0,2.0,3,True,True,1.0,2.0
+07830,Miner,66.0,Musketeer,73.0,Zap,107.0,Prince,79.0,,,,3,False,False,0.0,0.0
+07845,Miner,66.0,Musketeer,73.0,Zap,107.0,Prince,79.0,,,,4,False,False,0.0,0.0
+07860,Mega Knight,63.0,Musketeer,73.0,Zap,107.0,Prince,79.0,Miner,66.0,1.0,1,True,True,3.0,3.0
+07875,Mega Knight,63.0,Musketeer,73.0,Zap,107.0,Prince,79.0,,,,2,False,False,0.0,0.0
+07890,Mega Knight,63.0,Musketeer,73.0,Zap,107.0,Prince,79.0,,,,2,False,False,0.0,0.0
+07905,Mega Knight,63.0,Musketeer,73.0,Zap,107.0,Prince,79.0,,,,3,False,False,0.0,0.0
+07920,Mega Knight,63.0,Musketeer,73.0,Zap,107.0,Prince,79.0,,,,4,False,False,0.0,0.0
+07935,Mega Knight,63.0,Musketeer,73.0,Zap,107.0,Prince,79.0,,,,4,False,False,0.0,0.0
+07950,Mega Knight,63.0,Musketeer,73.0,Zap,107.0,Prince,79.0,,,,5,False,False,0.0,0.0
+07965,Mega Knight,63.0,Musketeer,73.0,Zap,107.0,Prince,79.0,,,,5,False,False,0.0,0.0
+07980,Mega Knight,63.0,Musketeer,73.0,Zap,107.0,Prince,79.0,,,,6,False,False,0.0,0.0
+07995,Mega Knight,63.0,Musketeer,73.0,Zap,107.0,Prince,79.0,,,,6,False,False,0.0,0.0
+08010,Mega Knight,63.0,Musketeer,73.0,Zap,107.0,Prince,79.0,,,,7,False,False,0.0,0.0
+08025,Mega Knight,63.0,Musketeer,73.0,Zap,107.0,Prince,79.0,,,,7,False,False,0.0,0.0
+08040,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Prince,79.0,Musketeer,73.0,2.0,4,True,True,3.0,4.0
+08055,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Prince,79.0,,,,4,False,False,0.0,0.0
+08070,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Prince,79.0,,,,5,False,False,0.0,0.0
+08085,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Prince,79.0,,,,6,False,False,0.0,0.0
+08100,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Prince,79.0,,,,6,False,False,0.0,0.0
+08115,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,Prince,79.0,4.0,2,True,True,4.0,5.0
+08130,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+08145,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,3,False,False,0.0,0.0
+08160,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,3,False,False,0.0,0.0
+08175,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,3,False,False,0.0,0.0
+08190,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,3,False,False,0.0,0.0
+08205,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,4,False,False,0.0,0.0
+08220,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,4,False,False,0.0,0.0
+08235,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,4,False,False,0.0,0.0
+08250,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,4,False,False,0.0,0.0
+08265,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,4,False,False,0.0,0.0
+08280,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,4,False,False,0.0,0.0
+08295,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,4,False,False,0.0,0.0
+08310,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,4,False,False,0.0,0.0
+08325,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,4,False,False,0.0,0.0
+08340,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,1,False,True,3.0,0.0
+08355,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,1,False,False,0.0,0.0
+08370,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,1,False,False,0.0,0.0
+08385,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,1,False,False,0.0,0.0
+08400,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,1,False,False,0.0,0.0
+08415,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,1,False,False,0.0,0.0
+08430,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,1,False,False,0.0,0.0
+08445,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+08460,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+08475,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+08490,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+08505,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+08520,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+08535,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+08550,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+08565,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+08580,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+08595,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+08610,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+08625,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+08640,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+08655,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+08670,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+08685,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+08700,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+08715,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+08730,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+08745,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+08760,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+08775,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+08790,Mega Knight,63.0,Barbarian Barrel,6.0,Zap,107.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0

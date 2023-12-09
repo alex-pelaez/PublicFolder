@@ -1,0 +1,604 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00255,Skeleton Dragons,92.0,Musketeer,73.0,Royal Hogs,88.0,,,,,,6,False,False,0.0,0.0
+00270,Skeleton Dragons,92.0,Musketeer,73.0,Royal Hogs,88.0,,,,,,6,False,False,0.0,0.0
+00285,Skeleton Dragons,92.0,Musketeer,73.0,Royal Hogs,88.0,Mega Knight,63.0,,,4.0,7,True,False,0.0,0.0
+00300,Skeleton Dragons,92.0,Musketeer,73.0,Royal Hogs,88.0,Mega Knight,63.0,,,,7,False,False,0.0,0.0
+00315,Skeleton Dragons,92.0,Musketeer,73.0,Royal Hogs,88.0,Mega Knight,63.0,,,,7,False,False,0.0,0.0
+00330,Skeleton Dragons,92.0,Musketeer,73.0,Royal Hogs,88.0,Mega Knight,63.0,,,,7,False,False,0.0,0.0
+00345,Skeleton Dragons,92.0,Musketeer,73.0,Royal Hogs,88.0,Mega Knight,63.0,,,,7,False,False,0.0,0.0
+00360,Skeleton Dragons,92.0,Musketeer,73.0,Royal Hogs,88.0,Mega Knight,63.0,,,,7,False,False,0.0,0.0
+00375,Skeleton Dragons,92.0,Musketeer,73.0,Royal Hogs,88.0,Mega Knight,63.0,,,,8,False,False,0.0,0.0
+00390,Skeleton Dragons,92.0,Musketeer,73.0,Royal Hogs,88.0,Mega Knight,63.0,,,,8,False,False,0.0,0.0
+00405,Skeleton Dragons,92.0,Musketeer,73.0,Royal Hogs,88.0,Mega Knight,63.0,,,,8,False,False,0.0,0.0
+00420,Skeleton Dragons,92.0,Musketeer,73.0,Royal Hogs,88.0,Mega Knight,63.0,,,,8,False,False,0.0,0.0
+00435,Skeleton Dragons,92.0,Musketeer,73.0,Royal Hogs,88.0,Mega Knight,63.0,,,,8,False,False,0.0,0.0
+00450,Skeleton Dragons,92.0,Musketeer,73.0,Royal Hogs,88.0,Mega Knight,63.0,,,,9,False,False,0.0,0.0
+00465,Skeleton Dragons,92.0,Musketeer,73.0,Royal Hogs,88.0,Mega Knight,63.0,,,,9,False,False,0.0,0.0
+00480,Skeleton Dragons,92.0,Musketeer,73.0,Royal Hogs,88.0,Mega Knight,63.0,,,,9,False,False,0.0,0.0
+00495,Skeleton Dragons,92.0,Musketeer,73.0,Royal Hogs,88.0,Mega Knight,63.0,,,,9,False,False,0.0,0.0
+00510,Skeleton Dragons,92.0,Musketeer,73.0,Royal Hogs,88.0,Mega Knight,63.0,,,,9,False,False,0.0,0.0
+00525,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,Musketeer,73.0,2.0,5,True,True,4.0,4.0
+00540,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,6,False,False,0.0,0.0
+00555,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,6,False,False,0.0,0.0
+00570,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,6,False,False,0.0,0.0
+00585,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,6,False,False,0.0,0.0
+00600,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,6,False,False,0.0,0.0
+00615,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,6,False,False,0.0,0.0
+00630,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,7,False,False,0.0,0.0
+00645,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,7,False,False,0.0,0.0
+00660,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,7,False,False,0.0,0.0
+00675,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,7,False,False,0.0,0.0
+00690,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,7,False,False,0.0,0.0
+00705,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,8,False,False,0.0,0.0
+00720,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,8,False,False,0.0,0.0
+00735,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,8,False,False,0.0,0.0
+00750,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,8,False,False,0.0,0.0
+00765,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,8,False,False,0.0,0.0
+00780,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,8,False,False,0.0,0.0
+00795,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,9,False,False,0.0,0.0
+00810,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,9,False,False,0.0,0.0
+00825,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,9,False,False,0.0,0.0
+00840,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,9,False,False,0.0,0.0
+00855,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,9,False,False,0.0,0.0
+00870,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,10,False,False,0.0,0.0
+00885,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,10,False,False,0.0,0.0
+00900,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,Skeleton Dragons,92.0,1.0,6,True,True,4.0,4.0
+00915,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,6,False,False,0.0,0.0
+00930,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,6,False,False,0.0,0.0
+00945,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,6,False,False,0.0,0.0
+00960,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,6,False,False,0.0,0.0
+00975,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,7,False,False,0.0,0.0
+00990,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,7,False,False,0.0,0.0
+01005,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,7,False,False,0.0,0.0
+01020,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,7,False,False,0.0,0.0
+01035,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,7,False,False,0.0,0.0
+01050,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,7,False,False,0.0,0.0
+01065,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,8,False,False,0.0,0.0
+01080,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,8,False,False,0.0,0.0
+01095,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,8,False,False,0.0,0.0
+01110,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,8,False,False,0.0,0.0
+01125,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,8,False,False,0.0,0.0
+01140,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,9,False,False,0.0,0.0
+01155,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,9,False,False,0.0,0.0
+01170,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,9,False,False,0.0,0.0
+01185,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,,,,9,False,False,0.0,0.0
+01200,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,4.0,2,True,True,7.0,7.0
+01215,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,2,False,False,0.0,0.0
+01230,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01245,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01260,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01275,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01290,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01305,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01320,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01335,Heal Spirit,50.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,Bandit,5.0,1.0,4,True,True,3.0,3.0
+01350,Heal Spirit,50.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,1,False,False,0.0,0.0
+01365,Heal Spirit,50.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,1,False,False,0.0,0.0
+01380,Heal Spirit,50.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,1,False,False,0.0,0.0
+01395,Heal Spirit,50.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,2,False,False,0.0,0.0
+01410,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,Heal Spirit,50.0,1.0,1,True,True,1.0,1.0
+01425,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,1,False,False,0.0,0.0
+01440,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,1,False,False,0.0,0.0
+01455,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,1,False,False,0.0,0.0
+01470,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,1,False,False,0.0,0.0
+01485,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,2,False,False,0.0,0.0
+01500,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,2,False,False,0.0,0.0
+01515,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,2,False,False,0.0,0.0
+01530,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,2,False,False,0.0,0.0
+01545,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,2,False,False,0.0,0.0
+01560,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01575,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01590,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01605,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01620,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01635,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01650,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01665,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01680,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01695,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01710,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01725,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01740,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,5,False,False,0.0,0.0
+01755,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,5,False,False,0.0,0.0
+01770,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,5,False,False,0.0,0.0
+01785,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,5,False,False,0.0,0.0
+01800,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,5,False,False,0.0,0.0
+01815,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01830,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01845,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01860,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01875,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01890,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01905,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01920,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01935,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01950,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01965,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01980,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01995,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02010,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02025,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02040,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02055,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02070,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02085,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02100,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02115,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,Royal Hogs,88.0,3.0,4,True,True,5.0,5.0
+02130,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02145,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02160,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,5,False,False,0.0,0.0
+02175,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,5,False,False,0.0,0.0
+02190,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,5,False,False,0.0,0.0
+02205,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,5,False,False,0.0,0.0
+02220,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,5,False,False,0.0,0.0
+02235,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02250,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02265,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02280,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02295,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02310,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02325,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02340,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02355,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02370,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02385,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02400,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02415,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02430,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02445,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02460,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02475,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02490,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02505,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02520,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02535,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02550,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02565,Musketeer,73.0,Royal Delivery,85.0,Skeleton Dragons,92.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02580,Musketeer,73.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,Skeleton Dragons,92.0,3.0,6,True,True,3.0,4.0
+02595,Musketeer,73.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02610,Musketeer,73.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02625,Musketeer,73.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02640,Musketeer,73.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02655,Musketeer,73.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02670,Musketeer,73.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02685,Musketeer,73.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02700,Musketeer,73.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02715,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,Mega Knight,63.0,3.0,0,True,True,7.0,7.0
+02730,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,0,False,False,0.0,0.0
+02745,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,1,False,False,0.0,0.0
+02760,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,1,False,False,0.0,0.0
+02775,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,1,False,False,0.0,0.0
+02790,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,1,False,False,0.0,0.0
+02805,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,1,False,False,0.0,0.0
+02820,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,1,False,False,0.0,0.0
+02835,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02850,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02865,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02880,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02895,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02910,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02925,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02940,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02955,Musketeer,73.0,Heal Spirit,50.0,Bandit,5.0,Poison,78.0,Royal Delivery,85.0,2.0,0,True,True,3.0,3.0
+02970,Musketeer,73.0,Heal Spirit,50.0,Bandit,5.0,Poison,78.0,,,,0,False,False,0.0,0.0
+02985,Musketeer,73.0,Heal Spirit,50.0,Bandit,5.0,Poison,78.0,,,,0,False,False,0.0,0.0
+03000,Musketeer,73.0,Heal Spirit,50.0,Bandit,5.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03015,Musketeer,73.0,Heal Spirit,50.0,Bandit,5.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03030,Musketeer,73.0,Heal Spirit,50.0,Bandit,5.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03045,Musketeer,73.0,Heal Spirit,50.0,Bandit,5.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03060,Musketeer,73.0,Heal Spirit,50.0,Bandit,5.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03075,Musketeer,73.0,Heal Spirit,50.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03090,Musketeer,73.0,Heal Spirit,50.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03105,Musketeer,73.0,Heal Spirit,50.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03120,Musketeer,73.0,Heal Spirit,50.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03135,Musketeer,73.0,Heal Spirit,50.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03150,Musketeer,73.0,Heal Spirit,50.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03165,Musketeer,73.0,Heal Spirit,50.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03180,Musketeer,73.0,Heal Spirit,50.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03195,Musketeer,73.0,Heal Spirit,50.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03210,Musketeer,73.0,Heal Spirit,50.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03225,Musketeer,73.0,Heal Spirit,50.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03240,Musketeer,73.0,Heal Spirit,50.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03255,Musketeer,73.0,Heal Spirit,50.0,Bandit,5.0,Poison,78.0,,,,4,False,False,0.0,0.0
+03270,Musketeer,73.0,Heal Spirit,50.0,Royal Hogs,88.0,Poison,78.0,Bandit,5.0,3.0,1,True,True,3.0,3.0
+03285,Musketeer,73.0,Heal Spirit,50.0,Royal Hogs,88.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03300,Musketeer,73.0,Heal Spirit,50.0,Royal Hogs,88.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03315,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,Heal Spirit,50.0,2.0,0,True,True,1.0,1.0
+03330,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03345,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03360,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03375,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03390,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03405,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03420,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03435,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03450,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03465,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03480,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03495,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03510,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03525,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03540,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03555,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03570,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03585,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+03600,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+03615,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+03630,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+03645,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+03660,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+03675,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,5,False,False,0.0,0.0
+03690,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,5,False,False,0.0,0.0
+03705,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,5,False,False,0.0,0.0
+03720,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,5,False,False,0.0,0.0
+03735,Mega Knight,63.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,Musketeer,73.0,1.0,1,True,True,4.0,4.0
+03750,Mega Knight,63.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03765,Mega Knight,63.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03780,Mega Knight,63.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03795,Mega Knight,63.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03810,Mega Knight,63.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03825,Mega Knight,63.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03840,Mega Knight,63.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+03855,Mega Knight,63.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+03870,Mega Knight,63.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+03885,Mega Knight,63.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,5,False,False,0.0,0.0
+03900,Mega Knight,63.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,5,False,False,0.0,0.0
+03915,Mega Knight,63.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03930,Mega Knight,63.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03945,Mega Knight,63.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03960,Mega Knight,63.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03975,Mega Knight,63.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03990,Mega Knight,63.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,7,False,False,0.0,0.0
+04005,Mega Knight,63.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,8,False,False,0.0,0.0
+04020,Mega Knight,63.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,8,False,False,0.0,0.0
+04035,Mega Knight,63.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,8,False,False,0.0,0.0
+04050,Mega Knight,63.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,9,False,False,0.0,0.0
+04065,Mega Knight,63.0,Skeleton Dragons,92.0,Royal Hogs,88.0,Poison,78.0,,,,9,False,False,0.0,0.0
+04080,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,Skeleton Dragons,92.0,2.0,5,True,True,4.0,4.0
+04095,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,6,False,False,0.0,0.0
+04110,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,6,False,False,0.0,0.0
+04125,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,7,False,False,0.0,0.0
+04140,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,7,False,False,0.0,0.0
+04155,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,7,False,False,0.0,0.0
+04170,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,8,False,False,0.0,0.0
+04185,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,8,False,False,0.0,0.0
+04200,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,8,False,False,0.0,0.0
+04215,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,9,False,False,0.0,0.0
+04230,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,9,False,False,0.0,0.0
+04245,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,9,False,False,0.0,0.0
+04260,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,1.0,3,True,True,6.0,7.0
+04275,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04290,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04305,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04320,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04335,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,5,False,False,0.0,0.0
+04350,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,5,False,False,0.0,0.0
+04365,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,5,False,False,0.0,0.0
+04380,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,6,False,False,0.0,0.0
+04395,Bandit,5.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,Royal Hogs,88.0,3.0,1,True,True,5.0,5.0
+04410,Bandit,5.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,1,False,False,0.0,0.0
+04425,Bandit,5.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04440,Bandit,5.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04455,Bandit,5.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04470,Bandit,5.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04485,Bandit,5.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,Heal Spirit,50.0,3.0,2,True,True,1.0,1.0
+04500,Bandit,5.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04515,Bandit,5.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04530,Bandit,5.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04545,Bandit,5.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04560,Bandit,5.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04575,Skeleton Dragons,92.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,Bandit,5.0,1.0,1,True,True,3.0,3.0
+04590,Skeleton Dragons,92.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04605,Skeleton Dragons,92.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04620,Skeleton Dragons,92.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04635,Skeleton Dragons,92.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04650,Skeleton Dragons,92.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04665,Skeleton Dragons,92.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04680,Skeleton Dragons,92.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04695,Skeleton Dragons,92.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04710,Skeleton Dragons,92.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04725,Mega Knight,63.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,Skeleton Dragons,92.0,1.0,1,True,True,3.0,4.0
+04740,Mega Knight,63.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,,,,1,False,False,0.0,0.0
+04755,Mega Knight,63.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,,,,1,False,False,0.0,0.0
+04770,Mega Knight,63.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04785,Mega Knight,63.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04800,Mega Knight,63.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04815,Mega Knight,63.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04830,Mega Knight,63.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04845,Mega Knight,63.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04860,Mega Knight,63.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04875,Mega Knight,63.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04890,Mega Knight,63.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,,,,5,False,False,0.0,0.0
+04905,Mega Knight,63.0,Royal Delivery,85.0,Musketeer,73.0,Poison,78.0,,,,5,False,False,0.0,0.0
+04920,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,Musketeer,73.0,3.0,3,True,True,2.0,4.0
+04935,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,2,False,True,1.0,0.0
+04950,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04965,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04980,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04995,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+05010,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+05025,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+05040,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+05055,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,5,False,False,0.0,0.0
+05070,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,5,False,False,0.0,0.0
+05085,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,5,False,False,0.0,0.0
+05100,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,6,False,False,0.0,0.0
+05115,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,6,False,False,0.0,0.0
+05130,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,6,False,False,0.0,0.0
+05145,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,7,False,False,0.0,0.0
+05160,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,7,False,False,0.0,0.0
+05175,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,8,False,False,0.0,0.0
+05190,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,8,False,False,0.0,0.0
+05205,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,8,False,False,0.0,0.0
+05220,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,9,False,False,0.0,0.0
+05235,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,9,False,False,0.0,0.0
+05250,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,9,False,False,0.0,0.0
+05265,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,10,False,False,0.0,0.0
+05280,Mega Knight,63.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,10,False,False,0.0,0.0
+05295,Heal Spirit,50.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,Mega Knight,63.0,1.0,3,True,True,7.0,7.0
+05310,Heal Spirit,50.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+05325,Heal Spirit,50.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+05340,Heal Spirit,50.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+05355,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,Heal Spirit,50.0,1.0,3,True,True,1.0,1.0
+05370,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+05385,Bandit,5.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+05400,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,Bandit,5.0,1.0,1,True,True,3.0,3.0
+05415,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,2,False,False,0.0,0.0
+05430,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,2,False,False,0.0,0.0
+05445,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,2,False,False,0.0,0.0
+05460,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+05475,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+05490,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+05505,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+05520,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+05535,Skeleton Dragons,92.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,5,False,False,0.0,0.0
+05550,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,Skeleton Dragons,92.0,1.0,2,True,True,3.0,4.0
+05565,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,1,False,True,1.0,0.0
+05580,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,2,False,False,0.0,0.0
+05595,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,2,False,False,0.0,0.0
+05610,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,2,False,False,0.0,0.0
+05625,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+05640,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+05655,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+05670,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+05685,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+05700,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+05715,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,5,False,False,0.0,0.0
+05730,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,5,False,False,0.0,0.0
+05745,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,6,False,False,0.0,0.0
+05760,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,6,False,False,0.0,0.0
+05775,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,6,False,False,0.0,0.0
+05790,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,7,False,False,0.0,0.0
+05805,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,7,False,False,0.0,0.0
+05820,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,7,False,False,0.0,0.0
+05835,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,8,False,False,0.0,0.0
+05850,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,8,False,False,0.0,0.0
+05865,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,8,False,False,0.0,0.0
+05880,Musketeer,73.0,Royal Delivery,85.0,Royal Hogs,88.0,Poison,78.0,,,,9,False,False,0.0,0.0
+05895,Musketeer,73.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,Royal Hogs,88.0,3.0,4,True,True,5.0,5.0
+05910,Musketeer,73.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,5,False,False,0.0,0.0
+05925,Heal Spirit,50.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,Musketeer,73.0,1.0,1,True,True,4.0,4.0
+05940,Heal Spirit,50.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,1,False,False,0.0,0.0
+05955,Heal Spirit,50.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,2,False,False,0.0,0.0
+05970,Bandit,5.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,Heal Spirit,50.0,1.0,1,True,True,1.0,1.0
+05985,Bandit,5.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,1,False,False,0.0,0.0
+06000,Bandit,5.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,2,False,False,0.0,0.0
+06015,Bandit,5.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,2,False,False,0.0,0.0
+06030,Bandit,5.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,2,False,False,0.0,0.0
+06045,Bandit,5.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,3,False,False,0.0,0.0
+06060,Bandit,5.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,3,False,False,0.0,0.0
+06075,Bandit,5.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,3,False,False,0.0,0.0
+06090,Bandit,5.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,4,False,False,0.0,0.0
+06105,Bandit,5.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,4,False,False,0.0,0.0
+06120,Bandit,5.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,5,False,False,0.0,0.0
+06135,Bandit,5.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,5,False,False,0.0,0.0
+06150,Bandit,5.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,5,False,False,0.0,0.0
+06165,Bandit,5.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,6,False,False,0.0,0.0
+06180,Bandit,5.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,6,False,False,0.0,0.0
+06195,Bandit,5.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,6,False,False,0.0,0.0
+06210,Skeleton Dragons,92.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,Bandit,5.0,1.0,4,True,True,2.0,3.0
+06225,Skeleton Dragons,92.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,4,False,False,0.0,0.0
+06240,Skeleton Dragons,92.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,4,False,False,0.0,0.0
+06255,Skeleton Dragons,92.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,5,False,False,0.0,0.0
+06270,Skeleton Dragons,92.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,5,False,False,0.0,0.0
+06285,Skeleton Dragons,92.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,5,False,False,0.0,0.0
+06300,Skeleton Dragons,92.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,6,False,False,0.0,0.0
+06315,Skeleton Dragons,92.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,6,False,False,0.0,0.0
+06330,Skeleton Dragons,92.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,3,False,True,3.0,0.0
+06345,Skeleton Dragons,92.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,3,False,False,0.0,0.0
+06360,Skeleton Dragons,92.0,Royal Delivery,85.0,Mega Knight,63.0,Poison,78.0,,,,3,False,False,0.0,0.0
+06375,Skeleton Dragons,92.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,Mega Knight,63.0,3.0,2,True,True,1.0,7.0
+06390,Skeleton Dragons,92.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,1,False,True,1.0,0.0
+06405,Skeleton Dragons,92.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,1,False,False,0.0,0.0
+06420,Skeleton Dragons,92.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+06435,Skeleton Dragons,92.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+06450,Skeleton Dragons,92.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+06465,Skeleton Dragons,92.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+06480,Skeleton Dragons,92.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+06495,Skeleton Dragons,92.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+06510,Skeleton Dragons,92.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+06525,Skeleton Dragons,92.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+06540,Musketeer,73.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,Skeleton Dragons,92.0,1.0,1,True,True,3.0,4.0
+06555,Musketeer,73.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,1,False,False,0.0,0.0
+06570,Musketeer,73.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,1,False,False,0.0,0.0
+06585,Musketeer,73.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+06600,Musketeer,73.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+06615,Musketeer,73.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+06630,Musketeer,73.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+06645,Musketeer,73.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+06660,Musketeer,73.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+06675,Musketeer,73.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+06690,Musketeer,73.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+06705,Musketeer,73.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+06720,Musketeer,73.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,0,False,True,4.0,0.0
+06735,Musketeer,73.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,0,False,False,0.0,0.0
+06750,Musketeer,73.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,1,False,False,0.0,0.0
+06765,Musketeer,73.0,Royal Delivery,85.0,Heal Spirit,50.0,Poison,78.0,,,,1,False,False,0.0,0.0
+06780,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,Heal Spirit,50.0,3.0,0,True,True,1.0,1.0
+06795,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,1,False,False,0.0,0.0
+06810,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,1,False,False,0.0,0.0
+06825,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,1,False,False,0.0,0.0
+06840,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+06855,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+06870,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+06885,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+06900,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+06915,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+06930,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,4,False,False,0.0,0.0
+06945,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,4,False,False,0.0,0.0
+06960,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,4,False,False,0.0,0.0
+06975,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,5,False,False,0.0,0.0
+06990,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,5,False,False,0.0,0.0
+07005,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,6,False,False,0.0,0.0
+07020,Musketeer,73.0,Royal Delivery,85.0,Bandit,5.0,Poison,78.0,,,,6,False,False,0.0,0.0
+07035,Musketeer,73.0,Mega Knight,63.0,Bandit,5.0,Poison,78.0,Royal Delivery,85.0,2.0,3,True,True,3.0,3.0
+07050,Musketeer,73.0,Mega Knight,63.0,Bandit,5.0,Poison,78.0,,,,4,False,False,0.0,0.0
+07065,Musketeer,73.0,Mega Knight,63.0,Bandit,5.0,Poison,78.0,,,,4,False,False,0.0,0.0
+07080,Musketeer,73.0,Mega Knight,63.0,Bandit,5.0,Poison,78.0,,,,4,False,False,0.0,0.0
+07095,Musketeer,73.0,Mega Knight,63.0,Bandit,5.0,Poison,78.0,,,,5,False,False,0.0,0.0
+07110,Musketeer,73.0,Mega Knight,63.0,Bandit,5.0,Poison,78.0,,,,5,False,False,0.0,0.0
+07125,Musketeer,73.0,Mega Knight,63.0,Bandit,5.0,Poison,78.0,,,,5,False,False,0.0,0.0
+07140,Musketeer,73.0,Mega Knight,63.0,Bandit,5.0,Poison,78.0,,,,6,False,False,0.0,0.0
+07155,Musketeer,73.0,Mega Knight,63.0,Bandit,5.0,Poison,78.0,,,,6,False,False,0.0,0.0
+07170,Musketeer,73.0,Mega Knight,63.0,Bandit,5.0,Poison,78.0,,,,7,False,False,0.0,0.0
+07185,Musketeer,73.0,Mega Knight,63.0,Bandit,5.0,Poison,78.0,,,,7,False,False,0.0,0.0
+07200,Musketeer,73.0,Mega Knight,63.0,Bandit,5.0,Poison,78.0,,,,7,False,False,0.0,0.0
+07215,Musketeer,73.0,Mega Knight,63.0,Bandit,5.0,Poison,78.0,,,,8,False,False,0.0,0.0
+07230,Musketeer,73.0,Mega Knight,63.0,Bandit,5.0,Poison,78.0,,,,8,False,False,0.0,0.0
+07245,Musketeer,73.0,Mega Knight,63.0,Bandit,5.0,Poison,78.0,,,,8,False,False,0.0,0.0
+07260,Musketeer,73.0,Mega Knight,63.0,Bandit,5.0,Poison,78.0,,,,9,False,False,0.0,0.0
+07275,Musketeer,73.0,Mega Knight,63.0,Bandit,5.0,Poison,78.0,,,,9,False,False,0.0,0.0
+07290,Musketeer,73.0,Mega Knight,63.0,Bandit,5.0,Poison,78.0,,,,9,False,False,0.0,0.0
+07305,Musketeer,73.0,Mega Knight,63.0,Skeleton Dragons,92.0,Poison,78.0,Bandit,5.0,3.0,7,True,True,2.0,3.0
+07320,Musketeer,73.0,Mega Knight,63.0,Skeleton Dragons,92.0,Poison,78.0,,,,7,False,False,0.0,0.0
+07335,Musketeer,73.0,Mega Knight,63.0,Skeleton Dragons,92.0,Poison,78.0,,,,7,False,False,0.0,0.0
+07350,Musketeer,73.0,Mega Knight,63.0,Skeleton Dragons,92.0,Poison,78.0,,,,8,False,False,0.0,0.0
+07365,Musketeer,73.0,Mega Knight,63.0,Skeleton Dragons,92.0,Poison,78.0,,,,8,False,False,0.0,0.0
+07380,Musketeer,73.0,Mega Knight,63.0,Skeleton Dragons,92.0,Poison,78.0,,,,8,False,False,0.0,0.0
+07395,Musketeer,73.0,Mega Knight,63.0,Skeleton Dragons,92.0,Poison,78.0,,,,9,False,False,0.0,0.0
+07410,Musketeer,73.0,Mega Knight,63.0,Skeleton Dragons,92.0,Poison,78.0,,,,10,False,False,0.0,0.0
+07425,Musketeer,73.0,Mega Knight,63.0,Skeleton Dragons,92.0,Poison,78.0,,,,10,False,False,0.0,0.0
+07440,Musketeer,73.0,Royal Hogs,88.0,Skeleton Dragons,92.0,Poison,78.0,Mega Knight,63.0,2.0,3,True,True,7.0,7.0
+07455,Musketeer,73.0,Royal Hogs,88.0,Skeleton Dragons,92.0,Poison,78.0,,,,4,False,False,0.0,0.0
+07470,Musketeer,73.0,Royal Hogs,88.0,Skeleton Dragons,92.0,Poison,78.0,,,,4,False,False,0.0,0.0
+07485,Musketeer,73.0,Royal Hogs,88.0,Skeleton Dragons,92.0,Poison,78.0,,,,5,False,False,0.0,0.0
+07500,Musketeer,73.0,Royal Hogs,88.0,Skeleton Dragons,92.0,Poison,78.0,,,,5,False,False,0.0,0.0
+07515,Musketeer,73.0,Royal Hogs,88.0,Skeleton Dragons,92.0,Poison,78.0,,,,6,False,False,0.0,0.0
+07530,Musketeer,73.0,Royal Hogs,88.0,Heal Spirit,50.0,Poison,78.0,Skeleton Dragons,92.0,3.0,8,True,True,5.0,4.0
+07545,Musketeer,73.0,Royal Hogs,88.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+07560,Musketeer,73.0,Royal Hogs,88.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+07575,Musketeer,73.0,Royal Hogs,88.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+07590,Musketeer,73.0,Royal Hogs,88.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+07605,Musketeer,73.0,Royal Hogs,88.0,Heal Spirit,50.0,Poison,78.0,,,,5,False,False,0.0,0.0
+07620,Musketeer,73.0,Royal Hogs,88.0,Heal Spirit,50.0,Poison,78.0,,,,5,False,False,0.0,0.0
+07635,Musketeer,73.0,Royal Hogs,88.0,Heal Spirit,50.0,Poison,78.0,,,,6,False,False,0.0,0.0
+07650,Musketeer,73.0,Royal Hogs,88.0,Heal Spirit,50.0,Poison,78.0,,,,7,False,False,0.0,0.0
+07665,Musketeer,73.0,Royal Hogs,88.0,Heal Spirit,50.0,Poison,78.0,,,,7,False,False,0.0,0.0
+07680,Royal Delivery,85.0,Royal Hogs,88.0,Heal Spirit,50.0,Poison,78.0,Musketeer,73.0,1.0,4,True,True,3.0,4.0
+07695,Royal Delivery,85.0,Royal Hogs,88.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+07710,Royal Delivery,85.0,Royal Hogs,88.0,Heal Spirit,50.0,Poison,78.0,,,,5,False,False,0.0,0.0
+07725,Royal Delivery,85.0,Royal Hogs,88.0,Heal Spirit,50.0,Poison,78.0,,,,5,False,False,0.0,0.0
+07740,Royal Delivery,85.0,Royal Hogs,88.0,Heal Spirit,50.0,Poison,78.0,,,,6,False,False,0.0,0.0
+07755,Royal Delivery,85.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,Royal Hogs,88.0,2.0,1,True,True,5.0,5.0
+07770,Royal Delivery,85.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+07785,Royal Delivery,85.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+07800,Royal Delivery,85.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+07815,Royal Delivery,85.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+07830,Royal Delivery,85.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+07845,Royal Delivery,85.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,5,False,False,0.0,0.0
+07860,Royal Delivery,85.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,5,False,False,0.0,0.0
+07875,Royal Delivery,85.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,6,False,False,0.0,0.0
+07890,Royal Delivery,85.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,6,False,False,0.0,0.0
+07905,Royal Delivery,85.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,7,False,False,0.0,0.0
+07920,Royal Delivery,85.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,7,False,False,0.0,0.0
+07935,Royal Delivery,85.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,7,False,False,0.0,0.0
+07950,Royal Delivery,85.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,8,False,False,0.0,0.0
+07965,Royal Delivery,85.0,Bandit,5.0,Heal Spirit,50.0,Poison,78.0,,,,9,False,False,0.0,0.0
+07980,Royal Delivery,85.0,Mega Knight,63.0,Heal Spirit,50.0,Poison,78.0,Bandit,5.0,2.0,6,True,True,3.0,3.0
+07995,Royal Delivery,85.0,Mega Knight,63.0,Heal Spirit,50.0,Poison,78.0,,,,7,False,False,0.0,0.0
+08010,Royal Delivery,85.0,Mega Knight,63.0,Heal Spirit,50.0,Poison,78.0,,,,7,False,False,0.0,0.0
+08025,Royal Delivery,85.0,Mega Knight,63.0,Heal Spirit,50.0,Poison,78.0,,,,8,False,False,0.0,0.0
+08040,Royal Delivery,85.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,Mega Knight,63.0,2.0,2,True,True,6.0,7.0
+08055,Royal Delivery,85.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+08070,Royal Delivery,85.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+08085,Royal Delivery,85.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+08100,Royal Delivery,85.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+08115,Royal Delivery,85.0,Skeleton Dragons,92.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+08130,Royal Delivery,85.0,Musketeer,73.0,Heal Spirit,50.0,Poison,78.0,Skeleton Dragons,92.0,2.0,3,True,True,1.0,4.0
+08145,Royal Delivery,85.0,Musketeer,73.0,Heal Spirit,50.0,Poison,78.0,,,,1,False,False,0.0,0.0
+08160,Royal Delivery,85.0,Musketeer,73.0,Royal Hogs,88.0,Poison,78.0,Heal Spirit,50.0,3.0,1,True,True,2.0,1.0
+08175,Royal Delivery,85.0,Musketeer,73.0,Royal Hogs,88.0,Poison,78.0,,,,1,False,False,0.0,0.0
+08190,Royal Delivery,85.0,Musketeer,73.0,Royal Hogs,88.0,Poison,78.0,,,,2,False,False,0.0,0.0
+08205,Royal Delivery,85.0,Musketeer,73.0,Royal Hogs,88.0,Poison,78.0,,,,2,False,False,0.0,0.0
+08220,Royal Delivery,85.0,Musketeer,73.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+08235,Royal Delivery,85.0,Musketeer,73.0,Royal Hogs,88.0,Poison,78.0,,,,3,False,False,0.0,0.0
+08250,Royal Delivery,85.0,Musketeer,73.0,Royal Hogs,88.0,Poison,78.0,,,,4,False,False,0.0,0.0
+08265,Royal Delivery,85.0,Musketeer,73.0,Royal Hogs,88.0,Poison,78.0,,,,5,False,False,0.0,0.0
+08280,Royal Delivery,85.0,Musketeer,73.0,Royal Hogs,88.0,Poison,78.0,,,,5,False,False,0.0,0.0
+08295,Royal Delivery,85.0,Musketeer,73.0,Royal Hogs,88.0,Poison,78.0,,,,6,False,False,0.0,0.0
+08310,Royal Delivery,85.0,Musketeer,73.0,Royal Hogs,88.0,Poison,78.0,,,,6,False,False,0.0,0.0
+08325,Royal Delivery,85.0,Musketeer,73.0,Bandit,5.0,Poison,78.0,Royal Hogs,88.0,3.0,2,True,True,4.0,5.0
+08340,Royal Delivery,85.0,Musketeer,73.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+08355,Royal Delivery,85.0,Musketeer,73.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+08370,Royal Delivery,85.0,Musketeer,73.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+08385,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Poison,78.0,Bandit,5.0,3.0,1,True,True,2.0,3.0
+08400,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Poison,78.0,,,,1,False,False,0.0,0.0
+08415,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Poison,78.0,,,,2,False,False,0.0,0.0
+08430,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Poison,78.0,,,,3,False,False,0.0,0.0
+08445,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Poison,78.0,,,,3,False,False,0.0,0.0
+08460,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Poison,78.0,,,,4,False,False,0.0,0.0
+08475,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Poison,78.0,,,,4,False,False,0.0,0.0
+08490,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Poison,78.0,,,,5,False,False,0.0,0.0
+08505,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Poison,78.0,,,,5,False,False,0.0,0.0
+08520,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Poison,78.0,,,,6,False,False,0.0,0.0
+08535,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Poison,78.0,,,,6,False,False,0.0,0.0
+08550,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Poison,78.0,,,,7,False,False,0.0,0.0
+08565,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Skeleton Dragons,92.0,Poison,78.0,4.0,3,True,True,4.0,4.0
+08580,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+08595,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+08610,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+08625,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+08640,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+08655,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+08670,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+08685,Royal Delivery,85.0,Heal Spirit,50.0,Mega Knight,63.0,Skeleton Dragons,92.0,Musketeer,73.0,2.0,4,True,True,3.0,4.0
+08700,Royal Delivery,85.0,Heal Spirit,50.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+08715,Royal Delivery,85.0,Heal Spirit,50.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+08730,Royal Delivery,85.0,Heal Spirit,50.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+08745,Royal Delivery,85.0,Heal Spirit,50.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+08760,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,Skeleton Dragons,92.0,Heal Spirit,50.0,2.0,5,True,True,1.0,1.0
+08775,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+08790,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+08805,Royal Delivery,85.0,Royal Hogs,88.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+08820,Royal Delivery,85.0,Bandit,5.0,Mega Knight,63.0,Skeleton Dragons,92.0,Royal Hogs,88.0,2.0,3,True,True,4.0,5.0
+08835,Royal Delivery,85.0,Bandit,5.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+08850,Royal Delivery,85.0,Bandit,5.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+08865,Royal Delivery,85.0,Bandit,5.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+08880,Royal Delivery,85.0,Poison,78.0,Mega Knight,63.0,Skeleton Dragons,92.0,Bandit,5.0,2.0,2,True,True,2.0,3.0
+08895,Royal Delivery,85.0,Poison,78.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+08910,Royal Delivery,85.0,Poison,78.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+08925,Royal Delivery,85.0,Poison,78.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+08940,Royal Delivery,85.0,Poison,78.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+08955,Royal Delivery,85.0,Poison,78.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+08970,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Skeleton Dragons,92.0,Poison,78.0,2.0,1,True,True,3.0,4.0
+08985,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,1,False,False,0.0,0.0
+09000,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+09015,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+09030,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+09045,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+09060,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+09075,Royal Delivery,85.0,Musketeer,73.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+09090,Royal Delivery,85.0,Heal Spirit,50.0,Mega Knight,63.0,Skeleton Dragons,92.0,Musketeer,73.0,2.0,1,True,True,4.0,4.0
+09105,Royal Delivery,85.0,Heal Spirit,50.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+09120,Royal Delivery,85.0,Heal Spirit,50.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+09135,Royal Delivery,85.0,Heal Spirit,50.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+09150,Royal Delivery,85.0,Heal Spirit,50.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+09165,Royal Delivery,85.0,Heal Spirit,50.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+09180,Royal Delivery,85.0,Heal Spirit,50.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+09195,Royal Delivery,85.0,Heal Spirit,50.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+09210,Royal Delivery,85.0,Heal Spirit,50.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+09225,Royal Delivery,85.0,Heal Spirit,50.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+09240,Royal Delivery,85.0,Heal Spirit,50.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+09255,Royal Delivery,85.0,Heal Spirit,50.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+09270,Royal Delivery,85.0,Heal Spirit,50.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+09285,Royal Delivery,85.0,Heal Spirit,50.0,Mega Knight,63.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0

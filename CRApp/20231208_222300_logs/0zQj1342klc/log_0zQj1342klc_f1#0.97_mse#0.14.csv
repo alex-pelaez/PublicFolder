@@ -1,0 +1,507 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Miner,66.0,,,,6,False,False,0.0,0.0
+00255,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Miner,66.0,,,,6,False,False,0.0,0.0
+00270,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Miner,66.0,,,,6,False,False,0.0,0.0
+00285,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Miner,66.0,,,,7,False,False,0.0,0.0
+00300,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Miner,66.0,,,,7,False,False,0.0,0.0
+00315,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Miner,66.0,,,,7,False,False,0.0,0.0
+00330,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Miner,66.0,,,,7,False,False,0.0,0.0
+00345,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Miner,66.0,,,,7,False,False,0.0,0.0
+00360,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Miner,66.0,,,,7,False,False,0.0,0.0
+00375,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Miner,66.0,,,,8,False,False,0.0,0.0
+00390,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Miner,66.0,,,,8,False,False,0.0,0.0
+00405,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Miner,66.0,,,,8,False,False,0.0,0.0
+00420,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Miner,66.0,,,,8,False,False,0.0,0.0
+00435,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Miner,66.0,,,,8,False,False,0.0,0.0
+00450,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Miner,66.0,,,,9,False,False,0.0,0.0
+00465,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Miner,66.0,,,,9,False,False,0.0,0.0
+00480,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Miner,66.0,,,,9,False,False,0.0,0.0
+00495,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Miner,66.0,,,,9,False,False,0.0,0.0
+00510,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Miner,66.0,,,,9,False,False,0.0,0.0
+00525,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Wall Breakers,103.0,Miner,66.0,4.0,6,True,True,3.0,3.0
+00540,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Wall Breakers,103.0,,,,7,False,False,0.0,0.0
+00555,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Wall Breakers,103.0,,,,7,False,False,0.0,0.0
+00570,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Wall Breakers,103.0,,,,7,False,False,0.0,0.0
+00585,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Zap,107.0,Wall Breakers,103.0,4.0,5,True,True,2.0,2.0
+00600,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Zap,107.0,,,,5,False,False,0.0,0.0
+00615,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Zap,107.0,,,,5,False,False,0.0,0.0
+00630,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Zap,107.0,,,,6,False,False,0.0,0.0
+00645,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Zap,107.0,,,,6,False,False,0.0,0.0
+00660,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Zap,107.0,,,,6,False,False,0.0,0.0
+00675,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Zap,107.0,,,,6,False,False,0.0,0.0
+00690,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Zap,107.0,,,,6,False,False,0.0,0.0
+00705,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Zap,107.0,,,,7,False,False,0.0,0.0
+00720,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Zap,107.0,,,,7,False,False,0.0,0.0
+00735,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Zap,107.0,,,,7,False,False,0.0,0.0
+00750,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Zap,107.0,,,,7,False,False,0.0,0.0
+00765,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Zap,107.0,,,,7,False,False,0.0,0.0
+00780,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Zap,107.0,,,,7,False,False,0.0,0.0
+00795,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Zap,107.0,,,,8,False,False,0.0,0.0
+00810,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Zap,107.0,,,,8,False,False,0.0,0.0
+00825,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Zap,107.0,,,,8,False,False,0.0,0.0
+00840,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Zap,107.0,,,,8,False,False,0.0,0.0
+00855,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Zap,107.0,,,,8,False,False,0.0,0.0
+00870,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Zap,107.0,,,,9,False,False,0.0,0.0
+00885,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Zap,107.0,,,,9,False,False,0.0,0.0
+00900,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Zap,107.0,,,,9,False,False,0.0,0.0
+00915,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Zap,107.0,,,,9,False,False,0.0,0.0
+00930,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Zap,107.0,,,,9,False,False,0.0,0.0
+00945,Bomb Tower,12.0,The Log,98.0,Bats,9.0,Zap,107.0,,,,9,False,False,0.0,0.0
+00960,Bomb Tower,12.0,The Log,98.0,Spear Goblins,96.0,Zap,107.0,Bats,9.0,3.0,8,True,True,1.0,2.0
+00975,Bomb Tower,12.0,The Log,98.0,Spear Goblins,96.0,Zap,107.0,,,,8,False,False,0.0,0.0
+00990,Bomb Tower,12.0,The Log,98.0,Spear Goblins,96.0,Zap,107.0,,,,8,False,False,0.0,0.0
+01005,Bomb Tower,12.0,The Log,98.0,Spear Goblins,96.0,Zap,107.0,,,,8,False,False,0.0,0.0
+01020,Bomb Tower,12.0,The Log,98.0,Spear Goblins,96.0,Zap,107.0,,,,8,False,False,0.0,0.0
+01035,Bomb Tower,12.0,The Log,98.0,Spear Goblins,96.0,Zap,107.0,,,,8,False,False,0.0,0.0
+01050,Bomb Tower,12.0,The Log,98.0,Spear Goblins,96.0,Zap,107.0,,,,9,False,False,0.0,0.0
+01065,Bomb Tower,12.0,The Log,98.0,Spear Goblins,96.0,Zap,107.0,,,,9,False,False,0.0,0.0
+01080,Bomb Tower,12.0,The Log,98.0,Spear Goblins,96.0,Zap,107.0,,,,9,False,False,0.0,0.0
+01095,Bomb Tower,12.0,Knight,58.0,Spear Goblins,96.0,Zap,107.0,The Log,98.0,2.0,7,True,True,2.0,2.0
+01110,Bomb Tower,12.0,Knight,58.0,Spear Goblins,96.0,Zap,107.0,,,,7,False,False,0.0,0.0
+01125,Bomb Tower,12.0,Knight,58.0,Spear Goblins,96.0,Zap,107.0,,,,8,False,False,0.0,0.0
+01140,Bomb Tower,12.0,Knight,58.0,Spear Goblins,96.0,Zap,107.0,,,,8,False,False,0.0,0.0
+01155,Bomb Tower,12.0,Knight,58.0,Spear Goblins,96.0,Zap,107.0,,,,8,False,False,0.0,0.0
+01170,Bomb Tower,12.0,Knight,58.0,Spear Goblins,96.0,Zap,107.0,,,,8,False,False,0.0,0.0
+01185,Bomb Tower,12.0,Knight,58.0,Spear Goblins,96.0,Zap,107.0,,,,8,False,False,0.0,0.0
+01200,Bomb Tower,12.0,Knight,58.0,Spear Goblins,96.0,Zap,107.0,,,,8,False,False,0.0,0.0
+01215,Bomb Tower,12.0,Knight,58.0,Spear Goblins,96.0,Zap,107.0,,,,9,False,False,0.0,0.0
+01230,Bomb Tower,12.0,Knight,58.0,Spear Goblins,96.0,Zap,107.0,,,,9,False,False,0.0,0.0
+01245,Bomb Tower,12.0,Knight,58.0,Spear Goblins,96.0,Zap,107.0,,,,9,False,False,0.0,0.0
+01260,Bomb Tower,12.0,Knight,58.0,Spear Goblins,96.0,Zap,107.0,,,,9,False,False,0.0,0.0
+01275,Bomb Tower,12.0,Knight,58.0,Spear Goblins,96.0,Zap,107.0,,,,9,False,False,0.0,0.0
+01290,Bomb Tower,12.0,Knight,58.0,Spear Goblins,96.0,Zap,107.0,,,,10,False,False,0.0,0.0
+01305,Bomb Tower,12.0,Knight,58.0,Miner,66.0,Zap,107.0,Spear Goblins,96.0,3.0,8,True,True,2.0,2.0
+01320,Bomb Tower,12.0,Knight,58.0,Miner,66.0,Zap,107.0,,,,8,False,False,0.0,0.0
+01335,Bomb Tower,12.0,Knight,58.0,Miner,66.0,Zap,107.0,,,,8,False,False,0.0,0.0
+01350,Bomb Tower,12.0,Knight,58.0,Miner,66.0,Zap,107.0,,,,8,False,False,0.0,0.0
+01365,Bomb Tower,12.0,Knight,58.0,Miner,66.0,Zap,107.0,,,,8,False,False,0.0,0.0
+01380,Bomb Tower,12.0,Knight,58.0,Miner,66.0,Zap,107.0,,,,9,False,False,0.0,0.0
+01395,Bomb Tower,12.0,Knight,58.0,Miner,66.0,Zap,107.0,,,,9,False,False,0.0,0.0
+01410,Bomb Tower,12.0,Knight,58.0,Miner,66.0,Zap,107.0,,,,9,False,False,0.0,0.0
+01425,Bomb Tower,12.0,Knight,58.0,Miner,66.0,Zap,107.0,,,,9,False,False,0.0,0.0
+01440,Bomb Tower,12.0,Knight,58.0,Miner,66.0,Zap,107.0,,,,9,False,False,0.0,0.0
+01455,Bomb Tower,12.0,Knight,58.0,Miner,66.0,Zap,107.0,,,,9,False,False,0.0,0.0
+01470,Bomb Tower,12.0,Knight,58.0,Miner,66.0,Zap,107.0,,,,10,False,False,0.0,0.0
+01485,Bomb Tower,12.0,Knight,58.0,Miner,66.0,Zap,107.0,,,,10,False,False,0.0,0.0
+01500,Bomb Tower,12.0,Knight,58.0,Wall Breakers,103.0,Zap,107.0,Miner,66.0,3.0,7,True,True,3.0,3.0
+01515,Bomb Tower,12.0,Knight,58.0,Wall Breakers,103.0,Zap,107.0,,,,7,False,False,0.0,0.0
+01530,Bomb Tower,12.0,Knight,58.0,Wall Breakers,103.0,Zap,107.0,,,,7,False,False,0.0,0.0
+01545,Bomb Tower,12.0,Knight,58.0,Wall Breakers,103.0,Zap,107.0,,,,7,False,False,0.0,0.0
+01560,Bomb Tower,12.0,Knight,58.0,Wall Breakers,103.0,Zap,107.0,,,,7,False,False,0.0,0.0
+01575,Bomb Tower,12.0,Knight,58.0,Wall Breakers,103.0,Zap,107.0,,,,7,False,False,0.0,0.0
+01590,Bomb Tower,12.0,Knight,58.0,Wall Breakers,103.0,Zap,107.0,,,,8,False,False,0.0,0.0
+01605,Bomb Tower,12.0,Knight,58.0,Wall Breakers,103.0,Zap,107.0,,,,8,False,False,0.0,0.0
+01620,Bomb Tower,12.0,Knight,58.0,Wall Breakers,103.0,Zap,107.0,,,,8,False,False,0.0,0.0
+01635,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Zap,107.0,Knight,58.0,2.0,5,True,True,3.0,3.0
+01650,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Zap,107.0,,,,5,False,False,0.0,0.0
+01665,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Zap,107.0,,,,6,False,False,0.0,0.0
+01680,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Zap,107.0,,,,6,False,False,0.0,0.0
+01695,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Zap,107.0,,,,6,False,False,0.0,0.0
+01710,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Zap,107.0,,,,6,False,False,0.0,0.0
+01725,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Zap,107.0,,,,6,False,False,0.0,0.0
+01740,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Zap,107.0,,,,6,False,False,0.0,0.0
+01755,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Zap,107.0,,,,7,False,False,0.0,0.0
+01770,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Zap,107.0,,,,7,False,False,0.0,0.0
+01785,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Zap,107.0,,,,7,False,False,0.0,0.0
+01800,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Zap,107.0,,,,7,False,False,0.0,0.0
+01815,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Zap,107.0,,,,7,False,False,0.0,0.0
+01830,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Zap,107.0,,,,8,False,False,0.0,0.0
+01845,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Zap,107.0,,,,8,False,False,0.0,0.0
+01860,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Zap,107.0,,,,8,False,False,0.0,0.0
+01875,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Zap,107.0,,,,8,False,False,0.0,0.0
+01890,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Zap,107.0,,,,8,False,False,0.0,0.0
+01905,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Zap,107.0,,,,8,False,False,0.0,0.0
+01920,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Zap,107.0,Wall Breakers,103.0,3.0,7,True,True,1.0,2.0
+01935,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Zap,107.0,,,,7,False,False,0.0,0.0
+01950,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Zap,107.0,,,,7,False,False,0.0,0.0
+01965,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Zap,107.0,,,,7,False,False,0.0,0.0
+01980,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Zap,107.0,,,,7,False,False,0.0,0.0
+01995,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Zap,107.0,,,,7,False,False,0.0,0.0
+02010,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Zap,107.0,,,,8,False,False,0.0,0.0
+02025,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Zap,107.0,,,,8,False,False,0.0,0.0
+02040,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Zap,107.0,,,,8,False,False,0.0,0.0
+02055,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Zap,107.0,,,,8,False,False,0.0,0.0
+02070,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Zap,107.0,,,,8,False,False,0.0,0.0
+02085,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Zap,107.0,,,,9,False,False,0.0,0.0
+02100,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Zap,107.0,,,,9,False,False,0.0,0.0
+02115,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Zap,107.0,,,,9,False,False,0.0,0.0
+02130,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Zap,107.0,,,,9,False,False,0.0,0.0
+02145,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Zap,107.0,,,,9,False,False,0.0,0.0
+02160,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Zap,107.0,,,,9,False,False,0.0,0.0
+02175,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Spear Goblins,96.0,Zap,107.0,4.0,8,True,True,1.0,2.0
+02190,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+02205,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+02220,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+02235,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+02250,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Spear Goblins,96.0,,,,9,False,False,0.0,0.0
+02265,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Spear Goblins,96.0,,,,9,False,False,0.0,0.0
+02280,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Spear Goblins,96.0,,,,9,False,False,0.0,0.0
+02295,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Spear Goblins,96.0,,,,9,False,False,0.0,0.0
+02310,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Spear Goblins,96.0,,,,9,False,False,0.0,0.0
+02325,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Spear Goblins,96.0,,,,9,False,False,0.0,0.0
+02340,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Spear Goblins,96.0,,,,10,False,False,0.0,0.0
+02355,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Miner,66.0,Spear Goblins,96.0,4.0,8,True,True,2.0,2.0
+02370,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Miner,66.0,,,,8,False,False,0.0,0.0
+02385,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Miner,66.0,,,,8,False,False,0.0,0.0
+02400,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Miner,66.0,,,,8,False,False,0.0,0.0
+02415,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Miner,66.0,,,,8,False,False,0.0,0.0
+02430,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Miner,66.0,,,,9,False,False,0.0,0.0
+02445,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Miner,66.0,,,,9,False,False,0.0,0.0
+02460,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Miner,66.0,,,,9,False,False,0.0,0.0
+02475,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Miner,66.0,,,,9,False,False,0.0,0.0
+02490,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Miner,66.0,,,,9,False,False,0.0,0.0
+02505,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Miner,66.0,,,,9,False,False,0.0,0.0
+02520,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Knight,58.0,Miner,66.0,4.0,10,True,False,0.0,3.0
+02535,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Knight,58.0,,,,10,False,False,0.0,0.0
+02550,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Knight,58.0,The Log,98.0,3.0,5,True,True,5.0,2.0
+02565,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Knight,58.0,,,,5,False,False,0.0,0.0
+02580,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Knight,58.0,,,,5,False,False,0.0,0.0
+02595,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Knight,58.0,,,,5,False,False,0.0,0.0
+02610,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Knight,58.0,,,,6,False,False,0.0,0.0
+02625,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Knight,58.0,,,,6,False,False,0.0,0.0
+02640,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Knight,58.0,,,,6,False,False,0.0,0.0
+02655,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Knight,58.0,,,,6,False,False,0.0,0.0
+02670,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Knight,58.0,,,,6,False,False,0.0,0.0
+02685,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Knight,58.0,,,,7,False,False,0.0,0.0
+02700,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Knight,58.0,,,,7,False,False,0.0,0.0
+02715,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Knight,58.0,,,,7,False,False,0.0,0.0
+02730,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Knight,58.0,,,,7,False,False,0.0,0.0
+02745,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Knight,58.0,,,,7,False,False,0.0,0.0
+02760,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Knight,58.0,,,,7,False,False,0.0,0.0
+02775,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Knight,58.0,,,,8,False,False,0.0,0.0
+02790,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Knight,58.0,,,,8,False,False,0.0,0.0
+02805,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Knight,58.0,,,,8,False,False,0.0,0.0
+02820,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Knight,58.0,,,,8,False,False,0.0,0.0
+02835,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Knight,58.0,,,,8,False,False,0.0,0.0
+02850,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Knight,58.0,,,,9,False,False,0.0,0.0
+02865,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Knight,58.0,,,,9,False,False,0.0,0.0
+02880,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Knight,58.0,,,,9,False,False,0.0,0.0
+02895,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Knight,58.0,,,,9,False,False,0.0,0.0
+02910,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Knight,58.0,,,,9,False,False,0.0,0.0
+02925,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Knight,58.0,,,,9,False,False,0.0,0.0
+02940,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Zap,107.0,Knight,58.0,4.0,3,True,True,6.0,3.0
+02955,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Zap,107.0,,,,3,False,False,0.0,0.0
+02970,Bomb Tower,12.0,Bats,9.0,Wall Breakers,103.0,Zap,107.0,,,,3,False,False,0.0,0.0
+02985,Bomb Tower,12.0,Spear Goblins,96.0,Wall Breakers,103.0,Zap,107.0,Bats,9.0,2.0,5,True,False,0.0,2.0
+03000,Bomb Tower,12.0,Spear Goblins,96.0,Wall Breakers,103.0,Zap,107.0,,,,5,False,False,0.0,0.0
+03015,Bomb Tower,12.0,Spear Goblins,96.0,Miner,66.0,Zap,107.0,Wall Breakers,103.0,3.0,3,True,True,2.0,2.0
+03030,Bomb Tower,12.0,Spear Goblins,96.0,Miner,66.0,Zap,107.0,,,,4,False,False,0.0,0.0
+03045,Bomb Tower,12.0,Spear Goblins,96.0,Miner,66.0,Zap,107.0,,,,4,False,False,0.0,0.0
+03060,Bomb Tower,12.0,Spear Goblins,96.0,Miner,66.0,Zap,107.0,,,,4,False,False,0.0,0.0
+03075,Bomb Tower,12.0,Spear Goblins,96.0,The Log,98.0,Zap,107.0,Miner,66.0,3.0,1,True,True,3.0,3.0
+03090,Bomb Tower,12.0,Spear Goblins,96.0,The Log,98.0,Zap,107.0,,,,1,False,False,0.0,0.0
+03105,Bomb Tower,12.0,Spear Goblins,96.0,The Log,98.0,Zap,107.0,,,,2,False,False,0.0,0.0
+03120,Bomb Tower,12.0,Spear Goblins,96.0,The Log,98.0,Zap,107.0,,,,2,False,False,0.0,0.0
+03135,Bomb Tower,12.0,Spear Goblins,96.0,The Log,98.0,Zap,107.0,,,,2,False,False,0.0,0.0
+03150,Bomb Tower,12.0,Spear Goblins,96.0,The Log,98.0,Knight,58.0,Zap,107.0,4.0,0,True,True,2.0,2.0
+03165,Bomb Tower,12.0,Spear Goblins,96.0,The Log,98.0,Knight,58.0,,,,0,False,False,0.0,0.0
+03180,Bomb Tower,12.0,Spear Goblins,96.0,The Log,98.0,Knight,58.0,,,,0,False,False,0.0,0.0
+03195,Bomb Tower,12.0,Spear Goblins,96.0,The Log,98.0,Knight,58.0,,,,1,False,False,0.0,0.0
+03210,Bomb Tower,12.0,Spear Goblins,96.0,The Log,98.0,Knight,58.0,,,,1,False,False,0.0,0.0
+03225,Bomb Tower,12.0,Spear Goblins,96.0,The Log,98.0,Knight,58.0,,,,1,False,False,0.0,0.0
+03240,Bomb Tower,12.0,Spear Goblins,96.0,The Log,98.0,Knight,58.0,,,,1,False,False,0.0,0.0
+03255,Bomb Tower,12.0,Spear Goblins,96.0,The Log,98.0,Knight,58.0,,,,1,False,False,0.0,0.0
+03270,Bomb Tower,12.0,Spear Goblins,96.0,The Log,98.0,Knight,58.0,,,,1,False,False,0.0,0.0
+03285,Bomb Tower,12.0,Spear Goblins,96.0,The Log,98.0,Knight,58.0,,,,2,False,False,0.0,0.0
+03300,Bomb Tower,12.0,Spear Goblins,96.0,The Log,98.0,Knight,58.0,,,,2,False,False,0.0,0.0
+03315,Bomb Tower,12.0,Spear Goblins,96.0,The Log,98.0,Knight,58.0,,,,2,False,False,0.0,0.0
+03330,Bomb Tower,12.0,Spear Goblins,96.0,The Log,98.0,Knight,58.0,,,,2,False,False,0.0,0.0
+03345,Bomb Tower,12.0,Spear Goblins,96.0,The Log,98.0,Knight,58.0,,,,2,False,False,0.0,0.0
+03360,Bomb Tower,12.0,Spear Goblins,96.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+03375,Bomb Tower,12.0,Spear Goblins,96.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+03390,Bomb Tower,12.0,Spear Goblins,96.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+03405,Bomb Tower,12.0,Spear Goblins,96.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+03420,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Knight,58.0,Spear Goblins,96.0,2.0,3,True,True,2.0,2.0
+03435,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Knight,58.0,,,,1,False,False,0.0,0.0
+03450,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Knight,58.0,,,,2,False,False,0.0,0.0
+03465,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Knight,58.0,,,,2,False,False,0.0,0.0
+03480,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Knight,58.0,,,,2,False,False,0.0,0.0
+03495,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Knight,58.0,,,,2,False,False,0.0,0.0
+03510,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Knight,58.0,,,,2,False,False,0.0,0.0
+03525,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+03540,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+03555,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+03570,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+03585,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+03600,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+03615,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Knight,58.0,,,,4,False,False,0.0,0.0
+03630,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Knight,58.0,,,,4,False,False,0.0,0.0
+03645,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Knight,58.0,,,,4,False,False,0.0,0.0
+03660,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Knight,58.0,,,,4,False,False,0.0,0.0
+03675,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Knight,58.0,,,,4,False,False,0.0,0.0
+03690,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Knight,58.0,,,,5,False,False,0.0,0.0
+03705,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Knight,58.0,,,,5,False,False,0.0,0.0
+03720,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Knight,58.0,,,,5,False,False,0.0,0.0
+03735,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Knight,58.0,,,,5,False,False,0.0,0.0
+03750,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Knight,58.0,,,,5,False,False,0.0,0.0
+03765,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Knight,58.0,,,,5,False,False,0.0,0.0
+03780,Bomb Tower,12.0,Bats,9.0,The Log,98.0,Knight,58.0,,,,6,False,False,0.0,0.0
+03795,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Knight,58.0,Bats,9.0,2.0,4,True,True,2.0,2.0
+03810,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Knight,58.0,,,,4,False,False,0.0,0.0
+03825,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Knight,58.0,,,,5,False,False,0.0,0.0
+03840,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Knight,58.0,,,,5,False,False,0.0,0.0
+03855,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Knight,58.0,,,,5,False,False,0.0,0.0
+03870,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Miner,66.0,Knight,58.0,4.0,3,True,True,2.0,3.0
+03885,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Miner,66.0,,,,3,False,False,0.0,0.0
+03900,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Miner,66.0,,,,3,False,False,0.0,0.0
+03915,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Miner,66.0,,,,4,False,False,0.0,0.0
+03930,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Miner,66.0,,,,4,False,False,0.0,0.0
+03945,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03960,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03975,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,Miner,66.0,4.0,2,True,True,3.0,3.0
+03990,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04005,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04020,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04035,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04050,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04065,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04080,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04095,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04110,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04125,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04140,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04155,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04170,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04185,Spear Goblins,96.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,Bomb Tower,12.0,1.0,3,True,True,4.0,4.0
+04200,Spear Goblins,96.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04215,Spear Goblins,96.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04230,Spear Goblins,96.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04245,Spear Goblins,96.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04260,Spear Goblins,96.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04275,Spear Goblins,96.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04290,Spear Goblins,96.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04305,Spear Goblins,96.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04320,Spear Goblins,96.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04335,Spear Goblins,96.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04350,Spear Goblins,96.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04365,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Zap,107.0,The Log,98.0,3.0,6,True,True,1.0,2.0
+04380,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04395,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04410,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04425,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04440,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Knight,58.0,Zap,107.0,4.0,5,True,True,2.0,2.0
+04455,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Knight,58.0,,,,6,False,False,0.0,0.0
+04470,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Knight,58.0,,,,6,False,False,0.0,0.0
+04485,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Knight,58.0,,,,6,False,False,0.0,0.0
+04500,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Knight,58.0,,,,7,False,False,0.0,0.0
+04515,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Knight,58.0,,,,7,False,False,0.0,0.0
+04530,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Knight,58.0,,,,7,False,False,0.0,0.0
+04545,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Knight,58.0,,,,8,False,False,0.0,0.0
+04560,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Knight,58.0,,,,8,False,False,0.0,0.0
+04575,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Knight,58.0,,,,9,False,False,0.0,0.0
+04590,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Knight,58.0,,,,9,False,False,0.0,0.0
+04605,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Knight,58.0,,,,9,False,False,0.0,0.0
+04620,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Knight,58.0,,,,10,False,False,0.0,0.0
+04635,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Knight,58.0,,,,10,False,False,0.0,0.0
+04650,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,Knight,58.0,4.0,7,True,True,3.0,3.0
+04665,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,7,False,False,0.0,0.0
+04680,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,8,False,False,0.0,0.0
+04695,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,8,False,False,0.0,0.0
+04710,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,8,False,False,0.0,0.0
+04725,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,9,False,False,0.0,0.0
+04740,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,9,False,False,0.0,0.0
+04755,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,9,False,False,0.0,0.0
+04770,Bomb Tower,12.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,Spear Goblins,96.0,1.0,8,True,True,1.0,2.0
+04785,Bomb Tower,12.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,8,False,False,0.0,0.0
+04800,Bomb Tower,12.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,8,False,False,0.0,0.0
+04815,Bomb Tower,12.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,9,False,False,0.0,0.0
+04830,Bomb Tower,12.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,9,False,False,0.0,0.0
+04845,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Miner,66.0,Bats,9.0,3.0,7,True,True,2.0,2.0
+04860,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Miner,66.0,,,,8,False,False,0.0,0.0
+04875,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,Miner,66.0,4.0,5,True,True,3.0,3.0
+04890,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04905,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04920,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04935,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04950,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04965,Bomb Tower,12.0,Wall Breakers,103.0,The Log,98.0,Zap,107.0,,,,7,False,False,0.0,0.0
+04980,Bomb Tower,12.0,Wall Breakers,103.0,Knight,58.0,Zap,107.0,The Log,98.0,3.0,6,True,True,1.0,2.0
+04995,Bomb Tower,12.0,Wall Breakers,103.0,Knight,58.0,Zap,107.0,,,,6,False,False,0.0,0.0
+05010,Bomb Tower,12.0,Wall Breakers,103.0,Knight,58.0,Zap,107.0,,,,6,False,False,0.0,0.0
+05025,Bomb Tower,12.0,Wall Breakers,103.0,Knight,58.0,Zap,107.0,,,,7,False,False,0.0,0.0
+05040,Bomb Tower,12.0,Wall Breakers,103.0,Knight,58.0,Zap,107.0,,,,7,False,False,0.0,0.0
+05055,Bomb Tower,12.0,Wall Breakers,103.0,Knight,58.0,Zap,107.0,,,,7,False,False,0.0,0.0
+05070,Bomb Tower,12.0,Wall Breakers,103.0,Knight,58.0,Zap,107.0,,,,8,False,False,0.0,0.0
+05085,Spear Goblins,96.0,Wall Breakers,103.0,Knight,58.0,Zap,107.0,Bomb Tower,12.0,1.0,4,True,True,4.0,4.0
+05100,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Zap,107.0,Knight,58.0,3.0,2,True,True,2.0,3.0
+05115,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05130,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05145,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,Zap,107.0,4.0,1,True,True,1.0,2.0
+05160,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,1,False,False,0.0,0.0
+05175,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,1,False,False,0.0,0.0
+05190,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,2,False,False,0.0,0.0
+05205,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,2,False,False,0.0,0.0
+05220,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,2,False,False,0.0,0.0
+05235,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,3,False,False,0.0,0.0
+05250,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,3,False,False,0.0,0.0
+05265,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,The Log,98.0,Miner,66.0,4.0,0,True,True,3.0,3.0
+05280,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,The Log,98.0,,,,1,False,False,0.0,0.0
+05295,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,The Log,98.0,,,,1,False,False,0.0,0.0
+05310,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,The Log,98.0,,,,2,False,False,0.0,0.0
+05325,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,The Log,98.0,,,,2,False,False,0.0,0.0
+05340,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,The Log,98.0,,,,2,False,False,0.0,0.0
+05355,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,The Log,98.0,,,,3,False,False,0.0,0.0
+05370,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,The Log,98.0,,,,3,False,False,0.0,0.0
+05385,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,The Log,98.0,,,,3,False,False,0.0,0.0
+05400,Spear Goblins,96.0,Wall Breakers,103.0,Bats,9.0,The Log,98.0,,,,4,False,False,0.0,0.0
+05415,Bomb Tower,12.0,Wall Breakers,103.0,Bats,9.0,The Log,98.0,Spear Goblins,96.0,1.0,2,True,True,2.0,2.0
+05430,Bomb Tower,12.0,Wall Breakers,103.0,Bats,9.0,The Log,98.0,,,,2,False,False,0.0,0.0
+05445,Bomb Tower,12.0,Wall Breakers,103.0,Bats,9.0,The Log,98.0,,,,3,False,False,0.0,0.0
+05460,Bomb Tower,12.0,Wall Breakers,103.0,Bats,9.0,The Log,98.0,,,,3,False,False,0.0,0.0
+05475,Bomb Tower,12.0,Wall Breakers,103.0,Bats,9.0,The Log,98.0,,,,3,False,False,0.0,0.0
+05490,Bomb Tower,12.0,Wall Breakers,103.0,Bats,9.0,The Log,98.0,,,,4,False,False,0.0,0.0
+05505,Bomb Tower,12.0,Wall Breakers,103.0,Bats,9.0,The Log,98.0,,,,4,False,False,0.0,0.0
+05520,Knight,58.0,Wall Breakers,103.0,Bats,9.0,The Log,98.0,Bomb Tower,12.0,1.0,1,True,True,3.0,4.0
+05535,Knight,58.0,Wall Breakers,103.0,Bats,9.0,The Log,98.0,,,,1,False,False,0.0,0.0
+05550,Knight,58.0,Wall Breakers,103.0,Bats,9.0,The Log,98.0,,,,1,False,False,0.0,0.0
+05565,Knight,58.0,Wall Breakers,103.0,Bats,9.0,The Log,98.0,,,,2,False,False,0.0,0.0
+05580,Knight,58.0,Wall Breakers,103.0,Bats,9.0,The Log,98.0,,,,2,False,False,0.0,0.0
+05595,Knight,58.0,Wall Breakers,103.0,Bats,9.0,The Log,98.0,,,,2,False,False,0.0,0.0
+05610,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Zap,107.0,The Log,98.0,4.0,1,True,True,1.0,2.0
+05625,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Zap,107.0,,,,1,False,False,0.0,0.0
+05640,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Zap,107.0,,,,1,False,False,0.0,0.0
+05655,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05670,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05685,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,Zap,107.0,4.0,0,True,True,2.0,2.0
+05700,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,1,False,False,0.0,0.0
+05715,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,1,False,False,0.0,0.0
+05730,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,2,False,False,0.0,0.0
+05745,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,2,False,False,0.0,0.0
+05760,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,2,False,False,0.0,0.0
+05775,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,3,False,False,0.0,0.0
+05790,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,3,False,False,0.0,0.0
+05805,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,3,False,False,0.0,0.0
+05820,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,4,False,False,0.0,0.0
+05835,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,4,False,False,0.0,0.0
+05850,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,4,False,False,0.0,0.0
+05865,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,5,False,False,0.0,0.0
+05880,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,5,False,False,0.0,0.0
+05895,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,5,False,False,0.0,0.0
+05910,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,6,False,False,0.0,0.0
+05925,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,6,False,False,0.0,0.0
+05940,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,7,False,False,0.0,0.0
+05955,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,7,False,False,0.0,0.0
+05970,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,7,False,False,0.0,0.0
+05985,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,8,False,False,0.0,0.0
+06000,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,8,False,False,0.0,0.0
+06015,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,8,False,False,0.0,0.0
+06030,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,9,False,False,0.0,0.0
+06045,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,9,False,False,0.0,0.0
+06060,Knight,58.0,Wall Breakers,103.0,Bats,9.0,Miner,66.0,,,,9,False,False,0.0,0.0
+06075,Knight,58.0,Wall Breakers,103.0,Spear Goblins,96.0,Miner,66.0,Bats,9.0,3.0,8,True,True,1.0,2.0
+06090,Knight,58.0,Wall Breakers,103.0,Spear Goblins,96.0,Miner,66.0,,,,8,False,False,0.0,0.0
+06105,Knight,58.0,Wall Breakers,103.0,Spear Goblins,96.0,Miner,66.0,,,,8,False,False,0.0,0.0
+06120,Knight,58.0,Wall Breakers,103.0,Spear Goblins,96.0,Miner,66.0,,,,9,False,False,0.0,0.0
+06135,Knight,58.0,Wall Breakers,103.0,Spear Goblins,96.0,Miner,66.0,,,,9,False,False,0.0,0.0
+06150,Bomb Tower,12.0,Wall Breakers,103.0,Spear Goblins,96.0,Miner,66.0,Knight,58.0,1.0,10,True,True,3.0,3.0
+06165,Bomb Tower,12.0,Wall Breakers,103.0,Spear Goblins,96.0,Miner,66.0,,,,10,False,False,0.0,0.0
+06180,Bomb Tower,12.0,Wall Breakers,103.0,Spear Goblins,96.0,Miner,66.0,,,,7,False,False,0.0,0.0
+06195,Bomb Tower,12.0,Wall Breakers,103.0,Spear Goblins,96.0,Miner,66.0,,,,8,False,False,0.0,0.0
+06210,Bomb Tower,12.0,Wall Breakers,103.0,Spear Goblins,96.0,Miner,66.0,,,,8,False,False,0.0,0.0
+06225,Bomb Tower,12.0,Wall Breakers,103.0,Spear Goblins,96.0,Miner,66.0,,,,8,False,False,0.0,0.0
+06240,Bomb Tower,12.0,Wall Breakers,103.0,Spear Goblins,96.0,The Log,98.0,Miner,66.0,4.0,6,True,True,2.0,3.0
+06255,Bomb Tower,12.0,Wall Breakers,103.0,Spear Goblins,96.0,The Log,98.0,,,,6,False,False,0.0,0.0
+06270,Bomb Tower,12.0,Wall Breakers,103.0,Spear Goblins,96.0,The Log,98.0,,,,6,False,False,0.0,0.0
+06285,Bomb Tower,12.0,Wall Breakers,103.0,Spear Goblins,96.0,The Log,98.0,,,,7,False,False,0.0,0.0
+06300,Bomb Tower,12.0,Wall Breakers,103.0,Zap,107.0,The Log,98.0,Spear Goblins,96.0,3.0,5,True,True,2.0,2.0
+06315,Bomb Tower,12.0,Wall Breakers,103.0,Zap,107.0,The Log,98.0,,,,5,False,False,0.0,0.0
+06330,Bomb Tower,12.0,Bats,9.0,Zap,107.0,The Log,98.0,Wall Breakers,103.0,2.0,4,True,True,1.0,2.0
+06345,Bomb Tower,12.0,Bats,9.0,Zap,107.0,Knight,58.0,The Log,98.0,4.0,2,True,True,2.0,2.0
+06360,Bomb Tower,12.0,Bats,9.0,Zap,107.0,Knight,58.0,,,,3,False,False,0.0,0.0
+06375,Bomb Tower,12.0,Bats,9.0,Zap,107.0,Knight,58.0,,,,3,False,False,0.0,0.0
+06390,Bomb Tower,12.0,Bats,9.0,Zap,107.0,Knight,58.0,,,,3,False,False,0.0,0.0
+06405,Bomb Tower,12.0,Bats,9.0,Zap,107.0,Knight,58.0,,,,4,False,False,0.0,0.0
+06420,Bomb Tower,12.0,Bats,9.0,Zap,107.0,Knight,58.0,,,,4,False,False,0.0,0.0
+06435,Bomb Tower,12.0,Bats,9.0,Zap,107.0,Knight,58.0,,,,4,False,False,0.0,0.0
+06450,Bomb Tower,12.0,Bats,9.0,Zap,107.0,Knight,58.0,,,,5,False,False,0.0,0.0
+06465,Bomb Tower,12.0,Bats,9.0,Zap,107.0,Knight,58.0,,,,5,False,False,0.0,0.0
+06480,Bomb Tower,12.0,Bats,9.0,Zap,107.0,Knight,58.0,,,,5,False,False,0.0,0.0
+06495,Bomb Tower,12.0,Bats,9.0,Zap,107.0,Knight,58.0,,,,6,False,False,0.0,0.0
+06510,Miner,66.0,Bats,9.0,Zap,107.0,Miner,66.0,Knight,58.0,4.0,2,True,True,4.0,3.0
+06525,Miner,66.0,Bats,9.0,Zap,107.0,Knight,58.0,Miner,66.0,4.0,2,True,False,0.0,3.0
+06540,Miner,66.0,Bats,9.0,Zap,107.0,Knight,58.0,,,,3,False,False,0.0,0.0
+06555,Miner,66.0,Bats,9.0,Zap,107.0,Knight,58.0,,,,3,False,False,0.0,0.0
+06570,Miner,66.0,Bats,9.0,Zap,107.0,Knight,58.0,,,,4,False,False,0.0,0.0
+06585,Miner,66.0,Bats,9.0,Zap,107.0,Knight,58.0,,,,4,False,False,0.0,0.0
+06600,Miner,66.0,Bats,9.0,Zap,107.0,Knight,58.0,,,,4,False,False,0.0,0.0
+06615,Miner,66.0,Bats,9.0,Zap,107.0,Spear Goblins,96.0,Knight,58.0,4.0,2,True,True,2.0,3.0
+06630,Miner,66.0,Bats,9.0,Zap,107.0,Spear Goblins,96.0,,,,2,False,False,0.0,0.0
+06645,Miner,66.0,Bats,9.0,Zap,107.0,Spear Goblins,96.0,,,,2,False,False,0.0,0.0
+06660,Miner,66.0,Bats,9.0,Zap,107.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+06675,Miner,66.0,Bats,9.0,Zap,107.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+06690,Miner,66.0,Bats,9.0,Zap,107.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+06705,Miner,66.0,Bats,9.0,Zap,107.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+06720,Miner,66.0,Bats,9.0,Zap,107.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+06735,Miner,66.0,Bats,9.0,Zap,107.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+06750,Miner,66.0,Bats,9.0,Zap,107.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+06765,Wall Breakers,103.0,Bats,9.0,Zap,107.0,Spear Goblins,96.0,Miner,66.0,1.0,2,True,True,3.0,3.0
+06780,Wall Breakers,103.0,Bats,9.0,Zap,107.0,Spear Goblins,96.0,,,,2,False,False,0.0,0.0
+06795,Wall Breakers,103.0,Bats,9.0,Zap,107.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+06810,Wall Breakers,103.0,Bats,9.0,Zap,107.0,The Log,98.0,Spear Goblins,96.0,4.0,4,True,False,0.0,2.0
+06825,Wall Breakers,103.0,Bats,9.0,Zap,107.0,The Log,98.0,,,,4,False,False,0.0,0.0
+06840,Wall Breakers,103.0,Bats,9.0,Zap,107.0,The Log,98.0,,,,4,False,False,0.0,0.0
+06855,Wall Breakers,103.0,Bats,9.0,Zap,107.0,The Log,98.0,,,,4,False,False,0.0,0.0
+06870,Wall Breakers,103.0,Bats,9.0,Zap,107.0,Bomb Tower,12.0,The Log,98.0,4.0,4,True,True,3.0,2.0
+06885,Wall Breakers,103.0,Bats,9.0,Zap,107.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+06900,Wall Breakers,103.0,Bats,9.0,Zap,107.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+06915,Wall Breakers,103.0,Bats,9.0,Zap,107.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+06930,Wall Breakers,103.0,Bats,9.0,Zap,107.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+06945,Wall Breakers,103.0,Bats,9.0,Zap,107.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+06960,Wall Breakers,103.0,Bats,9.0,Zap,107.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+06975,Wall Breakers,103.0,Bats,9.0,Zap,107.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+06990,Wall Breakers,103.0,Bats,9.0,Zap,107.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+07005,Wall Breakers,103.0,Bats,9.0,Zap,107.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+07020,Wall Breakers,103.0,Bats,9.0,Zap,107.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+07035,Wall Breakers,103.0,Bats,9.0,Zap,107.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+07050,Wall Breakers,103.0,Bats,9.0,Zap,107.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+07065,Wall Breakers,103.0,Bats,9.0,Zap,107.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+07080,Wall Breakers,103.0,Bats,9.0,Zap,107.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+07095,Wall Breakers,103.0,Knight,58.0,Zap,107.0,Bomb Tower,12.0,Bats,9.0,2.0,4,True,True,2.0,2.0
+07110,Miner,66.0,Knight,58.0,Zap,107.0,Bomb Tower,12.0,Wall Breakers,103.0,1.0,2,True,True,2.0,2.0
+07125,Miner,66.0,Knight,58.0,Zap,107.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+07140,Miner,66.0,Knight,58.0,Zap,107.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+07155,Miner,66.0,Knight,58.0,Spear Goblins,96.0,Bomb Tower,12.0,Zap,107.0,3.0,3,True,True,1.0,2.0
+07170,Miner,66.0,Knight,58.0,Spear Goblins,96.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+07185,Miner,66.0,Knight,58.0,Spear Goblins,96.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+07200,Miner,66.0,Knight,58.0,Spear Goblins,96.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+07215,Miner,66.0,Knight,58.0,Spear Goblins,96.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+07230,Miner,66.0,Knight,58.0,Spear Goblins,96.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+07245,Miner,66.0,Knight,58.0,Spear Goblins,96.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+07260,Miner,66.0,Knight,58.0,Spear Goblins,96.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+07275,Miner,66.0,Knight,58.0,Spear Goblins,96.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+07290,Miner,66.0,Knight,58.0,Spear Goblins,96.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+07305,Miner,66.0,Knight,58.0,Spear Goblins,96.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+07320,Miner,66.0,Knight,58.0,Spear Goblins,96.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+07335,Miner,66.0,The Log,98.0,Spear Goblins,96.0,Bomb Tower,12.0,Knight,58.0,2.0,3,True,True,2.0,3.0
+07350,Miner,66.0,The Log,98.0,Spear Goblins,96.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+07365,Miner,66.0,The Log,98.0,Spear Goblins,96.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+07380,Miner,66.0,The Log,98.0,Spear Goblins,96.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+07395,Miner,66.0,The Log,98.0,Spear Goblins,96.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+07410,Miner,66.0,The Log,98.0,Bats,9.0,Bomb Tower,12.0,Spear Goblins,96.0,3.0,3,True,True,1.0,2.0
+07425,Miner,66.0,The Log,98.0,Bats,9.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+07440,Miner,66.0,The Log,98.0,Bats,9.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+07455,Wall Breakers,103.0,The Log,98.0,Bats,9.0,Bomb Tower,12.0,Miner,66.0,1.0,2,True,True,2.0,3.0
+07470,Wall Breakers,103.0,The Log,98.0,Bats,9.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+07485,Wall Breakers,103.0,The Log,98.0,Bats,9.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+07500,Wall Breakers,103.0,The Log,98.0,Bats,9.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+07515,Zap,107.0,The Log,98.0,Bats,9.0,Bomb Tower,12.0,Wall Breakers,103.0,1.0,2,True,True,1.0,2.0
+07530,Zap,107.0,The Log,98.0,Bats,9.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+07545,Zap,107.0,The Log,98.0,Bats,9.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+07560,Zap,107.0,Knight,58.0,Bats,9.0,Bomb Tower,12.0,The Log,98.0,2.0,1,True,True,2.0,2.0
+07575,Zap,107.0,Knight,58.0,Bats,9.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+07590,Zap,107.0,Knight,58.0,Bats,9.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+07605,Zap,107.0,Knight,58.0,Bats,9.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+07620,Spear Goblins,96.0,Knight,58.0,Bats,9.0,Bomb Tower,12.0,Zap,107.0,1.0,2,True,True,1.0,2.0
+07635,Spear Goblins,96.0,Knight,58.0,Bats,9.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+07650,Spear Goblins,96.0,Knight,58.0,Bats,9.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+07665,Spear Goblins,96.0,Knight,58.0,Bats,9.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+07680,Spear Goblins,96.0,Knight,58.0,Bats,9.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+07695,Spear Goblins,96.0,Knight,58.0,Bats,9.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+07710,Spear Goblins,96.0,Knight,58.0,Bats,9.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+07725,Spear Goblins,96.0,Knight,58.0,Bats,9.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+07740,Spear Goblins,96.0,Knight,58.0,Bats,9.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+07755,Spear Goblins,96.0,Knight,58.0,Bats,9.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+07770,Spear Goblins,96.0,Miner,66.0,Bats,9.0,Bomb Tower,12.0,Knight,58.0,2.0,4,True,True,2.0,3.0
+07785,Spear Goblins,96.0,Miner,66.0,Bats,9.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+07800,Spear Goblins,96.0,Miner,66.0,Bats,9.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+07815,Spear Goblins,96.0,Miner,66.0,Wall Breakers,103.0,Bomb Tower,12.0,Bats,9.0,3.0,4,True,True,1.0,2.0

@@ -1,0 +1,608 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Mini P.E.K.K.A,67.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+00255,Mini P.E.K.K.A,67.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+00270,Mini P.E.K.K.A,67.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00285,Mini P.E.K.K.A,67.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00300,Mini P.E.K.K.A,67.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00315,Mini P.E.K.K.A,67.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00330,Mini P.E.K.K.A,67.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,7,False,True,1.0,0.0
+00345,Mini P.E.K.K.A,67.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00360,Mini P.E.K.K.A,67.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00375,Mini P.E.K.K.A,67.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00390,Mini P.E.K.K.A,67.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00405,Mini P.E.K.K.A,67.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00420,Mini P.E.K.K.A,67.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00435,Mini P.E.K.K.A,67.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00450,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,Mini P.E.K.K.A,67.0,1.0,5,True,True,3.0,4.0
+00465,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+00480,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+00495,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+00510,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+00525,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+00540,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+00555,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+00570,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+00585,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+00600,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+00615,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00630,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00645,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00660,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00675,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00690,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00705,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00720,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00735,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00750,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00765,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00780,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00795,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00810,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00825,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00840,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00855,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00870,Bats,9.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,Inferno Dragon,56.0,1.0,6,True,True,3.0,4.0
+00885,Bats,9.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+00900,Bats,9.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+00915,Bats,9.0,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+00930,Bats,9.0,Balloon,4.0,Zap,107.0,Ice Golem,53.0,Barbarian Barrel,6.0,4.0,4,True,True,2.0,2.0
+00945,Bats,9.0,Balloon,4.0,Zap,107.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+00960,Bats,9.0,Balloon,4.0,Zap,107.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+00975,Bats,9.0,Balloon,4.0,Zap,107.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+00990,Bats,9.0,Balloon,4.0,Zap,107.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+01005,Bats,9.0,Balloon,4.0,Zap,107.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+01020,Bats,9.0,Balloon,4.0,Zap,107.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+01035,Bats,9.0,Balloon,4.0,Zap,107.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+01050,Bats,9.0,Balloon,4.0,Zap,107.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+01065,Bats,9.0,Balloon,4.0,Zap,107.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+01080,Bats,9.0,Balloon,4.0,Zap,107.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+01095,Bats,9.0,Balloon,4.0,Zap,107.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+01110,Bats,9.0,Balloon,4.0,Zap,107.0,Ice Golem,53.0,,,,7,False,False,0.0,0.0
+01125,Bats,9.0,Balloon,4.0,Zap,107.0,Ice Golem,53.0,,,,7,False,False,0.0,0.0
+01140,Bats,9.0,Balloon,4.0,Zap,107.0,Ice Golem,53.0,,,,7,False,False,0.0,0.0
+01155,Bats,9.0,Balloon,4.0,Zap,107.0,Ice Golem,53.0,,,,7,False,False,0.0,0.0
+01170,Bats,9.0,Balloon,4.0,Zap,107.0,Ice Golem,53.0,,,,7,False,False,0.0,0.0
+01185,Bats,9.0,Balloon,4.0,Zap,107.0,Miner,66.0,Ice Golem,53.0,4.0,5,True,True,2.0,2.0
+01200,Bats,9.0,Balloon,4.0,Zap,107.0,Miner,66.0,,,,6,False,False,0.0,0.0
+01215,Bats,9.0,Balloon,4.0,Zap,107.0,Miner,66.0,,,,6,False,False,0.0,0.0
+01230,Bats,9.0,Balloon,4.0,Zap,107.0,Miner,66.0,,,,6,False,False,0.0,0.0
+01245,Bats,9.0,Balloon,4.0,Zap,107.0,Miner,66.0,,,,6,False,False,0.0,0.0
+01260,Bats,9.0,Balloon,4.0,Zap,107.0,Miner,66.0,,,,6,False,False,0.0,0.0
+01275,Bats,9.0,Balloon,4.0,Zap,107.0,Miner,66.0,,,,6,False,False,0.0,0.0
+01290,Bats,9.0,Balloon,4.0,Zap,107.0,Miner,66.0,,,,7,False,False,0.0,0.0
+01305,Bats,9.0,Balloon,4.0,Zap,107.0,Miner,66.0,,,,7,False,False,0.0,0.0
+01320,Bats,9.0,Balloon,4.0,Zap,107.0,Miner,66.0,,,,7,False,False,0.0,0.0
+01335,Bats,9.0,Balloon,4.0,Zap,107.0,Miner,66.0,,,,7,False,False,0.0,0.0
+01350,Bats,9.0,Balloon,4.0,Zap,107.0,Mini P.E.K.K.A,67.0,Miner,66.0,4.0,4,True,True,3.0,3.0
+01365,Bats,9.0,Balloon,4.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+01380,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Mini P.E.K.K.A,67.0,Bats,9.0,1.0,3,True,True,2.0,2.0
+01395,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+01410,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+01425,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+01440,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+01455,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+01470,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+01485,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+01500,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+01515,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+01530,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+01545,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+01560,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+01575,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,Balloon,4.0,2.0,0,True,True,5.0,5.0
+01590,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,0,False,False,0.0,0.0
+01605,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,0,False,False,0.0,0.0
+01620,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+01635,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+01650,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+01665,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+01680,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+01695,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+01710,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+01725,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+01740,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+01755,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+01770,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+01785,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+01800,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+01815,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+01830,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+01845,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+01860,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+01875,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+01890,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+01905,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+01920,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+01935,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+01950,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+01965,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+01980,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+01995,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+02010,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+02025,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+02040,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+02055,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+02070,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+02085,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+02100,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+02115,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+02130,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+02145,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+02160,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+02175,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+02190,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+02205,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,6,False,True,1.0,0.0
+02220,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02235,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02250,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02265,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02280,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02295,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+02310,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+02325,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+02340,Inferno Dragon,56.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,Barbarian Barrel,6.0,2.0,7,True,True,2.0,2.0
+02355,Inferno Dragon,56.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02370,Inferno Dragon,56.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02385,Inferno Dragon,56.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02400,Inferno Dragon,56.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02415,Inferno Dragon,56.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02430,Inferno Dragon,56.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02445,Inferno Dragon,56.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02460,Inferno Dragon,56.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+02475,Inferno Dragon,56.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+02490,Inferno Dragon,56.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+02505,Inferno Dragon,56.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+02520,Inferno Dragon,56.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+02535,Miner,66.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,Inferno Dragon,56.0,1.0,5,True,True,4.0,4.0
+02550,Miner,66.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+02565,Miner,66.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+02580,Miner,66.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+02595,Miner,66.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+02610,Miner,66.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+02625,Miner,66.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+02640,Miner,66.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+02655,Miner,66.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+02670,Miner,66.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+02685,Miner,66.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+02700,Miner,66.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+02715,Miner,66.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02730,Miner,66.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02745,Miner,66.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02760,Miner,66.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02775,Miner,66.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02790,Miner,66.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+02805,Miner,66.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+02820,Miner,66.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+02835,Miner,66.0,Bats,9.0,Zap,107.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,2.0,7,True,True,2.0,2.0
+02850,Miner,66.0,Bats,9.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+02865,Miner,66.0,Bats,9.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+02880,Miner,66.0,Bats,9.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02895,Miner,66.0,Bats,9.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02910,Miner,66.0,Bats,9.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02925,Miner,66.0,Bats,9.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02940,Miner,66.0,Bats,9.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02955,Miner,66.0,Bats,9.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02970,Miner,66.0,Bats,9.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+02985,Miner,66.0,Bats,9.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+03000,Balloon,4.0,Bats,9.0,Zap,107.0,Mini P.E.K.K.A,67.0,Miner,66.0,1.0,6,True,True,3.0,3.0
+03015,Balloon,4.0,Bats,9.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+03030,Balloon,4.0,Bats,9.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+03045,Balloon,4.0,Bats,9.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+03060,Balloon,4.0,Bats,9.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+03075,Balloon,4.0,Bats,9.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+03090,Balloon,4.0,Bats,9.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+03105,Balloon,4.0,Bats,9.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+03120,Balloon,4.0,Bats,9.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+03135,Balloon,4.0,Bats,9.0,Barbarian Barrel,6.0,Mini P.E.K.K.A,67.0,Zap,107.0,3.0,6,True,True,1.0,2.0
+03150,Balloon,4.0,Bats,9.0,Barbarian Barrel,6.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+03165,Balloon,4.0,Bats,9.0,Barbarian Barrel,6.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+03180,Balloon,4.0,Bats,9.0,Barbarian Barrel,6.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+03195,Balloon,4.0,Bats,9.0,Barbarian Barrel,6.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+03210,Balloon,4.0,Bats,9.0,Barbarian Barrel,6.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+03225,Balloon,4.0,Bats,9.0,Barbarian Barrel,6.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+03240,Balloon,4.0,Bats,9.0,Barbarian Barrel,6.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+03255,Balloon,4.0,Bats,9.0,Barbarian Barrel,6.0,Mini P.E.K.K.A,67.0,,,,7,False,True,1.0,0.0
+03270,Balloon,4.0,Bats,9.0,Barbarian Barrel,6.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+03285,Balloon,4.0,Bats,9.0,Barbarian Barrel,6.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+03300,Balloon,4.0,Bats,9.0,Barbarian Barrel,6.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+03315,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,Barbarian Barrel,6.0,3.0,7,True,True,1.0,2.0
+03330,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,1,False,True,6.0,0.0
+03345,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+03360,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+03375,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+03390,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+03405,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+03420,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+03435,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+03450,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+03465,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+03480,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+03495,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+03510,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+03525,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+03540,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+03555,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+03570,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+03585,Inferno Dragon,56.0,Miner,66.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,Bats,9.0,2.0,2,True,True,2.0,2.0
+03600,Inferno Dragon,56.0,Miner,66.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+03615,Inferno Dragon,56.0,Miner,66.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+03630,Inferno Dragon,56.0,Miner,66.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+03645,Inferno Dragon,56.0,Miner,66.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+03660,Inferno Dragon,56.0,Miner,66.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+03675,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,Miner,66.0,2.0,0,True,True,3.0,3.0
+03690,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,0,False,False,0.0,0.0
+03705,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,0,False,False,0.0,0.0
+03720,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+03735,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+03750,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+03765,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+03780,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+03795,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+03810,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+03825,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+03840,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+03855,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+03870,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+03885,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+03900,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+03915,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+03930,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+03945,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+03960,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+03975,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+03990,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+04005,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+04020,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+04035,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+04050,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+04065,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+04080,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+04095,Balloon,4.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,Inferno Dragon,56.0,1.0,6,True,True,3.0,4.0
+04110,Balloon,4.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+04125,Balloon,4.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+04140,Balloon,4.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+04155,Balloon,4.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+04170,Balloon,4.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+04185,Balloon,4.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+04200,Balloon,4.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+04215,Balloon,4.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+04230,Balloon,4.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+04245,Balloon,4.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+04260,Balloon,4.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+04275,Balloon,4.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+04290,Balloon,4.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+04305,Balloon,4.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+04320,Balloon,4.0,Zap,107.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+04335,Balloon,4.0,Zap,107.0,Barbarian Barrel,6.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,3.0,8,True,True,2.0,2.0
+04350,Bats,9.0,Zap,107.0,Barbarian Barrel,6.0,Mini P.E.K.K.A,67.0,Balloon,4.0,1.0,3,True,True,5.0,5.0
+04365,Bats,9.0,Zap,107.0,Barbarian Barrel,6.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+04380,Bats,9.0,Zap,107.0,Barbarian Barrel,6.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+04395,Bats,9.0,Zap,107.0,Barbarian Barrel,6.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+04410,Bats,9.0,Zap,107.0,Barbarian Barrel,6.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+04425,Bats,9.0,Zap,107.0,Barbarian Barrel,6.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+04440,Bats,9.0,Zap,107.0,Miner,66.0,Mini P.E.K.K.A,67.0,Barbarian Barrel,6.0,3.0,3,True,True,2.0,2.0
+04455,Bats,9.0,Zap,107.0,Miner,66.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+04470,Bats,9.0,Zap,107.0,Miner,66.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+04485,Bats,9.0,Zap,107.0,Miner,66.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+04500,Bats,9.0,Zap,107.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,Miner,66.0,3.0,2,True,True,2.0,3.0
+04515,Bats,9.0,Zap,107.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+04530,Bats,9.0,Zap,107.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+04545,Bats,9.0,Zap,107.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+04560,Bats,9.0,Zap,107.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+04575,Bats,9.0,Ice Golem,53.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,Zap,107.0,2.0,1,True,True,2.0,2.0
+04590,Bats,9.0,Ice Golem,53.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+04605,Bats,9.0,Ice Golem,53.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+04620,Bats,9.0,Ice Golem,53.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+04635,Bats,9.0,Ice Golem,53.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+04650,Bats,9.0,Ice Golem,53.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+04665,Bats,9.0,Ice Golem,53.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+04680,Bats,9.0,Ice Golem,53.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+04695,Bats,9.0,Ice Golem,53.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+04710,Bats,9.0,Ice Golem,53.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+04725,Bats,9.0,Ice Golem,53.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+04740,Bats,9.0,Ice Golem,53.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+04755,Bats,9.0,Ice Golem,53.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+04770,Bats,9.0,Ice Golem,53.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+04785,Bats,9.0,Ice Golem,53.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+04800,Bats,9.0,Ice Golem,53.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+04815,Bats,9.0,Balloon,4.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,2.0,5,True,True,2.0,2.0
+04830,Bats,9.0,Balloon,4.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+04845,Bats,9.0,Balloon,4.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+04860,Bats,9.0,Balloon,4.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+04875,Bats,9.0,Barbarian Barrel,6.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,Balloon,4.0,2.0,7,True,False,0.0,5.0
+04890,Bats,9.0,Barbarian Barrel,6.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+04905,Bats,9.0,Barbarian Barrel,6.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+04920,Miner,66.0,Barbarian Barrel,6.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,Bats,9.0,1.0,7,True,True,6.0,2.0
+04935,Miner,66.0,Barbarian Barrel,6.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+04950,Miner,66.0,Barbarian Barrel,6.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+04965,Miner,66.0,Barbarian Barrel,6.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+04980,Miner,66.0,Barbarian Barrel,6.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+04995,Miner,66.0,Zap,107.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,Barbarian Barrel,6.0,2.0,0,True,True,2.0,2.0
+05010,Miner,66.0,Zap,107.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+05025,Miner,66.0,Zap,107.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+05040,Miner,66.0,Zap,107.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+05055,Miner,66.0,Zap,107.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+05070,Miner,66.0,Zap,107.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+05085,Miner,66.0,Zap,107.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05100,Miner,66.0,Zap,107.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05115,Miner,66.0,Zap,107.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05130,Miner,66.0,Zap,107.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05145,Miner,66.0,Zap,107.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05160,Miner,66.0,Zap,107.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05175,Miner,66.0,Zap,107.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+05190,Miner,66.0,Zap,107.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+05205,Miner,66.0,Zap,107.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+05220,Miner,66.0,Zap,107.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+05235,Miner,66.0,Zap,107.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+05250,Miner,66.0,Zap,107.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05265,Ice Golem,53.0,Zap,107.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,Miner,66.0,1.0,4,True,True,3.0,3.0
+05280,Ice Golem,53.0,Zap,107.0,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05295,Ice Golem,53.0,Zap,107.0,Inferno Dragon,56.0,Balloon,4.0,Mini P.E.K.K.A,67.0,4.0,1,True,True,3.0,4.0
+05310,Ice Golem,53.0,Zap,107.0,Inferno Dragon,56.0,Balloon,4.0,,,,1,False,False,0.0,0.0
+05325,Ice Golem,53.0,Zap,107.0,Inferno Dragon,56.0,Balloon,4.0,,,,1,False,False,0.0,0.0
+05340,Ice Golem,53.0,Zap,107.0,Inferno Dragon,56.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+05355,Ice Golem,53.0,Zap,107.0,Inferno Dragon,56.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+05370,Ice Golem,53.0,Zap,107.0,Inferno Dragon,56.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+05385,Ice Golem,53.0,Zap,107.0,Inferno Dragon,56.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+05400,Ice Golem,53.0,Zap,107.0,Inferno Dragon,56.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+05415,Ice Golem,53.0,Zap,107.0,Inferno Dragon,56.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+05430,Ice Golem,53.0,Zap,107.0,Inferno Dragon,56.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+05445,Ice Golem,53.0,Zap,107.0,Inferno Dragon,56.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+05460,Ice Golem,53.0,Bats,9.0,Inferno Dragon,56.0,Balloon,4.0,Zap,107.0,2.0,3,True,True,1.0,2.0
+05475,Ice Golem,53.0,Bats,9.0,Inferno Dragon,56.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+05490,Ice Golem,53.0,Bats,9.0,Inferno Dragon,56.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+05505,Ice Golem,53.0,Bats,9.0,Inferno Dragon,56.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+05520,Ice Golem,53.0,Bats,9.0,Inferno Dragon,56.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+05535,Ice Golem,53.0,Bats,9.0,Inferno Dragon,56.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+05550,Ice Golem,53.0,Bats,9.0,Inferno Dragon,56.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+05565,Ice Golem,53.0,Bats,9.0,Inferno Dragon,56.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+05580,Ice Golem,53.0,Bats,9.0,Inferno Dragon,56.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+05595,Ice Golem,53.0,Bats,9.0,Inferno Dragon,56.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+05610,Ice Golem,53.0,Bats,9.0,Inferno Dragon,56.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+05625,Ice Golem,53.0,Bats,9.0,Inferno Dragon,56.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+05640,Ice Golem,53.0,Bats,9.0,Inferno Dragon,56.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+05655,Ice Golem,53.0,Bats,9.0,Inferno Dragon,56.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+05670,Ice Golem,53.0,Bats,9.0,Inferno Dragon,56.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+05685,Ice Golem,53.0,Bats,9.0,Inferno Dragon,56.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+05700,Ice Golem,53.0,Bats,9.0,Inferno Dragon,56.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+05715,Ice Golem,53.0,Bats,9.0,Inferno Dragon,56.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+05730,Ice Golem,53.0,Bats,9.0,Inferno Dragon,56.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+05745,Ice Golem,53.0,Bats,9.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,Balloon,4.0,4.0,4,True,True,5.0,5.0
+05760,Ice Golem,53.0,Bats,9.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05775,Ice Golem,53.0,Bats,9.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05790,Ice Golem,53.0,Miner,66.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,Bats,9.0,2.0,3,True,True,2.0,2.0
+05805,Ice Golem,53.0,Miner,66.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05820,Ice Golem,53.0,Miner,66.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05835,Ice Golem,53.0,Miner,66.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05850,Ice Golem,53.0,Mini P.E.K.K.A,67.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,Miner,66.0,2.0,2,True,True,2.0,3.0
+05865,Ice Golem,53.0,Mini P.E.K.K.A,67.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+05880,Ice Golem,53.0,Mini P.E.K.K.A,67.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05895,Ice Golem,53.0,Mini P.E.K.K.A,67.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05910,Ice Golem,53.0,Mini P.E.K.K.A,67.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05925,Ice Golem,53.0,Mini P.E.K.K.A,67.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05940,Ice Golem,53.0,Mini P.E.K.K.A,67.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05955,Ice Golem,53.0,Mini P.E.K.K.A,67.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05970,Ice Golem,53.0,Zap,107.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,Mini P.E.K.K.A,67.0,2.0,4,True,True,3.0,4.0
+05985,Ice Golem,53.0,Zap,107.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+06000,Ice Golem,53.0,Zap,107.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+06015,Ice Golem,53.0,Zap,107.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06030,Ice Golem,53.0,Zap,107.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06045,Ice Golem,53.0,Balloon,4.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,2.0,0,True,True,2.0,2.0
+06060,Ice Golem,53.0,Balloon,4.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+06075,Ice Golem,53.0,Balloon,4.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+06090,Ice Golem,53.0,Balloon,4.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+06105,Ice Golem,53.0,Balloon,4.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06120,Ice Golem,53.0,Balloon,4.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06135,Ice Golem,53.0,Balloon,4.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+06150,Ice Golem,53.0,Balloon,4.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+06165,Ice Golem,53.0,Balloon,4.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+06180,Ice Golem,53.0,Balloon,4.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06195,Ice Golem,53.0,Balloon,4.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06210,Ice Golem,53.0,Balloon,4.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06225,Ice Golem,53.0,Balloon,4.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06240,Ice Golem,53.0,Balloon,4.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06255,Ice Golem,53.0,Balloon,4.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06270,Ice Golem,53.0,Balloon,4.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06285,Ice Golem,53.0,Balloon,4.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06300,Ice Golem,53.0,Balloon,4.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06315,Ice Golem,53.0,Balloon,4.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06330,Ice Golem,53.0,Balloon,4.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06345,Ice Golem,53.0,Balloon,4.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+06360,Ice Golem,53.0,Balloon,4.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+06375,Ice Golem,53.0,Balloon,4.0,Inferno Dragon,56.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+06390,Ice Golem,53.0,Balloon,4.0,Bats,9.0,Barbarian Barrel,6.0,Inferno Dragon,56.0,3.0,5,True,True,3.0,4.0
+06405,Ice Golem,53.0,Balloon,4.0,Bats,9.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06420,Ice Golem,53.0,Balloon,4.0,Bats,9.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06435,Ice Golem,53.0,Balloon,4.0,Bats,9.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06450,Ice Golem,53.0,Balloon,4.0,Bats,9.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06465,Ice Golem,53.0,Balloon,4.0,Bats,9.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06480,Ice Golem,53.0,Balloon,4.0,Bats,9.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06495,Miner,66.0,Balloon,4.0,Bats,9.0,Barbarian Barrel,6.0,Ice Golem,53.0,1.0,5,True,True,2.0,2.0
+06510,Miner,66.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,Balloon,4.0,2.0,0,True,True,5.0,5.0
+06525,Miner,66.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+06540,Miner,66.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+06555,Miner,66.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06570,Miner,66.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06585,Miner,66.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06600,Miner,66.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+06615,Miner,66.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+06630,Miner,66.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+06645,Zap,107.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,Miner,66.0,1.0,3,True,True,2.0,3.0
+06660,Zap,107.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+06675,Zap,107.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+06690,Zap,107.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06705,Zap,107.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06720,Zap,107.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06735,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,Zap,107.0,1.0,1,True,True,1.0,2.0
+06750,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+06765,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06780,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06795,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06810,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+06825,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+06840,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+06855,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06870,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06885,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06900,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06915,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06930,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06945,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06960,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06975,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06990,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,Bats,9.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+07005,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,Bats,9.0,Ice Golem,53.0,Barbarian Barrel,6.0,4.0,5,True,True,2.0,2.0
+07020,Inferno Dragon,56.0,Mini P.E.K.K.A,67.0,Bats,9.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+07035,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,2.0,2,True,True,4.0,4.0
+07050,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+07065,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+07080,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+07095,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+07110,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+07125,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+07140,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+07155,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Miner,66.0,Ice Golem,53.0,4.0,3,True,True,1.0,2.0
+07170,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Miner,66.0,,,,3,False,False,0.0,0.0
+07185,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Miner,66.0,,,,4,False,False,0.0,0.0
+07200,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Miner,66.0,,,,4,False,False,0.0,0.0
+07215,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Miner,66.0,,,,4,False,False,0.0,0.0
+07230,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Miner,66.0,,,,5,False,False,0.0,0.0
+07245,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Miner,66.0,,,,5,False,False,0.0,0.0
+07260,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Miner,66.0,,,,5,False,False,0.0,0.0
+07275,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Miner,66.0,,,,6,False,False,0.0,0.0
+07290,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Miner,66.0,,,,6,False,False,0.0,0.0
+07305,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Miner,66.0,,,,6,False,False,0.0,0.0
+07320,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Miner,66.0,,,,7,False,False,0.0,0.0
+07335,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Miner,66.0,,,,7,False,False,0.0,0.0
+07350,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Miner,66.0,,,,7,False,False,0.0,0.0
+07365,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Miner,66.0,,,,8,False,False,0.0,0.0
+07380,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Miner,66.0,,,,8,False,False,0.0,0.0
+07395,Inferno Dragon,56.0,Zap,107.0,Bats,9.0,Barbarian Barrel,6.0,Miner,66.0,4.0,1,True,True,7.0,3.0
+07410,Inferno Dragon,56.0,Zap,107.0,Bats,9.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+07425,Inferno Dragon,56.0,Zap,107.0,Bats,9.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+07440,Inferno Dragon,56.0,Zap,107.0,Bats,9.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+07455,Inferno Dragon,56.0,Zap,107.0,Bats,9.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+07470,Inferno Dragon,56.0,Zap,107.0,Bats,9.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+07485,Inferno Dragon,56.0,Zap,107.0,Bats,9.0,Mini P.E.K.K.A,67.0,Barbarian Barrel,6.0,4.0,2,True,True,2.0,2.0
+07500,Inferno Dragon,56.0,Zap,107.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+07515,Inferno Dragon,56.0,Zap,107.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+07530,Inferno Dragon,56.0,Ice Golem,53.0,Bats,9.0,Mini P.E.K.K.A,67.0,Zap,107.0,2.0,2,True,True,1.0,2.0
+07545,Inferno Dragon,56.0,Ice Golem,53.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+07560,Inferno Dragon,56.0,Ice Golem,53.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+07575,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,2.0,2,True,True,1.0,2.0
+07590,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+07605,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+07620,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+07635,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+07650,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+07665,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+07680,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+07695,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+07710,Inferno Dragon,56.0,Balloon,4.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+07725,Inferno Dragon,56.0,Balloon,4.0,Miner,66.0,Mini P.E.K.K.A,67.0,Bats,9.0,3.0,5,True,True,1.0,2.0
+07740,Inferno Dragon,56.0,Balloon,4.0,Miner,66.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+07755,Inferno Dragon,56.0,Balloon,4.0,Miner,66.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+07770,Inferno Dragon,56.0,Balloon,4.0,Miner,66.0,Barbarian Barrel,6.0,Mini P.E.K.K.A,67.0,4.0,3,True,True,3.0,4.0
+07785,Inferno Dragon,56.0,Balloon,4.0,Miner,66.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+07800,Inferno Dragon,56.0,Balloon,4.0,Miner,66.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+07815,Inferno Dragon,56.0,Balloon,4.0,Miner,66.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+07830,Inferno Dragon,56.0,Balloon,4.0,Miner,66.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+07845,Inferno Dragon,56.0,Balloon,4.0,Miner,66.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+07860,Inferno Dragon,56.0,Balloon,4.0,Miner,66.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+07875,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Barbarian Barrel,6.0,Balloon,4.0,2.0,1,True,True,5.0,5.0
+07890,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+07905,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+07920,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+07935,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+07950,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Barbarian Barrel,6.0,Miner,66.0,3.0,1,True,True,2.0,3.0
+07965,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+07980,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+07995,Inferno Dragon,56.0,Zap,107.0,Ice Golem,53.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+08010,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Barbarian Barrel,6.0,Zap,107.0,2.0,1,True,True,2.0,2.0
+08025,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+08040,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+08055,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+08070,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+08085,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,Barbarian Barrel,6.0,4.0,2,True,True,1.0,2.0
+08100,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+08115,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+08130,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+08145,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+08160,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+08175,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+08190,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+08205,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+08220,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+08235,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+08250,Inferno Dragon,56.0,Bats,9.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+08265,Inferno Dragon,56.0,Bats,9.0,Balloon,4.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,3.0,6,True,True,2.0,2.0
+08280,Inferno Dragon,56.0,Bats,9.0,Balloon,4.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+08295,Inferno Dragon,56.0,Bats,9.0,Balloon,4.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+08310,Inferno Dragon,56.0,Bats,9.0,Miner,66.0,Mini P.E.K.K.A,67.0,Balloon,4.0,3.0,3,True,True,4.0,5.0
+08325,Inferno Dragon,56.0,Bats,9.0,Miner,66.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+08340,Inferno Dragon,56.0,Bats,9.0,Miner,66.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+08355,Inferno Dragon,56.0,Bats,9.0,Miner,66.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+08370,Inferno Dragon,56.0,Bats,9.0,Zap,107.0,Mini P.E.K.K.A,67.0,Miner,66.0,3.0,2,True,True,2.0,3.0
+08385,Inferno Dragon,56.0,Bats,9.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+08400,Inferno Dragon,56.0,Bats,9.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+08415,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,Bats,9.0,2.0,2,True,True,1.0,2.0
+08430,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+08445,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+08460,Inferno Dragon,56.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,Barbarian Barrel,6.0,2.0,1,True,True,2.0,2.0
+08475,Inferno Dragon,56.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+08490,Inferno Dragon,56.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+08505,Inferno Dragon,56.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+08520,Inferno Dragon,56.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+08535,Inferno Dragon,56.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+08550,Inferno Dragon,56.0,Ice Golem,53.0,Balloon,4.0,Mini P.E.K.K.A,67.0,Zap,107.0,3.0,2,True,True,2.0,2.0
+08565,Inferno Dragon,56.0,Ice Golem,53.0,Balloon,4.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+08580,Inferno Dragon,56.0,Ice Golem,53.0,Balloon,4.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+08595,Inferno Dragon,56.0,Ice Golem,53.0,Balloon,4.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+08610,Inferno Dragon,56.0,Ice Golem,53.0,Balloon,4.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+08625,Inferno Dragon,56.0,Ice Golem,53.0,Balloon,4.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+08640,Inferno Dragon,56.0,Ice Golem,53.0,Miner,66.0,Mini P.E.K.K.A,67.0,Balloon,4.0,3.0,1,True,True,4.0,5.0
+08655,Inferno Dragon,56.0,Ice Golem,53.0,Miner,66.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+08670,Inferno Dragon,56.0,Ice Golem,53.0,Miner,66.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+08685,Inferno Dragon,56.0,Ice Golem,53.0,Miner,66.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+08700,Inferno Dragon,56.0,Ice Golem,53.0,Miner,66.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+08715,Inferno Dragon,56.0,Ice Golem,53.0,Miner,66.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+08730,Inferno Dragon,56.0,Ice Golem,53.0,Bats,9.0,Mini P.E.K.K.A,67.0,Miner,66.0,3.0,1,True,True,2.0,3.0
+08745,Inferno Dragon,56.0,Ice Golem,53.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+08760,Inferno Dragon,56.0,Ice Golem,53.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+08775,Inferno Dragon,56.0,Ice Golem,53.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+08790,Inferno Dragon,56.0,Ice Golem,53.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+08805,Inferno Dragon,56.0,Ice Golem,53.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+08820,Inferno Dragon,56.0,Barbarian Barrel,6.0,Bats,9.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,2.0,2,True,True,2.0,2.0
+08835,Inferno Dragon,56.0,Barbarian Barrel,6.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+08850,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,Bats,9.0,3.0,1,True,True,2.0,2.0
+08865,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+08880,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+08895,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+08910,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,1,False,True,2.0,0.0
+08925,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+08940,Inferno Dragon,56.0,Barbarian Barrel,6.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+08955,Inferno Dragon,56.0,Miner,66.0,Zap,107.0,Mini P.E.K.K.A,67.0,Barbarian Barrel,6.0,2.0,2,True,False,0.0,2.0
+08970,Inferno Dragon,56.0,Miner,66.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+08985,Inferno Dragon,56.0,Miner,66.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+09000,Inferno Dragon,56.0,Miner,66.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+09015,Inferno Dragon,56.0,Miner,66.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+09030,Inferno Dragon,56.0,Miner,66.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+09045,Inferno Dragon,56.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,Miner,66.0,2.0,1,True,True,3.0,3.0
+09060,Inferno Dragon,56.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+09075,Inferno Dragon,56.0,Ice Golem,53.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+09090,Inferno Dragon,56.0,Bats,9.0,Zap,107.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,2.0,1,True,True,1.0,2.0
+09105,Inferno Dragon,56.0,Bats,9.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+09120,Inferno Dragon,56.0,Bats,9.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+09135,Inferno Dragon,56.0,Bats,9.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+09150,Inferno Dragon,56.0,Zap,107.0,Zap,107.0,Mini P.E.K.K.A,67.0,Bats,9.0,2.0,1,True,True,1.0,2.0
+09165,Inferno Dragon,56.0,Zap,107.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+09180,Inferno Dragon,56.0,Zap,107.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+09195,Inferno Dragon,56.0,Zap,107.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+09210,Inferno Dragon,56.0,Zap,107.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+09225,Inferno Dragon,56.0,Zap,107.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+09240,Inferno Dragon,56.0,Zap,107.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+09255,Inferno Dragon,56.0,Zap,107.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+09270,Inferno Dragon,56.0,Zap,107.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+09285,Inferno Dragon,56.0,Zap,107.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+09300,Inferno Dragon,56.0,Zap,107.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+09315,Inferno Dragon,56.0,Zap,107.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+09330,Inferno Dragon,56.0,Zap,107.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0

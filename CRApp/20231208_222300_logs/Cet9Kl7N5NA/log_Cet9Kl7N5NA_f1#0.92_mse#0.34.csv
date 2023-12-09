@@ -1,0 +1,596 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Witch,104.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,6,False,False,0.0,0.0
+00255,Witch,104.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,6,False,False,0.0,0.0
+00270,Witch,104.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,6,False,False,0.0,0.0
+00285,Witch,104.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,7,False,False,0.0,0.0
+00300,Witch,104.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,7,False,False,0.0,0.0
+00315,Witch,104.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,7,False,False,0.0,0.0
+00330,Witch,104.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,7,False,False,0.0,0.0
+00345,Witch,104.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,7,False,False,0.0,0.0
+00360,Witch,104.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,8,False,False,0.0,0.0
+00375,Witch,104.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,8,False,False,0.0,0.0
+00390,Witch,104.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,8,False,False,0.0,0.0
+00405,Witch,104.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,8,False,False,0.0,0.0
+00420,Witch,104.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,8,False,False,0.0,0.0
+00435,Witch,104.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,8,False,False,0.0,0.0
+00450,Witch,104.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,9,False,False,0.0,0.0
+00465,Witch,104.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,9,False,False,0.0,0.0
+00480,Witch,104.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,9,False,False,0.0,0.0
+00495,Witch,104.0,Bats,9.0,Skeleton Dragons,92.0,Clone,17.0,Goblin Gang,42.0,3.0,6,True,True,3.0,3.0
+00510,Witch,104.0,Bats,9.0,Skeleton Dragons,92.0,Clone,17.0,,,,6,False,False,0.0,0.0
+00525,Witch,104.0,Bats,9.0,Skeleton Dragons,92.0,Clone,17.0,,,,6,False,False,0.0,0.0
+00540,Witch,104.0,Bats,9.0,Skeleton Dragons,92.0,Clone,17.0,,,,7,False,False,0.0,0.0
+00555,Witch,104.0,Bats,9.0,Skeleton Dragons,92.0,Clone,17.0,,,,7,False,False,0.0,0.0
+00570,Witch,104.0,Bats,9.0,Skeleton Dragons,92.0,Clone,17.0,,,,7,False,False,0.0,0.0
+00585,Witch,104.0,Bats,9.0,Skeleton Dragons,92.0,Clone,17.0,,,,7,False,False,0.0,0.0
+00600,Witch,104.0,Bats,9.0,Skeleton Dragons,92.0,Clone,17.0,,,,7,False,False,0.0,0.0
+00615,Witch,104.0,Bats,9.0,Skeleton Dragons,92.0,Clone,17.0,,,,8,False,False,0.0,0.0
+00630,Witch,104.0,Bats,9.0,Skeleton Dragons,92.0,Clone,17.0,,,,8,False,False,0.0,0.0
+00645,Witch,104.0,Bats,9.0,Skeleton Dragons,92.0,Clone,17.0,,,,8,False,False,0.0,0.0
+00660,Witch,104.0,Bats,9.0,Skeleton Dragons,92.0,Clone,17.0,,,,8,False,False,0.0,0.0
+00675,Witch,104.0,Bats,9.0,Skeleton Dragons,92.0,Clone,17.0,,,,8,False,False,0.0,0.0
+00690,Witch,104.0,Bats,9.0,Skeleton Dragons,92.0,Clone,17.0,,,,8,False,False,0.0,0.0
+00705,Witch,104.0,Bats,9.0,Skeleton Dragons,92.0,Clone,17.0,,,,9,False,False,0.0,0.0
+00720,Witch,104.0,Bats,9.0,Skeleton Dragons,92.0,Clone,17.0,,,,9,False,False,0.0,0.0
+00735,Witch,104.0,Bats,9.0,Skeleton Dragons,92.0,Clone,17.0,,,,9,False,False,0.0,0.0
+00750,Witch,104.0,Bats,9.0,Skeleton Dragons,92.0,Clone,17.0,,,,9,False,False,0.0,0.0
+00765,Witch,104.0,Bats,9.0,Skeleton Dragons,92.0,Clone,17.0,,,,9,False,False,0.0,0.0
+00780,Witch,104.0,Bats,9.0,Skeleton Dragons,92.0,Clone,17.0,,,,10,False,False,0.0,0.0
+00795,Witch,104.0,Bats,9.0,Skeleton Dragons,92.0,Clone,17.0,,,,10,False,False,0.0,0.0
+00810,Witch,104.0,Bats,9.0,Skeleton Dragons,92.0,Clone,17.0,,,,10,False,False,0.0,0.0
+00825,Witch,104.0,Bats,9.0,Skeleton Dragons,92.0,Clone,17.0,,,,10,False,False,0.0,0.0
+00840,Witch,104.0,Bats,9.0,Arrows,2.0,Clone,17.0,Skeleton Dragons,92.0,3.0,6,True,True,4.0,4.0
+00855,Witch,104.0,Bats,9.0,Arrows,2.0,Clone,17.0,,,,6,False,False,0.0,0.0
+00870,Witch,104.0,Bats,9.0,Arrows,2.0,Clone,17.0,,,,6,False,False,0.0,0.0
+00885,Witch,104.0,Bats,9.0,Arrows,2.0,Clone,17.0,,,,6,False,False,0.0,0.0
+00900,Witch,104.0,Bats,9.0,Arrows,2.0,Clone,17.0,,,,6,False,False,0.0,0.0
+00915,Witch,104.0,Bats,9.0,Arrows,2.0,Clone,17.0,,,,7,False,False,0.0,0.0
+00930,Witch,104.0,Bats,9.0,Arrows,2.0,Clone,17.0,,,,7,False,False,0.0,0.0
+00945,Witch,104.0,Bats,9.0,Arrows,2.0,Clone,17.0,,,,7,False,False,0.0,0.0
+00960,Witch,104.0,Bats,9.0,Arrows,2.0,Clone,17.0,,,,7,False,False,0.0,0.0
+00975,Golem,47.0,Bats,9.0,Arrows,2.0,Clone,17.0,Witch,104.0,1.0,7,True,True,4.0,5.0
+00990,Golem,47.0,Bats,9.0,Arrows,2.0,Clone,17.0,,,,3,False,False,0.0,0.0
+01005,Golem,47.0,Bats,9.0,Arrows,2.0,Clone,17.0,,,,4,False,False,0.0,0.0
+01020,Golem,47.0,Bats,9.0,Skeleton Barrel,91.0,Clone,17.0,Arrows,2.0,3.0,4,True,True,3.0,3.0
+01035,Golem,47.0,Bats,9.0,Skeleton Barrel,91.0,Clone,17.0,,,,1,False,False,0.0,0.0
+01050,Golem,47.0,Bats,9.0,Skeleton Barrel,91.0,Clone,17.0,,,,1,False,False,0.0,0.0
+01065,Golem,47.0,Bats,9.0,Skeleton Barrel,91.0,Clone,17.0,,,,1,False,False,0.0,0.0
+01080,Golem,47.0,Bats,9.0,Skeleton Barrel,91.0,Clone,17.0,,,,2,False,False,0.0,0.0
+01095,Golem,47.0,Bats,9.0,Skeleton Barrel,91.0,Clone,17.0,,,,2,False,False,0.0,0.0
+01110,Golem,47.0,Bats,9.0,Skeleton Barrel,91.0,Clone,17.0,,,,2,False,False,0.0,0.0
+01125,Golem,47.0,Bats,9.0,Skeleton Barrel,91.0,Clone,17.0,,,,2,False,False,0.0,0.0
+01140,Golem,47.0,Bats,9.0,Skeleton Barrel,91.0,Clone,17.0,,,,2,False,False,0.0,0.0
+01155,Golem,47.0,Bats,9.0,Skeleton Barrel,91.0,Clone,17.0,,,,2,False,False,0.0,0.0
+01170,Golem,47.0,Bats,9.0,Skeleton Barrel,91.0,Clone,17.0,,,,3,False,False,0.0,0.0
+01185,Golem,47.0,Bats,9.0,Skeleton Barrel,91.0,Clone,17.0,,,,3,False,False,0.0,0.0
+01200,Golem,47.0,Bats,9.0,Skeleton Barrel,91.0,Clone,17.0,,,,3,False,False,0.0,0.0
+01215,Golem,47.0,Bats,9.0,Skeleton Barrel,91.0,Clone,17.0,,,,3,False,False,0.0,0.0
+01230,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,Skeleton Barrel,91.0,3.0,4,True,True,3.0,3.0
+01245,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,4,False,False,0.0,0.0
+01260,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,1,False,False,0.0,0.0
+01275,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,1,False,False,0.0,0.0
+01290,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,1,False,False,0.0,0.0
+01305,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,1,False,False,0.0,0.0
+01320,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,1,False,False,0.0,0.0
+01335,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,2,False,False,0.0,0.0
+01350,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,2,False,False,0.0,0.0
+01365,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,2,False,False,0.0,0.0
+01380,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,2,False,False,0.0,0.0
+01395,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,2,False,False,0.0,0.0
+01410,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,2,False,False,0.0,0.0
+01425,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,3,False,False,0.0,0.0
+01440,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,3,False,False,0.0,0.0
+01455,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,3,False,False,0.0,0.0
+01470,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,3,False,False,0.0,0.0
+01485,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,3,False,False,0.0,0.0
+01500,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,4,False,False,0.0,0.0
+01515,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,4,False,False,0.0,0.0
+01530,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,4,False,False,0.0,0.0
+01545,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,4,False,False,0.0,0.0
+01560,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,4,False,False,0.0,0.0
+01575,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,4,False,False,0.0,0.0
+01590,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,5,False,False,0.0,0.0
+01605,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,5,False,False,0.0,0.0
+01620,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,5,False,False,0.0,0.0
+01635,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,5,False,False,0.0,0.0
+01650,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,5,False,False,0.0,0.0
+01665,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,6,False,False,0.0,0.0
+01680,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,6,False,False,0.0,0.0
+01695,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,6,False,False,0.0,0.0
+01710,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,6,False,False,0.0,0.0
+01725,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,6,False,False,0.0,0.0
+01740,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,6,False,False,0.0,0.0
+01755,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,7,False,False,0.0,0.0
+01770,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,7,False,False,0.0,0.0
+01785,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,7,False,False,0.0,0.0
+01800,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,7,False,False,0.0,0.0
+01815,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,7,False,False,0.0,0.0
+01830,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,7,False,False,0.0,0.0
+01845,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,8,False,False,0.0,0.0
+01860,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,8,False,False,0.0,0.0
+01875,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,8,False,False,0.0,0.0
+01890,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,8,False,False,0.0,0.0
+01905,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,8,False,False,0.0,0.0
+01920,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,9,False,False,0.0,0.0
+01935,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,9,False,False,0.0,0.0
+01950,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,9,False,False,0.0,0.0
+01965,Golem,47.0,Bats,9.0,Goblin Gang,42.0,Clone,17.0,,,,9,False,False,0.0,0.0
+01980,Golem,47.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,Bats,9.0,2.0,7,True,True,2.0,2.0
+01995,Golem,47.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,7,False,False,0.0,0.0
+02010,Golem,47.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,8,False,False,0.0,0.0
+02025,Golem,47.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,8,False,False,0.0,0.0
+02040,Golem,47.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,8,False,False,0.0,0.0
+02055,Golem,47.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,8,False,False,0.0,0.0
+02070,Golem,47.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,8,False,False,0.0,0.0
+02085,Golem,47.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,9,False,False,0.0,0.0
+02100,Golem,47.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,9,False,False,0.0,0.0
+02115,Golem,47.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,9,False,False,0.0,0.0
+02130,Golem,47.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,9,False,False,0.0,0.0
+02145,Golem,47.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,9,False,False,0.0,0.0
+02160,Witch,104.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,Golem,47.0,1.0,7,True,True,2.0,8.0
+02175,Witch,104.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,2,False,True,5.0,0.0
+02190,Witch,104.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,2,False,False,0.0,0.0
+02205,Witch,104.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,2,False,False,0.0,0.0
+02220,Witch,104.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,2,False,False,0.0,0.0
+02235,Witch,104.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,2,False,False,0.0,0.0
+02250,Witch,104.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,2,False,False,0.0,0.0
+02265,Witch,104.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,3,False,False,0.0,0.0
+02280,Witch,104.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,3,False,False,0.0,0.0
+02295,Witch,104.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,3,False,False,0.0,0.0
+02310,Witch,104.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,3,False,False,0.0,0.0
+02325,Witch,104.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,3,False,False,0.0,0.0
+02340,Witch,104.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,4,False,False,0.0,0.0
+02355,Witch,104.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,4,False,False,0.0,0.0
+02370,Witch,104.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,4,False,False,0.0,0.0
+02385,Witch,104.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,4,False,False,0.0,0.0
+02400,Witch,104.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,4,False,False,0.0,0.0
+02415,Witch,104.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,4,False,False,0.0,0.0
+02430,Witch,104.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,5,False,False,0.0,0.0
+02445,Witch,104.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,5,False,False,0.0,0.0
+02460,Arrows,2.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,Witch,104.0,1.0,5,True,True,4.0,5.0
+02475,Arrows,2.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,1,False,False,0.0,0.0
+02490,Arrows,2.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,1,False,False,0.0,0.0
+02505,Arrows,2.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,2,False,False,0.0,0.0
+02520,Arrows,2.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,2,False,False,0.0,0.0
+02535,Arrows,2.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,2,False,False,0.0,0.0
+02550,Arrows,2.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,2,False,False,0.0,0.0
+02565,Arrows,2.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,2,False,False,0.0,0.0
+02580,Arrows,2.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,2,False,False,0.0,0.0
+02595,Arrows,2.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,3,False,False,0.0,0.0
+02610,Arrows,2.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,3,False,False,0.0,0.0
+02625,Arrows,2.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,3,False,False,0.0,0.0
+02640,Arrows,2.0,Skeleton Dragons,92.0,Goblin Gang,42.0,Clone,17.0,,,,3,False,False,0.0,0.0
+02655,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,Goblin Gang,42.0,3.0,0,True,True,3.0,3.0
+02670,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,,,,0,False,False,0.0,0.0
+02685,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,,,,1,False,False,0.0,0.0
+02700,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,,,,1,False,False,0.0,0.0
+02715,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,,,,1,False,False,0.0,0.0
+02730,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,,,,1,False,False,0.0,0.0
+02745,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,,,,1,False,False,0.0,0.0
+02760,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,,,,2,False,False,0.0,0.0
+02775,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,,,,2,False,False,0.0,0.0
+02790,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,,,,2,False,False,0.0,0.0
+02805,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,,,,2,False,False,0.0,0.0
+02820,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,,,,2,False,False,0.0,0.0
+02835,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,,,,2,False,False,0.0,0.0
+02850,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,,,,3,False,False,0.0,0.0
+02865,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,,,,3,False,False,0.0,0.0
+02880,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,,,,3,False,False,0.0,0.0
+02895,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Bats,9.0,Clone,17.0,4.0,4,True,False,0.0,3.0
+02910,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Bats,9.0,,,,4,False,False,0.0,0.0
+02925,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Bats,9.0,,,,4,False,False,0.0,0.0
+02940,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Bats,9.0,,,,1,False,True,3.0,0.0
+02955,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Bats,9.0,,,,1,False,False,0.0,0.0
+02970,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Bats,9.0,,,,1,False,False,0.0,0.0
+02985,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Bats,9.0,,,,1,False,False,0.0,0.0
+03000,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Bats,9.0,,,,1,False,False,0.0,0.0
+03015,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Bats,9.0,,,,2,False,False,0.0,0.0
+03030,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Bats,9.0,,,,2,False,False,0.0,0.0
+03045,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,Bats,9.0,4.0,0,True,True,2.0,2.0
+03060,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,0,False,False,0.0,0.0
+03075,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,0,False,False,0.0,0.0
+03090,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,0,False,False,0.0,0.0
+03105,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,1,False,False,0.0,0.0
+03120,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,1,False,False,0.0,0.0
+03135,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,1,False,False,0.0,0.0
+03150,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,1,False,False,0.0,0.0
+03165,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,1,False,False,0.0,0.0
+03180,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,2,False,False,0.0,0.0
+03195,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,2,False,False,0.0,0.0
+03210,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,2,False,False,0.0,0.0
+03225,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,2,False,False,0.0,0.0
+03240,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,2,False,False,0.0,0.0
+03255,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,2,False,False,0.0,0.0
+03270,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,3,False,False,0.0,0.0
+03285,Arrows,2.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,3,False,False,0.0,0.0
+03300,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,Arrows,2.0,1.0,0,True,True,3.0,3.0
+03315,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,0,False,False,0.0,0.0
+03330,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,0,False,False,0.0,0.0
+03345,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,1,False,False,0.0,0.0
+03360,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,1,False,False,0.0,0.0
+03375,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,1,False,False,0.0,0.0
+03390,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,1,False,False,0.0,0.0
+03405,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,1,False,False,0.0,0.0
+03420,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,1,False,False,0.0,0.0
+03435,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,2,False,False,0.0,0.0
+03450,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,2,False,False,0.0,0.0
+03465,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,2,False,False,0.0,0.0
+03480,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,2,False,False,0.0,0.0
+03495,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,2,False,False,0.0,0.0
+03510,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,2,False,False,0.0,0.0
+03525,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,3,False,False,0.0,0.0
+03540,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,3,False,False,0.0,0.0
+03555,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,3,False,False,0.0,0.0
+03570,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,3,False,False,0.0,0.0
+03585,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,3,False,False,0.0,0.0
+03600,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,4,False,False,0.0,0.0
+03615,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,4,False,False,0.0,0.0
+03630,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,4,False,False,0.0,0.0
+03645,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,4,False,False,0.0,0.0
+03660,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,4,False,False,0.0,0.0
+03675,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,4,False,False,0.0,0.0
+03690,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,5,False,False,0.0,0.0
+03705,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,5,False,False,0.0,0.0
+03720,Witch,104.0,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Golem,47.0,,,,5,False,False,0.0,0.0
+03735,Witch,104.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,Skeleton Dragons,92.0,2.0,1,True,True,4.0,4.0
+03750,Witch,104.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,1,False,False,0.0,0.0
+03765,Witch,104.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,2,False,False,0.0,0.0
+03780,Witch,104.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,2,False,False,0.0,0.0
+03795,Witch,104.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,2,False,False,0.0,0.0
+03810,Witch,104.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,3,False,False,0.0,0.0
+03825,Witch,104.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,3,False,False,0.0,0.0
+03840,Witch,104.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,3,False,False,0.0,0.0
+03855,Witch,104.0,Clone,17.0,Skeleton Barrel,91.0,Golem,47.0,Goblin Gang,42.0,2.0,1,True,True,2.0,3.0
+03870,Witch,104.0,Clone,17.0,Skeleton Barrel,91.0,Golem,47.0,,,,1,False,False,0.0,0.0
+03885,Witch,104.0,Clone,17.0,Skeleton Barrel,91.0,Golem,47.0,,,,1,False,False,0.0,0.0
+03900,Witch,104.0,Clone,17.0,Skeleton Barrel,91.0,Golem,47.0,,,,2,False,False,0.0,0.0
+03915,Witch,104.0,Clone,17.0,Skeleton Barrel,91.0,Golem,47.0,,,,2,False,False,0.0,0.0
+03930,Witch,104.0,Clone,17.0,Skeleton Barrel,91.0,Golem,47.0,,,,2,False,False,0.0,0.0
+03945,Witch,104.0,Clone,17.0,Skeleton Barrel,91.0,Golem,47.0,,,,3,False,False,0.0,0.0
+03960,Witch,104.0,Clone,17.0,Skeleton Barrel,91.0,Golem,47.0,,,,3,False,False,0.0,0.0
+03975,Witch,104.0,Clone,17.0,Skeleton Barrel,91.0,Golem,47.0,,,,4,False,False,0.0,0.0
+03990,Witch,104.0,Clone,17.0,Skeleton Barrel,91.0,Golem,47.0,,,,4,False,False,0.0,0.0
+04005,Witch,104.0,Clone,17.0,Bats,9.0,Golem,47.0,Skeleton Barrel,91.0,3.0,1,True,True,3.0,3.0
+04020,Witch,104.0,Clone,17.0,Bats,9.0,Golem,47.0,,,,2,False,False,0.0,0.0
+04035,Witch,104.0,Clone,17.0,Bats,9.0,Golem,47.0,,,,2,False,False,0.0,0.0
+04050,Witch,104.0,Clone,17.0,Bats,9.0,Golem,47.0,,,,2,False,False,0.0,0.0
+04065,Witch,104.0,Clone,17.0,Bats,9.0,Golem,47.0,,,,3,False,False,0.0,0.0
+04080,Witch,104.0,Clone,17.0,Bats,9.0,Golem,47.0,,,,3,False,False,0.0,0.0
+04095,Witch,104.0,Clone,17.0,Bats,9.0,Golem,47.0,,,,3,False,False,0.0,0.0
+04110,Witch,104.0,Clone,17.0,Bats,9.0,Golem,47.0,,,,4,False,False,0.0,0.0
+04125,Witch,104.0,Clone,17.0,Bats,9.0,Golem,47.0,,,,4,False,False,0.0,0.0
+04140,Witch,104.0,Clone,17.0,Bats,9.0,Golem,47.0,,,,4,False,False,0.0,0.0
+04155,Witch,104.0,Clone,17.0,Bats,9.0,Golem,47.0,,,,5,False,False,0.0,0.0
+04170,Witch,104.0,Clone,17.0,Bats,9.0,Golem,47.0,,,,5,False,False,0.0,0.0
+04185,Witch,104.0,Clone,17.0,Bats,9.0,Golem,47.0,,,,5,False,False,0.0,0.0
+04200,Witch,104.0,Clone,17.0,Bats,9.0,Golem,47.0,,,,6,False,False,0.0,0.0
+04215,Witch,104.0,Clone,17.0,Bats,9.0,Golem,47.0,,,,6,False,False,0.0,0.0
+04230,Witch,104.0,Clone,17.0,Bats,9.0,Golem,47.0,,,,7,False,False,0.0,0.0
+04245,Witch,104.0,Clone,17.0,Bats,9.0,Golem,47.0,,,,7,False,False,0.0,0.0
+04260,Witch,104.0,Clone,17.0,Bats,9.0,Golem,47.0,,,,7,False,False,0.0,0.0
+04275,Witch,104.0,Clone,17.0,Bats,9.0,Golem,47.0,,,,8,False,False,0.0,0.0
+04290,Witch,104.0,Clone,17.0,Bats,9.0,Golem,47.0,,,,8,False,False,0.0,0.0
+04305,Witch,104.0,Clone,17.0,Bats,9.0,Golem,47.0,,,,8,False,False,0.0,0.0
+04320,Witch,104.0,Clone,17.0,Bats,9.0,Golem,47.0,,,,9,False,False,0.0,0.0
+04335,Witch,104.0,Clone,17.0,Bats,9.0,Golem,47.0,,,,9,False,False,0.0,0.0
+04350,Witch,104.0,Clone,17.0,Arrows,2.0,Golem,47.0,Bats,9.0,3.0,7,True,True,2.0,2.0
+04365,Witch,104.0,Clone,17.0,Arrows,2.0,Golem,47.0,,,,8,False,False,0.0,0.0
+04380,Witch,104.0,Clone,17.0,Arrows,2.0,Golem,47.0,,,,8,False,False,0.0,0.0
+04395,Witch,104.0,Clone,17.0,Arrows,2.0,Golem,47.0,,,,9,False,False,0.0,0.0
+04410,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Golem,47.0,Witch,104.0,1.0,9,True,False,0.0,5.0
+04425,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Golem,47.0,,,,9,False,False,0.0,0.0
+04440,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Golem,47.0,,,,10,False,False,0.0,0.0
+04455,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Golem,47.0,,,,6,False,True,4.0,0.0
+04470,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Golem,47.0,,,,6,False,False,0.0,0.0
+04485,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Golem,47.0,,,,7,False,False,0.0,0.0
+04500,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Golem,47.0,,,,7,False,False,0.0,0.0
+04515,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Golem,47.0,,,,7,False,False,0.0,0.0
+04530,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Golem,47.0,,,,8,False,False,0.0,0.0
+04545,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Golem,47.0,,,,8,False,False,0.0,0.0
+04560,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Golem,47.0,,,,8,False,False,0.0,0.0
+04575,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Goblin Gang,42.0,Golem,47.0,4.0,1,True,True,7.0,8.0
+04590,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+04605,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+04620,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+04635,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+04650,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+04665,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04680,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04695,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04710,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+04725,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+04740,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+04755,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+04770,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+04785,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+04800,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+04815,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+04830,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+04845,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+04860,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+04875,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+04890,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,Goblin Gang,42.0,Arrows,2.0,3.0,5,True,True,3.0,3.0
+04905,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+04920,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+04935,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,Bats,9.0,Goblin Gang,42.0,4.0,3,True,True,3.0,3.0
+04950,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,Bats,9.0,,,,4,False,False,0.0,0.0
+04965,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,Bats,9.0,,,,4,False,False,0.0,0.0
+04980,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,Bats,9.0,,,,4,False,False,0.0,0.0
+04995,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,Witch,104.0,Bats,9.0,4.0,3,True,True,1.0,2.0
+05010,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,Witch,104.0,,,,3,False,False,0.0,0.0
+05025,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,Witch,104.0,,,,3,False,False,0.0,0.0
+05040,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,Witch,104.0,,,,4,False,False,0.0,0.0
+05055,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,Witch,104.0,,,,4,False,False,0.0,0.0
+05070,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,Witch,104.0,,,,4,False,False,0.0,0.0
+05085,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,Witch,104.0,,,,5,False,False,0.0,0.0
+05100,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,Witch,104.0,,,,5,False,False,0.0,0.0
+05115,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,Witch,104.0,,,,5,False,False,0.0,0.0
+05130,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,Witch,104.0,,,,6,False,False,0.0,0.0
+05145,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,Witch,104.0,,,,6,False,False,0.0,0.0
+05160,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,Witch,104.0,,,,7,False,False,0.0,0.0
+05175,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,Witch,104.0,,,,7,False,False,0.0,0.0
+05190,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,Witch,104.0,,,,7,False,False,0.0,0.0
+05205,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,Witch,104.0,,,,8,False,False,0.0,0.0
+05220,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,Golem,47.0,Witch,104.0,4.0,4,True,True,4.0,5.0
+05235,Skeleton Dragons,92.0,Arrows,2.0,Skeleton Barrel,91.0,Golem,47.0,Clone,17.0,2.0,1,True,True,3.0,3.0
+05250,Skeleton Dragons,92.0,Arrows,2.0,Skeleton Barrel,91.0,Golem,47.0,,,,2,False,False,0.0,0.0
+05265,Skeleton Dragons,92.0,Arrows,2.0,Skeleton Barrel,91.0,Golem,47.0,,,,2,False,False,0.0,0.0
+05280,Skeleton Dragons,92.0,Arrows,2.0,Skeleton Barrel,91.0,Golem,47.0,,,,2,False,False,0.0,0.0
+05295,Skeleton Dragons,92.0,Arrows,2.0,Skeleton Barrel,91.0,Golem,47.0,,,,3,False,False,0.0,0.0
+05310,Skeleton Dragons,92.0,Arrows,2.0,Skeleton Barrel,91.0,Golem,47.0,,,,3,False,False,0.0,0.0
+05325,Skeleton Dragons,92.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,Arrows,2.0,2.0,1,True,True,2.0,3.0
+05340,Skeleton Dragons,92.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,1,False,False,0.0,0.0
+05355,Skeleton Dragons,92.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,1,False,False,0.0,0.0
+05370,Skeleton Dragons,92.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,2,False,False,0.0,0.0
+05385,Skeleton Dragons,92.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,2,False,False,0.0,0.0
+05400,Skeleton Dragons,92.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,2,False,False,0.0,0.0
+05415,Skeleton Dragons,92.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,3,False,False,0.0,0.0
+05430,Skeleton Dragons,92.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,3,False,False,0.0,0.0
+05445,Skeleton Dragons,92.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,3,False,False,0.0,0.0
+05460,Skeleton Dragons,92.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,4,False,False,0.0,0.0
+05475,Skeleton Dragons,92.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,4,False,False,0.0,0.0
+05490,Skeleton Dragons,92.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,4,False,False,0.0,0.0
+05505,Skeleton Dragons,92.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,5,False,False,0.0,0.0
+05520,Skeleton Dragons,92.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,5,False,False,0.0,0.0
+05535,Skeleton Dragons,92.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,6,False,False,0.0,0.0
+05550,Skeleton Dragons,92.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,6,False,False,0.0,0.0
+05565,Skeleton Dragons,92.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,6,False,False,0.0,0.0
+05580,Skeleton Dragons,92.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,7,False,False,0.0,0.0
+05595,Skeleton Dragons,92.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,7,False,False,0.0,0.0
+05610,Skeleton Dragons,92.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,7,False,False,0.0,0.0
+05625,Skeleton Dragons,92.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,8,False,False,0.0,0.0
+05640,Skeleton Dragons,92.0,Goblin Gang,42.0,Skeleton Barrel,91.0,Golem,47.0,,,,8,False,False,0.0,0.0
+05655,Skeleton Dragons,92.0,Bats,9.0,Skeleton Barrel,91.0,Golem,47.0,Goblin Gang,42.0,2.0,5,True,True,3.0,3.0
+05670,Skeleton Dragons,92.0,Bats,9.0,Skeleton Barrel,91.0,Golem,47.0,,,,6,False,False,0.0,0.0
+05685,Skeleton Dragons,92.0,Bats,9.0,Skeleton Barrel,91.0,Golem,47.0,,,,6,False,False,0.0,0.0
+05700,Skeleton Dragons,92.0,Bats,9.0,Skeleton Barrel,91.0,Golem,47.0,,,,6,False,False,0.0,0.0
+05715,Skeleton Dragons,92.0,Bats,9.0,Skeleton Barrel,91.0,Golem,47.0,,,,7,False,False,0.0,0.0
+05730,Skeleton Dragons,92.0,Bats,9.0,Skeleton Barrel,91.0,Golem,47.0,,,,7,False,False,0.0,0.0
+05745,Skeleton Dragons,92.0,Bats,9.0,Skeleton Barrel,91.0,Golem,47.0,,,,8,False,False,0.0,0.0
+05760,Skeleton Dragons,92.0,Bats,9.0,Skeleton Barrel,91.0,Golem,47.0,,,,8,False,False,0.0,0.0
+05775,Skeleton Dragons,92.0,Bats,9.0,Skeleton Barrel,91.0,Golem,47.0,,,,8,False,False,0.0,0.0
+05790,Skeleton Dragons,92.0,Bats,9.0,Skeleton Barrel,91.0,Witch,104.0,Golem,47.0,4.0,1,True,True,7.0,8.0
+05805,Skeleton Dragons,92.0,Bats,9.0,Skeleton Barrel,91.0,Witch,104.0,,,,1,False,False,0.0,0.0
+05820,Skeleton Dragons,92.0,Bats,9.0,Skeleton Barrel,91.0,Witch,104.0,,,,1,False,False,0.0,0.0
+05835,Skeleton Dragons,92.0,Bats,9.0,Skeleton Barrel,91.0,Witch,104.0,,,,2,False,False,0.0,0.0
+05850,Skeleton Dragons,92.0,Bats,9.0,Skeleton Barrel,91.0,Witch,104.0,,,,2,False,False,0.0,0.0
+05865,Skeleton Dragons,92.0,Bats,9.0,Skeleton Barrel,91.0,Witch,104.0,,,,2,False,False,0.0,0.0
+05880,Skeleton Dragons,92.0,Bats,9.0,Skeleton Barrel,91.0,Witch,104.0,,,,3,False,False,0.0,0.0
+05895,Skeleton Dragons,92.0,Bats,9.0,Skeleton Barrel,91.0,Witch,104.0,,,,3,False,False,0.0,0.0
+05910,Skeleton Dragons,92.0,Bats,9.0,Skeleton Barrel,91.0,Witch,104.0,,,,3,False,False,0.0,0.0
+05925,Skeleton Dragons,92.0,Bats,9.0,Skeleton Barrel,91.0,Witch,104.0,,,,4,False,False,0.0,0.0
+05940,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,Skeleton Barrel,91.0,3.0,1,True,True,3.0,3.0
+05955,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,2,False,False,0.0,0.0
+05970,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,2,False,False,0.0,0.0
+05985,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,2,False,False,0.0,0.0
+06000,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,3,False,False,0.0,0.0
+06015,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,3,False,False,0.0,0.0
+06030,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,3,False,False,0.0,0.0
+06045,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,4,False,False,0.0,0.0
+06060,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,4,False,False,0.0,0.0
+06075,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,4,False,False,0.0,0.0
+06090,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,5,False,False,0.0,0.0
+06105,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,5,False,False,0.0,0.0
+06120,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,5,False,False,0.0,0.0
+06135,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,6,False,False,0.0,0.0
+06150,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,6,False,False,0.0,0.0
+06165,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,6,False,False,0.0,0.0
+06180,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,7,False,False,0.0,0.0
+06195,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,7,False,False,0.0,0.0
+06210,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,8,False,False,0.0,0.0
+06225,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,8,False,False,0.0,0.0
+06240,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,8,False,False,0.0,0.0
+06255,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,9,False,False,0.0,0.0
+06270,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,9,False,False,0.0,0.0
+06285,Arrows,2.0,Bats,9.0,Clone,17.0,Witch,104.0,Skeleton Dragons,92.0,1.0,5,True,True,4.0,4.0
+06300,Arrows,2.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,6,False,False,0.0,0.0
+06315,Arrows,2.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,6,False,False,0.0,0.0
+06330,Goblin Gang,42.0,Bats,9.0,Clone,17.0,Witch,104.0,Arrows,2.0,1.0,3,True,True,3.0,3.0
+06345,Goblin Gang,42.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,4,False,False,0.0,0.0
+06360,Goblin Gang,42.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,4,False,False,0.0,0.0
+06375,Goblin Gang,42.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,4,False,False,0.0,0.0
+06390,Goblin Gang,42.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,5,False,False,0.0,0.0
+06405,Goblin Gang,42.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,5,False,False,0.0,0.0
+06420,Goblin Gang,42.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,6,False,False,0.0,0.0
+06435,Goblin Gang,42.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,6,False,False,0.0,0.0
+06450,Goblin Gang,42.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,6,False,False,0.0,0.0
+06465,Goblin Gang,42.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,7,False,False,0.0,0.0
+06480,Goblin Gang,42.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,7,False,False,0.0,0.0
+06495,Goblin Gang,42.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,7,False,False,0.0,0.0
+06510,Goblin Gang,42.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,8,False,False,0.0,0.0
+06525,Goblin Gang,42.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,8,False,False,0.0,0.0
+06540,Goblin Gang,42.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,8,False,False,0.0,0.0
+06555,Goblin Gang,42.0,Golem,47.0,Clone,17.0,Witch,104.0,Bats,9.0,2.0,7,True,True,1.0,2.0
+06570,Goblin Gang,42.0,Golem,47.0,Clone,17.0,Witch,104.0,,,,7,False,False,0.0,0.0
+06585,Goblin Gang,42.0,Golem,47.0,Clone,17.0,Witch,104.0,,,,8,False,False,0.0,0.0
+06600,Goblin Gang,42.0,Golem,47.0,Clone,17.0,Witch,104.0,,,,8,False,False,0.0,0.0
+06615,Goblin Gang,42.0,Golem,47.0,Clone,17.0,Witch,104.0,,,,8,False,False,0.0,0.0
+06630,Goblin Gang,42.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,Golem,47.0,2.0,1,True,True,7.0,8.0
+06645,Goblin Gang,42.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,,,,1,False,False,0.0,0.0
+06660,Goblin Gang,42.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,,,,1,False,False,0.0,0.0
+06675,Goblin Gang,42.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,,,,2,False,False,0.0,0.0
+06690,Goblin Gang,42.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,,,,2,False,False,0.0,0.0
+06705,Goblin Gang,42.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,,,,2,False,False,0.0,0.0
+06720,Goblin Gang,42.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,,,,3,False,False,0.0,0.0
+06735,Goblin Gang,42.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,,,,3,False,False,0.0,0.0
+06750,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,Goblin Gang,42.0,1.0,0,True,True,3.0,3.0
+06765,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,,,,1,False,False,0.0,0.0
+06780,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,,,,1,False,False,0.0,0.0
+06795,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,,,,1,False,False,0.0,0.0
+06810,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,,,,2,False,False,0.0,0.0
+06825,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,,,,2,False,False,0.0,0.0
+06840,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,,,,3,False,False,0.0,0.0
+06855,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,,,,3,False,False,0.0,0.0
+06870,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,,,,3,False,False,0.0,0.0
+06885,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,,,,4,False,False,0.0,0.0
+06900,Skeleton Dragons,92.0,Arrows,2.0,Clone,17.0,Witch,104.0,Skeleton Barrel,91.0,2.0,1,True,True,3.0,3.0
+06915,Skeleton Dragons,92.0,Arrows,2.0,Clone,17.0,Witch,104.0,,,,1,False,False,0.0,0.0
+06930,Skeleton Dragons,92.0,Arrows,2.0,Clone,17.0,Witch,104.0,,,,2,False,False,0.0,0.0
+06945,Skeleton Dragons,92.0,Arrows,2.0,Clone,17.0,Witch,104.0,,,,2,False,False,0.0,0.0
+06960,Skeleton Dragons,92.0,Arrows,2.0,Clone,17.0,Witch,104.0,,,,2,False,False,0.0,0.0
+06975,Skeleton Dragons,92.0,Arrows,2.0,Clone,17.0,Witch,104.0,,,,3,False,False,0.0,0.0
+06990,Skeleton Dragons,92.0,Arrows,2.0,Clone,17.0,Witch,104.0,,,,3,False,False,0.0,0.0
+07005,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,Arrows,2.0,2.0,0,True,True,3.0,3.0
+07020,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,1,False,False,0.0,0.0
+07035,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,1,False,False,0.0,0.0
+07050,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,2,False,False,0.0,0.0
+07065,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,2,False,False,0.0,0.0
+07080,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,2,False,False,0.0,0.0
+07095,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,3,False,False,0.0,0.0
+07110,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,3,False,False,0.0,0.0
+07125,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,3,False,False,0.0,0.0
+07140,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,4,False,False,0.0,0.0
+07155,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,4,False,False,0.0,0.0
+07170,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,4,False,False,0.0,0.0
+07185,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,5,False,False,0.0,0.0
+07200,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,5,False,False,0.0,0.0
+07215,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,6,False,False,0.0,0.0
+07230,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,6,False,False,0.0,0.0
+07245,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,6,False,False,0.0,0.0
+07260,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,7,False,False,0.0,0.0
+07275,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,7,False,False,0.0,0.0
+07290,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,7,False,False,0.0,0.0
+07305,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,8,False,False,0.0,0.0
+07320,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,8,False,False,0.0,0.0
+07335,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,8,False,False,0.0,0.0
+07350,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,9,False,False,0.0,0.0
+07365,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,9,False,False,0.0,0.0
+07380,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Golem,47.0,Witch,104.0,4.0,5,True,True,4.0,5.0
+07395,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Golem,47.0,,,,6,False,False,0.0,0.0
+07410,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Golem,47.0,,,,6,False,False,0.0,0.0
+07425,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Golem,47.0,,,,7,False,False,0.0,0.0
+07440,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Golem,47.0,,,,8,False,False,0.0,0.0
+07455,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Golem,47.0,,,,8,False,False,0.0,0.0
+07470,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Golem,47.0,,,,9,False,False,0.0,0.0
+07485,Skeleton Dragons,92.0,Witch,104.0,Clone,17.0,Goblin Gang,42.0,Golem,47.0,4.0,1,True,True,8.0,8.0
+07500,Skeleton Dragons,92.0,Witch,104.0,Clone,17.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+07515,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Goblin Gang,42.0,Witch,104.0,2.0,2,True,False,0.0,5.0
+07530,Skeleton Dragons,92.0,Bats,9.0,Clone,17.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+07545,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,Goblin Gang,42.0,Bats,9.0,2.0,1,True,True,2.0,2.0
+07560,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+07575,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+07590,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+07605,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+07620,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+07635,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+07650,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+07665,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+07680,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+07695,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+07710,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+07725,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+07740,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+07755,Skeleton Dragons,92.0,Skeleton Barrel,91.0,Clone,17.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+07770,Arrows,2.0,Skeleton Barrel,91.0,Clone,17.0,Goblin Gang,42.0,Skeleton Dragons,92.0,1.0,5,True,True,4.0,4.0
+07785,Arrows,2.0,Skeleton Barrel,91.0,Clone,17.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+07800,Arrows,2.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,Goblin Gang,42.0,4.0,3,True,True,3.0,3.0
+07815,Arrows,2.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,,,,4,False,False,0.0,0.0
+07830,Arrows,2.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,,,,5,False,False,0.0,0.0
+07845,Arrows,2.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,,,,5,False,False,0.0,0.0
+07860,Golem,47.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,Arrows,2.0,1.0,3,True,True,2.0,3.0
+07875,Golem,47.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,,,,3,False,False,0.0,0.0
+07890,Golem,47.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,,,,4,False,False,0.0,0.0
+07905,Golem,47.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,,,,4,False,False,0.0,0.0
+07920,Golem,47.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,,,,5,False,False,0.0,0.0
+07935,Golem,47.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,,,,5,False,False,0.0,0.0
+07950,Golem,47.0,Skeleton Barrel,91.0,Clone,17.0,Witch,104.0,,,,6,False,False,0.0,0.0
+07965,Golem,47.0,Bats,9.0,Clone,17.0,Witch,104.0,Skeleton Barrel,91.0,2.0,3,True,True,3.0,3.0
+07980,Golem,47.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,4,False,False,0.0,0.0
+07995,Golem,47.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,4,False,False,0.0,0.0
+08010,Golem,47.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,5,False,False,0.0,0.0
+08025,Golem,47.0,Bats,9.0,Clone,17.0,Witch,104.0,,,,5,False,False,0.0,0.0
+08040,Golem,47.0,Skeleton Dragons,92.0,Clone,17.0,Witch,104.0,Bats,9.0,2.0,4,True,True,1.0,2.0
+08055,Golem,47.0,Skeleton Dragons,92.0,Clone,17.0,Witch,104.0,,,,5,False,False,0.0,0.0
+08070,Golem,47.0,Skeleton Dragons,92.0,Clone,17.0,Witch,104.0,,,,5,False,False,0.0,0.0
+08085,Golem,47.0,Skeleton Dragons,92.0,Clone,17.0,Witch,104.0,,,,6,False,False,0.0,0.0
+08100,Golem,47.0,Skeleton Dragons,92.0,Clone,17.0,Goblin Gang,42.0,Witch,104.0,4.0,6,True,False,0.0,5.0
+08115,Golem,47.0,Skeleton Dragons,92.0,Clone,17.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+08130,Golem,47.0,Skeleton Dragons,92.0,Clone,17.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+08145,Golem,47.0,Skeleton Dragons,92.0,Clone,17.0,Goblin Gang,42.0,,,,4,False,True,3.0,0.0
+08160,Golem,47.0,Skeleton Dragons,92.0,Clone,17.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+08175,Golem,47.0,Skeleton Dragons,92.0,Clone,17.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+08190,Golem,47.0,Skeleton Dragons,92.0,Clone,17.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+08205,Golem,47.0,Skeleton Dragons,92.0,Clone,17.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08220,Golem,47.0,Skeleton Dragons,92.0,Clone,17.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08235,Golem,47.0,Skeleton Dragons,92.0,Clone,17.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+08250,Golem,47.0,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,Goblin Gang,42.0,4.0,4,True,True,3.0,3.0
+08265,Golem,47.0,Skeleton Dragons,92.0,Clone,17.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+08280,Golem,47.0,Skeleton Barrel,91.0,Clone,17.0,Arrows,2.0,Skeleton Dragons,92.0,2.0,2,True,True,3.0,4.0
+08295,Golem,47.0,Skeleton Barrel,91.0,Clone,17.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+08310,Golem,47.0,Skeleton Barrel,91.0,Clone,17.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+08325,Golem,47.0,Skeleton Barrel,91.0,Clone,17.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+08340,Golem,47.0,Skeleton Barrel,91.0,Clone,17.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+08355,Golem,47.0,Skeleton Barrel,91.0,Clone,17.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+08370,Golem,47.0,Skeleton Barrel,91.0,Clone,17.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+08385,Golem,47.0,Skeleton Barrel,91.0,Clone,17.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+08400,Golem,47.0,Skeleton Barrel,91.0,Clone,17.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+08415,Golem,47.0,Skeleton Barrel,91.0,Clone,17.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+08430,Golem,47.0,Skeleton Barrel,91.0,Clone,17.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+08445,Golem,47.0,Skeleton Barrel,91.0,Clone,17.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+08460,Golem,47.0,Skeleton Barrel,91.0,Clone,17.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+08475,Golem,47.0,Skeleton Barrel,91.0,Clone,17.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+08490,Golem,47.0,Skeleton Barrel,91.0,Clone,17.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+08505,Golem,47.0,Skeleton Barrel,91.0,Clone,17.0,Arrows,2.0,,,,10,False,False,0.0,0.0
+08520,Golem,47.0,Bats,9.0,Clone,17.0,Arrows,2.0,Skeleton Barrel,91.0,2.0,7,True,True,3.0,3.0
+08535,Golem,47.0,Bats,9.0,Clone,17.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+08550,Golem,47.0,Bats,9.0,Clone,17.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+08565,Golem,47.0,Bats,9.0,Clone,17.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+08580,Witch,104.0,Bats,9.0,Clone,17.0,Arrows,2.0,Golem,47.0,1.0,1,True,True,7.0,8.0
+08595,Witch,104.0,Bats,9.0,Clone,17.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+08610,Witch,104.0,Bats,9.0,Clone,17.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+08625,Witch,104.0,Bats,9.0,Clone,17.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+08640,Witch,104.0,Bats,9.0,Clone,17.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+08655,Witch,104.0,Bats,9.0,Clone,17.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+08670,Witch,104.0,Bats,9.0,Clone,17.0,Goblin Gang,42.0,Arrows,2.0,4.0,1,True,True,3.0,3.0
+08685,Witch,104.0,Bats,9.0,Clone,17.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+08700,Witch,104.0,Bats,9.0,Clone,17.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+08715,Witch,104.0,Bats,9.0,Clone,17.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+08730,Witch,104.0,Bats,9.0,Clone,17.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+08745,Witch,104.0,Bats,9.0,Clone,17.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+08760,Witch,104.0,Bats,9.0,Clone,17.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+08775,Witch,104.0,Bats,9.0,Clone,17.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+08790,Witch,104.0,Bats,9.0,Clone,17.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+08805,Witch,104.0,Bats,9.0,Clone,17.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08820,Witch,104.0,Skeleton Dragons,92.0,Clone,17.0,Goblin Gang,42.0,Bats,9.0,2.0,4,True,True,2.0,2.0
+08835,Witch,104.0,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,Goblin Gang,42.0,4.0,2,True,True,2.0,3.0
+08850,Witch,104.0,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,,,,2,False,False,0.0,0.0
+08865,Witch,104.0,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,,,,3,False,False,0.0,0.0
+08880,Witch,104.0,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,,,,4,False,False,0.0,0.0
+08895,Witch,104.0,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,,,,4,False,False,0.0,0.0
+08910,Witch,104.0,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,,,,2,False,True,2.0,0.0
+08925,Witch,104.0,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,,,,2,False,False,0.0,0.0
+08940,Witch,104.0,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,,,,3,False,False,0.0,0.0
+08955,Witch,104.0,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,,,,3,False,False,0.0,0.0
+08970,Witch,104.0,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,,,,4,False,False,0.0,0.0
+08985,Witch,104.0,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,,,,4,False,False,0.0,0.0
+09000,Witch,104.0,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,,,,5,False,False,0.0,0.0
+09015,Witch,104.0,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,,,,5,False,False,0.0,0.0
+09030,Witch,104.0,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,,,,6,False,False,0.0,0.0
+09045,Witch,104.0,Skeleton Dragons,92.0,Clone,17.0,Skeleton Barrel,91.0,,,,6,False,False,0.0,0.0
+09060,Witch,104.0,Skeleton Dragons,92.0,Arrows,2.0,Skeleton Barrel,91.0,Clone,17.0,3.0,4,True,True,2.0,3.0
+09075,Witch,104.0,Skeleton Dragons,92.0,Arrows,2.0,Skeleton Barrel,91.0,,,,5,False,False,0.0,0.0
+09090,Witch,104.0,Skeleton Dragons,92.0,Arrows,2.0,Skeleton Barrel,91.0,,,,5,False,False,0.0,0.0
+09105,Witch,104.0,Skeleton Dragons,92.0,Bats,9.0,Skeleton Barrel,91.0,Arrows,2.0,3.0,3,True,True,2.0,3.0
+09120,Witch,104.0,Skeleton Dragons,92.0,Bats,9.0,Skeleton Barrel,91.0,,,,3,False,False,0.0,0.0
+09135,Witch,104.0,Skeleton Dragons,92.0,Bats,9.0,Skeleton Barrel,91.0,,,,4,False,False,0.0,0.0
+09150,Witch,104.0,Skeleton Dragons,92.0,Bats,9.0,Skeleton Barrel,91.0,,,,4,False,False,0.0,0.0

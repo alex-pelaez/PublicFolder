@@ -1,0 +1,562 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Minion Horde,68.0,Sparky,95.0,Wizard,105.0,Giant,36.0,,,,6,False,False,0.0,0.0
+00255,Minion Horde,68.0,Sparky,95.0,Wizard,105.0,Giant,36.0,,,,6,False,False,0.0,0.0
+00270,Minion Horde,68.0,Sparky,95.0,Wizard,105.0,Giant,36.0,,,,6,False,False,0.0,0.0
+00285,Minion Horde,68.0,Sparky,95.0,Wizard,105.0,Giant,36.0,,,,7,False,False,0.0,0.0
+00300,Minion Horde,68.0,Sparky,95.0,Wizard,105.0,Giant,36.0,,,,7,False,False,0.0,0.0
+00315,Minion Horde,68.0,Sparky,95.0,Wizard,105.0,Giant,36.0,,,,7,False,False,0.0,0.0
+00330,Minion Horde,68.0,Sparky,95.0,Wizard,105.0,Giant,36.0,,,,7,False,False,0.0,0.0
+00345,Minion Horde,68.0,Sparky,95.0,Wizard,105.0,Giant,36.0,,,,7,False,False,0.0,0.0
+00360,Minion Horde,68.0,Sparky,95.0,Wizard,105.0,Giant,36.0,,,,7,False,False,0.0,0.0
+00375,Minion Horde,68.0,Sparky,95.0,Wizard,105.0,Giant,36.0,,,,8,False,False,0.0,0.0
+00390,Minion Horde,68.0,Sparky,95.0,Wizard,105.0,Giant,36.0,,,,8,False,False,0.0,0.0
+00405,Minion Horde,68.0,Sparky,95.0,Wizard,105.0,Giant,36.0,,,,8,False,False,0.0,0.0
+00420,Minion Horde,68.0,Sparky,95.0,Wizard,105.0,Giant,36.0,,,,8,False,False,0.0,0.0
+00435,Minion Horde,68.0,Sparky,95.0,Wizard,105.0,Giant,36.0,,,,8,False,False,0.0,0.0
+00450,Minion Horde,68.0,Sparky,95.0,Wizard,105.0,Giant,36.0,,,,9,False,False,0.0,0.0
+00465,Minion Horde,68.0,Sparky,95.0,Wizard,105.0,Giant,36.0,,,,9,False,False,0.0,0.0
+00480,Minion Horde,68.0,Sparky,95.0,Wizard,105.0,Giant,36.0,,,,9,False,False,0.0,0.0
+00495,Minion Horde,68.0,Sparky,95.0,Wizard,105.0,Giant,36.0,,,,9,False,False,0.0,0.0
+00510,Minion Horde,68.0,Sparky,95.0,Wizard,105.0,Giant,36.0,,,,9,False,False,0.0,0.0
+00525,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Giant,36.0,Sparky,95.0,2.0,3,True,True,6.0,6.0
+00540,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Giant,36.0,,,,4,False,False,0.0,0.0
+00555,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Giant,36.0,,,,4,False,False,0.0,0.0
+00570,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Giant,36.0,,,,4,False,False,0.0,0.0
+00585,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Giant,36.0,,,,4,False,False,0.0,0.0
+00600,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Giant,36.0,,,,4,False,False,0.0,0.0
+00615,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Giant,36.0,,,,5,False,False,0.0,0.0
+00630,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Giant,36.0,,,,5,False,False,0.0,0.0
+00645,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Giant,36.0,,,,5,False,False,0.0,0.0
+00660,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Giant,36.0,,,,5,False,False,0.0,0.0
+00675,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Giant,36.0,,,,5,False,False,0.0,0.0
+00690,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Giant,36.0,,,,5,False,False,0.0,0.0
+00705,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Giant,36.0,,,,6,False,False,0.0,0.0
+00720,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Giant,36.0,,,,6,False,False,0.0,0.0
+00735,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Giant,36.0,,,,6,False,False,0.0,0.0
+00750,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Giant,36.0,,,,6,False,False,0.0,0.0
+00765,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Giant,36.0,,,,6,False,False,0.0,0.0
+00780,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Giant,36.0,,,,6,False,False,0.0,0.0
+00795,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Giant,36.0,,,,7,False,False,0.0,0.0
+00810,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Giant,36.0,,,,7,False,False,0.0,0.0
+00825,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Giant,36.0,,,,7,False,False,0.0,0.0
+00840,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Giant,36.0,,,,7,False,False,0.0,0.0
+00855,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Giant,36.0,,,,7,False,False,0.0,0.0
+00870,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Giant,36.0,,,,8,False,False,0.0,0.0
+00885,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Giant,36.0,,,,8,False,False,0.0,0.0
+00900,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Giant,36.0,,,,8,False,False,0.0,0.0
+00915,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Giant,36.0,,,,8,False,False,0.0,0.0
+00930,Minion Horde,68.0,Rage,81.0,Minion Horde,68.0,Elixir Collector,26.0,Giant,36.0,4.0,3,True,True,5.0,5.0
+00945,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Elixir Collector,26.0,Minion Horde,68.0,3.0,3,True,False,0.0,5.0
+00960,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+00975,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+00990,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+01005,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+01020,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+01035,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+01050,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+01065,Minion Horde,68.0,Rage,81.0,Wizard,105.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+01080,Minion Horde,68.0,Rage,81.0,Dark Prince,18.0,Elixir Collector,26.0,Wizard,105.0,3.0,0,True,True,5.0,5.0
+01095,Minion Horde,68.0,Rage,81.0,Dark Prince,18.0,Elixir Collector,26.0,,,,0,False,False,0.0,0.0
+01110,Minion Horde,68.0,Rage,81.0,Dark Prince,18.0,Elixir Collector,26.0,,,,0,False,False,0.0,0.0
+01125,Minion Horde,68.0,Rage,81.0,Dark Prince,18.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+01140,Minion Horde,68.0,Rage,81.0,Dark Prince,18.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+01155,Minion Horde,68.0,Rage,81.0,Dark Prince,18.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+01170,Minion Horde,68.0,Rage,81.0,Dark Prince,18.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+01185,Minion Horde,68.0,Rage,81.0,Dark Prince,18.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+01200,Minion Horde,68.0,Rage,81.0,Dark Prince,18.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+01215,Minion Horde,68.0,Rage,81.0,Dark Prince,18.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+01230,Minion Horde,68.0,Rage,81.0,Dark Prince,18.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+01245,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,Rage,81.0,2.0,0,True,True,2.0,2.0
+01260,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,0,False,False,0.0,0.0
+01275,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,0,False,False,0.0,0.0
+01290,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+01305,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+01320,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+01335,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+01350,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+01365,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+01380,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+01395,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+01410,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+01425,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+01440,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+01455,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+01470,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+01485,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+01500,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+01515,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+01530,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+01545,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+01560,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+01575,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+01590,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+01605,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+01620,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+01635,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+01650,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+01665,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+01680,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+01695,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+01710,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+01725,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+01740,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+01755,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+01770,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+01785,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+01800,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+01815,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+01830,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+01845,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+01860,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+01875,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+01890,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+01905,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+01920,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+01935,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+01950,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+01965,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+01980,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+01995,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+02010,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+02025,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+02040,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Sparky,95.0,Elixir Collector,26.0,4.0,3,True,True,6.0,6.0
+02055,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+02070,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+02085,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+02100,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+02115,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+02130,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+02145,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+02160,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+02175,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+02190,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+02205,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+02220,Minion Horde,68.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+02235,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,Mini P.E.K.K.A,67.0,2.0,2,True,True,4.0,4.0
+02250,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+02265,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+02280,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+02295,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+02310,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+02325,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+02340,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+02355,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+02370,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+02385,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+02400,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+02415,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+02430,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+02445,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+02460,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+02475,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+02490,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+02505,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+02520,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+02535,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+02550,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+02565,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+02580,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+02595,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+02610,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+02625,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+02640,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+02655,Minion Horde,68.0,Giant,36.0,Dark Prince,18.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+02670,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Sparky,95.0,Giant,36.0,2.0,4,True,True,5.0,5.0
+02685,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+02700,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+02715,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+02730,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+02745,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+02760,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+02775,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+02790,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+02805,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+02820,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+02835,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+02850,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+02865,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+02880,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+02895,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+02910,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+02925,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+02940,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+02955,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+02970,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+02985,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Sparky,95.0,Dark Prince,18.0,3.0,5,True,True,4.0,4.0
+03000,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+03015,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+03030,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+03045,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+03060,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+03075,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+03090,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+03105,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+03120,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+03135,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+03150,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+03165,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,Sparky,95.0,4.0,2,True,True,6.0,6.0
+03180,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+03195,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+03210,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+03225,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+03240,Minion Horde,68.0,Wizard,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,Rage,81.0,3.0,3,True,True,2.0,2.0
+03255,Minion Horde,68.0,Wizard,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+03270,Minion Horde,68.0,Wizard,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+03285,Minion Horde,68.0,Wizard,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+03300,Minion Horde,68.0,Wizard,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+03315,Minion Horde,68.0,Wizard,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+03330,Minion Horde,68.0,Wizard,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+03345,Minion Horde,68.0,Wizard,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+03360,Minion Horde,68.0,Wizard,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+03375,Minion Horde,68.0,Wizard,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+03390,Minion Horde,68.0,Wizard,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+03405,Minion Horde,68.0,Wizard,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+03420,Minion Horde,68.0,Wizard,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+03435,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,3.0,0,True,True,4.0,4.0
+03450,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,0,False,False,0.0,0.0
+03465,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,0,False,False,0.0,0.0
+03480,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+03495,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+03510,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+03525,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+03540,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+03555,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+03570,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+03585,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+03600,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+03615,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+03630,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+03645,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+03660,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+03675,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+03690,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+03705,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+03720,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+03735,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+03750,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+03765,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+03780,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+03795,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+03810,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+03825,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+03840,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+03855,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,Giant,36.0,3.0,4,True,True,4.0,5.0
+03870,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+03885,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+03900,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+03915,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+03930,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+03945,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+03960,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+03975,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+03990,Minion Horde,68.0,Wizard,105.0,Sparky,95.0,Elixir Collector,26.0,Dark Prince,18.0,3.0,3,True,True,3.0,4.0
+04005,Minion Horde,68.0,Wizard,105.0,Sparky,95.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+04020,Minion Horde,68.0,Wizard,105.0,Sparky,95.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04035,Minion Horde,68.0,Wizard,105.0,Sparky,95.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04050,Minion Horde,68.0,Wizard,105.0,Sparky,95.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04065,Minion Horde,68.0,Wizard,105.0,Sparky,95.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04080,Minion Horde,68.0,Wizard,105.0,Sparky,95.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04095,Minion Horde,68.0,Wizard,105.0,Sparky,95.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04110,Minion Horde,68.0,Wizard,105.0,Sparky,95.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+04125,Minion Horde,68.0,Wizard,105.0,Sparky,95.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+04140,Minion Horde,68.0,Wizard,105.0,Sparky,95.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+04155,Minion Horde,68.0,Wizard,105.0,Sparky,95.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+04170,Minion Horde,68.0,Wizard,105.0,Sparky,95.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+04185,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,Sparky,95.0,3.0,3,True,True,5.0,6.0
+04200,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+04215,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+04230,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04245,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04260,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04275,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04290,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04305,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04320,Minion Horde,68.0,Wizard,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,Rage,81.0,3.0,4,True,True,1.0,2.0
+04335,Minion Horde,68.0,Wizard,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04350,Minion Horde,68.0,Wizard,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04365,Minion Horde,68.0,Wizard,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04380,Minion Horde,68.0,Wizard,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04395,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,3.0,1,True,True,4.0,4.0
+04410,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+04425,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+04440,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+04455,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+04470,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+04485,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04500,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04515,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04530,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04545,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04560,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04575,Minion Horde,68.0,Wizard,105.0,Giant,36.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+04590,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,Giant,36.0,3.0,1,True,True,5.0,5.0
+04605,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+04620,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+04635,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+04650,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+04665,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+04680,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+04695,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04710,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04725,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+04740,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04755,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04770,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04785,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+04800,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+04815,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+04830,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+04845,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+04860,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+04875,Minion Horde,68.0,Wizard,105.0,Dark Prince,18.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+04890,Minion Horde,68.0,Wizard,105.0,Sparky,95.0,Elixir Collector,26.0,Dark Prince,18.0,3.0,4,True,True,4.0,4.0
+04905,Minion Horde,68.0,Wizard,105.0,Sparky,95.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04920,Minion Horde,68.0,Wizard,105.0,Sparky,95.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04935,Minion Horde,68.0,Wizard,105.0,Sparky,95.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+04950,Minion Horde,68.0,Wizard,105.0,Sparky,95.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+04965,Minion Horde,68.0,Wizard,105.0,Sparky,95.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+04980,Minion Horde,68.0,Wizard,105.0,Sparky,95.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+04995,Minion Horde,68.0,Wizard,105.0,Sparky,95.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+05010,Minion Horde,68.0,Wizard,105.0,Sparky,95.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+05025,Minion Horde,68.0,Wizard,105.0,Sparky,95.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+05040,Minion Horde,68.0,Wizard,105.0,Sparky,95.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+05055,Minion Horde,68.0,Wizard,105.0,Sparky,95.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+05070,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,Sparky,95.0,3.0,3,True,True,5.0,6.0
+05085,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+05100,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+05115,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+05130,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+05145,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+05160,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+05175,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+05190,Minion Horde,68.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+05205,Mini P.E.K.K.A,67.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,Minion Horde,68.0,1.0,1,True,True,4.0,5.0
+05220,Mini P.E.K.K.A,67.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+05235,Mini P.E.K.K.A,67.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+05250,Mini P.E.K.K.A,67.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+05265,Mini P.E.K.K.A,67.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+05280,Mini P.E.K.K.A,67.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+05295,Mini P.E.K.K.A,67.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+05310,Mini P.E.K.K.A,67.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+05325,Mini P.E.K.K.A,67.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+05340,Mini P.E.K.K.A,67.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+05355,Mini P.E.K.K.A,67.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+05370,Mini P.E.K.K.A,67.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+05385,Mini P.E.K.K.A,67.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+05400,Mini P.E.K.K.A,67.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+05415,Mini P.E.K.K.A,67.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+05430,Mini P.E.K.K.A,67.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+05445,Mini P.E.K.K.A,67.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+05460,Mini P.E.K.K.A,67.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+05475,Mini P.E.K.K.A,67.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+05490,Mini P.E.K.K.A,67.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+05505,Mini P.E.K.K.A,67.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+05520,Mini P.E.K.K.A,67.0,Wizard,105.0,Rage,81.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+05535,Mini P.E.K.K.A,67.0,Giant,36.0,Rage,81.0,Elixir Collector,26.0,Wizard,105.0,2.0,4,True,True,4.0,5.0
+05550,Mini P.E.K.K.A,67.0,Giant,36.0,Rage,81.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+05565,Mini P.E.K.K.A,67.0,Giant,36.0,Rage,81.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+05580,Mini P.E.K.K.A,67.0,Giant,36.0,Rage,81.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+05595,Mini P.E.K.K.A,67.0,Giant,36.0,Rage,81.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+05610,Mini P.E.K.K.A,67.0,Giant,36.0,Rage,81.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+05625,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,Giant,36.0,2.0,1,True,True,4.0,5.0
+05640,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+05655,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+05670,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+05685,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+05700,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+05715,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+05730,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+05745,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+05760,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+05775,Mini P.E.K.K.A,67.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+05790,Sparky,95.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,1.0,1,True,True,3.0,4.0
+05805,Sparky,95.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+05820,Sparky,95.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+05835,Sparky,95.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+05850,Sparky,95.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+05865,Sparky,95.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+05880,Sparky,95.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+05895,Sparky,95.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+05910,Sparky,95.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+05925,Sparky,95.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+05940,Sparky,95.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+05955,Sparky,95.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+05970,Sparky,95.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+05985,Sparky,95.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+06000,Sparky,95.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+06015,Sparky,95.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+06030,Minion Horde,68.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,Sparky,95.0,1.0,0,True,True,6.0,6.0
+06045,Minion Horde,68.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+06060,Minion Horde,68.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+06075,Minion Horde,68.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+06090,Minion Horde,68.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+06105,Minion Horde,68.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+06120,Minion Horde,68.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+06135,Minion Horde,68.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+06150,Minion Horde,68.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+06165,Minion Horde,68.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+06180,Minion Horde,68.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+06195,Minion Horde,68.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+06210,Minion Horde,68.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+06225,Minion Horde,68.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+06240,Wizard,105.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,Minion Horde,68.0,1.0,0,True,True,5.0,5.0
+06255,Wizard,105.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+06270,Wizard,105.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+06285,Wizard,105.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,1,False,False,0.0,0.0
+06300,Wizard,105.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+06315,Wizard,105.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,2,False,False,0.0,0.0
+06330,Wizard,105.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+06345,Wizard,105.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+06360,Wizard,105.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+06375,Wizard,105.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+06390,Wizard,105.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+06405,Wizard,105.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+06420,Wizard,105.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+06435,Wizard,105.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+06450,Wizard,105.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+06465,Wizard,105.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+06480,Wizard,105.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+06495,Wizard,105.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+06510,Wizard,105.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+06525,Wizard,105.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+06540,Wizard,105.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+06555,Wizard,105.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+06570,Wizard,105.0,Dark Prince,18.0,Rage,81.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+06585,Wizard,105.0,Giant,36.0,Rage,81.0,Elixir Collector,26.0,Dark Prince,18.0,2.0,5,True,True,3.0,4.0
+06600,Wizard,105.0,Giant,36.0,Rage,81.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+06615,Wizard,105.0,Giant,36.0,Rage,81.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+06630,Wizard,105.0,Giant,36.0,Rage,81.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+06645,Wizard,105.0,Giant,36.0,Rage,81.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+06660,Wizard,105.0,Giant,36.0,Rage,81.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+06675,Wizard,105.0,Giant,36.0,Rage,81.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+06690,Wizard,105.0,Giant,36.0,Rage,81.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+06705,Wizard,105.0,Giant,36.0,Rage,81.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+06720,Wizard,105.0,Giant,36.0,Rage,81.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+06735,Wizard,105.0,Giant,36.0,Rage,81.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+06750,Wizard,105.0,Giant,36.0,Rage,81.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+06765,Wizard,105.0,Giant,36.0,Rage,81.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+06780,Wizard,105.0,Giant,36.0,Rage,81.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,4.0,10,True,True,6.0,6.0
+06795,Wizard,105.0,Giant,36.0,Rage,81.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+06810,Wizard,105.0,Giant,36.0,Rage,81.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+06825,Wizard,105.0,Giant,36.0,Rage,81.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+06840,Wizard,105.0,Giant,36.0,Rage,81.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+06855,Wizard,105.0,Giant,36.0,Rage,81.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+06870,Wizard,105.0,Giant,36.0,Rage,81.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+06885,Wizard,105.0,Giant,36.0,Rage,81.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+06900,Wizard,105.0,Giant,36.0,Rage,81.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+06915,Wizard,105.0,Giant,36.0,Rage,81.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+06930,Wizard,105.0,Sparky,95.0,Rage,81.0,Mini P.E.K.K.A,67.0,Giant,36.0,2.0,2,True,True,4.0,5.0
+06945,Wizard,105.0,Sparky,95.0,Rage,81.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+06960,Wizard,105.0,Sparky,95.0,Rage,81.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+06975,Wizard,105.0,Sparky,95.0,Rage,81.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+06990,Wizard,105.0,Sparky,95.0,Rage,81.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+07005,Wizard,105.0,Sparky,95.0,Rage,81.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+07020,Wizard,105.0,Sparky,95.0,Rage,81.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+07035,Wizard,105.0,Sparky,95.0,Rage,81.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+07050,Wizard,105.0,Sparky,95.0,Rage,81.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+07065,Wizard,105.0,Sparky,95.0,Rage,81.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+07080,Wizard,105.0,Sparky,95.0,Rage,81.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+07095,Minion Horde,68.0,Sparky,95.0,Rage,81.0,Mini P.E.K.K.A,67.0,Wizard,105.0,1.0,2,True,True,4.0,5.0
+07110,Minion Horde,68.0,Sparky,95.0,Rage,81.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+07125,Minion Horde,68.0,Sparky,95.0,Rage,81.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+07140,Minion Horde,68.0,Sparky,95.0,Rage,81.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+07155,Minion Horde,68.0,Sparky,95.0,Rage,81.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+07170,Minion Horde,68.0,Sparky,95.0,Dark Prince,18.0,Mini P.E.K.K.A,67.0,Rage,81.0,3.0,2,True,True,1.0,2.0
+07185,Minion Horde,68.0,Sparky,95.0,Dark Prince,18.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+07200,Minion Horde,68.0,Sparky,95.0,Dark Prince,18.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+07215,Minion Horde,68.0,Sparky,95.0,Dark Prince,18.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+07230,Minion Horde,68.0,Sparky,95.0,Dark Prince,18.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+07245,Minion Horde,68.0,Sparky,95.0,Dark Prince,18.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+07260,Minion Horde,68.0,Sparky,95.0,Dark Prince,18.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+07275,Minion Horde,68.0,Sparky,95.0,Dark Prince,18.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+07290,Minion Horde,68.0,Sparky,95.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,Dark Prince,18.0,3.0,0,True,True,4.0,4.0
+07305,Minion Horde,68.0,Sparky,95.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+07320,Minion Horde,68.0,Sparky,95.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+07335,Minion Horde,68.0,Sparky,95.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+07350,Minion Horde,68.0,Sparky,95.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+07365,Minion Horde,68.0,Sparky,95.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+07380,Minion Horde,68.0,Sparky,95.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+07395,Minion Horde,68.0,Sparky,95.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+07410,Minion Horde,68.0,Sparky,95.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+07425,Minion Horde,68.0,Sparky,95.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+07440,Minion Horde,68.0,Sparky,95.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+07455,Minion Horde,68.0,Sparky,95.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+07470,Minion Horde,68.0,Sparky,95.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+07485,Minion Horde,68.0,Giant,36.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,Sparky,95.0,2.0,1,True,True,6.0,6.0
+07500,Minion Horde,68.0,Giant,36.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+07515,Minion Horde,68.0,Giant,36.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+07530,Minion Horde,68.0,Giant,36.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+07545,Minion Horde,68.0,Giant,36.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+07560,Minion Horde,68.0,Giant,36.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+07575,Minion Horde,68.0,Giant,36.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+07590,Minion Horde,68.0,Giant,36.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+07605,Minion Horde,68.0,Giant,36.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+07620,Minion Horde,68.0,Giant,36.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+07635,Minion Horde,68.0,Giant,36.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+07650,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,Giant,36.0,2.0,3,True,True,5.0,5.0
+07665,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+07680,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+07695,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+07710,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+07725,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+07740,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+07755,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Rage,81.0,Mini P.E.K.K.A,67.0,4.0,3,True,True,3.0,4.0
+07770,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Rage,81.0,,,,4,False,False,0.0,0.0
+07785,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Rage,81.0,,,,4,False,False,0.0,0.0
+07800,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Rage,81.0,,,,5,False,False,0.0,0.0
+07815,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Rage,81.0,,,,5,False,False,0.0,0.0
+07830,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Dark Prince,18.0,Rage,81.0,4.0,5,True,False,0.0,2.0
+07845,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+07860,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+07875,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+07890,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+07905,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Sparky,95.0,Dark Prince,18.0,4.0,3,True,True,4.0,4.0
+07920,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+07935,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+07950,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+07965,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+07980,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+07995,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Sparky,95.0,,,,2,False,True,4.0,0.0
+08010,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Giant,36.0,Sparky,95.0,4.0,1,True,True,1.0,6.0
+08025,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Giant,36.0,,,,2,False,False,0.0,0.0
+08040,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Giant,36.0,,,,2,False,False,0.0,0.0
+08055,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Giant,36.0,,,,3,False,False,0.0,0.0
+08070,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Giant,36.0,,,,3,False,False,0.0,0.0
+08085,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Giant,36.0,,,,5,False,False,0.0,0.0
+08100,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Giant,36.0,,,,5,False,False,0.0,0.0
+08115,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Giant,36.0,,,,6,False,False,0.0,0.0
+08130,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Giant,36.0,,,,6,False,False,0.0,0.0
+08145,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,Giant,36.0,4.0,2,True,True,4.0,5.0
+08160,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+08175,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+08190,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+08205,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+08220,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+08235,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Rage,81.0,Mini P.E.K.K.A,67.0,4.0,1,True,True,4.0,4.0
+08250,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Rage,81.0,,,,2,False,False,0.0,0.0
+08265,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Rage,81.0,,,,2,False,False,0.0,0.0
+08280,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Rage,81.0,,,,3,False,False,0.0,0.0
+08295,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Rage,81.0,,,,3,False,False,0.0,0.0
+08310,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Rage,81.0,,,,4,False,False,0.0,0.0
+08325,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Dark Prince,18.0,Rage,81.0,4.0,2,True,True,2.0,2.0
+08340,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+08355,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+08370,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+08385,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+08400,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Sparky,95.0,Dark Prince,18.0,4.0,2,True,True,4.0,4.0
+08415,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+08430,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+08445,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+08460,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+08475,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+08490,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+08505,Minion Horde,68.0,Wizard,105.0,Elixir Collector,26.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+08520,Minion Horde,68.0,Giant,36.0,Elixir Collector,26.0,Sparky,95.0,Wizard,105.0,2.0,1,True,True,5.0,5.0
+08535,Minion Horde,68.0,Giant,36.0,Elixir Collector,26.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+08550,Minion Horde,68.0,Giant,36.0,Elixir Collector,26.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+08565,Minion Horde,68.0,Giant,36.0,Elixir Collector,26.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+08580,Minion Horde,68.0,Giant,36.0,Elixir Collector,26.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+08595,Minion Horde,68.0,Giant,36.0,Elixir Collector,26.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+08610,Minion Horde,68.0,Giant,36.0,Elixir Collector,26.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+08625,Minion Horde,68.0,Giant,36.0,Elixir Collector,26.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+08640,Minion Horde,68.0,Giant,36.0,Elixir Collector,26.0,Sparky,95.0,,,,7,False,False,0.0,0.0

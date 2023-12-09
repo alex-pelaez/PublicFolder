@@ -1,0 +1,571 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00225,Barbarian Barrel,6.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,6,False,False,0.0,0.0
+00240,Barbarian Barrel,6.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,6,False,False,0.0,0.0
+00255,Barbarian Barrel,6.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,6,False,False,0.0,0.0
+00270,Barbarian Barrel,6.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,6,False,False,0.0,0.0
+00285,Barbarian Barrel,6.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00300,Barbarian Barrel,6.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00315,Barbarian Barrel,6.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00330,Barbarian Barrel,6.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00345,Barbarian Barrel,6.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00360,Barbarian Barrel,6.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00375,Barbarian Barrel,6.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00390,Barbarian Barrel,6.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00405,Barbarian Barrel,6.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00420,Barbarian Barrel,6.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00435,Barbarian Barrel,6.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00450,Barbarian Barrel,6.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00465,Barbarian Barrel,6.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00480,Barbarian Barrel,6.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00495,Barbarian Barrel,6.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00510,Barbarian Barrel,6.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00525,Barbarian Barrel,6.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,10,False,False,0.0,0.0
+00540,Barbarian Barrel,6.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,10,False,False,0.0,0.0
+00555,Knight,58.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,Barbarian Barrel,6.0,1.0,8,True,True,2.0,2.0
+00570,Knight,58.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00585,Knight,58.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00600,Knight,58.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00615,Knight,58.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00630,Knight,58.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00645,Knight,58.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00660,Knight,58.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00675,Knight,58.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00690,Knight,58.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00705,Knight,58.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00720,Knight,58.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,10,False,False,0.0,0.0
+00735,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,Knight,58.0,1.0,7,True,True,3.0,3.0
+00750,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00765,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00780,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00795,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00810,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00825,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00840,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00855,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00870,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00885,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00900,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00915,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00930,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00945,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,Poison,78.0,4.0,5,True,True,4.0,4.0
+00960,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+00975,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+00990,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+01005,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+01020,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+01035,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+01050,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+01065,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+01080,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+01095,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+01110,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+01125,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+01140,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,7,False,True,1.0,0.0
+01155,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+01170,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+01185,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+01200,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+01215,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+01230,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+01245,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+01260,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+01275,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+01290,Graveyard,48.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,Skeleton Dragons,92.0,1.0,5,True,True,4.0,4.0
+01305,Graveyard,48.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+01320,Graveyard,48.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+01335,Graveyard,48.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+01350,Graveyard,48.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+01365,Graveyard,48.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+01380,Graveyard,48.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+01395,Graveyard,48.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+01410,Graveyard,48.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+01425,Graveyard,48.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+01440,Graveyard,48.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+01455,Graveyard,48.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+01470,Graveyard,48.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+01485,Graveyard,48.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+01500,Graveyard,48.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+01515,Graveyard,48.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+01530,Graveyard,48.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+01545,Graveyard,48.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+01560,Graveyard,48.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+01575,Graveyard,48.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+01590,Graveyard,48.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+01605,Graveyard,48.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+01620,Graveyard,48.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+01635,Graveyard,48.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+01650,Graveyard,48.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,,,,10,False,False,0.0,0.0
+01665,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Heal Spirit,50.0,Goblin Cage,40.0,2.0,6,True,True,4.0,4.0
+01680,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+01695,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+01710,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+01725,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+01740,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+01755,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+01770,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+01785,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+01800,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+01815,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+01830,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+01845,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+01860,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+01875,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+01890,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+01905,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+01920,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+01935,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+01950,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+01965,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+01980,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+01995,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Heal Spirit,50.0,,,,10,False,False,0.0,0.0
+02010,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,Heal Spirit,50.0,4.0,9,True,True,1.0,1.0
+02025,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,9,False,False,0.0,0.0
+02040,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,9,False,False,0.0,0.0
+02055,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,9,False,False,0.0,0.0
+02070,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,9,False,False,0.0,0.0
+02085,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+02100,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+02115,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+02130,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+02145,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+02160,Graveyard,48.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+02175,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Knight,58.0,Musketeer,73.0,3.0,6,True,True,4.0,4.0
+02190,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Knight,58.0,,,,6,False,False,0.0,0.0
+02205,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Knight,58.0,,,,6,False,False,0.0,0.0
+02220,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Knight,58.0,,,,6,False,False,0.0,0.0
+02235,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Knight,58.0,,,,6,False,False,0.0,0.0
+02250,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Knight,58.0,,,,7,False,False,0.0,0.0
+02265,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Knight,58.0,,,,7,False,False,0.0,0.0
+02280,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Knight,58.0,,,,7,False,False,0.0,0.0
+02295,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Knight,58.0,,,,7,False,False,0.0,0.0
+02310,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Knight,58.0,,,,7,False,False,0.0,0.0
+02325,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Knight,58.0,,,,7,False,False,0.0,0.0
+02340,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Knight,58.0,,,,8,False,False,0.0,0.0
+02355,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Knight,58.0,,,,8,False,False,0.0,0.0
+02370,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Knight,58.0,,,,8,False,False,0.0,0.0
+02385,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Knight,58.0,,,,8,False,False,0.0,0.0
+02400,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Knight,58.0,,,,8,False,False,0.0,0.0
+02415,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Knight,58.0,,,,8,False,False,0.0,0.0
+02430,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Knight,58.0,,,,9,False,False,0.0,0.0
+02445,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Knight,58.0,,,,9,False,False,0.0,0.0
+02460,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Knight,58.0,,,,9,False,False,0.0,0.0
+02475,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Knight,58.0,,,,9,False,False,0.0,0.0
+02490,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Knight,58.0,,,,9,False,False,0.0,0.0
+02505,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Knight,58.0,,,,10,False,False,0.0,0.0
+02520,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Skeleton Dragons,92.0,Knight,58.0,4.0,7,True,True,3.0,3.0
+02535,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+02550,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+02565,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+02580,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+02595,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+02610,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+02625,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+02640,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+02655,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+02670,Graveyard,48.0,Barbarian Barrel,6.0,Poison,78.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+02685,Graveyard,48.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Skeleton Dragons,92.0,Poison,78.0,3.0,5,True,True,3.0,4.0
+02700,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,2.0,3,True,True,2.0,2.0
+02715,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+02730,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+02745,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+02760,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+02775,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+02790,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+02805,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,Skeleton Dragons,92.0,4.0,0,True,True,4.0,4.0
+02820,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,0,False,False,0.0,0.0
+02835,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,0,False,False,0.0,0.0
+02850,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+02865,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+02880,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+02895,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+02910,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+02925,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+02940,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+02955,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+02970,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+02985,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+03000,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+03015,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+03030,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+03045,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+03060,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+03075,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+03090,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+03105,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+03120,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+03135,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+03150,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+03165,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+03180,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+03195,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+03210,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+03225,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+03240,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+03255,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+03270,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+03285,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+03300,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+03315,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+03330,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+03345,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+03360,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+03375,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+03390,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+03405,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+03420,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+03435,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+03450,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+03465,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+03480,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+03495,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+03510,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+03525,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+03540,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+03555,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+03570,Graveyard,48.0,Heal Spirit,50.0,Goblin Cage,40.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+03585,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,2.0,8,True,True,1.0,1.0
+03600,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+03615,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+03630,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+03645,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,Musketeer,73.0,4.0,5,True,True,4.0,4.0
+03660,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,5,False,False,0.0,0.0
+03675,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,5,False,False,0.0,0.0
+03690,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03705,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03720,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03735,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03750,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03765,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03780,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03795,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03810,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03825,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Barbarian Barrel,6.0,Poison,78.0,4.0,4,True,True,3.0,4.0
+03840,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+03855,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+03870,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+03885,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+03900,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+03915,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,4.0,4,True,True,1.0,2.0
+03930,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+03945,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+03960,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+03975,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+03990,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+04005,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+04020,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+04035,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+04050,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+04065,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+04080,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+04095,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+04110,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+04125,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+04140,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+04155,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,10,False,False,0.0,0.0
+04170,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Heal Spirit,50.0,Skeleton Dragons,92.0,4.0,6,True,True,4.0,4.0
+04185,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+04200,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+04215,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+04230,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+04245,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+04260,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,4.0,7,True,True,1.0,1.0
+04275,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+04290,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+04305,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+04320,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,Musketeer,73.0,4.0,4,True,True,4.0,4.0
+04335,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,5,False,False,0.0,0.0
+04350,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,5,False,False,0.0,0.0
+04365,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,6,False,False,0.0,0.0
+04380,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,6,False,False,0.0,0.0
+04395,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,6,False,False,0.0,0.0
+04410,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,7,False,False,0.0,0.0
+04425,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,7,False,False,0.0,0.0
+04440,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,7,False,False,0.0,0.0
+04455,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,8,False,False,0.0,0.0
+04470,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,8,False,False,0.0,0.0
+04485,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,8,False,False,0.0,0.0
+04500,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,9,False,False,0.0,0.0
+04515,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,9,False,False,0.0,0.0
+04530,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,9,False,False,0.0,0.0
+04545,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Barbarian Barrel,6.0,Poison,78.0,4.0,6,True,True,3.0,4.0
+04560,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+04575,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+04590,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+04605,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+04620,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,4.0,6,True,True,1.0,2.0
+04635,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+04650,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+04665,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+04680,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+04695,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+04710,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+04725,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+04740,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+04755,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+04770,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+04785,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,10,False,False,0.0,0.0
+04800,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,10,False,False,0.0,0.0
+04815,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Skeleton Dragons,92.0,,,,10,False,False,0.0,0.0
+04830,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Heal Spirit,50.0,Skeleton Dragons,92.0,4.0,6,True,True,4.0,4.0
+04845,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+04860,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+04875,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+04890,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+04905,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+04920,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,7,False,False,0.0,0.0
+04935,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+04950,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,8,False,False,0.0,0.0
+04965,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+04980,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,9,False,False,0.0,0.0
+04995,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Musketeer,73.0,Heal Spirit,50.0,4.0,9,True,False,0.0,1.0
+05010,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+05025,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+05040,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+05055,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+05070,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,Musketeer,73.0,4.0,6,True,True,4.0,4.0
+05085,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,6,False,False,0.0,0.0
+05100,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,7,False,False,0.0,0.0
+05115,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,7,False,False,0.0,0.0
+05130,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,7,False,False,0.0,0.0
+05145,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,8,False,False,0.0,0.0
+05160,Graveyard,48.0,Knight,58.0,Goblin Cage,40.0,Poison,78.0,,,,8,False,False,0.0,0.0
+05175,Graveyard,48.0,Knight,58.0,Barbarian Barrel,6.0,Poison,78.0,Goblin Cage,40.0,3.0,4,True,True,4.0,4.0
+05190,Graveyard,48.0,Knight,58.0,Barbarian Barrel,6.0,Poison,78.0,,,,5,False,False,0.0,0.0
+05205,Graveyard,48.0,Knight,58.0,Barbarian Barrel,6.0,Poison,78.0,,,,5,False,False,0.0,0.0
+05220,Graveyard,48.0,Knight,58.0,Barbarian Barrel,6.0,Poison,78.0,,,,5,False,False,0.0,0.0
+05235,Graveyard,48.0,Knight,58.0,Barbarian Barrel,6.0,Poison,78.0,,,,6,False,False,0.0,0.0
+05250,Graveyard,48.0,Knight,58.0,Barbarian Barrel,6.0,Poison,78.0,,,,6,False,False,0.0,0.0
+05265,Graveyard,48.0,Knight,58.0,Barbarian Barrel,6.0,Poison,78.0,,,,2,False,False,0.0,0.0
+05280,Graveyard,48.0,Knight,58.0,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Poison,78.0,4.0,3,True,True,4.0,4.0
+05295,Graveyard,48.0,Knight,58.0,Barbarian Barrel,6.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+05310,Graveyard,48.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Knight,58.0,2.0,1,True,True,2.0,3.0
+05325,Graveyard,48.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Skeleton Dragons,92.0,,,,1,False,False,0.0,0.0
+05340,Graveyard,48.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Skeleton Dragons,92.0,,,,1,False,False,0.0,0.0
+05355,Graveyard,48.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+05370,Graveyard,48.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+05385,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,3.0,0,True,True,2.0,2.0
+05400,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,1,False,False,0.0,0.0
+05415,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,1,False,False,0.0,0.0
+05430,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,1,False,False,0.0,0.0
+05445,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+05460,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+05475,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+05490,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+05505,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+05520,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+05535,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+05550,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+05565,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+05580,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+05595,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+05610,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+05625,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+05640,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+05655,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+05670,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+05685,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+05700,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+05715,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+05730,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+05745,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+05760,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+05775,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,10,False,False,0.0,0.0
+05790,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Goblin Cage,40.0,Skeleton Dragons,92.0,4.0,6,True,True,4.0,4.0
+05805,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Goblin Cage,40.0,,,,6,False,False,0.0,0.0
+05820,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Goblin Cage,40.0,,,,6,False,False,0.0,0.0
+05835,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Goblin Cage,40.0,,,,7,False,False,0.0,0.0
+05850,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Goblin Cage,40.0,,,,7,False,False,0.0,0.0
+05865,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Goblin Cage,40.0,,,,7,False,False,0.0,0.0
+05880,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Goblin Cage,40.0,,,,8,False,False,0.0,0.0
+05895,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Goblin Cage,40.0,,,,8,False,False,0.0,0.0
+05910,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Goblin Cage,40.0,,,,8,False,False,0.0,0.0
+05925,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Goblin Cage,40.0,,,,9,False,False,0.0,0.0
+05940,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Goblin Cage,40.0,,,,9,False,False,0.0,0.0
+05955,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Goblin Cage,40.0,,,,10,False,False,0.0,0.0
+05970,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Poison,78.0,Goblin Cage,40.0,4.0,6,True,True,4.0,4.0
+05985,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Poison,78.0,,,,6,False,False,0.0,0.0
+06000,Graveyard,48.0,Heal Spirit,50.0,Musketeer,73.0,Poison,78.0,,,,6,False,False,0.0,0.0
+06015,Graveyard,48.0,Heal Spirit,50.0,Knight,58.0,Poison,78.0,Musketeer,73.0,3.0,3,True,True,3.0,4.0
+06030,Graveyard,48.0,Heal Spirit,50.0,Knight,58.0,Poison,78.0,,,,3,False,False,0.0,0.0
+06045,Graveyard,48.0,Heal Spirit,50.0,Knight,58.0,Poison,78.0,,,,4,False,False,0.0,0.0
+06060,Graveyard,48.0,Heal Spirit,50.0,Knight,58.0,Poison,78.0,,,,4,False,False,0.0,0.0
+06075,Graveyard,48.0,Heal Spirit,50.0,Knight,58.0,Poison,78.0,,,,4,False,False,0.0,0.0
+06090,Graveyard,48.0,Heal Spirit,50.0,Knight,58.0,Poison,78.0,,,,5,False,False,0.0,0.0
+06105,Graveyard,48.0,Heal Spirit,50.0,Knight,58.0,Poison,78.0,,,,5,False,False,0.0,0.0
+06120,Graveyard,48.0,Heal Spirit,50.0,Knight,58.0,Poison,78.0,,,,5,False,False,0.0,0.0
+06135,Graveyard,48.0,Heal Spirit,50.0,Knight,58.0,Poison,78.0,,,,6,False,False,0.0,0.0
+06150,Graveyard,48.0,Heal Spirit,50.0,Knight,58.0,Poison,78.0,,,,6,False,False,0.0,0.0
+06165,Graveyard,48.0,Heal Spirit,50.0,Knight,58.0,Poison,78.0,,,,6,False,False,0.0,0.0
+06180,Graveyard,48.0,Heal Spirit,50.0,Knight,58.0,Poison,78.0,,,,7,False,False,0.0,0.0
+06195,Graveyard,48.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Poison,78.0,Knight,58.0,3.0,4,True,True,3.0,3.0
+06210,Graveyard,48.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Poison,78.0,,,,4,False,False,0.0,0.0
+06225,Graveyard,48.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Poison,78.0,,,,5,False,False,0.0,0.0
+06240,Graveyard,48.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Poison,78.0,,,,5,False,False,0.0,0.0
+06255,Skeleton Dragons,92.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Poison,78.0,Graveyard,48.0,1.0,1,True,True,4.0,5.0
+06270,Skeleton Dragons,92.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Poison,78.0,,,,1,False,False,0.0,0.0
+06285,Skeleton Dragons,92.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Poison,78.0,,,,1,False,False,0.0,0.0
+06300,Skeleton Dragons,92.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Poison,78.0,,,,2,False,False,0.0,0.0
+06315,Skeleton Dragons,92.0,Goblin Cage,40.0,Barbarian Barrel,6.0,Poison,78.0,Heal Spirit,50.0,2.0,1,True,True,1.0,1.0
+06330,Skeleton Dragons,92.0,Goblin Cage,40.0,Barbarian Barrel,6.0,Poison,78.0,,,,1,False,False,0.0,0.0
+06345,Skeleton Dragons,92.0,Goblin Cage,40.0,Barbarian Barrel,6.0,Poison,78.0,,,,2,False,False,0.0,0.0
+06360,Skeleton Dragons,92.0,Goblin Cage,40.0,Barbarian Barrel,6.0,Poison,78.0,,,,2,False,False,0.0,0.0
+06375,Skeleton Dragons,92.0,Goblin Cage,40.0,Barbarian Barrel,6.0,Poison,78.0,,,,2,False,False,0.0,0.0
+06390,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,Barbarian Barrel,6.0,3.0,1,True,True,1.0,2.0
+06405,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,1,False,False,0.0,0.0
+06420,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,1,False,False,0.0,0.0
+06435,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,2,False,False,0.0,0.0
+06450,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,2,False,False,0.0,0.0
+06465,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,3,False,False,0.0,0.0
+06480,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,3,False,False,0.0,0.0
+06495,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,3,False,False,0.0,0.0
+06510,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,4,False,False,0.0,0.0
+06525,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,4,False,False,0.0,0.0
+06540,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,4,False,False,0.0,0.0
+06555,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,5,False,False,0.0,0.0
+06570,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,5,False,False,0.0,0.0
+06585,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,5,False,False,0.0,0.0
+06600,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,6,False,False,0.0,0.0
+06615,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,6,False,False,0.0,0.0
+06630,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,6,False,False,0.0,0.0
+06645,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,7,False,False,0.0,0.0
+06660,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,7,False,False,0.0,0.0
+06675,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+06690,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+06705,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,8,False,False,0.0,0.0
+06720,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,9,False,False,0.0,0.0
+06735,Skeleton Dragons,92.0,Goblin Cage,40.0,Musketeer,73.0,Poison,78.0,,,,9,False,False,0.0,0.0
+06750,Skeleton Dragons,92.0,Goblin Cage,40.0,Knight,58.0,Poison,78.0,Musketeer,73.0,3.0,5,True,True,4.0,4.0
+06765,Skeleton Dragons,92.0,Goblin Cage,40.0,Knight,58.0,Poison,78.0,,,,6,False,False,0.0,0.0
+06780,Skeleton Dragons,92.0,Goblin Cage,40.0,Knight,58.0,Poison,78.0,,,,6,False,False,0.0,0.0
+06795,Skeleton Dragons,92.0,Goblin Cage,40.0,Knight,58.0,Poison,78.0,,,,6,False,False,0.0,0.0
+06810,Skeleton Dragons,92.0,Goblin Cage,40.0,Knight,58.0,Poison,78.0,,,,7,False,False,0.0,0.0
+06825,Skeleton Dragons,92.0,Goblin Cage,40.0,Knight,58.0,Poison,78.0,,,,7,False,False,0.0,0.0
+06840,Skeleton Dragons,92.0,Goblin Cage,40.0,Graveyard,48.0,Poison,78.0,Knight,58.0,3.0,4,True,True,3.0,3.0
+06855,Skeleton Dragons,92.0,Goblin Cage,40.0,Graveyard,48.0,Poison,78.0,,,,5,False,False,0.0,0.0
+06870,Skeleton Dragons,92.0,Goblin Cage,40.0,Graveyard,48.0,Poison,78.0,,,,5,False,False,0.0,0.0
+06885,Skeleton Dragons,92.0,Goblin Cage,40.0,Graveyard,48.0,Poison,78.0,,,,6,False,False,0.0,0.0
+06900,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Poison,78.0,Graveyard,48.0,3.0,1,True,True,5.0,5.0
+06915,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Poison,78.0,,,,1,False,False,0.0,0.0
+06930,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+06945,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+06960,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+06975,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+06990,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+07005,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Poison,78.0,,,,3,False,False,0.0,0.0
+07020,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+07035,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Poison,78.0,,,,4,False,False,0.0,0.0
+07050,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Poison,78.0,4.0,0,True,True,4.0,4.0
+07065,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+07080,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+07095,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+07110,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+07125,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+07140,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+07155,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+07170,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+07185,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+07200,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+07215,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+07230,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+07245,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+07260,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+07275,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+07290,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+07305,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+07320,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+07335,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+07350,Skeleton Dragons,92.0,Goblin Cage,40.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+07365,Skeleton Dragons,92.0,Musketeer,73.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Goblin Cage,40.0,2.0,4,True,True,4.0,4.0
+07380,Skeleton Dragons,92.0,Musketeer,73.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+07395,Skeleton Dragons,92.0,Musketeer,73.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+07410,Skeleton Dragons,92.0,Musketeer,73.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+07425,Skeleton Dragons,92.0,Musketeer,73.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+07440,Skeleton Dragons,92.0,Musketeer,73.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+07455,Skeleton Dragons,92.0,Musketeer,73.0,Heal Spirit,50.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+07470,Skeleton Dragons,92.0,Musketeer,73.0,Heal Spirit,50.0,Knight,58.0,Barbarian Barrel,6.0,4.0,5,True,True,2.0,2.0
+07485,Skeleton Dragons,92.0,Musketeer,73.0,Heal Spirit,50.0,Knight,58.0,,,,6,False,False,0.0,0.0
+07500,Skeleton Dragons,92.0,Graveyard,48.0,Heal Spirit,50.0,Knight,58.0,Musketeer,73.0,2.0,2,True,True,4.0,4.0
+07515,Skeleton Dragons,92.0,Graveyard,48.0,Heal Spirit,50.0,Knight,58.0,,,,3,False,False,0.0,0.0
+07530,Skeleton Dragons,92.0,Graveyard,48.0,Heal Spirit,50.0,Knight,58.0,,,,4,False,False,0.0,0.0
+07545,Skeleton Dragons,92.0,Graveyard,48.0,Heal Spirit,50.0,Knight,58.0,,,,4,False,False,0.0,0.0
+07560,Skeleton Dragons,92.0,Graveyard,48.0,Heal Spirit,50.0,Knight,58.0,,,,5,False,False,0.0,0.0
+07575,Skeleton Dragons,92.0,Graveyard,48.0,Heal Spirit,50.0,Knight,58.0,,,,5,False,False,0.0,0.0
+07590,Skeleton Dragons,92.0,Graveyard,48.0,Heal Spirit,50.0,Knight,58.0,,,,6,False,False,0.0,0.0
+07605,Skeleton Dragons,92.0,Graveyard,48.0,Heal Spirit,50.0,Knight,58.0,,,,6,False,False,0.0,0.0
+07620,Skeleton Dragons,92.0,Graveyard,48.0,Heal Spirit,50.0,Knight,58.0,,,,7,False,False,0.0,0.0
+07635,Skeleton Dragons,92.0,Graveyard,48.0,Heal Spirit,50.0,Knight,58.0,,,,7,False,False,0.0,0.0
+07650,Skeleton Dragons,92.0,Graveyard,48.0,Heal Spirit,50.0,Knight,58.0,,,,8,False,False,0.0,0.0
+07665,Skeleton Dragons,92.0,Graveyard,48.0,Heal Spirit,50.0,Knight,58.0,,,,8,False,False,0.0,0.0
+07680,Skeleton Dragons,92.0,Graveyard,48.0,Heal Spirit,50.0,Knight,58.0,,,,9,False,False,0.0,0.0
+07695,Skeleton Dragons,92.0,Graveyard,48.0,Heal Spirit,50.0,Knight,58.0,,,,9,False,False,0.0,0.0
+07710,Skeleton Dragons,92.0,Graveyard,48.0,Heal Spirit,50.0,Poison,78.0,Knight,58.0,4.0,7,True,True,2.0,3.0
+07725,Skeleton Dragons,92.0,Graveyard,48.0,Heal Spirit,50.0,Poison,78.0,,,,8,False,False,0.0,0.0
+07740,Skeleton Dragons,92.0,Graveyard,48.0,Heal Spirit,50.0,Poison,78.0,,,,8,False,False,0.0,0.0
+07755,Skeleton Dragons,92.0,Graveyard,48.0,Heal Spirit,50.0,Poison,78.0,,,,5,False,False,0.0,0.0
+07770,Goblin Cage,40.0,Graveyard,48.0,Heal Spirit,50.0,Poison,78.0,Skeleton Dragons,92.0,1.0,5,True,True,3.0,4.0
+07785,Goblin Cage,40.0,Graveyard,48.0,Heal Spirit,50.0,Poison,78.0,,,,6,False,False,0.0,0.0
+07800,Goblin Cage,40.0,Barbarian Barrel,6.0,Heal Spirit,50.0,Poison,78.0,Graveyard,48.0,2.0,1,True,True,5.0,5.0
+07815,Goblin Cage,40.0,Barbarian Barrel,6.0,Heal Spirit,50.0,Poison,78.0,,,,2,False,False,0.0,0.0
+07830,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Poison,78.0,Heal Spirit,50.0,3.0,2,True,False,0.0,1.0
+07845,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Poison,78.0,,,,2,False,False,0.0,0.0
+07860,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Poison,78.0,,,,2,False,False,0.0,0.0
+07875,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Poison,78.0,,,,3,False,False,0.0,0.0
+07890,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Poison,78.0,,,,3,False,False,0.0,0.0
+07905,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Poison,78.0,,,,4,False,False,0.0,0.0
+07920,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Poison,78.0,,,,5,False,False,0.0,0.0
+07935,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Poison,78.0,,,,5,False,False,0.0,0.0
+07950,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,Poison,78.0,4.0,2,True,True,3.0,4.0
+07965,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,2,False,False,0.0,0.0
+07980,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,3,False,False,0.0,0.0
+07995,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,3,False,False,0.0,0.0
+08010,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,4,False,False,0.0,0.0
+08025,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,4,False,False,0.0,0.0
+08040,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,5,False,False,0.0,0.0
+08055,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,5,False,False,0.0,0.0
+08070,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,6,False,False,0.0,0.0
+08085,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,6,False,False,0.0,0.0
+08100,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,7,False,False,0.0,0.0
+08115,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,8,False,False,0.0,0.0
+08130,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08145,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08160,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08175,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08190,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08205,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08220,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08235,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08250,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08265,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08280,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08295,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08310,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08325,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08340,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08355,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08370,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08385,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08400,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08415,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08430,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08445,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08460,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08475,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08490,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08505,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08520,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08535,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08550,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08565,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08580,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08595,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08610,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08625,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08640,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08655,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08670,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08685,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08700,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08715,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08730,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08745,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08760,Goblin Cage,40.0,Barbarian Barrel,6.0,Musketeer,73.0,Knight,58.0,,,,10,False,False,0.0,0.0

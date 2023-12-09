@@ -1,0 +1,1407 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00255,Princess,80.0,,,,,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+00270,Princess,80.0,,,,,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+00285,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,3.0,7,True,False,0.0,0.0
+00300,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+00315,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+00330,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+00345,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+00360,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+00375,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+00390,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+00405,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+00420,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+00435,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+00450,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+00465,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+00480,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+00495,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+00510,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+00525,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+00540,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+00555,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+00570,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+00585,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+00600,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+00615,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+00630,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+00645,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+00660,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+00675,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+00690,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+00705,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+00720,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+00735,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+00750,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+00765,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+00780,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+00795,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+00810,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+00825,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+00840,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+00855,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,True,2.0,0.0
+00870,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+00885,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+00900,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+00915,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+00930,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+00945,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+00960,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,True,3.0,0.0
+00975,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+00990,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+01005,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+01020,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+01035,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+01050,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+01065,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+01080,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+01095,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+01110,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+01125,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+01140,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+01155,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+01170,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+01185,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+01200,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+01215,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+01230,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+01245,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+01260,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+01275,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+01290,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+01305,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+01320,Princess,80.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,2.0,7,True,True,3.0,3.0
+01335,Princess,80.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+01350,Princess,80.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+01365,Princess,80.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+01380,Princess,80.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+01395,Princess,80.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+01410,Princess,80.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+01425,Princess,80.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+01440,Princess,80.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+01455,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,Princess,80.0,1.0,5,True,True,3.0,3.0
+01470,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+01485,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+01500,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+01515,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+01530,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+01545,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+01560,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+01575,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+01590,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+01605,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+01620,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+01635,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+01650,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+01665,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+01680,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+01695,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+01710,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+01725,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+01740,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+01755,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+01770,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+01785,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+01800,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+01815,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Hog Rider,51.0,Minion Horde,68.0,4.0,5,True,True,4.0,5.0
+01830,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+01845,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+01860,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+01875,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+01890,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+01905,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+01920,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+01935,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+01950,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+01965,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+01980,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+01995,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Hog Rider,51.0,,,,2,False,True,4.0,0.0
+02010,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+02025,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+02040,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+02055,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+02070,Hog Rider,51.0,Barbarians,8.0,Freeze,34.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+02085,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,Barbarians,8.0,2.0,3,True,True,2.0,5.0
+02100,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+02115,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+02130,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+02145,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+02160,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+02175,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+02190,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+02205,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+02220,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+02235,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+02250,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+02265,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+02280,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+02295,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+02310,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+02325,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+02340,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+02355,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+02370,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+02385,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+02400,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+02415,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+02430,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+02445,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+02460,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+02475,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+02490,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+02505,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+02520,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+02535,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+02550,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+02565,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+02580,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+02595,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+02610,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+02625,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+02640,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+02655,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+02670,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+02685,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+02700,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+02715,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+02730,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+02745,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+02760,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+02775,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+02790,Hog Rider,51.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+02805,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,Hog Rider,51.0,1.0,5,True,True,4.0,4.0
+02820,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+02835,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+02850,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+02865,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+02880,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+02895,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+02910,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+02925,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+02940,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+02955,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+02970,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+02985,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+03000,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+03015,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+03030,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+03045,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+03060,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+03075,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+03090,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+03105,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+03120,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,4.0,6,True,True,3.0,4.0
+03135,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+03150,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+03165,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+03180,Princess,80.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+03195,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,Princess,80.0,1.0,4,True,True,3.0,3.0
+03210,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+03225,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+03240,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+03255,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+03270,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+03285,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+03300,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+03315,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+03330,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+03345,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+03360,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+03375,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+03390,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+03405,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+03420,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+03435,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,5,False,True,2.0,0.0
+03450,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+03465,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+03480,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+03495,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+03510,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+03525,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+03540,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+03555,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+03570,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+03585,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+03600,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+03615,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+03630,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+03645,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+03660,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+03675,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+03690,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+03705,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+03720,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+03735,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+03750,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+03765,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+03780,Barbarians,8.0,Ice Wizard,55.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+03795,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,2.0,6,True,True,3.0,3.0
+03810,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+03825,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+03840,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+03855,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+03870,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+03885,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+03900,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+03915,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+03930,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,Minion Horde,68.0,4.0,5,True,True,4.0,5.0
+03945,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,5,False,False,0.0,0.0
+03960,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,5,False,False,0.0,0.0
+03975,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,6,False,False,0.0,0.0
+03990,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,6,False,False,0.0,0.0
+04005,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,6,False,False,0.0,0.0
+04020,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,7,False,False,0.0,0.0
+04035,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,7,False,False,0.0,0.0
+04050,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,8,False,False,0.0,0.0
+04065,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,8,False,False,0.0,0.0
+04080,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,8,False,False,0.0,0.0
+04095,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,9,False,False,0.0,0.0
+04110,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,9,False,False,0.0,0.0
+04125,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,9,False,False,0.0,0.0
+04140,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,3,False,True,6.0,0.0
+04155,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,3,False,False,0.0,0.0
+04170,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,3,False,False,0.0,0.0
+04185,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,4,False,False,0.0,0.0
+04200,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,4,False,False,0.0,0.0
+04215,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,4,False,False,0.0,0.0
+04230,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,5,False,False,0.0,0.0
+04245,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,5,False,False,0.0,0.0
+04260,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,5,False,False,0.0,0.0
+04275,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,6,False,False,0.0,0.0
+04290,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,6,False,False,0.0,0.0
+04305,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,7,False,False,0.0,0.0
+04320,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,7,False,False,0.0,0.0
+04335,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,7,False,False,0.0,0.0
+04350,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,8,False,False,0.0,0.0
+04365,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,8,False,False,0.0,0.0
+04380,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,Barbarians,8.0,1.0,3,True,True,5.0,5.0
+04395,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,4,False,False,0.0,0.0
+04410,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,4,False,False,0.0,0.0
+04425,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,4,False,False,0.0,0.0
+04440,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,5,False,False,0.0,0.0
+04455,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,5,False,False,0.0,0.0
+04470,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,6,False,False,0.0,0.0
+04485,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,6,False,False,0.0,0.0
+04500,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,6,False,False,0.0,0.0
+04515,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,7,False,False,0.0,0.0
+04530,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,7,False,False,0.0,0.0
+04545,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,7,False,False,0.0,0.0
+04560,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,8,False,False,0.0,0.0
+04575,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Princess,80.0,,,,8,False,False,0.0,0.0
+04590,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,Princess,80.0,4.0,5,True,True,3.0,3.0
+04605,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+04620,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+04635,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+04650,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+04665,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+04680,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+04695,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+04710,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+04725,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+04740,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+04755,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+04770,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+04785,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+04800,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+04815,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+04830,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,1.0,7,True,True,3.0,3.0
+04845,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+04860,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+04875,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+04890,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+04905,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+04920,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+04935,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+04950,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+04965,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+04980,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,True,2.0,0.0
+04995,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+05010,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+05025,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+05040,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,True,2.0,0.0
+05055,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+05070,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+05085,Barbarians,8.0,Hog Rider,51.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+05100,Barbarians,8.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,2.0,4,True,True,4.0,4.0
+05115,Barbarians,8.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+05130,Barbarians,8.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+05145,Barbarians,8.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+05160,Barbarians,8.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+05175,Barbarians,8.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+05190,Barbarians,8.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+05205,Barbarians,8.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+05220,Barbarians,8.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+05235,Barbarians,8.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+05250,Barbarians,8.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+05265,Ice Wizard,55.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,Barbarians,8.0,1.0,3,True,True,5.0,5.0
+05280,Ice Wizard,55.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+05295,Ice Wizard,55.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+05310,Ice Wizard,55.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+05325,Ice Wizard,55.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+05340,Ice Wizard,55.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+05355,Ice Wizard,55.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+05370,Ice Wizard,55.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+05385,Ice Wizard,55.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+05400,Ice Wizard,55.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+05415,Ice Wizard,55.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+05430,Ice Wizard,55.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+05445,Hog Rider,51.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,1.0,4,True,True,3.0,3.0
+05460,Hog Rider,51.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+05475,Hog Rider,51.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+05490,Hog Rider,51.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+05505,Hog Rider,51.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+05520,Hog Rider,51.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+05535,Hog Rider,51.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+05550,Hog Rider,51.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+05565,Hog Rider,51.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,5,False,True,2.0,0.0
+05580,Hog Rider,51.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+05595,Hog Rider,51.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+05610,Hog Rider,51.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+05625,Hog Rider,51.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+05640,Hog Rider,51.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+05655,Hog Rider,51.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+05670,Hog Rider,51.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+05685,Hog Rider,51.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+05700,Hog Rider,51.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+05715,Hog Rider,51.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,True,2.0,0.0
+05730,Hog Rider,51.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+05745,Hog Rider,51.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+05760,Barbarians,8.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,1.0,3,True,True,3.0,4.0
+05775,Barbarians,8.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+05790,Barbarians,8.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+05805,Barbarians,8.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+05820,Barbarians,8.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+05835,Barbarians,8.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+05850,Barbarians,8.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+05865,Barbarians,8.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+05880,Barbarians,8.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+05895,Barbarians,8.0,Princess,80.0,Freeze,34.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+05910,Freeze,34.0,Princess,80.0,Ice Wizard,55.0,Hog Rider,51.0,Minion Horde,68.0,4.0,2,True,True,4.0,5.0
+05925,Freeze,34.0,Princess,80.0,Ice Wizard,55.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+05940,Freeze,34.0,Princess,80.0,Ice Wizard,55.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+05955,Freeze,34.0,Princess,80.0,Ice Wizard,55.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+05970,Freeze,34.0,Princess,80.0,Ice Wizard,55.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+05985,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,3.0,1,True,True,3.0,3.0
+06000,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+06015,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06030,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06045,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06060,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06075,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06090,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06105,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06120,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06135,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06150,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06165,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06180,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06195,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06210,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06225,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06240,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06255,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06270,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06285,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06300,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06315,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06330,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06345,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06360,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06375,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06390,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06405,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06420,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06435,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06450,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06465,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06480,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06495,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06510,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06525,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06540,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06555,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06570,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06585,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06600,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06615,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06630,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06645,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06660,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06675,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06690,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06705,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06720,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06735,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06750,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06765,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06780,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06795,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06810,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06825,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06840,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06855,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06870,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06885,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06900,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06915,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06930,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06945,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06960,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06975,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06990,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+07005,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+07020,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+07035,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+07050,Freeze,34.0,Barbarians,8.0,Minion Horde,68.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+07065,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,Minion Horde,68.0,3.0,5,True,False,0.0,5.0
+07080,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+07095,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+07110,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+07125,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+07140,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+07155,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+07170,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+07185,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,Hog Rider,51.0,4.0,2,True,True,4.0,4.0
+07200,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,2,False,False,0.0,0.0
+07215,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,3,False,False,0.0,0.0
+07230,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,3,False,False,0.0,0.0
+07245,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,3,False,False,0.0,0.0
+07260,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,3,False,False,0.0,0.0
+07275,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,3,False,False,0.0,0.0
+07290,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,3,False,False,0.0,0.0
+07305,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,4,False,False,0.0,0.0
+07320,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,4,False,False,0.0,0.0
+07335,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,4,False,False,0.0,0.0
+07350,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,4,False,False,0.0,0.0
+07365,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,1,False,True,3.0,0.0
+07380,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,1,False,False,0.0,0.0
+07395,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,2,False,False,0.0,0.0
+07410,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,2,False,False,0.0,0.0
+07425,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,2,False,False,0.0,0.0
+07440,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,2,False,False,0.0,0.0
+07455,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,2,False,False,0.0,0.0
+07470,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,3,False,False,0.0,0.0
+07485,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,3,False,False,0.0,0.0
+07500,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,3,False,False,0.0,0.0
+07515,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,3,False,False,0.0,0.0
+07530,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,3,False,False,0.0,0.0
+07545,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,3,False,False,0.0,0.0
+07560,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,4,False,False,0.0,0.0
+07575,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,4,False,False,0.0,0.0
+07590,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,4,False,False,0.0,0.0
+07605,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,4,False,False,0.0,0.0
+07620,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,4,False,False,0.0,0.0
+07635,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,5,False,False,0.0,0.0
+07650,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,5,False,False,0.0,0.0
+07665,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,5,False,False,0.0,0.0
+07680,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,5,False,False,0.0,0.0
+07695,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,5,False,False,0.0,0.0
+07710,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,5,False,False,0.0,0.0
+07725,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,6,False,False,0.0,0.0
+07740,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,6,False,False,0.0,0.0
+07755,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Princess,80.0,,,,6,False,False,0.0,0.0
+07770,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,Barbarians,8.0,2.0,1,True,True,5.0,5.0
+07785,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,1,False,False,0.0,0.0
+07800,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,1,False,False,0.0,0.0
+07815,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,2,False,False,0.0,0.0
+07830,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,2,False,False,0.0,0.0
+07845,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,2,False,False,0.0,0.0
+07860,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,2,False,False,0.0,0.0
+07875,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,2,False,False,0.0,0.0
+07890,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,3,False,False,0.0,0.0
+07905,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,3,False,False,0.0,0.0
+07920,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,3,False,False,0.0,0.0
+07935,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,3,False,False,0.0,0.0
+07950,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,3,False,False,0.0,0.0
+07965,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,3,False,False,0.0,0.0
+07980,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,4,False,False,0.0,0.0
+07995,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,4,False,False,0.0,0.0
+08010,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,4,False,False,0.0,0.0
+08025,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,4,False,False,0.0,0.0
+08040,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,4,False,False,0.0,0.0
+08055,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,4,False,False,0.0,0.0
+08070,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,5,False,False,0.0,0.0
+08085,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,3,False,True,2.0,0.0
+08100,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,3,False,False,0.0,0.0
+08115,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,3,False,False,0.0,0.0
+08130,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,3,False,False,0.0,0.0
+08145,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,4,False,False,0.0,0.0
+08160,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,4,False,False,0.0,0.0
+08175,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,4,False,False,0.0,0.0
+08190,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,4,False,False,0.0,0.0
+08205,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,4,False,False,0.0,0.0
+08220,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,4,False,False,0.0,0.0
+08235,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,5,False,False,0.0,0.0
+08250,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,5,False,False,0.0,0.0
+08265,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,5,False,False,0.0,0.0
+08280,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,5,False,False,0.0,0.0
+08295,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,5,False,False,0.0,0.0
+08310,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,6,False,False,0.0,0.0
+08325,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,6,False,False,0.0,0.0
+08340,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,6,False,False,0.0,0.0
+08355,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,6,False,False,0.0,0.0
+08370,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,6,False,False,0.0,0.0
+08385,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,6,False,False,0.0,0.0
+08400,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,7,False,False,0.0,0.0
+08415,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,7,False,False,0.0,0.0
+08430,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,7,False,False,0.0,0.0
+08445,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,7,False,False,0.0,0.0
+08460,Freeze,34.0,Minion Horde,68.0,Ice Wizard,55.0,Princess,80.0,,,,7,False,False,0.0,0.0
+08475,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,Ice Wizard,55.0,3.0,4,True,True,3.0,3.0
+08490,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,5,False,False,0.0,0.0
+08505,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,5,False,False,0.0,0.0
+08520,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,5,False,False,0.0,0.0
+08535,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,5,False,False,0.0,0.0
+08550,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,5,False,False,0.0,0.0
+08565,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,6,False,False,0.0,0.0
+08580,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,6,False,False,0.0,0.0
+08595,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,6,False,False,0.0,0.0
+08610,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,6,False,False,0.0,0.0
+08625,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,6,False,False,0.0,0.0
+08640,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,6,False,False,0.0,0.0
+08655,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,7,False,False,0.0,0.0
+08670,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,7,False,False,0.0,0.0
+08685,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,7,False,False,0.0,0.0
+08700,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,7,False,False,0.0,0.0
+08715,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,7,False,False,0.0,0.0
+08730,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,8,False,False,0.0,0.0
+08745,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,8,False,False,0.0,0.0
+08760,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,8,False,False,0.0,0.0
+08775,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,8,False,False,0.0,0.0
+08790,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,8,False,False,0.0,0.0
+08805,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,8,False,False,0.0,0.0
+08820,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,9,False,False,0.0,0.0
+08835,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,9,False,False,0.0,0.0
+08850,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,9,False,False,0.0,0.0
+08865,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,9,False,False,0.0,0.0
+08880,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,9,False,False,0.0,0.0
+08895,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,Princess,80.0,4.0,6,True,True,3.0,3.0
+08910,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+08925,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+08940,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+08955,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+08970,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+08985,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+09000,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+09015,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+09030,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+09045,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+09060,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+09075,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+09090,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+09105,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+09120,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,6,False,True,3.0,0.0
+09135,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+09150,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+09165,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+09180,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+09195,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+09210,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+09225,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+09240,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+09255,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+09270,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+09285,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+09300,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+09315,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+09330,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+09345,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+09360,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+09375,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+09390,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+09405,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,10,False,False,0.0,0.0
+09420,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,Barbarians,8.0,4.0,5,True,True,5.0,5.0
+09435,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+09450,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+09465,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+09480,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+09495,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+09510,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+09525,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+09540,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+09555,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+09570,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+09585,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+09600,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+09615,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+09630,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+09645,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+09660,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+09675,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+09690,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+09705,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+09720,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+09735,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+09750,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,9,False,False,0.0,0.0
+09765,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,9,False,False,0.0,0.0
+09780,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,9,False,False,0.0,0.0
+09795,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,9,False,False,0.0,0.0
+09810,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,9,False,False,0.0,0.0
+09825,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,7,False,True,2.0,0.0
+09840,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+09855,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+09870,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+09885,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+09900,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+09915,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+09930,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,9,False,False,0.0,0.0
+09945,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,9,False,False,0.0,0.0
+09960,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,10,False,False,0.0,0.0
+09975,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Ice Wizard,55.0,,,,10,False,False,0.0,0.0
+09990,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,Ice Wizard,55.0,4.0,10,True,True,3.0,3.0
+10005,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,10,False,False,0.0,0.0
+10020,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,7,False,False,0.0,0.0
+10035,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,8,False,False,0.0,0.0
+10050,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,Princess,80.0,4.0,5,True,True,3.0,3.0
+10065,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+10080,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+10095,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+10110,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+10125,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+10140,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+10155,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+10170,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+10185,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+10200,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+10215,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,6,False,True,3.0,0.0
+10230,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+10245,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+10260,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+10275,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+10290,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+10305,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+10320,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+10335,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+10350,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,Barbarians,8.0,4.0,4,True,True,5.0,5.0
+10365,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,5,False,False,0.0,0.0
+10380,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,5,False,False,0.0,0.0
+10395,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,5,False,False,0.0,0.0
+10410,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,6,False,False,0.0,0.0
+10425,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,6,False,False,0.0,0.0
+10440,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,6,False,False,0.0,0.0
+10455,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,7,False,False,0.0,0.0
+10470,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,7,False,False,0.0,0.0
+10485,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,7,False,False,0.0,0.0
+10500,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,8,False,False,0.0,0.0
+10515,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,8,False,False,0.0,0.0
+10530,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,8,False,False,0.0,0.0
+10545,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,9,False,False,0.0,0.0
+10560,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,9,False,False,0.0,0.0
+10575,Freeze,34.0,Minion Horde,68.0,Hog Rider,51.0,Princess,80.0,,,,10,False,False,0.0,0.0
+10590,Freeze,34.0,Ice Wizard,55.0,Hog Rider,51.0,Princess,80.0,Minion Horde,68.0,2.0,5,True,True,5.0,5.0
+10605,Freeze,34.0,Ice Wizard,55.0,Hog Rider,51.0,Princess,80.0,,,,3,False,True,2.0,0.0
+10620,Freeze,34.0,Ice Wizard,55.0,Hog Rider,51.0,Princess,80.0,,,,4,False,False,0.0,0.0
+10635,Freeze,34.0,Ice Wizard,55.0,Hog Rider,51.0,Princess,80.0,,,,4,False,False,0.0,0.0
+10650,Freeze,34.0,Ice Wizard,55.0,Hog Rider,51.0,Princess,80.0,,,,4,False,False,0.0,0.0
+10665,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Princess,80.0,Hog Rider,51.0,3.0,4,True,True,3.0,4.0
+10680,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Princess,80.0,,,,1,False,False,0.0,0.0
+10695,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Princess,80.0,,,,1,False,False,0.0,0.0
+10710,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Princess,80.0,,,,2,False,False,0.0,0.0
+10725,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Princess,80.0,,,,2,False,False,0.0,0.0
+10740,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Princess,80.0,,,,2,False,False,0.0,0.0
+10755,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Princess,80.0,,,,3,False,False,0.0,0.0
+10770,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Princess,80.0,,,,3,False,False,0.0,0.0
+10785,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Princess,80.0,,,,4,False,False,0.0,0.0
+10800,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Princess,80.0,,,,4,False,False,0.0,0.0
+10815,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Princess,80.0,,,,4,False,False,0.0,0.0
+10830,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Princess,80.0,,,,5,False,False,0.0,0.0
+10845,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Princess,80.0,,,,5,False,False,0.0,0.0
+10860,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Princess,80.0,,,,5,False,False,0.0,0.0
+10875,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Princess,80.0,,,,6,False,False,0.0,0.0
+10890,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Princess,80.0,,,,6,False,False,0.0,0.0
+10905,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Princess,80.0,,,,6,False,False,0.0,0.0
+10920,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Princess,80.0,,,,7,False,False,0.0,0.0
+10935,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Barbarians,8.0,Princess,80.0,4.0,4,True,True,3.0,3.0
+10950,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+10965,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+10980,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+10995,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+11010,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Minion Horde,68.0,Barbarians,8.0,4.0,1,True,True,5.0,5.0
+11025,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Minion Horde,68.0,,,,1,False,False,0.0,0.0
+11040,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+11055,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+11070,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+11085,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+11100,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+11115,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+11130,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+11145,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+11160,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+11175,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+11190,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+11205,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+11220,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+11235,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+11250,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+11265,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+11280,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+11295,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+11310,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+11325,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+11340,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+11355,Freeze,34.0,Ice Wizard,55.0,Princess,80.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+11370,Freeze,34.0,Hog Rider,51.0,Princess,80.0,Minion Horde,68.0,Ice Wizard,55.0,2.0,6,True,True,3.0,3.0
+11385,Freeze,34.0,Hog Rider,51.0,Princess,80.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+11400,Freeze,34.0,Hog Rider,51.0,Princess,80.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+11415,Freeze,34.0,Hog Rider,51.0,Princess,80.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+11430,Freeze,34.0,Hog Rider,51.0,Princess,80.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+11445,Freeze,34.0,Hog Rider,51.0,Princess,80.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+11460,Freeze,34.0,Hog Rider,51.0,Princess,80.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+11475,Freeze,34.0,Hog Rider,51.0,Princess,80.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+11490,Freeze,34.0,Hog Rider,51.0,Princess,80.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+11505,Freeze,34.0,Hog Rider,51.0,Princess,80.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+11520,Freeze,34.0,Hog Rider,51.0,Princess,80.0,Minion Horde,68.0,,,,8,False,True,2.0,0.0
+11535,Freeze,34.0,Hog Rider,51.0,Princess,80.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+11550,Freeze,34.0,Hog Rider,51.0,Princess,80.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+11565,Freeze,34.0,Hog Rider,51.0,Princess,80.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+11580,Freeze,34.0,Hog Rider,51.0,Princess,80.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+11595,Freeze,34.0,Hog Rider,51.0,Princess,80.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+11610,Freeze,34.0,Hog Rider,51.0,Princess,80.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+11625,Freeze,34.0,Hog Rider,51.0,Princess,80.0,Minion Horde,68.0,,,,7,False,True,3.0,0.0
+11640,Freeze,34.0,Barbarians,8.0,Princess,80.0,Minion Horde,68.0,Hog Rider,51.0,2.0,3,True,True,4.0,4.0
+11655,Freeze,34.0,Barbarians,8.0,Princess,80.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+11670,Freeze,34.0,Barbarians,8.0,Princess,80.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+11685,Freeze,34.0,Barbarians,8.0,Princess,80.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+11700,Freeze,34.0,Barbarians,8.0,Princess,80.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+11715,Freeze,34.0,Barbarians,8.0,Princess,80.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+11730,Freeze,34.0,Barbarians,8.0,Princess,80.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+11745,Freeze,34.0,Barbarians,8.0,Princess,80.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+11760,Freeze,34.0,Barbarians,8.0,Princess,80.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+11775,Freeze,34.0,Barbarians,8.0,Princess,80.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+11790,Freeze,34.0,Barbarians,8.0,Princess,80.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+11805,Freeze,34.0,Barbarians,8.0,Princess,80.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+11820,Freeze,34.0,Barbarians,8.0,Princess,80.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+11835,Freeze,34.0,Barbarians,8.0,Princess,80.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+11850,Freeze,34.0,Barbarians,8.0,Princess,80.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+11865,Freeze,34.0,Barbarians,8.0,Princess,80.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+11880,Freeze,34.0,Barbarians,8.0,Princess,80.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+11895,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Minion Horde,68.0,Princess,80.0,3.0,6,True,True,3.0,3.0
+11910,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+11925,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+11940,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+11955,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+11970,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+11985,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+12000,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+12015,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+12030,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+12045,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+12060,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+12075,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+12090,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+12105,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Minion Horde,68.0,,,,5,False,True,5.0,0.0
+12120,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+12135,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+12150,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+12165,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+12180,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+12195,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+12210,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+12225,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+12240,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+12255,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+12270,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+12285,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,Minion Horde,68.0,4.0,4,True,True,5.0,5.0
+12300,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+12315,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+12330,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,2,False,True,3.0,0.0
+12345,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+12360,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+12375,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+12390,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+12405,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+12420,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+12435,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+12450,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+12465,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+12480,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+12495,Princess,80.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,Freeze,34.0,1.0,2,True,True,4.0,4.0
+12510,Princess,80.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+12525,Princess,80.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+12540,Princess,80.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+12555,Princess,80.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+12570,Princess,80.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+12585,Princess,80.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+12600,Princess,80.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+12615,Princess,80.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+12630,Princess,80.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+12645,Princess,80.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,4,False,True,1.0,0.0
+12660,Princess,80.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+12675,Princess,80.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+12690,Princess,80.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+12705,Princess,80.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+12720,Princess,80.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+12735,Princess,80.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+12750,Princess,80.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+12765,Princess,80.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+12780,Princess,80.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+12795,Princess,80.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+12810,Princess,80.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+12825,Minion Horde,68.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,Princess,80.0,1.0,5,True,True,2.0,3.0
+12840,Minion Horde,68.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+12855,Minion Horde,68.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+12870,Minion Horde,68.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+12885,Minion Horde,68.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+12900,Minion Horde,68.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+12915,Minion Horde,68.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+12930,Minion Horde,68.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+12945,Minion Horde,68.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+12960,Minion Horde,68.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+12975,Minion Horde,68.0,Barbarians,8.0,Ice Wizard,55.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+12990,Minion Horde,68.0,Barbarians,8.0,Ice Wizard,55.0,Barbarians,8.0,Hog Rider,51.0,4.0,5,True,True,3.0,4.0
+13005,Minion Horde,68.0,Barbarians,8.0,Ice Wizard,55.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+13020,Freeze,34.0,Barbarians,8.0,Rocket,84.0,Barbarians,8.0,Ice Wizard,55.0,3.0,7,True,True,6.0,3.0
+13035,Freeze,34.0,Barbarians,8.0,Rocket,84.0,Barbarians,8.0,,,,1,False,False,0.0,0.0
+13050,Freeze,34.0,Barbarians,8.0,Rocket,84.0,Barbarians,8.0,,,,1,False,False,0.0,0.0
+13065,Freeze,34.0,Barbarians,8.0,Rocket,84.0,Barbarians,8.0,,,,2,False,False,0.0,0.0
+13080,Freeze,34.0,Barbarians,8.0,Rocket,84.0,Barbarians,8.0,,,,2,False,False,0.0,0.0
+13095,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Barbarians,8.0,Rocket,84.0,3.0,2,True,False,0.0,6.0
+13110,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+13125,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+13140,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+13155,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+13170,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+13185,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+13200,Freeze,34.0,Barbarians,8.0,Ice Wizard,55.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+13215,Hog Rider,51.0,Rocket,84.0,Rocket,84.0,Barbarians,8.0,Ice Wizard,55.0,3.0,1,True,True,4.0,3.0
+13230,Hog Rider,51.0,Rocket,84.0,Rocket,84.0,Barbarians,8.0,,,,2,False,False,0.0,0.0
+13245,Hog Rider,51.0,Rocket,84.0,Rocket,84.0,Barbarians,8.0,,,,2,False,False,0.0,0.0
+13260,Hog Rider,51.0,Rocket,84.0,Ice Wizard,55.0,Barbarians,8.0,Rocket,84.0,3.0,2,True,False,0.0,6.0
+13275,Hog Rider,51.0,Rocket,84.0,Ice Wizard,55.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+13290,Hog Rider,51.0,Rocket,84.0,Ice Wizard,55.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+13305,Hog Rider,51.0,Rocket,84.0,Ice Wizard,55.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+13320,Hog Rider,51.0,Rocket,84.0,Barbarians,8.0,Barbarians,8.0,Ice Wizard,55.0,3.0,3,True,False,0.0,3.0
+13335,Hog Rider,51.0,Rocket,84.0,Barbarians,8.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+13350,Hog Rider,51.0,Rocket,84.0,Barbarians,8.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+13365,Hog Rider,51.0,Rocket,84.0,Barbarians,8.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+13380,Hog Rider,51.0,Rocket,84.0,Barbarians,8.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+13395,Hog Rider,51.0,Rocket,84.0,Barbarians,8.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+13410,Hog Rider,51.0,Rocket,84.0,Barbarians,8.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+13425,Hog Rider,51.0,Rocket,84.0,Barbarians,8.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+13440,Hog Rider,51.0,Rocket,84.0,Barbarians,8.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+13455,Hog Rider,51.0,Rocket,84.0,Barbarians,8.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+13470,X,106.0,Rocket,84.0,Barbarians,8.0,Barbarians,8.0,Hog Rider,51.0,1.0,3,True,False,0.0,4.0
+13485,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,Barbarians,8.0,4.0,3,True,False,0.0,5.0
+13500,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13515,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13530,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13545,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13560,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13575,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13590,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13605,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13620,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13635,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13650,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13665,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13680,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13695,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13710,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13725,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13740,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13755,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13770,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13785,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13800,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13815,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13830,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13845,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13860,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13875,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13890,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13905,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13920,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13935,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13950,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13965,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13980,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+13995,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14010,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14025,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14040,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14055,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14070,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14085,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14100,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14115,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14130,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14145,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14160,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14175,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14190,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14205,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14220,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14235,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14250,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14265,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14280,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14295,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14310,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14325,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14340,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14355,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14370,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14385,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14400,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14415,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14430,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14445,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14460,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14475,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14490,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14505,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14520,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14535,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14550,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+14565,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+14580,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+14595,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+14610,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+14625,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+14640,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+14655,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+14670,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+14685,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+14700,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+14715,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+14730,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+14745,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+14760,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+14775,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+14790,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+14805,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+14820,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+14835,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+14850,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+14865,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+14880,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,9,False,False,0.0,0.0
+14895,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,9,False,False,0.0,0.0
+14910,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,4.0,6,True,True,3.0,3.0
+14925,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+14940,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+14955,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+14970,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+14985,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+15000,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+15015,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+15030,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,True,3.0,0.0
+15045,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+15060,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+15075,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+15090,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+15105,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+15120,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+15135,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+15150,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+15165,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+15180,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+15195,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+15210,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+15225,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+15240,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+15255,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,0,False,True,6.0,0.0
+15270,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,0,False,False,0.0,0.0
+15285,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,0,False,False,0.0,0.0
+15300,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+15315,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+15330,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+15345,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+15360,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+15375,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+15390,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+15405,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+15420,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+15435,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+15450,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+15465,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+15480,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+15495,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+15510,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+15525,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+15540,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+15555,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+15570,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+15585,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+15600,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+15615,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+15630,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,True,2.0,0.0
+15645,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+15660,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+15675,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+15690,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+15705,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+15720,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+15735,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+15750,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+15765,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+15780,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+15795,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,0,False,True,4.0,0.0
+15810,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+15825,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+15840,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+15855,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+15870,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,0,False,True,1.0,0.0
+15885,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,0,False,False,0.0,0.0
+15900,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+15915,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+15930,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+15945,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+15960,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+15975,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+15990,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+16005,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+16020,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+16035,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+16050,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+16065,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+16080,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+16095,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,0,False,True,3.0,0.0
+16110,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,0,False,False,0.0,0.0
+16125,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,0,False,False,0.0,0.0
+16140,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+16155,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+16170,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+16185,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+16200,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+16215,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+16230,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+16245,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+16260,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+16275,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+16290,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+16305,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+16320,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+16335,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+16350,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+16365,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+16380,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+16395,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+16410,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+16425,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+16440,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+16455,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+16470,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+16485,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+16500,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+16515,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,True,3.0,0.0
+16530,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+16545,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+16560,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+16575,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+16590,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+16605,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+16620,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+16635,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+16650,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+16665,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+16680,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+16695,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+16710,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+16725,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+16740,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+16755,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+16770,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+16785,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+16800,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+16815,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+16830,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+16845,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+16860,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+16875,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+16890,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+16905,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+16920,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+16935,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+16950,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+16965,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+16980,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,8,False,False,0.0,0.0
+16995,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,8,False,False,0.0,0.0
+17010,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,8,False,False,0.0,0.0
+17025,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,8,False,False,0.0,0.0
+17040,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,8,False,False,0.0,0.0
+17055,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,8,False,False,0.0,0.0
+17070,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,9,False,False,0.0,0.0
+17085,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,9,False,False,0.0,0.0
+17100,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,True,2.0,0.0
+17115,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+17130,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,True,3.0,0.0
+17145,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+17160,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+17175,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+17190,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,True,1.0,0.0
+17205,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+17220,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+17235,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+17250,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+17265,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,True,3.0,0.0
+17280,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+17295,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+17310,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+17325,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+17340,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,1,False,True,3.0,0.0
+17355,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+17370,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+17385,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+17400,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+17415,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+17430,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+17445,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+17460,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+17475,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+17490,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+17505,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+17520,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+17535,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+17550,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+17565,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+17580,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+17595,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+17610,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,8,False,False,0.0,0.0
+17625,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,8,False,False,0.0,0.0
+17640,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,8,False,False,0.0,0.0
+17655,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,9,False,False,0.0,0.0
+17670,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,9,False,False,0.0,0.0
+17685,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,9,False,False,0.0,0.0
+17700,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,X,106.0,1.0,4,True,True,5.0,6.0
+17715,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+17730,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,True,2.0,0.0
+17745,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+17760,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+17775,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+17790,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+17805,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+17820,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+17835,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+17850,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+17865,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+17880,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+17895,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+17910,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+17925,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+17940,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+17955,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,8,False,False,0.0,0.0
+17970,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,8,False,False,0.0,0.0
+17985,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,8,False,False,0.0,0.0
+18000,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,9,False,False,0.0,0.0
+18015,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,8,False,True,1.0,0.0
+18030,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,9,False,False,0.0,0.0
+18045,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,9,False,False,0.0,0.0
+18060,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,9,False,False,0.0,0.0
+18075,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,1.0,7,True,True,2.0,3.0
+18090,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+18105,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+18120,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,8,False,False,0.0,0.0
+18135,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,8,False,False,0.0,0.0
+18150,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,8,False,False,0.0,0.0
+18165,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,9,False,False,0.0,0.0
+18180,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,9,False,False,0.0,0.0
+18195,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,True,4.0,0.0
+18210,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+18225,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+18240,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+18255,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,True,3.0,0.0
+18270,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+18285,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+18300,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+18315,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+18330,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+18345,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+18360,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+18375,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+18390,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+18405,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+18420,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,True,1.0,0.0
+18435,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+18450,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+18465,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+18480,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+18495,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,8,False,False,0.0,0.0
+18510,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,True,3.0,0.0
+18525,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+18540,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+18555,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+18570,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+18585,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+18600,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+18615,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,True,3.0,0.0
+18630,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+18645,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+18660,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+18675,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+18690,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,True,1.0,0.0
+18705,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+18720,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+18735,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+18750,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,True,2.0,0.0
+18765,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+18780,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+18795,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+18810,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+18825,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+18840,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+18855,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+18870,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+18885,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+18900,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+18915,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,8,False,False,0.0,0.0
+18930,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,True,2.0,0.0
+18945,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+18960,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+18975,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+18990,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+19005,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,8,False,False,0.0,0.0
+19020,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,8,False,False,0.0,0.0
+19035,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,True,4.0,0.0
+19050,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+19065,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+19080,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,True,2.0,0.0
+19095,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+19110,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+19125,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+19140,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,True,1.0,0.0
+19155,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+19170,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+19185,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+19200,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,1,False,True,3.0,0.0
+19215,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+19230,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+19245,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+19260,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+19275,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+19290,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+19305,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+19320,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+19335,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+19350,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+19365,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+19380,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+19395,X,106.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+19410,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,X,106.0,4.0,0,True,True,6.0,6.0
+19425,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,1,False,False,0.0,0.0
+19440,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,1,False,False,0.0,0.0
+19455,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,1,False,False,0.0,0.0
+19470,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+19485,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+19500,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+19515,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+19530,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+19545,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+19560,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+19575,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+19590,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,1,False,True,3.0,0.0
+19605,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,1,False,False,0.0,0.0
+19620,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,1,False,False,0.0,0.0
+19635,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+19650,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+19665,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+19680,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+19695,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+19710,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+19725,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+19740,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,1,False,True,2.0,0.0
+19755,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+19770,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+19785,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+19800,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+19815,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+19830,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+19845,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+19860,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+19875,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,1,False,True,3.0,0.0
+19890,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+19905,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,1,False,True,1.0,0.0
+19920,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+19935,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+19950,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+19965,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+19980,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,1,False,True,3.0,0.0
+19995,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,1,False,False,0.0,0.0
+20010,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+20025,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+20040,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+20055,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+20070,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+20085,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+20100,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+20115,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+20130,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+20145,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+20160,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+20175,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+20190,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+20205,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+20220,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+20235,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+20250,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+20265,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+20280,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+20295,X,106.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+20310,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,X,106.0,1.0,3,True,True,5.0,6.0
+20325,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+20340,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+20355,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+20370,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,1,False,True,3.0,0.0
+20385,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+20400,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+20415,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+20430,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+20445,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+20460,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+20475,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+20490,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+20505,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+20520,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,4.0,2,True,True,2.0,3.0
+20535,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+20550,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+20565,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+20580,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+20595,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+20610,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+20625,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+20640,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+20655,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+20670,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+20685,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+20700,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+20715,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+20730,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+20745,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+20760,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+20775,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,True,2.0,0.0
+20790,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+20805,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,True,5.0,0.0
+20820,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+20835,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+20850,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+20865,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+20880,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,1,False,True,3.0,0.0
+20895,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+20910,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+20925,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+20940,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+20955,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+20970,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,True,2.0,0.0
+20985,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+21000,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+21015,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+21030,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+21045,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+21060,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+21075,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+21090,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+21105,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,True,3.0,0.0
+21120,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+21135,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+21150,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,2,False,True,1.0,0.0
+21165,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+21180,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+21195,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+21210,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+21225,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+21240,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+21255,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+21270,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+21285,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+21300,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,4,False,True,3.0,0.0
+21315,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+21330,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0

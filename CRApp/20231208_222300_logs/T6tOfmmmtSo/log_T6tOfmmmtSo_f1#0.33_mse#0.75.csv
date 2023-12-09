@@ -1,0 +1,1127 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Earthquake,20.0,Hunter,52.0,,,,,,,,6,False,False,0.0,0.0
+00255,Earthquake,20.0,Hunter,52.0,,,,,,,,6,False,False,0.0,0.0
+00270,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,4.0,6,True,False,0.0,0.0
+00285,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+00300,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+00315,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+00330,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+00345,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+00360,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+00375,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+00390,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+00405,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+00420,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+00435,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+00450,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+00465,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+00480,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+00495,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+00510,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+00525,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+00540,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,10,False,False,0.0,0.0
+00555,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,10,False,False,0.0,0.0
+00570,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,10,False,False,0.0,0.0
+00585,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,10,False,False,0.0,0.0
+00600,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,10,False,False,0.0,0.0
+00615,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,10,False,False,0.0,0.0
+00630,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,10,False,False,0.0,0.0
+00645,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,10,False,False,0.0,0.0
+00660,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,10,False,False,0.0,0.0
+00675,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,True,3.0,0.0
+00690,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+00705,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+00720,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+00735,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+00750,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+00765,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+00780,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+00795,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+00810,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+00825,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+00840,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+00855,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+00870,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+00885,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+00900,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+00915,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,True,3.0,0.0
+00930,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+00945,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+00960,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+00975,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+00990,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+01005,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+01020,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+01035,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+01050,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+01065,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+01080,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+01095,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+01110,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+01125,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+01140,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+01155,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,True,3.0,0.0
+01170,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+01185,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+01200,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+01215,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+01230,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+01245,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+01260,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+01275,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+01290,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+01305,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+01320,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+01335,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+01350,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+01365,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+01380,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+01395,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+01410,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+01425,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,10,False,False,0.0,0.0
+01440,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,10,False,False,0.0,0.0
+01455,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,10,False,False,0.0,0.0
+01470,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,10,False,False,0.0,0.0
+01485,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,10,False,False,0.0,0.0
+01500,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,10,False,False,0.0,0.0
+01515,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,10,False,False,0.0,0.0
+01530,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,True,6.0,0.0
+01545,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+01560,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+01575,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+01590,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+01605,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+01620,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+01635,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+01650,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+01665,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+01680,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+01695,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+01710,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+01725,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+01740,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+01755,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+01770,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+01785,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+01800,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+01815,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+01830,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+01845,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+01860,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+01875,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+01890,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+01905,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+01920,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+01935,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+01950,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,3,False,True,6.0,0.0
+01965,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,3,False,False,0.0,0.0
+01980,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,3,False,False,0.0,0.0
+01995,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,3,False,False,0.0,0.0
+02010,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,3,False,False,0.0,0.0
+02025,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+02040,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+02055,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+02070,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+02085,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+02100,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+02115,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+02130,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+02145,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+02160,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+02175,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+02190,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+02205,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+02220,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+02235,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+02250,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+02265,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+02280,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+02295,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+02310,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+02325,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+02340,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+02355,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+02370,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+02385,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+02400,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+02415,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+02430,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+02445,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+02460,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+02475,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+02490,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+02505,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+02520,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,10,False,False,0.0,0.0
+02535,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,True,4.0,0.0
+02550,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+02565,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+02580,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+02595,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+02610,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+02625,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+02640,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+02655,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,True,3.0,0.0
+02670,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+02685,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+02700,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+02715,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+02730,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+02745,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+02760,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+02775,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+02790,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+02805,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+02820,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+02835,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+02850,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+02865,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+02880,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+02895,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,True,3.0,0.0
+02910,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+02925,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+02940,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+02955,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+02970,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+02985,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+03000,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+03015,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+03030,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+03045,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+03060,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+03075,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+03090,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+03105,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+03120,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+03135,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+03150,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+03165,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+03180,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+03195,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+03210,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+03225,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+03240,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+03255,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+03270,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+03285,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+03300,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+03315,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+03330,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+03345,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,True,3.0,0.0
+03360,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+03375,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+03390,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+03405,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+03420,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+03435,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+03450,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+03465,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+03480,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+03495,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+03510,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+03525,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+03540,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+03555,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+03570,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+03585,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+03600,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,3,False,True,6.0,0.0
+03615,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+03630,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+03645,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+03660,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+03675,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+03690,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+03705,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+03720,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+03735,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+03750,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+03765,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+03780,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+03795,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+03810,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+03825,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+03840,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+03855,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+03870,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+03885,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+03900,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+03915,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+03930,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+03945,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,3,False,True,6.0,0.0
+03960,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+03975,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+03990,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+04005,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+04020,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+04035,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+04050,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+04065,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+04080,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+04095,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+04110,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+04125,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+04140,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,True,4.0,0.0
+04155,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+04170,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,2,False,True,2.0,0.0
+04185,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,2,False,False,0.0,0.0
+04200,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,2,False,False,0.0,0.0
+04215,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,3,False,False,0.0,0.0
+04230,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,3,False,False,0.0,0.0
+04245,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+04260,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,1,False,True,3.0,0.0
+04275,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,1,False,False,0.0,0.0
+04290,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,2,False,False,0.0,0.0
+04305,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,2,False,False,0.0,0.0
+04320,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,2,False,False,0.0,0.0
+04335,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,3,False,False,0.0,0.0
+04350,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,3,False,False,0.0,0.0
+04365,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,3,False,False,0.0,0.0
+04380,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+04395,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+04410,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+04425,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,2,False,True,2.0,0.0
+04440,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,2,False,False,0.0,0.0
+04455,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,3,False,False,0.0,0.0
+04470,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,3,False,False,0.0,0.0
+04485,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,3,False,False,0.0,0.0
+04500,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+04515,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+04530,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+04545,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+04560,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+04575,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+04590,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+04605,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+04620,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+04635,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+04650,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+04665,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+04680,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+04695,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+04710,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+04725,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+04740,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+04755,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,10,False,False,0.0,0.0
+04770,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,10,False,False,0.0,0.0
+04785,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,True,3.0,0.0
+04800,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+04815,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+04830,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+04845,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+04860,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+04875,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+04890,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+04905,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,10,False,False,0.0,0.0
+04920,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,10,False,False,0.0,0.0
+04935,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,True,6.0,0.0
+04950,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+04965,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+04980,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+04995,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+05010,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+05025,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+05040,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+05055,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,3,False,True,3.0,0.0
+05070,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+05085,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+05100,Earthquake,20.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+05115,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,Earthquake,20.0,1.0,2,True,True,3.0,3.0
+05130,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,2,False,False,0.0,0.0
+05145,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,3,False,False,0.0,0.0
+05160,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,3,False,False,0.0,0.0
+05175,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,3,False,False,0.0,0.0
+05190,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+05205,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+05220,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+05235,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+05250,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+05265,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+05280,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+05295,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+05310,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+05325,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,True,3.0,0.0
+05340,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+05355,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+05370,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+05385,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+05400,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+05415,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+05430,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+05445,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+05460,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+05475,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+05490,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+05505,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,8,False,False,0.0,0.0
+05520,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+05535,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,9,False,False,0.0,0.0
+05550,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,6,False,True,3.0,0.0
+05565,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+05580,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+05595,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Zappies,108.0,,,,7,False,False,0.0,0.0
+05610,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Earthquake,20.0,Zappies,108.0,4.0,4,True,True,3.0,4.0
+05625,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Earthquake,20.0,,,,4,False,False,0.0,0.0
+05640,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Earthquake,20.0,,,,4,False,False,0.0,0.0
+05655,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Earthquake,20.0,,,,5,False,False,0.0,0.0
+05670,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Earthquake,20.0,,,,2,False,True,3.0,0.0
+05685,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Earthquake,20.0,,,,2,False,False,0.0,0.0
+05700,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Earthquake,20.0,,,,3,False,False,0.0,0.0
+05715,Fisherman,32.0,Hunter,52.0,Hunter,52.0,Earthquake,20.0,,,,3,False,False,0.0,0.0
+05730,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Earthquake,20.0,Hunter,52.0,3.0,3,True,True,2.0,4.0
+05745,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Earthquake,20.0,,,,1,False,False,0.0,0.0
+05760,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Earthquake,20.0,,,,1,False,False,0.0,0.0
+05775,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Earthquake,20.0,,,,2,False,False,0.0,0.0
+05790,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Earthquake,20.0,,,,2,False,False,0.0,0.0
+05805,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Earthquake,20.0,,,,2,False,False,0.0,0.0
+05820,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Earthquake,20.0,,,,2,False,False,0.0,0.0
+05835,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Earthquake,20.0,,,,3,False,False,0.0,0.0
+05850,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Earthquake,20.0,,,,1,False,True,2.0,0.0
+05865,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Earthquake,20.0,,,,1,False,False,0.0,0.0
+05880,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Earthquake,20.0,,,,1,False,False,0.0,0.0
+05895,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Earthquake,20.0,,,,1,False,False,0.0,0.0
+05910,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Earthquake,20.0,,,,1,False,False,0.0,0.0
+05925,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Earthquake,20.0,,,,1,False,False,0.0,0.0
+05940,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Earthquake,20.0,,,,1,False,False,0.0,0.0
+05955,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Earthquake,20.0,,,,1,False,False,0.0,0.0
+05970,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Earthquake,20.0,,,,3,False,False,0.0,0.0
+05985,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Earthquake,20.0,,,,4,False,False,0.0,0.0
+06000,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Earthquake,20.0,,,,4,False,False,0.0,0.0
+06015,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Earthquake,20.0,,,,4,False,False,0.0,0.0
+06030,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Earthquake,20.0,,,,4,False,False,0.0,0.0
+06045,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Earthquake,20.0,,,,4,False,False,0.0,0.0
+06060,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Earthquake,20.0,,,,4,False,False,0.0,0.0
+06075,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Earthquake,20.0,,,,4,False,False,0.0,0.0
+06090,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Fireball,30.0,Earthquake,20.0,4.0,4,True,False,0.0,3.0
+06105,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06120,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06135,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06150,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06165,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06180,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+06195,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+06210,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+06225,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+06240,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+06255,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+06270,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+06285,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+06300,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+06315,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+06330,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+06345,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+06360,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+06375,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+06390,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+06405,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+06420,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+06435,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+06450,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+06465,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+06480,Fisherman,32.0,Hunter,52.0,Fireball,30.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+06495,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,Hunter,52.0,2.0,6,True,True,4.0,4.0
+06510,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06525,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06540,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06555,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06570,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06585,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06600,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06615,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06630,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06645,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06660,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+06675,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+06690,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+06705,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+06720,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+06735,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+06750,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+06765,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+06780,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+06795,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+06810,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+06825,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+06840,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+06855,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+06870,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+06885,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+06900,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+06915,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+06930,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+06945,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+06960,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,True,4.0,0.0
+06975,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06990,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+07005,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+07020,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+07035,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+07050,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+07065,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+07080,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+07095,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+07110,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+07125,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+07140,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,True,1.0,0.0
+07155,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+07170,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+07185,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+07200,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+07215,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+07230,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+07245,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+07260,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+07275,Fisherman,32.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+07290,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,Fisherman,32.0,1.0,6,True,True,2.0,3.0
+07305,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+07320,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,True,4.0,0.0
+07335,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+07350,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+07365,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+07380,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+07395,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+07410,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+07425,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+07440,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,0,False,True,2.0,0.0
+07455,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,0,False,False,0.0,0.0
+07470,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+07485,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+07500,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+07515,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+07530,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+07545,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+07560,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+07575,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+07590,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+07605,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+07620,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+07635,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+07650,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,True,1.0,0.0
+07665,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+07680,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+07695,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+07710,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+07725,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+07740,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+07755,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+07770,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+07785,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+07800,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+07815,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+07830,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+07845,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+07860,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+07875,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+07890,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+07905,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+07920,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+07935,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+07950,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+07965,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+07980,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+07995,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+08010,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+08025,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+08040,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+08055,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+08070,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+08085,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+08100,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+08115,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+08130,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+08145,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+08160,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+08175,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+08190,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+08205,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+08220,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+08235,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+08250,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+08265,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+08280,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+08295,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,4,False,True,5.0,0.0
+08310,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+08325,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+08340,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,0,False,True,4.0,0.0
+08355,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,0,False,False,0.0,0.0
+08370,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,0,False,False,0.0,0.0
+08385,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+08400,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+08415,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+08430,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+08445,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+08460,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+08475,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+08490,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+08505,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+08520,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+08535,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+08550,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+08565,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+08580,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+08595,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+08610,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+08625,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+08640,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+08655,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+08670,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+08685,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+08700,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+08715,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+08730,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+08745,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+08760,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+08775,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+08790,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+08805,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+08820,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+08835,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+08850,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+08865,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+08880,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+08895,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+08910,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+08925,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+08940,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+08955,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+08970,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+08985,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+09000,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+09015,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+09030,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+09045,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+09060,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+09075,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+09090,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+09105,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+09120,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+09135,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+09150,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+09165,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+09180,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+09195,Hunter,52.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+09210,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,Hunter,52.0,1.0,5,True,True,4.0,4.0
+09225,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+09240,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+09255,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+09270,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+09285,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+09300,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+09315,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+09330,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+09345,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+09360,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+09375,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+09390,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+09405,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+09420,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+09435,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,True,2.0,0.0
+09450,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+09465,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+09480,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+09495,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+09510,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+09525,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+09540,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+09555,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+09570,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+09585,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+09600,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+09615,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+09630,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+09645,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+09660,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+09675,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+09690,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+09705,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+09720,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+09735,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+09750,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,Fireball,30.0,4.0,6,True,True,4.0,4.0
+09765,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+09780,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+09795,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+09810,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+09825,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,3,False,True,4.0,0.0
+09840,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+09855,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+09870,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+09885,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+09900,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+09915,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+09930,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+09945,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,5,False,True,1.0,0.0
+09960,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+09975,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+09990,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+10005,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,5,False,True,1.0,0.0
+10020,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+10035,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+10050,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+10065,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+10080,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+10095,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+10110,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,2,False,True,4.0,0.0
+10125,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+10140,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+10155,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+10170,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+10185,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+10200,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+10215,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+10230,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+10245,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+10260,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+10275,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+10290,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+10305,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+10320,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+10335,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+10350,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+10365,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+10380,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+10395,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+10410,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+10425,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,10,False,False,0.0,0.0
+10440,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,4,False,True,6.0,0.0
+10455,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+10470,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,0,False,True,4.0,0.0
+10485,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+10500,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+10515,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+10530,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+10545,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+10560,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+10575,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+10590,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+10605,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+10620,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,1,False,True,2.0,0.0
+10635,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+10650,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+10665,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+10680,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+10695,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+10710,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+10725,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+10740,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+10755,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,0,False,True,4.0,0.0
+10770,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+10785,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+10800,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+10815,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+10830,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+10845,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+10860,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+10875,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+10890,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+10905,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+10920,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+10935,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+10950,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+10965,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+10980,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+10995,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+11010,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+11025,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+11040,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+11055,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,Hunter,52.0,4.0,3,True,True,4.0,4.0
+11070,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+11085,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+11100,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+11115,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11130,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11145,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+11160,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+11175,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+11190,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+11205,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+11220,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,0,False,True,6.0,0.0
+11235,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+11250,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+11265,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+11280,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+11295,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+11310,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+11325,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+11340,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,2,False,True,1.0,0.0
+11355,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+11370,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+11385,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+11400,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11415,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11430,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11445,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+11460,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+11475,Musketeer,73.0,Fisherman,32.0,Fireball,30.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+11490,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,Fireball,30.0,3.0,6,True,False,0.0,4.0
+11505,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+11520,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+11535,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,3,False,True,3.0,0.0
+11550,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11565,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11580,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11595,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11610,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11625,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11640,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11655,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11670,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11685,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11700,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11715,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11730,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11745,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11760,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11775,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11790,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11805,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11820,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+11835,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+11850,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+11865,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+11880,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+11895,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+11910,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+11925,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+11940,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+11955,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+11970,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+11985,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12000,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12015,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12030,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12045,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12060,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+12075,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+12090,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+12105,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,8,False,True,1.0,0.0
+12120,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12135,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12150,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+12165,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+12180,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+12195,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+12210,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+12225,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,5,False,True,4.0,0.0
+12240,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+12255,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+12270,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+12285,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+12300,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+12315,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+12330,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+12345,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+12360,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+12375,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+12390,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+12405,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12420,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12435,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12450,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12465,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12480,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+12495,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+12510,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+12525,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+12540,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+12555,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+12570,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+12585,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+12600,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+12615,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+12630,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+12645,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+12660,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+12675,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+12690,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+12705,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+12720,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,6,False,True,4.0,0.0
+12735,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+12750,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+12765,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+12780,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+12795,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+12810,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12825,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12840,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12855,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12870,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12885,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12900,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12915,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12930,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12945,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12960,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12975,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+12990,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+13005,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+13020,Musketeer,73.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+13035,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,Knight,58.0,2.0,6,True,True,3.0,3.0
+13050,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+13065,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+13080,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+13095,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,1,False,True,6.0,0.0
+13110,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+13125,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+13140,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+13155,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+13170,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+13185,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+13200,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+13215,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+13230,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+13245,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+13260,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+13275,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+13290,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+13305,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+13320,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+13335,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+13350,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+13365,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+13380,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,0,False,True,4.0,0.0
+13395,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+13410,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+13425,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,0,False,True,1.0,0.0
+13440,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,0,False,False,0.0,0.0
+13455,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,0,False,False,0.0,0.0
+13470,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+13485,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+13500,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+13515,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+13530,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+13545,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+13560,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+13575,Musketeer,73.0,The Log,98.0,The Log,98.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+13590,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,The Log,98.0,3.0,0,True,True,2.0,2.0
+13605,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,0,False,False,0.0,0.0
+13620,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,0,False,False,0.0,0.0
+13635,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+13650,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+13665,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+13680,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+13695,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+13710,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+13725,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+13740,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+13755,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+13770,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+13785,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+13800,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+13815,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+13830,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,2,False,True,1.0,0.0
+13845,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+13860,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+13875,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+13890,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+13905,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+13920,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+13935,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+13950,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+13965,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+13980,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+13995,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+14010,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+14025,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+14040,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+14055,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+14070,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+14085,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+14100,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+14115,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+14130,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+14145,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+14160,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+14175,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+14190,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+14205,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+14220,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+14235,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+14250,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+14265,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+14280,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+14295,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+14310,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+14325,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+14340,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+14355,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+14370,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+14385,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+14400,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+14415,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+14430,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+14445,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+14460,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+14475,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+14490,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,6,False,True,4.0,0.0
+14505,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+14520,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+14535,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+14550,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+14565,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+14580,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+14595,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+14610,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+14625,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+14640,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+14655,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+14670,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+14685,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+14700,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+14715,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+14730,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+14745,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+14760,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+14775,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+14790,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+14805,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,6,False,True,3.0,0.0
+14820,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+14835,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+14850,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+14865,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+14880,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+14895,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+14910,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+14925,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+14940,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+14955,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+14970,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+14985,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+15000,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,3,False,True,6.0,0.0
+15015,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+15030,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+15045,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+15060,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+15075,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+15090,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+15105,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+15120,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+15135,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+15150,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+15165,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,4,False,True,1.0,0.0
+15180,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+15195,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+15210,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+15225,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+15240,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+15255,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+15270,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+15285,Musketeer,73.0,The Log,98.0,Knight,58.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+15300,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,Fireball,30.0,4.0,1,True,True,4.0,4.0
+15315,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,0,False,True,1.0,0.0
+15330,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+15345,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+15360,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+15375,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+15390,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+15405,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+15420,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+15435,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+15450,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+15465,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+15480,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+15495,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+15510,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+15525,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+15540,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+15555,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+15570,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+15585,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+15600,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+15615,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+15630,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+15645,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+15660,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+15675,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+15690,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+15705,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,6,False,True,2.0,0.0
+15720,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+15735,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+15750,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+15765,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,1,False,True,6.0,0.0
+15780,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+15795,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+15810,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+15825,Musketeer,73.0,The Log,98.0,Knight,58.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+15840,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,The Log,98.0,2.0,1,True,True,2.0,2.0
+15855,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+15870,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+15885,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+15900,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+15915,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+15930,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+15945,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+15960,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+15975,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+15990,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+16005,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,1,False,True,4.0,0.0
+16020,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+16035,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+16050,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+16065,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+16080,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+16095,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+16110,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+16125,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+16140,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+16155,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+16170,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+16185,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+16200,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+16215,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+16230,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+16245,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+16260,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+16275,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+16290,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+16305,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+16320,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+16335,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+16350,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+16365,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+16380,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+16395,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+16410,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+16425,Musketeer,73.0,Fireball,30.0,Knight,58.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+16440,Musketeer,73.0,Fireball,30.0,The Log,98.0,Musketeer,73.0,Knight,58.0,3.0,6,True,True,3.0,3.0
+16455,Musketeer,73.0,Fireball,30.0,The Log,98.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+16470,Musketeer,73.0,Fireball,30.0,The Log,98.0,Musketeer,73.0,,,,1,False,True,6.0,0.0
+16485,Musketeer,73.0,Fireball,30.0,The Log,98.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+16500,Musketeer,73.0,Fireball,30.0,The Log,98.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+16515,Musketeer,73.0,Fireball,30.0,The Log,98.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+16530,Musketeer,73.0,Fireball,30.0,The Log,98.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+16545,Musketeer,73.0,Fireball,30.0,The Log,98.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+16560,Musketeer,73.0,Fireball,30.0,The Log,98.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+16575,Musketeer,73.0,Fireball,30.0,The Log,98.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+16590,Musketeer,73.0,Fireball,30.0,The Log,98.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+16605,Musketeer,73.0,Fireball,30.0,The Log,98.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+16620,Musketeer,73.0,Fireball,30.0,The Log,98.0,Knight,58.0,Musketeer,73.0,4.0,4,True,True,3.0,4.0
+16635,Musketeer,73.0,Fireball,30.0,The Log,98.0,Knight,58.0,,,,1,False,False,0.0,0.0
+16650,Musketeer,73.0,Fireball,30.0,The Log,98.0,Knight,58.0,,,,1,False,False,0.0,0.0
+16665,Musketeer,73.0,Fireball,30.0,The Log,98.0,Knight,58.0,,,,2,False,False,0.0,0.0
+16680,Musketeer,73.0,Fireball,30.0,The Log,98.0,Knight,58.0,,,,2,False,False,0.0,0.0
+16695,Musketeer,73.0,Fireball,30.0,The Log,98.0,Knight,58.0,,,,2,False,False,0.0,0.0
+16710,Musketeer,73.0,Fireball,30.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+16725,Musketeer,73.0,Fireball,30.0,The Log,98.0,Knight,58.0,,,,3,False,False,0.0,0.0
+16740,Musketeer,73.0,Fireball,30.0,Musketeer,73.0,Knight,58.0,The Log,98.0,3.0,1,True,True,2.0,2.0
+16755,Musketeer,73.0,Fireball,30.0,Musketeer,73.0,Knight,58.0,,,,2,False,False,0.0,0.0
+16770,Musketeer,73.0,Fireball,30.0,Musketeer,73.0,Knight,58.0,,,,1,False,True,1.0,0.0
+16785,Musketeer,73.0,Fireball,30.0,Musketeer,73.0,Knight,58.0,,,,1,False,False,0.0,0.0
+16800,Musketeer,73.0,Fireball,30.0,Musketeer,73.0,Knight,58.0,,,,2,False,False,0.0,0.0
+16815,Musketeer,73.0,Fireball,30.0,Musketeer,73.0,Knight,58.0,,,,2,False,False,0.0,0.0
+16830,Musketeer,73.0,Fireball,30.0,Musketeer,73.0,Knight,58.0,,,,3,False,False,0.0,0.0
+16845,Musketeer,73.0,Fireball,30.0,Musketeer,73.0,Knight,58.0,,,,3,False,False,0.0,0.0
+16860,Musketeer,73.0,Fireball,30.0,Musketeer,73.0,Knight,58.0,,,,3,False,False,0.0,0.0
+16875,Musketeer,73.0,Fireball,30.0,Musketeer,73.0,Knight,58.0,,,,1,False,True,2.0,0.0
+16890,Musketeer,73.0,Fireball,30.0,Musketeer,73.0,Knight,58.0,,,,1,False,False,0.0,0.0
+16905,Musketeer,73.0,Fireball,30.0,Musketeer,73.0,Knight,58.0,,,,1,False,False,0.0,0.0
+16920,Musketeer,73.0,Fireball,30.0,Musketeer,73.0,Knight,58.0,,,,2,False,False,0.0,0.0
+16935,Musketeer,73.0,Fireball,30.0,Musketeer,73.0,Knight,58.0,,,,2,False,False,0.0,0.0
+16950,Musketeer,73.0,Fireball,30.0,Musketeer,73.0,Knight,58.0,,,,2,False,False,0.0,0.0
+16965,Musketeer,73.0,Fireball,30.0,Musketeer,73.0,Knight,58.0,,,,2,False,False,0.0,0.0
+16980,Musketeer,73.0,Fireball,30.0,Musketeer,73.0,Knight,58.0,,,,2,False,False,0.0,0.0
+16995,Musketeer,73.0,Fireball,30.0,Musketeer,73.0,Knight,58.0,,,,2,False,False,0.0,0.0
+17010,Musketeer,73.0,Fireball,30.0,Musketeer,73.0,Knight,58.0,,,,3,False,False,0.0,0.0
+17025,Musketeer,73.0,Fireball,30.0,Musketeer,73.0,Knight,58.0,,,,3,False,False,0.0,0.0
+17040,Musketeer,73.0,Fireball,30.0,Musketeer,73.0,Knight,58.0,,,,4,False,False,0.0,0.0
+17055,Musketeer,73.0,Fireball,30.0,Musketeer,73.0,Knight,58.0,,,,4,False,False,0.0,0.0
+17070,Musketeer,73.0,Fireball,30.0,Musketeer,73.0,Knight,58.0,,,,4,False,False,0.0,0.0
+17085,Musketeer,73.0,Fireball,30.0,Musketeer,73.0,Knight,58.0,,,,5,False,False,0.0,0.0
+17100,Musketeer,73.0,Fireball,30.0,Musketeer,73.0,Knight,58.0,,,,5,False,False,0.0,0.0
+17115,Musketeer,73.0,Fireball,30.0,Musketeer,73.0,Knight,58.0,,,,5,False,False,0.0,0.0

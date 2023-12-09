@@ -1,0 +1,606 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Witch,104.0,,,Bats,9.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+00255,Witch,104.0,,,Bats,9.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+00270,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,2.0,7,True,False,0.0,0.0
+00285,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+00300,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+00315,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+00330,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+00345,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+00360,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+00375,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+00390,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+00405,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+00420,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+00435,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+00450,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+00465,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+00480,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+00495,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+00510,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+00525,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+00540,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+00555,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+00570,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+00585,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+00600,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,10,False,False,0.0,0.0
+00615,Witch,104.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,Golem,47.0,2.0,2,True,True,8.0,8.0
+00630,Witch,104.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+00645,Witch,104.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+00660,Witch,104.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+00675,Witch,104.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+00690,Witch,104.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+00705,Witch,104.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+00720,Witch,104.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+00735,Witch,104.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+00750,Witch,104.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+00765,Witch,104.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+00780,Witch,104.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+00795,Witch,104.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+00810,Witch,104.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+00825,Witch,104.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+00840,Witch,104.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+00855,Zap,107.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,Witch,104.0,1.0,5,True,False,0.0,5.0
+00870,Zap,107.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+00885,Zap,107.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+00900,Zap,107.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+00915,Zap,107.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+00930,Zap,107.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+00945,Zap,107.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+00960,Zap,107.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,True,4.0,0.0
+00975,Zap,107.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+00990,Zap,107.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+01005,Zap,107.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+01020,Zap,107.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+01035,Zap,107.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+01050,Zap,107.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+01065,Zap,107.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+01080,Zap,107.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+01095,Zap,107.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+01110,Zap,107.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+01125,Zap,107.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+01140,Zap,107.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+01155,Zap,107.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+01170,Zap,107.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+01185,Zap,107.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+01200,Zap,107.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+01215,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,Flying Machine,33.0,2.0,1,True,True,4.0,4.0
+01230,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+01245,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+01260,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+01275,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+01290,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+01305,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+01320,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+01335,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+01350,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+01365,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+01380,Zap,107.0,Skeleton Army,90.0,Arrows,2.0,Mini P.E.K.K.A,67.0,Bats,9.0,3.0,3,True,True,2.0,2.0
+01395,Zap,107.0,Skeleton Army,90.0,Arrows,2.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+01410,Zap,107.0,Skeleton Army,90.0,Arrows,2.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+01425,Zap,107.0,Skeleton Army,90.0,Arrows,2.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+01440,Zap,107.0,Skeleton Army,90.0,Arrows,2.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+01455,Zap,107.0,Skeleton Army,90.0,Arrows,2.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+01470,Zap,107.0,Skeleton Army,90.0,Arrows,2.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+01485,Zap,107.0,Skeleton Army,90.0,Arrows,2.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+01500,Zap,107.0,Skeleton Army,90.0,Arrows,2.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+01515,Zap,107.0,Skeleton Army,90.0,Arrows,2.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+01530,Zap,107.0,Skeleton Army,90.0,Arrows,2.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+01545,Zap,107.0,Skeleton Army,90.0,Arrows,2.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+01560,Zap,107.0,Skeleton Army,90.0,Arrows,2.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+01575,Zap,107.0,Skeleton Army,90.0,Arrows,2.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+01590,Zap,107.0,Skeleton Army,90.0,Arrows,2.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+01605,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,Arrows,2.0,3.0,0,True,True,3.0,3.0
+01620,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+01635,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+01650,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+01665,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+01680,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+01695,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+01710,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+01725,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+01740,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+01755,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+01770,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+01785,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+01800,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+01815,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+01830,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+01845,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+01860,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+01875,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+01890,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+01905,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+01920,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+01935,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+01950,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+01965,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+01980,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+01995,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+02010,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+02025,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+02040,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+02055,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+02070,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+02085,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+02100,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+02115,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+02130,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+02145,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+02160,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+02175,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+02190,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+02205,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02220,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02235,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02250,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02265,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02280,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+02295,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+02310,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+02325,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+02340,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+02355,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+02370,Zap,107.0,Skeleton Army,90.0,Witch,104.0,Mini P.E.K.K.A,67.0,Golem,47.0,3.0,2,True,True,7.0,8.0
+02385,Zap,107.0,Skeleton Army,90.0,Witch,104.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+02400,Zap,107.0,Skeleton Army,90.0,Witch,104.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+02415,Zap,107.0,Skeleton Army,90.0,Witch,104.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+02430,Zap,107.0,Skeleton Army,90.0,Witch,104.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+02445,Zap,107.0,Skeleton Army,90.0,Witch,104.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+02460,Zap,107.0,Skeleton Army,90.0,Witch,104.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+02475,Zap,107.0,Skeleton Army,90.0,Witch,104.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+02490,Zap,107.0,Skeleton Army,90.0,Witch,104.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+02505,Zap,107.0,Skeleton Army,90.0,Witch,104.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+02520,Zap,107.0,Skeleton Army,90.0,Witch,104.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+02535,Zap,107.0,Skeleton Army,90.0,Witch,104.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+02550,Zap,107.0,Skeleton Army,90.0,Witch,104.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+02565,Zap,107.0,Skeleton Army,90.0,Witch,104.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+02580,Zap,107.0,Skeleton Army,90.0,Witch,104.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+02595,Zap,107.0,Skeleton Army,90.0,Witch,104.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+02610,Zap,107.0,Skeleton Army,90.0,Witch,104.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+02625,Zap,107.0,Skeleton Army,90.0,Witch,104.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+02640,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,Witch,104.0,3.0,5,True,False,0.0,5.0
+02655,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+02670,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+02685,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+02700,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+02715,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+02730,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,2,False,True,4.0,0.0
+02745,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+02760,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+02775,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+02790,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+02805,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+02820,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+02835,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+02850,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+02865,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+02880,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+02895,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+02910,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+02925,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+02940,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+02955,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+02970,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+02985,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,Flying Machine,33.0,3.0,1,True,True,4.0,4.0
+03000,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+03015,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+03030,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+03045,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+03060,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+03075,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+03090,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+03105,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+03120,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+03135,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+03150,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+03165,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+03180,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+03195,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+03210,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+03225,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+03240,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+03255,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+03270,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+03285,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+03300,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+03315,Zap,107.0,Skeleton Army,90.0,Arrows,2.0,Mini P.E.K.K.A,67.0,Bats,9.0,3.0,3,True,True,2.0,2.0
+03330,Zap,107.0,Skeleton Army,90.0,Arrows,2.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+03345,Zap,107.0,Skeleton Army,90.0,Arrows,2.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+03360,Zap,107.0,Skeleton Army,90.0,Arrows,2.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+03375,Zap,107.0,Skeleton Army,90.0,Arrows,2.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+03390,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,Arrows,2.0,3.0,1,True,True,2.0,3.0
+03405,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+03420,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+03435,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+03450,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+03465,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+03480,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+03495,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+03510,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+03525,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+03540,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+03555,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+03570,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+03585,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+03600,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+03615,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+03630,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+03645,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+03660,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+03675,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+03690,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+03705,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+03720,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+03735,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+03750,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+03765,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+03780,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+03795,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+03810,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+03825,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+03840,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+03855,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+03870,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+03885,Zap,107.0,Skeleton Army,90.0,Golem,47.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+03900,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,Golem,47.0,3.0,1,True,True,8.0,8.0
+03915,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+03930,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+03945,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+03960,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+03975,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+03990,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+04005,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+04020,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+04035,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+04050,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+04065,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,1,False,True,4.0,0.0
+04080,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+04095,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+04110,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+04125,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+04140,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+04155,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+04170,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+04185,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+04200,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+04215,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+04230,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+04245,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+04260,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+04275,Zap,107.0,Skeleton Army,90.0,Flying Machine,33.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+04290,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,Flying Machine,33.0,3.0,2,True,True,4.0,4.0
+04305,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+04320,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+04335,Zap,107.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+04350,Zap,107.0,Arrows,2.0,Bats,9.0,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,2.0,1,True,True,2.0,3.0
+04365,Zap,107.0,Arrows,2.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+04380,Zap,107.0,Arrows,2.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+04395,Zap,107.0,Arrows,2.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+04410,Zap,107.0,Arrows,2.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+04425,Zap,107.0,Arrows,2.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+04440,Zap,107.0,Arrows,2.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+04455,Zap,107.0,Arrows,2.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+04470,Zap,107.0,Arrows,2.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+04485,Zap,107.0,Arrows,2.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+04500,Zap,107.0,Arrows,2.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+04515,Zap,107.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,Arrows,2.0,2.0,2,True,True,2.0,3.0
+04530,Zap,107.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+04545,Zap,107.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+04560,Zap,107.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+04575,Zap,107.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+04590,Zap,107.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+04605,Zap,107.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+04620,Zap,107.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+04635,Zap,107.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+04650,Zap,107.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+04665,Zap,107.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+04680,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,Zap,107.0,1.0,4,True,True,1.0,2.0
+04695,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+04710,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+04725,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+04740,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+04755,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+04770,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+04785,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+04800,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+04815,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+04830,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+04845,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+04860,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+04875,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+04890,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+04905,Witch,104.0,Golem,47.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+04920,Witch,104.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,Golem,47.0,2.0,1,True,True,8.0,8.0
+04935,Witch,104.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+04950,Witch,104.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+04965,Witch,104.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+04980,Witch,104.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+04995,Witch,104.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05010,Witch,104.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05025,Witch,104.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05040,Witch,104.0,Flying Machine,33.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05055,Arrows,2.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,Flying Machine,33.0,2.0,1,True,True,3.0,4.0
+05070,Arrows,2.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+05085,Arrows,2.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+05100,Arrows,2.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+05115,Arrows,2.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+05130,Arrows,2.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+05145,Arrows,2.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05160,Arrows,2.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05175,Arrows,2.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05190,Arrows,2.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05205,Arrows,2.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05220,Arrows,2.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,0,False,True,4.0,0.0
+05235,Arrows,2.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+05250,Arrows,2.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+05265,Arrows,2.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+05280,Arrows,2.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+05295,Arrows,2.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+05310,Arrows,2.0,Skeleton Army,90.0,Bats,9.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05325,Arrows,2.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,Bats,9.0,3.0,1,True,True,2.0,2.0
+05340,Arrows,2.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,1,False,False,0.0,0.0
+05355,Arrows,2.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+05370,Arrows,2.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+05385,Arrows,2.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+05400,Arrows,2.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05415,Arrows,2.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05430,Arrows,2.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05445,Arrows,2.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05460,Arrows,2.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05475,Arrows,2.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05490,Arrows,2.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+05505,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,Arrows,2.0,1.0,2,True,True,3.0,3.0
+05520,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05535,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05550,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05565,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05580,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05595,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05610,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+05625,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+05640,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+05655,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+05670,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+05685,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,6,False,False,0.0,0.0
+05700,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+05715,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+05730,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,7,False,False,0.0,0.0
+05745,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+05760,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,8,False,False,0.0,0.0
+05775,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+05790,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+05805,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,9,False,False,0.0,0.0
+05820,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,Golem,47.0,1.0,2,True,True,7.0,8.0
+05835,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+05850,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+05865,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05880,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05895,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+05910,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05925,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+05940,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+05955,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+05970,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+05985,Witch,104.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,Flying Machine,33.0,1.0,2,True,True,3.0,4.0
+06000,Witch,104.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+06015,Witch,104.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+06030,Witch,104.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+06045,Witch,104.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+06060,Witch,104.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+06075,Witch,104.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+06090,Witch,104.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+06105,Bats,9.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,Witch,104.0,1.0,4,True,True,2.0,5.0
+06120,Bats,9.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,5,False,False,0.0,0.0
+06135,Bats,9.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+06150,Bats,9.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,True,1.0,0.0
+06165,Bats,9.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+06180,Bats,9.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,2,False,False,0.0,0.0
+06195,Bats,9.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+06210,Bats,9.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+06225,Bats,9.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,3,False,False,0.0,0.0
+06240,Bats,9.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+06255,Bats,9.0,Skeleton Army,90.0,Zap,107.0,Mini P.E.K.K.A,67.0,,,,4,False,False,0.0,0.0
+06270,Bats,9.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,Mini P.E.K.K.A,67.0,4.0,0,True,True,4.0,4.0
+06285,Bats,9.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+06300,Bats,9.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+06315,Bats,9.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+06330,Bats,9.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+06345,Bats,9.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+06360,Bats,9.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+06375,Bats,9.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+06390,Bats,9.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+06405,Bats,9.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+06420,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,Bats,9.0,1.0,2,True,True,2.0,2.0
+06435,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+06450,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+06465,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+06480,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+06495,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+06510,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+06525,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+06540,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+06555,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+06570,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+06585,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+06600,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+06615,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+06630,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+06645,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+06660,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+06675,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+06690,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,Golem,47.0,1.0,0,True,True,8.0,8.0
+06705,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+06720,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+06735,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+06750,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+06765,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+06780,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+06795,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+06810,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+06825,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+06840,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+06855,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,1.0,0,True,True,4.0,4.0
+06870,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+06885,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+06900,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+06915,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+06930,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+06945,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+06960,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+06975,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+06990,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+07005,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+07020,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+07035,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+07050,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+07065,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+07080,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,2,False,True,3.0,0.0
+07095,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+07110,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+07125,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+07140,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+07155,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+07170,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+07185,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+07200,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+07215,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+07230,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,Arrows,2.0,4.0,2,True,True,3.0,3.0
+07245,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,3,False,False,0.0,0.0
+07260,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,3,False,False,0.0,0.0
+07275,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,3,False,False,0.0,0.0
+07290,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,4,False,False,0.0,0.0
+07305,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,4,False,False,0.0,0.0
+07320,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,4,False,False,0.0,0.0
+07335,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+07350,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+07365,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+07380,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,6,False,False,0.0,0.0
+07395,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,Mini P.E.K.K.A,67.0,1.0,3,True,True,3.0,4.0
+07410,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,3,False,False,0.0,0.0
+07425,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,4,False,False,0.0,0.0
+07440,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,4,False,False,0.0,0.0
+07455,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+07470,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+07485,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,6,False,False,0.0,0.0
+07500,Golem,47.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,6,False,False,0.0,0.0
+07515,Golem,47.0,Flying Machine,33.0,Zap,107.0,Bats,9.0,Skeleton Army,90.0,2.0,4,True,True,2.0,3.0
+07530,Golem,47.0,Flying Machine,33.0,Zap,107.0,Bats,9.0,,,,4,False,False,0.0,0.0
+07545,Golem,47.0,Flying Machine,33.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+07560,Golem,47.0,Flying Machine,33.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+07575,Golem,47.0,Flying Machine,33.0,Zap,107.0,Bats,9.0,,,,6,False,False,0.0,0.0
+07590,Golem,47.0,Flying Machine,33.0,Zap,107.0,Bats,9.0,,,,7,False,False,0.0,0.0
+07605,Golem,47.0,Flying Machine,33.0,Zap,107.0,Bats,9.0,,,,7,False,False,0.0,0.0
+07620,Golem,47.0,Flying Machine,33.0,Zap,107.0,Bats,9.0,,,,8,False,False,0.0,0.0
+07635,Golem,47.0,Flying Machine,33.0,Zap,107.0,Bats,9.0,,,,8,False,False,0.0,0.0
+07650,Golem,47.0,Flying Machine,33.0,Zap,107.0,Bats,9.0,,,,9,False,False,0.0,0.0
+07665,Witch,104.0,Flying Machine,33.0,Zap,107.0,Bats,9.0,Golem,47.0,1.0,4,True,True,5.0,8.0
+07680,Witch,104.0,Flying Machine,33.0,Zap,107.0,Bats,9.0,,,,2,False,True,2.0,0.0
+07695,Witch,104.0,Flying Machine,33.0,Zap,107.0,Bats,9.0,,,,2,False,False,0.0,0.0
+07710,Witch,104.0,Flying Machine,33.0,Zap,107.0,Bats,9.0,,,,3,False,False,0.0,0.0
+07725,Witch,104.0,Flying Machine,33.0,Zap,107.0,Bats,9.0,,,,3,False,False,0.0,0.0
+07740,Witch,104.0,Flying Machine,33.0,Zap,107.0,Bats,9.0,,,,4,False,False,0.0,0.0
+07755,Witch,104.0,Flying Machine,33.0,Zap,107.0,Bats,9.0,,,,4,False,False,0.0,0.0
+07770,Witch,104.0,Flying Machine,33.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+07785,Witch,104.0,Flying Machine,33.0,Zap,107.0,Bats,9.0,,,,6,False,False,0.0,0.0
+07800,Witch,104.0,Flying Machine,33.0,Zap,107.0,Bats,9.0,,,,6,False,False,0.0,0.0
+07815,Mini P.E.K.K.A,67.0,Arrows,2.0,Zap,107.0,Bats,9.0,Flying Machine,33.0,2.0,3,True,True,3.0,4.0
+07830,Mini P.E.K.K.A,67.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,3,False,False,0.0,0.0
+07845,Mini P.E.K.K.A,67.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,4,False,False,0.0,0.0
+07860,Mini P.E.K.K.A,67.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,4,False,False,0.0,0.0
+07875,Mini P.E.K.K.A,67.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+07890,Mini P.E.K.K.A,67.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+07905,Mini P.E.K.K.A,67.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,6,False,False,0.0,0.0
+07920,Mini P.E.K.K.A,67.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,6,False,False,0.0,0.0
+07935,Mini P.E.K.K.A,67.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,7,False,False,0.0,0.0
+07950,Mini P.E.K.K.A,67.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,7,False,False,0.0,0.0
+07965,Mini P.E.K.K.A,67.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,8,False,False,0.0,0.0
+07980,Mini P.E.K.K.A,67.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,5,False,True,3.0,0.0
+07995,Mini P.E.K.K.A,67.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+08010,Mini P.E.K.K.A,67.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,6,False,False,0.0,0.0
+08025,Skeleton Army,90.0,Arrows,2.0,Zap,107.0,Bats,9.0,Mini P.E.K.K.A,67.0,1.0,2,True,True,4.0,4.0
+08040,Skeleton Army,90.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,3,False,False,0.0,0.0
+08055,Skeleton Army,90.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,3,False,False,0.0,0.0
+08070,Skeleton Army,90.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,4,False,False,0.0,0.0
+08085,Skeleton Army,90.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,4,False,False,0.0,0.0
+08100,Skeleton Army,90.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+08115,Skeleton Army,90.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+08130,Skeleton Army,90.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,6,False,False,0.0,0.0
+08145,Skeleton Army,90.0,Golem,47.0,Zap,107.0,Bats,9.0,Arrows,2.0,2.0,3,True,True,3.0,3.0
+08160,Skeleton Army,90.0,Golem,47.0,Zap,107.0,Bats,9.0,,,,4,False,False,0.0,0.0
+08175,Skeleton Army,90.0,Golem,47.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+08190,Skeleton Army,90.0,Golem,47.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+08205,Skeleton Army,90.0,Golem,47.0,Zap,107.0,Bats,9.0,,,,6,False,False,0.0,0.0
+08220,Skeleton Army,90.0,Golem,47.0,Zap,107.0,Bats,9.0,,,,6,False,False,0.0,0.0
+08235,Skeleton Army,90.0,Golem,47.0,Zap,107.0,Bats,9.0,,,,7,False,False,0.0,0.0
+08250,Skeleton Army,90.0,Golem,47.0,Zap,107.0,Bats,9.0,,,,7,False,False,0.0,0.0
+08265,Skeleton Army,90.0,Golem,47.0,Zap,107.0,Bats,9.0,,,,8,False,False,0.0,0.0
+08280,Skeleton Army,90.0,Golem,47.0,Zap,107.0,Bats,9.0,,,,8,False,False,0.0,0.0
+08295,Flying Machine,33.0,Golem,47.0,Zap,107.0,Bats,9.0,Skeleton Army,90.0,1.0,6,True,True,2.0,3.0
+08310,Flying Machine,33.0,Golem,47.0,Zap,107.0,Bats,9.0,,,,6,False,False,0.0,0.0
+08325,Flying Machine,33.0,Golem,47.0,Zap,107.0,Bats,9.0,,,,7,False,False,0.0,0.0
+08340,Flying Machine,33.0,Golem,47.0,Zap,107.0,Bats,9.0,,,,7,False,False,0.0,0.0
+08355,Flying Machine,33.0,Golem,47.0,Zap,107.0,Bats,9.0,,,,8,False,False,0.0,0.0
+08370,Flying Machine,33.0,Golem,47.0,Zap,107.0,Bats,9.0,,,,8,False,False,0.0,0.0
+08385,Flying Machine,33.0,Golem,47.0,Zap,107.0,Bats,9.0,,,,9,False,False,0.0,0.0
+08400,Flying Machine,33.0,Witch,104.0,Zap,107.0,Bats,9.0,Golem,47.0,2.0,2,True,True,7.0,8.0
+08415,Flying Machine,33.0,Witch,104.0,Zap,107.0,Bats,9.0,,,,2,False,False,0.0,0.0
+08430,Flying Machine,33.0,Witch,104.0,Zap,107.0,Bats,9.0,,,,3,False,False,0.0,0.0
+08445,Flying Machine,33.0,Witch,104.0,Zap,107.0,Bats,9.0,,,,3,False,False,0.0,0.0
+08460,Flying Machine,33.0,Witch,104.0,Zap,107.0,Bats,9.0,,,,4,False,False,0.0,0.0
+08475,Flying Machine,33.0,Witch,104.0,Zap,107.0,Bats,9.0,,,,4,False,False,0.0,0.0
+08490,Flying Machine,33.0,Witch,104.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+08505,Flying Machine,33.0,Witch,104.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+08520,Flying Machine,33.0,Arrows,2.0,Zap,107.0,Bats,9.0,Witch,104.0,2.0,6,True,False,0.0,5.0
+08535,Flying Machine,33.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,6,False,False,0.0,0.0
+08550,Flying Machine,33.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,7,False,False,0.0,0.0
+08565,Flying Machine,33.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,7,False,False,0.0,0.0
+08580,Mini P.E.K.K.A,67.0,Arrows,2.0,Zap,107.0,Bats,9.0,Flying Machine,33.0,1.0,4,True,True,3.0,4.0
+08595,Mini P.E.K.K.A,67.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+08610,Mini P.E.K.K.A,67.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+08625,Mini P.E.K.K.A,67.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,6,False,False,0.0,0.0
+08640,Mini P.E.K.K.A,67.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,6,False,False,0.0,0.0
+08655,Mini P.E.K.K.A,67.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,7,False,False,0.0,0.0
+08670,Mini P.E.K.K.A,67.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,3,False,True,4.0,0.0
+08685,Mini P.E.K.K.A,67.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,4,False,False,0.0,0.0
+08700,Mini P.E.K.K.A,67.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,4,False,False,0.0,0.0
+08715,Mini P.E.K.K.A,67.0,Arrows,2.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+08730,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,Arrows,2.0,2.0,2,True,True,3.0,3.0
+08745,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,3,False,False,0.0,0.0
+08760,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,3,False,False,0.0,0.0
+08775,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,4,False,False,0.0,0.0
+08790,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+08805,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+08820,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,6,False,False,0.0,0.0
+08835,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,6,False,False,0.0,0.0
+08850,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,4,False,True,2.0,0.0
+08865,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,4,False,False,0.0,0.0
+08880,Mini P.E.K.K.A,67.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+08895,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,Mini P.E.K.K.A,67.0,1.0,1,True,True,4.0,4.0
+08910,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,2,False,False,0.0,0.0
+08925,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,2,False,False,0.0,0.0
+08940,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Bats,9.0,,,,3,False,False,0.0,0.0
+08955,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Witch,104.0,Bats,9.0,4.0,1,True,True,2.0,2.0
+08970,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Witch,104.0,,,,2,False,False,0.0,0.0
+08985,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Witch,104.0,,,,3,False,False,0.0,0.0
+09000,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Witch,104.0,,,,3,False,False,0.0,0.0
+09015,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Witch,104.0,,,,4,False,False,0.0,0.0
+09030,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Witch,104.0,,,,4,False,False,0.0,0.0
+09045,Flying Machine,33.0,Skeleton Army,90.0,Zap,107.0,Witch,104.0,,,,5,False,False,0.0,0.0
+09060,Arrows,2.0,Skeleton Army,90.0,Zap,107.0,Witch,104.0,Flying Machine,33.0,1.0,1,True,True,4.0,4.0
+09075,Arrows,2.0,Skeleton Army,90.0,Zap,107.0,Witch,104.0,,,,2,False,False,0.0,0.0
+09090,Arrows,2.0,Skeleton Army,90.0,Zap,107.0,Witch,104.0,,,,2,False,False,0.0,0.0
+09105,Arrows,2.0,Skeleton Army,90.0,Zap,107.0,Witch,104.0,,,,3,False,False,0.0,0.0
+09120,Arrows,2.0,Skeleton Army,90.0,Zap,107.0,Witch,104.0,,,,3,False,False,0.0,0.0
+09135,Arrows,2.0,Skeleton Army,90.0,Zap,107.0,Witch,104.0,,,,4,False,False,0.0,0.0
+09150,Arrows,2.0,Skeleton Army,90.0,Zap,107.0,Witch,104.0,,,,4,False,False,0.0,0.0
+09165,Arrows,2.0,Skeleton Army,90.0,Skeleton Army,90.0,Mini P.E.K.K.A,67.0,Witch,104.0,4.0,3,True,True,1.0,5.0
+09180,Arrows,2.0,Skeleton Army,90.0,Skeleton Army,90.0,Witch,104.0,Mini P.E.K.K.A,67.0,4.0,4,True,False,0.0,4.0
+09195,Arrows,2.0,Skeleton Army,90.0,Skeleton Army,90.0,Witch,104.0,,,,4,False,False,0.0,0.0
+09210,Arrows,2.0,Skeleton Army,90.0,Skeleton Army,90.0,Witch,104.0,,,,4,False,False,0.0,0.0
+09225,Arrows,2.0,Skeleton Army,90.0,Skeleton Army,90.0,Witch,104.0,,,,4,False,False,0.0,0.0
+09240,Arrows,2.0,Skeleton Army,90.0,Skeleton Army,90.0,Witch,104.0,,,,4,False,False,0.0,0.0
+09255,Arrows,2.0,Skeleton Army,90.0,Skeleton Army,90.0,Witch,104.0,,,,4,False,False,0.0,0.0
+09270,Arrows,2.0,Skeleton Army,90.0,Skeleton Army,90.0,Witch,104.0,,,,4,False,False,0.0,0.0
+09285,Arrows,2.0,Skeleton Army,90.0,Skeleton Army,90.0,Witch,104.0,,,,4,False,False,0.0,0.0
+09300,Arrows,2.0,Skeleton Army,90.0,Skeleton Army,90.0,Witch,104.0,,,,4,False,False,0.0,0.0

@@ -1,0 +1,578 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+00255,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+00270,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+00285,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+00300,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+00315,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+00330,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+00345,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+00360,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+00375,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+00390,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+00405,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+00420,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+00435,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+00450,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+00465,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+00480,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+00495,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+00510,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,Mortar,71.0,2.0,5,True,True,4.0,4.0
+00525,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+00540,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+00555,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+00570,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+00585,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+00600,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+00615,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+00630,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+00645,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+00660,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+00675,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+00690,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+00705,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+00720,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+00735,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+00750,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+00765,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+00780,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+00795,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+00810,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+00825,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,Hog Rider,51.0,4.0,5,True,True,4.0,4.0
+00840,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+00855,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+00870,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+00885,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+00900,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+00915,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+00930,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+00945,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+00960,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+00975,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+00990,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+01005,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+01020,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+01035,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+01050,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+01065,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+01080,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+01095,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+01110,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+01125,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,9,False,False,0.0,0.0
+01140,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,9,False,False,0.0,0.0
+01155,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,9,False,False,0.0,0.0
+01170,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,9,False,False,0.0,0.0
+01185,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,9,False,False,0.0,0.0
+01200,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,10,False,False,0.0,0.0
+01215,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,Spear Goblins,96.0,4.0,8,True,True,2.0,2.0
+01230,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+01245,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+01260,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+01275,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+01290,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+01305,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+01320,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+01335,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+01350,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+01365,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+01380,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+01395,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+01410,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+01425,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+01440,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+01455,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+01470,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+01485,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+01500,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+01515,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+01530,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+01545,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+01560,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+01575,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+01590,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+01605,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+01620,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,Goblin Gang,42.0,4.0,7,True,True,3.0,3.0
+01635,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,,,,7,False,False,0.0,0.0
+01650,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,,,,7,False,False,0.0,0.0
+01665,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,,,,7,False,False,0.0,0.0
+01680,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,,,,7,False,False,0.0,0.0
+01695,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,,,,7,False,False,0.0,0.0
+01710,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,,,,8,False,False,0.0,0.0
+01725,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,,,,8,False,False,0.0,0.0
+01740,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,,,,8,False,False,0.0,0.0
+01755,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,,,,8,False,False,0.0,0.0
+01770,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,,,,8,False,False,0.0,0.0
+01785,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,,,,9,False,False,0.0,0.0
+01800,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,,,,9,False,False,0.0,0.0
+01815,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,,,,9,False,False,0.0,0.0
+01830,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,,,,9,False,False,0.0,0.0
+01845,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,,,,9,False,False,0.0,0.0
+01860,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,,,,9,False,False,0.0,0.0
+01875,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,,,,10,False,False,0.0,0.0
+01890,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,,,,10,False,False,0.0,0.0
+01905,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,,,,10,False,False,0.0,0.0
+01920,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,,,,10,False,False,0.0,0.0
+01935,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,,,,10,False,False,0.0,0.0
+01950,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,,,,10,False,False,0.0,0.0
+01965,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,,,,10,False,False,0.0,0.0
+01980,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,Bats,9.0,4.0,8,True,True,2.0,2.0
+01995,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+02010,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+02025,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+02040,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+02055,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,9,False,False,0.0,0.0
+02070,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,9,False,False,0.0,0.0
+02085,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,9,False,False,0.0,0.0
+02100,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,9,False,False,0.0,0.0
+02115,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,9,False,False,0.0,0.0
+02130,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,9,False,False,0.0,0.0
+02145,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,Mortar,71.0,4.0,6,True,True,3.0,4.0
+02160,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+02175,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+02190,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+02205,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+02220,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+02235,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+02250,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+02265,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+02280,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+02295,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+02310,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+02325,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+02340,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+02355,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+02370,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+02385,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+02400,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+02415,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,Hog Rider,51.0,4.0,5,True,True,4.0,4.0
+02430,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+02445,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+02460,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,Spear Goblins,96.0,4.0,3,True,True,2.0,2.0
+02475,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+02490,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+02505,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+02520,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+02535,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+02550,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,Zap,107.0,1.0,2,True,True,2.0,2.0
+02565,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+02580,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+02595,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+02610,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,Goblin Gang,42.0,4.0,0,True,True,3.0,3.0
+02625,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,0,False,False,0.0,0.0
+02640,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,0,False,False,0.0,0.0
+02655,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,1,False,False,0.0,0.0
+02670,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,1,False,False,0.0,0.0
+02685,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,1,False,False,0.0,0.0
+02700,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,1,False,False,0.0,0.0
+02715,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,1,False,False,0.0,0.0
+02730,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,2,False,False,0.0,0.0
+02745,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,2,False,False,0.0,0.0
+02760,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,2,False,False,0.0,0.0
+02775,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,2,False,False,0.0,0.0
+02790,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,2,False,False,0.0,0.0
+02805,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,2,False,False,0.0,0.0
+02820,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,3,False,False,0.0,0.0
+02835,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,3,False,False,0.0,0.0
+02850,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,3,False,False,0.0,0.0
+02865,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,3,False,False,0.0,0.0
+02880,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,3,False,False,0.0,0.0
+02895,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,4,False,False,0.0,0.0
+02910,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,4,False,False,0.0,0.0
+02925,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,4,False,False,0.0,0.0
+02940,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,4,False,False,0.0,0.0
+02955,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,4,False,False,0.0,0.0
+02970,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,4,False,False,0.0,0.0
+02985,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,5,False,False,0.0,0.0
+03000,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,5,False,False,0.0,0.0
+03015,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,5,False,False,0.0,0.0
+03030,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,5,False,False,0.0,0.0
+03045,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,5,False,False,0.0,0.0
+03060,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,5,False,False,0.0,0.0
+03075,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,6,False,False,0.0,0.0
+03090,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,6,False,False,0.0,0.0
+03105,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,6,False,False,0.0,0.0
+03120,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,6,False,False,0.0,0.0
+03135,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,6,False,False,0.0,0.0
+03150,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,7,False,False,0.0,0.0
+03165,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,7,False,False,0.0,0.0
+03180,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,7,False,False,0.0,0.0
+03195,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,7,False,False,0.0,0.0
+03210,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,7,False,False,0.0,0.0
+03225,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,7,False,False,0.0,0.0
+03240,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+03255,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+03270,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+03285,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+03300,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+03315,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,9,False,False,0.0,0.0
+03330,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,9,False,False,0.0,0.0
+03345,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Mortar,71.0,,,,9,False,False,0.0,0.0
+03360,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,Mortar,71.0,4.0,5,True,True,4.0,4.0
+03375,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+03390,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+03405,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+03420,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+03435,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+03450,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+03465,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+03480,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+03495,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+03510,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+03525,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+03540,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+03555,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+03570,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+03585,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+03600,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+03615,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,Hog Rider,51.0,4.0,2,True,True,6.0,4.0
+03630,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,2,False,False,0.0,0.0
+03645,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,2,False,False,0.0,0.0
+03660,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+03675,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+03690,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+03705,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+03720,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+03735,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+03750,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+03765,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+03780,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+03795,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+03810,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+03825,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+03840,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+03855,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+03870,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+03885,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+03900,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+03915,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+03930,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+03945,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+03960,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,9,False,False,0.0,0.0
+03975,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Spear Goblins,96.0,Fireball,30.0,2.0,5,True,True,4.0,4.0
+03990,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+04005,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+04020,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+04035,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+04050,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+04065,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+04080,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+04095,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+04110,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+04125,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Spear Goblins,96.0,,,,9,False,False,0.0,0.0
+04140,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Spear Goblins,96.0,,,,9,False,False,0.0,0.0
+04155,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Spear Goblins,96.0,,,,9,False,False,0.0,0.0
+04170,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Mortar,71.0,Spear Goblins,96.0,4.0,8,True,True,1.0,2.0
+04185,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+04200,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+04215,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Mortar,71.0,,,,9,False,False,0.0,0.0
+04230,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Mortar,71.0,,,,9,False,False,0.0,0.0
+04245,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Hog Rider,51.0,Mortar,71.0,4.0,5,True,True,4.0,4.0
+04260,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+04275,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+04290,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+04305,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+04320,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+04335,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+04350,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+04365,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Bats,9.0,Hog Rider,51.0,4.0,4,True,True,4.0,4.0
+04380,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Bats,9.0,,,,5,False,False,0.0,0.0
+04395,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Bats,9.0,,,,5,False,False,0.0,0.0
+04410,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Bats,9.0,,,,5,False,False,0.0,0.0
+04425,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Bats,9.0,,,,6,False,False,0.0,0.0
+04440,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Bats,9.0,,,,6,False,False,0.0,0.0
+04455,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Bats,9.0,,,,6,False,False,0.0,0.0
+04470,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Bats,9.0,,,,7,False,False,0.0,0.0
+04485,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Bats,9.0,,,,7,False,False,0.0,0.0
+04500,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Bats,9.0,,,,7,False,False,0.0,0.0
+04515,Zap,107.0,Goblin Gang,42.0,Minion Horde,68.0,Bats,9.0,,,,8,False,False,0.0,0.0
+04530,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,Goblin Gang,42.0,2.0,5,True,True,3.0,3.0
+04545,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,,,,6,False,False,0.0,0.0
+04560,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,,,,6,False,False,0.0,0.0
+04575,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,,,,6,False,False,0.0,0.0
+04590,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Bats,9.0,,,,7,False,False,0.0,0.0
+04605,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,Bats,9.0,4.0,7,True,True,2.0,2.0
+04620,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+04635,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+04650,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Spear Goblins,96.0,Fireball,30.0,2.0,2,True,True,4.0,4.0
+04665,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Spear Goblins,96.0,,,,2,False,False,0.0,0.0
+04680,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+04695,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+04710,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+04725,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+04740,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+04755,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+04770,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+04785,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+04800,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+04815,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+04830,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+04845,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+04860,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+04875,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+04890,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+04905,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+04920,Zap,107.0,Mortar,71.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+04935,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Spear Goblins,96.0,Mortar,71.0,2.0,5,True,True,3.0,4.0
+04950,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+04965,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+04980,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+04995,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+05010,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+05025,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+05040,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+05055,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+05070,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+05085,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+05100,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Spear Goblins,96.0,,,,9,False,False,0.0,0.0
+05115,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Spear Goblins,96.0,,,,9,False,False,0.0,0.0
+05130,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,Spear Goblins,96.0,4.0,8,True,True,1.0,2.0
+05145,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+05160,Zap,107.0,Bats,9.0,Minion Horde,68.0,Goblin Gang,42.0,Hog Rider,51.0,2.0,4,True,True,4.0,4.0
+05175,Zap,107.0,Bats,9.0,Minion Horde,68.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+05190,Zap,107.0,Bats,9.0,Minion Horde,68.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+05205,Zap,107.0,Bats,9.0,Minion Horde,68.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+05220,Zap,107.0,Bats,9.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+05235,Zap,107.0,Bats,9.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+05250,Zap,107.0,Bats,9.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+05265,Zap,107.0,Bats,9.0,Minion Horde,68.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+05280,Zap,107.0,Bats,9.0,Minion Horde,68.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+05295,Zap,107.0,Bats,9.0,Minion Horde,68.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+05310,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,Bats,9.0,2.0,6,True,True,1.0,2.0
+05325,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+05340,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+05355,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+05370,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+05385,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+05400,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+05415,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+05430,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+05445,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+05460,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+05475,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+05490,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+05505,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+05520,Zap,107.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+05535,Mortar,71.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,Zap,107.0,1.0,8,True,True,2.0,2.0
+05550,Mortar,71.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+05565,Mortar,71.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+05580,Mortar,71.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+05595,Mortar,71.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+05610,Mortar,71.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+05625,Mortar,71.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+05640,Mortar,71.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+05655,Spear Goblins,96.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,Mortar,71.0,1.0,6,True,True,4.0,4.0
+05670,Spear Goblins,96.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+05685,Spear Goblins,96.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+05700,Spear Goblins,96.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+05715,Spear Goblins,96.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+05730,Spear Goblins,96.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+05745,Spear Goblins,96.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+05760,Spear Goblins,96.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+05775,Hog Rider,51.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,Spear Goblins,96.0,1.0,6,True,True,2.0,2.0
+05790,Hog Rider,51.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+05805,Hog Rider,51.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+05820,Hog Rider,51.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+05835,Hog Rider,51.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+05850,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,Hog Rider,51.0,1.0,4,True,True,4.0,4.0
+05865,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+05880,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+05895,Bats,9.0,Fireball,30.0,Minion Horde,68.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+05910,Bats,9.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,Fireball,30.0,2.0,2,True,True,3.0,4.0
+05925,Bats,9.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+05940,Bats,9.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+05955,Bats,9.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+05970,Bats,9.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+05985,Bats,9.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+06000,Bats,9.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+06015,Bats,9.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+06030,Bats,9.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+06045,Bats,9.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+06060,Bats,9.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+06075,Bats,9.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+06090,Bats,9.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+06105,Bats,9.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+06120,Bats,9.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+06135,Bats,9.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+06150,Bats,9.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+06165,Bats,9.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+06180,Bats,9.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+06195,Bats,9.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+06210,Bats,9.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+06225,Bats,9.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+06240,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,Bats,9.0,1.0,7,True,True,2.0,2.0
+06255,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,Goblin Gang,42.0,4.0,5,True,True,2.0,3.0
+06270,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+06285,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+06300,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+06315,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+06330,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+06345,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+06360,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+06375,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+06390,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+06405,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+06420,Hog Rider,51.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,Mortar,71.0,1.0,5,True,True,3.0,4.0
+06435,Hog Rider,51.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+06450,Hog Rider,51.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+06465,Hog Rider,51.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+06480,Hog Rider,51.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+06495,Hog Rider,51.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+06510,Hog Rider,51.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+06525,Hog Rider,51.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+06540,Hog Rider,51.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+06555,Hog Rider,51.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+06570,Hog Rider,51.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+06585,Hog Rider,51.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,9,False,False,0.0,0.0
+06600,Hog Rider,51.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,9,False,False,0.0,0.0
+06615,Hog Rider,51.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,9,False,False,0.0,0.0
+06630,Hog Rider,51.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,10,False,False,0.0,0.0
+06645,Hog Rider,51.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,10,False,False,0.0,0.0
+06660,Hog Rider,51.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,10,False,False,0.0,0.0
+06675,Hog Rider,51.0,Zap,107.0,Minion Horde,68.0,Fireball,30.0,Spear Goblins,96.0,4.0,8,True,True,2.0,2.0
+06690,Hog Rider,51.0,Zap,107.0,Minion Horde,68.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+06705,Hog Rider,51.0,Zap,107.0,Minion Horde,68.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+06720,Hog Rider,51.0,Zap,107.0,Minion Horde,68.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+06735,Bats,9.0,Zap,107.0,Minion Horde,68.0,Fireball,30.0,Hog Rider,51.0,1.0,5,True,True,4.0,4.0
+06750,Bats,9.0,Zap,107.0,Minion Horde,68.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+06765,Bats,9.0,Zap,107.0,Minion Horde,68.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06780,Bats,9.0,Zap,107.0,Minion Horde,68.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06795,Bats,9.0,Zap,107.0,Minion Horde,68.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+06810,Bats,9.0,Zap,107.0,Minion Horde,68.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+06825,Bats,9.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,Fireball,30.0,4.0,3,True,True,4.0,4.0
+06840,Bats,9.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+06855,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,Bats,9.0,1.0,2,True,True,2.0,2.0
+06870,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+06885,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+06900,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+06915,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+06930,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+06945,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+06960,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+06975,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+06990,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+07005,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+07020,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+07035,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+07050,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+07065,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+07080,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+07095,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+07110,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+07125,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+07140,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+07155,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+07170,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+07185,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,Goblin Gang,42.0,4.0,7,True,True,2.0,3.0
+07200,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+07215,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+07230,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+07245,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+07260,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,9,False,False,0.0,0.0
+07275,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,9,False,False,0.0,0.0
+07290,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Hog Rider,51.0,Spear Goblins,96.0,4.0,7,True,True,2.0,2.0
+07305,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+07320,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+07335,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+07350,Mortar,71.0,Zap,107.0,Minion Horde,68.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+07365,Fireball,30.0,Zap,107.0,Minion Horde,68.0,Hog Rider,51.0,Mortar,71.0,1.0,5,True,True,4.0,4.0
+07380,Fireball,30.0,Zap,107.0,Minion Horde,68.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+07395,Fireball,30.0,Zap,107.0,Minion Horde,68.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+07410,Fireball,30.0,Zap,107.0,Minion Horde,68.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+07425,Fireball,30.0,Zap,107.0,Minion Horde,68.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+07440,Fireball,30.0,Zap,107.0,Minion Horde,68.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+07455,Fireball,30.0,Zap,107.0,Minion Horde,68.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+07470,Fireball,30.0,Zap,107.0,Minion Horde,68.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+07485,Fireball,30.0,Zap,107.0,Minion Horde,68.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+07500,Fireball,30.0,Zap,107.0,Minion Horde,68.0,Bats,9.0,Hog Rider,51.0,4.0,6,True,True,3.0,4.0
+07515,Fireball,30.0,Zap,107.0,Minion Horde,68.0,Bats,9.0,,,,6,False,False,0.0,0.0
+07530,Fireball,30.0,Zap,107.0,Minion Horde,68.0,Bats,9.0,,,,7,False,False,0.0,0.0
+07545,Fireball,30.0,Zap,107.0,Minion Horde,68.0,Bats,9.0,,,,7,False,False,0.0,0.0
+07560,Goblin Gang,42.0,Zap,107.0,Minion Horde,68.0,Bats,9.0,Fireball,30.0,1.0,4,True,True,3.0,4.0
+07575,Goblin Gang,42.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,Bats,9.0,4.0,2,True,True,2.0,2.0
+07590,Goblin Gang,42.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+07605,Goblin Gang,42.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+07620,Goblin Gang,42.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+07635,Goblin Gang,42.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+07650,Goblin Gang,42.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+07665,Goblin Gang,42.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+07680,Goblin Gang,42.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+07695,Goblin Gang,42.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+07710,Goblin Gang,42.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+07725,Goblin Gang,42.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+07740,Goblin Gang,42.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+07755,Goblin Gang,42.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,9,False,False,0.0,0.0
+07770,Goblin Gang,42.0,Zap,107.0,Minion Horde,68.0,Spear Goblins,96.0,,,,9,False,False,0.0,0.0
+07785,Goblin Gang,42.0,Zap,107.0,Minion Horde,68.0,Mortar,71.0,Spear Goblins,96.0,4.0,8,True,True,1.0,2.0
+07800,Goblin Gang,42.0,Zap,107.0,Minion Horde,68.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+07815,Goblin Gang,42.0,Zap,107.0,Minion Horde,68.0,Mortar,71.0,,,,9,False,False,0.0,0.0
+07830,Goblin Gang,42.0,Zap,107.0,Minion Horde,68.0,Mortar,71.0,,,,9,False,False,0.0,0.0
+07845,Goblin Gang,42.0,Zap,107.0,Minion Horde,68.0,Mortar,71.0,,,,10,False,False,0.0,0.0
+07860,Goblin Gang,42.0,Zap,107.0,Minion Horde,68.0,Mortar,71.0,,,,10,False,False,0.0,0.0
+07875,Goblin Gang,42.0,Zap,107.0,Minion Horde,68.0,Mortar,71.0,,,,10,False,False,0.0,0.0
+07890,Goblin Gang,42.0,Hog Rider,51.0,Minion Horde,68.0,Mortar,71.0,Zap,107.0,2.0,8,True,True,2.0,2.0
+07905,Goblin Gang,42.0,Hog Rider,51.0,Minion Horde,68.0,Mortar,71.0,,,,9,False,False,0.0,0.0
+07920,Fireball,30.0,Hog Rider,51.0,Minion Horde,68.0,Mortar,71.0,Goblin Gang,42.0,1.0,6,True,True,3.0,3.0
+07935,Fireball,30.0,Hog Rider,51.0,Minion Horde,68.0,Mortar,71.0,,,,7,False,False,0.0,0.0
+07950,Fireball,30.0,Hog Rider,51.0,Minion Horde,68.0,Mortar,71.0,,,,7,False,False,0.0,0.0
+07965,Fireball,30.0,Hog Rider,51.0,Minion Horde,68.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+07980,Bats,9.0,Hog Rider,51.0,Minion Horde,68.0,Mortar,71.0,Fireball,30.0,1.0,4,True,True,4.0,4.0
+07995,Bats,9.0,Hog Rider,51.0,Minion Horde,68.0,Mortar,71.0,,,,5,False,False,0.0,0.0
+08010,Bats,9.0,Hog Rider,51.0,Minion Horde,68.0,Mortar,71.0,,,,5,False,False,0.0,0.0
+08025,Bats,9.0,Hog Rider,51.0,Minion Horde,68.0,Mortar,71.0,,,,6,False,False,0.0,0.0
+08040,Bats,9.0,Hog Rider,51.0,Minion Horde,68.0,Mortar,71.0,,,,6,False,False,0.0,0.0
+08055,Bats,9.0,Hog Rider,51.0,Minion Horde,68.0,Mortar,71.0,,,,7,False,False,0.0,0.0
+08070,Bats,9.0,Hog Rider,51.0,Minion Horde,68.0,Mortar,71.0,,,,7,False,False,0.0,0.0
+08085,Bats,9.0,Hog Rider,51.0,Minion Horde,68.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+08100,Bats,9.0,Hog Rider,51.0,Minion Horde,68.0,Spear Goblins,96.0,Mortar,71.0,4.0,5,True,True,3.0,4.0
+08115,Bats,9.0,Hog Rider,51.0,Minion Horde,68.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+08130,Bats,9.0,Hog Rider,51.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+08145,Bats,9.0,Hog Rider,51.0,Minion Horde,68.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+08160,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Spear Goblins,96.0,Bats,9.0,1.0,5,True,True,1.0,2.0
+08175,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,Spear Goblins,96.0,4.0,3,True,True,2.0,2.0
+08190,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+08205,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+08220,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+08235,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+08250,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+08265,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08280,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08295,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,1,False,True,5.0,0.0
+08310,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+08325,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+08340,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+08355,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+08370,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+08385,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+08400,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+08415,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+08430,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+08445,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08460,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08475,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08490,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08505,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08520,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08535,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08550,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08565,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08580,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08595,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08610,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08625,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08640,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08655,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08670,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08685,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08700,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08715,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08730,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08745,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08760,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08775,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08790,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08805,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08820,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08835,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08850,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08865,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08880,Zap,107.0,Hog Rider,51.0,Minion Horde,68.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0

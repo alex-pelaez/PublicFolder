@@ -1,0 +1,607 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00225,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+00240,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+00255,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+00270,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00285,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00300,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00315,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00330,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00345,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00360,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00375,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00390,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00405,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00420,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00435,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00450,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00465,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00480,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00495,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00510,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00525,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00540,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00555,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00570,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00585,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00600,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00615,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00630,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00645,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00660,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00675,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00690,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00705,Knight,58.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00720,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,1.0,7,True,True,3.0,3.0
+00735,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00750,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00765,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00780,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00795,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00810,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00825,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00840,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00855,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00870,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00885,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00900,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00915,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00930,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00945,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00960,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00975,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00990,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+01005,Graveyard,48.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,Baby Dragon,3.0,3.0,6,True,True,4.0,4.0
+01020,Graveyard,48.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01035,Graveyard,48.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01050,Graveyard,48.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01065,Graveyard,48.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01080,Graveyard,48.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01095,Graveyard,48.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01110,Graveyard,48.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01125,Graveyard,48.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01140,Graveyard,48.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01155,Graveyard,48.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01170,Graveyard,48.0,Barbarian Hut,7.0,Ice Wizard,55.0,Tornado,101.0,Barbarian Barrel,6.0,2.0,6,True,True,1.0,2.0
+01185,Graveyard,48.0,Barbarian Hut,7.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01200,Graveyard,48.0,Barbarian Hut,7.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01215,Graveyard,48.0,Barbarian Hut,7.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01230,Graveyard,48.0,Barbarian Hut,7.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01245,Graveyard,48.0,Barbarian Hut,7.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01260,Graveyard,48.0,Barbarian Hut,7.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01275,Graveyard,48.0,Barbarian Hut,7.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01290,Graveyard,48.0,Poison,78.0,Ice Wizard,55.0,Tornado,101.0,Barbarian Hut,7.0,2.0,0,True,True,7.0,6.0
+01305,Graveyard,48.0,Poison,78.0,Ice Wizard,55.0,Tornado,101.0,,,,0,False,False,0.0,0.0
+01320,Graveyard,48.0,Poison,78.0,Ice Wizard,55.0,Tornado,101.0,,,,0,False,False,0.0,0.0
+01335,Graveyard,48.0,Poison,78.0,Ice Wizard,55.0,Tornado,101.0,,,,0,False,False,0.0,0.0
+01350,Graveyard,48.0,Poison,78.0,Ice Wizard,55.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01365,Graveyard,48.0,Poison,78.0,Ice Wizard,55.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01380,Graveyard,48.0,Poison,78.0,Ice Wizard,55.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01395,Graveyard,48.0,Poison,78.0,Ice Wizard,55.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01410,Graveyard,48.0,Poison,78.0,Ice Wizard,55.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01425,Graveyard,48.0,Poison,78.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01440,Graveyard,48.0,Poison,78.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01455,Graveyard,48.0,Poison,78.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01470,Graveyard,48.0,Poison,78.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01485,Graveyard,48.0,Poison,78.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01500,Graveyard,48.0,Poison,78.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01515,Graveyard,48.0,Poison,78.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01530,Graveyard,48.0,Poison,78.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01545,Graveyard,48.0,Poison,78.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01560,Graveyard,48.0,Poison,78.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01575,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,Ice Wizard,55.0,3.0,0,True,True,3.0,3.0
+01590,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01605,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01620,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01635,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01650,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01665,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01680,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01695,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01710,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01725,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01740,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01755,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01770,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01785,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01800,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01815,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01830,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01845,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01860,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01875,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01890,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01905,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01920,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01935,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01950,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01965,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01980,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01995,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02010,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02025,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02040,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02055,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02070,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02085,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02100,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02115,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02130,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02145,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02160,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02175,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02190,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02205,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02220,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02235,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02250,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02265,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02280,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02295,Graveyard,48.0,Poison,78.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,3.0,6,True,True,3.0,3.0
+02310,Graveyard,48.0,Poison,78.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02325,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,2.0,2,True,True,4.0,4.0
+02340,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+02355,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02370,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02385,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,Barbarian Barrel,6.0,2.0,1,True,True,2.0,2.0
+02400,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+02415,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+02430,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+02445,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+02460,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+02475,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+02490,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+02505,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+02520,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02535,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02550,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02565,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02580,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02595,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02610,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02625,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02640,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02655,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02670,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02685,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02700,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02715,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02730,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02745,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02760,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02775,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02790,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02805,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02820,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02835,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02850,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02865,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02880,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02895,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,True,1.0,0.0
+02910,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02925,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02940,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02955,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02970,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02985,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03000,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03015,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03030,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+03045,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+03060,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+03075,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+03090,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+03105,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+03120,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,Barbarian Hut,7.0,2.0,3,True,True,7.0,6.0
+03135,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03150,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03165,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03180,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03195,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03210,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03225,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03240,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03255,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03270,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03285,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03300,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03315,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03330,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03345,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03360,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03375,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03390,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03405,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03420,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03435,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03450,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03465,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03480,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03495,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03510,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03525,Graveyard,48.0,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03540,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,Tornado,101.0,Baby Dragon,3.0,3.0,4,True,True,3.0,4.0
+03555,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03570,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03585,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03600,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03615,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03630,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03645,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03660,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03675,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03690,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03705,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03720,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03735,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03750,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03765,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03780,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03795,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03810,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03825,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03840,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03855,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03870,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+03885,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+03900,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+03915,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+03930,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,Ice Wizard,55.0,2.0,7,True,True,3.0,3.0
+03945,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03960,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03975,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03990,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+04005,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+04020,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+04035,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+04050,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+04065,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+04080,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+04095,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+04110,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+04125,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+04140,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+04155,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+04170,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+04185,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+04200,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+04215,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+04230,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+04245,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+04260,Graveyard,48.0,Poison,78.0,Knight,58.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+04275,Graveyard,48.0,Poison,78.0,Barbarian Barrel,6.0,Tornado,101.0,Knight,58.0,3.0,7,True,True,3.0,3.0
+04290,Graveyard,48.0,Poison,78.0,Barbarian Barrel,6.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04305,Graveyard,48.0,Poison,78.0,Barbarian Barrel,6.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04320,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,Tornado,101.0,Graveyard,48.0,1.0,3,True,True,4.0,5.0
+04335,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04350,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04365,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04380,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04395,Barbarian Hut,7.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,Poison,78.0,2.0,1,True,True,3.0,4.0
+04410,Barbarian Hut,7.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+04425,Barbarian Hut,7.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+04440,Barbarian Hut,7.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+04455,Barbarian Hut,7.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+04470,Barbarian Hut,7.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+04485,Barbarian Hut,7.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04500,Barbarian Hut,7.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04515,Barbarian Hut,7.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04530,Barbarian Hut,7.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04545,Barbarian Hut,7.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04560,Barbarian Hut,7.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+04575,Barbarian Hut,7.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+04590,Barbarian Hut,7.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+04605,Barbarian Hut,7.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+04620,Barbarian Hut,7.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+04635,Barbarian Hut,7.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+04650,Barbarian Hut,7.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04665,Barbarian Hut,7.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04680,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,Barbarian Hut,7.0,1.0,0,True,True,7.0,6.0
+04695,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+04710,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+04725,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+04740,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+04755,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+04770,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04785,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04800,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04815,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04830,Knight,58.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,Ice Wizard,55.0,1.0,1,True,True,3.0,3.0
+04845,Knight,58.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+04860,Knight,58.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+04875,Knight,58.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+04890,Knight,58.0,Baby Dragon,3.0,Graveyard,48.0,Tornado,101.0,Barbarian Barrel,6.0,3.0,0,True,True,2.0,2.0
+04905,Knight,58.0,Baby Dragon,3.0,Graveyard,48.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+04920,Knight,58.0,Baby Dragon,3.0,Graveyard,48.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+04935,Knight,58.0,Baby Dragon,3.0,Graveyard,48.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+04950,Knight,58.0,Baby Dragon,3.0,Graveyard,48.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+04965,Knight,58.0,Baby Dragon,3.0,Graveyard,48.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+04980,Knight,58.0,Baby Dragon,3.0,Graveyard,48.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04995,Knight,58.0,Baby Dragon,3.0,Graveyard,48.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+05010,Knight,58.0,Baby Dragon,3.0,Graveyard,48.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+05025,Knight,58.0,Baby Dragon,3.0,Graveyard,48.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+05040,Knight,58.0,Baby Dragon,3.0,Graveyard,48.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+05055,Knight,58.0,Baby Dragon,3.0,Graveyard,48.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+05070,Knight,58.0,Baby Dragon,3.0,Graveyard,48.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+05085,Knight,58.0,Baby Dragon,3.0,Graveyard,48.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+05100,Knight,58.0,Baby Dragon,3.0,Graveyard,48.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+05115,Knight,58.0,Baby Dragon,3.0,Graveyard,48.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+05130,Knight,58.0,Baby Dragon,3.0,Graveyard,48.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+05145,Knight,58.0,Baby Dragon,3.0,Graveyard,48.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+05160,Knight,58.0,Baby Dragon,3.0,Graveyard,48.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+05175,Knight,58.0,Baby Dragon,3.0,Graveyard,48.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+05190,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,Tornado,101.0,Baby Dragon,3.0,2.0,1,True,True,6.0,4.0
+05205,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+05220,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+05235,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+05250,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+05265,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+05280,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+05295,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+05310,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+05325,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+05340,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+05355,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Tornado,101.0,Poison,78.0,1.0,0,True,True,4.0,4.0
+05370,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+05385,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+05400,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+05415,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+05430,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+05445,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+05460,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+05475,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,4.0,0,True,True,3.0,3.0
+05490,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+05505,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+05520,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+05535,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+05550,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+05565,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+05580,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05595,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05610,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05625,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05640,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05655,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05670,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05685,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05700,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05715,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05730,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05745,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05760,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05775,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05790,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05805,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05820,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+05835,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+05850,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+05865,Ice Wizard,55.0,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,2.0,3,True,True,6.0,6.0
+05880,Ice Wizard,55.0,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05895,Ice Wizard,55.0,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05910,Ice Wizard,55.0,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05925,Ice Wizard,55.0,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05940,Ice Wizard,55.0,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05955,Ice Wizard,55.0,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05970,Ice Wizard,55.0,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05985,Ice Wizard,55.0,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06000,Ice Wizard,55.0,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06015,Ice Wizard,55.0,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06030,Ice Wizard,55.0,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06045,Ice Wizard,55.0,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06060,Ice Wizard,55.0,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06075,Ice Wizard,55.0,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+06090,Ice Wizard,55.0,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+06105,Ice Wizard,55.0,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+06120,Ice Wizard,55.0,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+06135,Ice Wizard,55.0,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+06150,Ice Wizard,55.0,Baby Dragon,3.0,Graveyard,48.0,Barbarian Barrel,6.0,Knight,58.0,2.0,6,True,True,3.0,3.0
+06165,Ice Wizard,55.0,Baby Dragon,3.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06180,Ice Wizard,55.0,Baby Dragon,3.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06195,Ice Wizard,55.0,Baby Dragon,3.0,Graveyard,48.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06210,Ice Wizard,55.0,Baby Dragon,3.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,3.0,3,True,True,4.0,5.0
+06225,Ice Wizard,55.0,Baby Dragon,3.0,Poison,78.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+06240,Ice Wizard,55.0,Baby Dragon,3.0,Poison,78.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06255,Ice Wizard,55.0,Baby Dragon,3.0,Poison,78.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06270,Ice Wizard,55.0,Baby Dragon,3.0,Poison,78.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06285,Ice Wizard,55.0,Baby Dragon,3.0,Poison,78.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06300,Ice Wizard,55.0,Baby Dragon,3.0,Poison,78.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06315,Ice Wizard,55.0,Baby Dragon,3.0,Poison,78.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06330,Ice Wizard,55.0,Baby Dragon,3.0,Poison,78.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06345,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,Barbarian Barrel,6.0,Poison,78.0,3.0,2,True,True,4.0,4.0
+06360,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06375,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+06390,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+06405,Ice Wizard,55.0,Baby Dragon,3.0,Tornado,101.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+06420,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,Tornado,101.0,3.0,1,True,True,2.0,3.0
+06435,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+06450,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06465,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06480,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06495,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+06510,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+06525,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+06540,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06555,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06570,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06585,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06600,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06615,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06630,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06645,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06660,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06675,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06690,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06705,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+06720,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+06735,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+06750,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+06765,Knight,58.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,Ice Wizard,55.0,1.0,6,True,True,3.0,3.0
+06780,Knight,58.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06795,Knight,58.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06810,Knight,58.0,Baby Dragon,3.0,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,4.0,5,True,True,2.0,2.0
+06825,Knight,58.0,Baby Dragon,3.0,Barbarian Hut,7.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+06840,Knight,58.0,Baby Dragon,3.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+06855,Knight,58.0,Baby Dragon,3.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+06870,Knight,58.0,Baby Dragon,3.0,Barbarian Hut,7.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+06885,Poison,78.0,Baby Dragon,3.0,Barbarian Hut,7.0,Graveyard,48.0,Knight,58.0,1.0,4,True,True,4.0,3.0
+06900,Poison,78.0,Baby Dragon,3.0,Barbarian Hut,7.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+06915,Poison,78.0,Baby Dragon,3.0,Barbarian Hut,7.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+06930,Poison,78.0,Baby Dragon,3.0,Barbarian Hut,7.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+06945,Poison,78.0,Baby Dragon,3.0,Barbarian Hut,7.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+06960,Tornado,101.0,Baby Dragon,3.0,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,1.0,2,True,True,3.0,4.0
+06975,Tornado,101.0,Baby Dragon,3.0,Barbarian Hut,7.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+06990,Tornado,101.0,Baby Dragon,3.0,Barbarian Hut,7.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+07005,Tornado,101.0,Baby Dragon,3.0,Barbarian Hut,7.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+07020,Tornado,101.0,Baby Dragon,3.0,Barbarian Hut,7.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+07035,Tornado,101.0,Baby Dragon,3.0,Barbarian Hut,7.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+07050,Tornado,101.0,Baby Dragon,3.0,Barbarian Hut,7.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+07065,Tornado,101.0,Baby Dragon,3.0,Barbarian Hut,7.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+07080,Tornado,101.0,Baby Dragon,3.0,Barbarian Hut,7.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+07095,Tornado,101.0,Baby Dragon,3.0,Barbarian Hut,7.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+07110,Tornado,101.0,Baby Dragon,3.0,Barbarian Hut,7.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+07125,Tornado,101.0,Baby Dragon,3.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+07140,Tornado,101.0,Baby Dragon,3.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+07155,Tornado,101.0,Baby Dragon,3.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+07170,Tornado,101.0,Baby Dragon,3.0,Barbarian Hut,7.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+07185,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,Baby Dragon,3.0,2.0,3,True,True,4.0,4.0
+07200,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+07215,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+07230,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+07245,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+07260,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+07275,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+07290,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+07305,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+07320,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+07335,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+07350,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+07365,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+07380,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+07395,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+07410,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+07425,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,Graveyard,48.0,4.0,4,True,True,5.0,5.0
+07440,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+07455,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+07470,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+07485,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+07500,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+07515,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+07530,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+07545,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+07560,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Knight,58.0,Barbarian Barrel,6.0,4.0,7,True,True,2.0,2.0
+07575,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Knight,58.0,,,,8,False,False,0.0,0.0
+07590,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Knight,58.0,,,,8,False,False,0.0,0.0
+07605,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Knight,58.0,,,,9,False,False,0.0,0.0
+07620,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Knight,58.0,,,,9,False,False,0.0,0.0
+07635,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Knight,58.0,,,,10,False,False,0.0,0.0
+07650,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Knight,58.0,,,,10,False,False,0.0,0.0
+07665,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Knight,58.0,,,,10,False,False,0.0,0.0
+07680,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Knight,58.0,,,,10,False,False,0.0,0.0
+07695,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Poison,78.0,Knight,58.0,4.0,7,True,True,3.0,3.0
+07710,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Poison,78.0,,,,7,False,False,0.0,0.0
+07725,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Poison,78.0,,,,8,False,False,0.0,0.0
+07740,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Poison,78.0,,,,8,False,False,0.0,0.0
+07755,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Poison,78.0,,,,9,False,False,0.0,0.0
+07770,Tornado,101.0,Ice Wizard,55.0,Barbarian Hut,7.0,Poison,78.0,,,,9,False,False,0.0,0.0
+07785,Tornado,101.0,Baby Dragon,3.0,Barbarian Hut,7.0,Poison,78.0,Ice Wizard,55.0,2.0,7,True,True,2.0,3.0
+07800,Tornado,101.0,Baby Dragon,3.0,Barbarian Hut,7.0,Poison,78.0,,,,7,False,False,0.0,0.0
+07815,Tornado,101.0,Baby Dragon,3.0,Barbarian Hut,7.0,Poison,78.0,,,,8,False,False,0.0,0.0
+07830,Tornado,101.0,Graveyard,48.0,Barbarian Hut,7.0,Poison,78.0,Baby Dragon,3.0,2.0,5,True,True,3.0,4.0
+07845,Tornado,101.0,Graveyard,48.0,Barbarian Hut,7.0,Poison,78.0,,,,5,False,False,0.0,0.0
+07860,Tornado,101.0,Graveyard,48.0,Barbarian Hut,7.0,Poison,78.0,,,,6,False,False,0.0,0.0
+07875,Tornado,101.0,Graveyard,48.0,Barbarian Hut,7.0,Poison,78.0,,,,6,False,False,0.0,0.0
+07890,Tornado,101.0,Graveyard,48.0,Barbarian Hut,7.0,Poison,78.0,,,,7,False,False,0.0,0.0
+07905,Tornado,101.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Poison,78.0,Graveyard,48.0,2.0,2,True,True,5.0,5.0
+07920,Tornado,101.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Poison,78.0,,,,3,False,False,0.0,0.0
+07935,Tornado,101.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Poison,78.0,,,,3,False,False,0.0,0.0
+07950,Tornado,101.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Poison,78.0,,,,4,False,False,0.0,0.0
+07965,Tornado,101.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Poison,78.0,,,,4,False,False,0.0,0.0
+07980,Tornado,101.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Knight,58.0,Poison,78.0,4.0,3,True,True,1.0,4.0
+07995,Tornado,101.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Knight,58.0,,,,1,False,True,2.0,0.0
+08010,Tornado,101.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Knight,58.0,,,,2,False,False,0.0,0.0
+08025,Tornado,101.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Knight,58.0,,,,2,False,False,0.0,0.0
+08040,Tornado,101.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Knight,58.0,,,,3,False,False,0.0,0.0
+08055,Tornado,101.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Knight,58.0,,,,4,False,False,0.0,0.0
+08070,Tornado,101.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Knight,58.0,,,,4,False,False,0.0,0.0
+08085,Ice Wizard,55.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Knight,58.0,Tornado,101.0,1.0,2,True,True,2.0,3.0
+08100,Ice Wizard,55.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Knight,58.0,,,,2,False,False,0.0,0.0
+08115,Ice Wizard,55.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Knight,58.0,,,,3,False,False,0.0,0.0
+08130,Ice Wizard,55.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Knight,58.0,,,,3,False,False,0.0,0.0
+08145,Ice Wizard,55.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Knight,58.0,,,,4,False,False,0.0,0.0
+08160,Ice Wizard,55.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Knight,58.0,,,,4,False,False,0.0,0.0
+08175,Ice Wizard,55.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Knight,58.0,,,,5,False,False,0.0,0.0
+08190,Ice Wizard,55.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Knight,58.0,,,,5,False,False,0.0,0.0
+08205,Ice Wizard,55.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Knight,58.0,,,,6,False,False,0.0,0.0
+08220,Ice Wizard,55.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Knight,58.0,,,,6,False,False,0.0,0.0
+08235,Ice Wizard,55.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Knight,58.0,,,,7,False,False,0.0,0.0
+08250,Ice Wizard,55.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Knight,58.0,,,,8,False,False,0.0,0.0
+08265,Ice Wizard,55.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Knight,58.0,,,,8,False,False,0.0,0.0
+08280,Ice Wizard,55.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Knight,58.0,,,,9,False,False,0.0,0.0
+08295,Ice Wizard,55.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Baby Dragon,3.0,Knight,58.0,4.0,6,True,True,3.0,3.0
+08310,Ice Wizard,55.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+08325,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,Barbarian Barrel,6.0,2.0,5,True,True,3.0,2.0
+08340,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+08355,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Poison,78.0,Baby Dragon,3.0,4.0,2,True,True,4.0,4.0
+08370,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Poison,78.0,,,,3,False,False,0.0,0.0
+08385,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Poison,78.0,,,,3,False,False,0.0,0.0
+08400,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Poison,78.0,,,,4,False,False,0.0,0.0
+08415,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Poison,78.0,,,,4,False,False,0.0,0.0
+08430,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Poison,78.0,,,,5,False,False,0.0,0.0
+08445,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Tornado,101.0,Poison,78.0,4.0,2,True,True,3.0,4.0
+08460,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+08475,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+08490,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+08505,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+08520,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Knight,58.0,Tornado,101.0,4.0,1,True,True,3.0,3.0
+08535,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Knight,58.0,,,,2,False,False,0.0,0.0
+08550,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Knight,58.0,,,,2,False,False,0.0,0.0
+08565,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Knight,58.0,,,,3,False,False,0.0,0.0
+08580,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Knight,58.0,,,,3,False,False,0.0,0.0
+08595,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Knight,58.0,,,,4,False,False,0.0,0.0
+08610,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Knight,58.0,,,,4,False,False,0.0,0.0
+08625,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Knight,58.0,,,,5,False,False,0.0,0.0
+08640,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Knight,58.0,,,,5,False,False,0.0,0.0
+08655,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Knight,58.0,,,,6,False,False,0.0,0.0
+08670,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Knight,58.0,,,,7,False,False,0.0,0.0
+08685,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Knight,58.0,,,,7,False,False,0.0,0.0
+08700,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,Knight,58.0,4.0,5,True,True,2.0,3.0
+08715,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+08730,Ice Wizard,55.0,Graveyard,48.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+08745,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,Graveyard,48.0,2.0,1,True,True,5.0,5.0
+08760,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+08775,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+08790,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,4.0,2,True,True,1.0,2.0
+08805,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Poison,78.0,,,,1,False,False,0.0,0.0
+08820,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Poison,78.0,,,,2,False,False,0.0,0.0
+08835,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Poison,78.0,,,,2,False,False,0.0,0.0
+08850,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Poison,78.0,,,,3,False,False,0.0,0.0
+08865,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Poison,78.0,,,,4,False,False,0.0,0.0
+08880,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Poison,78.0,,,,4,False,False,0.0,0.0
+08895,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Poison,78.0,,,,5,False,False,0.0,0.0
+08910,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Tornado,101.0,Poison,78.0,4.0,1,True,True,4.0,4.0
+08925,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+08940,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+08955,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+08970,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+08985,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Knight,58.0,Tornado,101.0,4.0,1,True,True,2.0,3.0
+09000,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Knight,58.0,,,,1,False,False,0.0,0.0
+09015,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Knight,58.0,,,,2,False,False,0.0,0.0
+09030,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Knight,58.0,,,,3,False,False,0.0,0.0
+09045,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Knight,58.0,,,,3,False,False,0.0,0.0
+09060,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Knight,58.0,,,,4,False,False,0.0,0.0
+09075,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Knight,58.0,,,,4,False,False,0.0,0.0
+09090,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Hut,7.0,Knight,58.0,,,,5,False,False,0.0,0.0
+09105,Graveyard,48.0,Baby Dragon,3.0,Barbarian Hut,7.0,Knight,58.0,Ice Wizard,55.0,1.0,2,True,True,3.0,3.0
+09120,Graveyard,48.0,Baby Dragon,3.0,Barbarian Hut,7.0,Knight,58.0,,,,3,False,False,0.0,0.0
+09135,Graveyard,48.0,Baby Dragon,3.0,Barbarian Hut,7.0,Knight,58.0,,,,3,False,False,0.0,0.0
+09150,Graveyard,48.0,Baby Dragon,3.0,Barbarian Hut,7.0,Knight,58.0,,,,4,False,False,0.0,0.0
+09165,Graveyard,48.0,Baby Dragon,3.0,Barbarian Hut,7.0,Knight,58.0,,,,4,False,False,0.0,0.0
+09180,Graveyard,48.0,Baby Dragon,3.0,Barbarian Hut,7.0,Knight,58.0,,,,5,False,False,0.0,0.0
+09195,Graveyard,48.0,Baby Dragon,3.0,Barbarian Hut,7.0,Knight,58.0,,,,5,False,False,0.0,0.0
+09210,Graveyard,48.0,Baby Dragon,3.0,Barbarian Hut,7.0,Knight,58.0,,,,5,False,False,0.0,0.0
+09225,Graveyard,48.0,Baby Dragon,3.0,Barbarian Hut,7.0,Knight,58.0,,,,5,False,False,0.0,0.0
+09240,Graveyard,48.0,Baby Dragon,3.0,Barbarian Hut,7.0,Knight,58.0,,,,5,False,False,0.0,0.0
+09255,Graveyard,48.0,Baby Dragon,3.0,Barbarian Hut,7.0,Knight,58.0,,,,5,False,False,0.0,0.0
+09270,Graveyard,48.0,Baby Dragon,3.0,Barbarian Hut,7.0,Knight,58.0,,,,5,False,False,0.0,0.0
+09285,Graveyard,48.0,Baby Dragon,3.0,Barbarian Hut,7.0,Knight,58.0,,,,5,False,False,0.0,0.0
+09300,Graveyard,48.0,Baby Dragon,3.0,Barbarian Hut,7.0,Knight,58.0,,,,5,False,False,0.0,0.0

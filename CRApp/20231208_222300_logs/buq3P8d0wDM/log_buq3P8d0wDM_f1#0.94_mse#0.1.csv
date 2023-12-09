@@ -1,0 +1,348 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00255,Magic Archer,62.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+00270,Magic Archer,62.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+00285,Magic Archer,62.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+00300,Magic Archer,62.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+00315,Magic Archer,62.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+00330,Magic Archer,62.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+00345,Magic Archer,62.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+00360,Magic Archer,62.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+00375,Magic Archer,62.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,8,False,False,0.0,0.0
+00390,Magic Archer,62.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,8,False,False,0.0,0.0
+00405,Magic Archer,62.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,8,False,False,0.0,0.0
+00420,Magic Archer,62.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,8,False,False,0.0,0.0
+00435,Magic Archer,62.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,8,False,False,0.0,0.0
+00450,Magic Archer,62.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,9,False,False,0.0,0.0
+00465,Magic Archer,62.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,9,False,False,0.0,0.0
+00480,Magic Archer,62.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,9,False,False,0.0,0.0
+00495,Magic Archer,62.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,Bandit,5.0,3.0,6,True,True,3.0,3.0
+00510,Magic Archer,62.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+00525,Magic Archer,62.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+00540,Magic Archer,62.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+00555,Magic Archer,62.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+00570,Magic Archer,62.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+00585,Magic Archer,62.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+00600,Magic Archer,62.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+00615,Magic Archer,62.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+00630,Magic Archer,62.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,8,False,False,0.0,0.0
+00645,Magic Archer,62.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,8,False,False,0.0,0.0
+00660,Magic Archer,62.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,8,False,False,0.0,0.0
+00675,Magic Archer,62.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,8,False,False,0.0,0.0
+00690,Magic Archer,62.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,8,False,False,0.0,0.0
+00705,Magic Archer,62.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,9,False,False,0.0,0.0
+00720,Magic Archer,62.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,9,False,False,0.0,0.0
+00735,Magic Archer,62.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,9,False,False,0.0,0.0
+00750,Magic Archer,62.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,9,False,False,0.0,0.0
+00765,Magic Archer,62.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,9,False,False,0.0,0.0
+00780,Magic Archer,62.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,9,False,False,0.0,0.0
+00795,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,Magic Archer,62.0,1.0,6,True,True,3.0,4.0
+00810,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+00825,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+00840,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+00855,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+00870,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+00885,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+00900,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+00915,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+00930,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+00945,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+00960,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,Elite Barbarians,25.0,4.0,2,True,True,5.0,6.0
+00975,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,2,False,False,0.0,0.0
+00990,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,2,False,False,0.0,0.0
+01005,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,2,False,False,0.0,0.0
+01020,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,2,False,False,0.0,0.0
+01035,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,2,False,False,0.0,0.0
+01050,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,3,False,False,0.0,0.0
+01065,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,3,False,False,0.0,0.0
+01080,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,3,False,False,0.0,0.0
+01095,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,3,False,False,0.0,0.0
+01110,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,3,False,False,0.0,0.0
+01125,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,3,False,False,0.0,0.0
+01140,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,4,False,False,0.0,0.0
+01155,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,4,False,False,0.0,0.0
+01170,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,4,False,False,0.0,0.0
+01185,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,4,False,False,0.0,0.0
+01200,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,4,False,False,0.0,0.0
+01215,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,5,False,False,0.0,0.0
+01230,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,5,False,False,0.0,0.0
+01245,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,5,False,False,0.0,0.0
+01260,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,5,False,False,0.0,0.0
+01275,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,5,False,False,0.0,0.0
+01290,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,5,False,False,0.0,0.0
+01305,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,6,False,False,0.0,0.0
+01320,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,6,False,False,0.0,0.0
+01335,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,6,False,False,0.0,0.0
+01350,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,6,False,False,0.0,0.0
+01365,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,6,False,False,0.0,0.0
+01380,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,7,False,False,0.0,0.0
+01395,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,7,False,False,0.0,0.0
+01410,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Royal Ghost,86.0,,,,7,False,False,0.0,0.0
+01425,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Heal Spirit,50.0,Royal Ghost,86.0,4.0,4,True,True,3.0,3.0
+01440,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+01455,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+01470,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+01485,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+01500,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+01515,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+01530,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+01545,Cannon Cart,16.0,Barbarian Barrel,6.0,Hunter,52.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+01560,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Heal Spirit,50.0,Hunter,52.0,3.0,2,True,True,4.0,4.0
+01575,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+01590,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+01605,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+01620,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+01635,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+01650,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+01665,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+01680,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+01695,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+01710,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+01725,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+01740,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+01755,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+01770,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+01785,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+01800,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+01815,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Magic Archer,62.0,Heal Spirit,50.0,4.0,4,True,True,1.0,1.0
+01830,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+01845,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+01860,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+01875,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+01890,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+01905,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+01920,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+01935,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,Magic Archer,62.0,4.0,1,True,True,4.0,4.0
+01950,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,1,False,False,0.0,0.0
+01965,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,2,False,False,0.0,0.0
+01980,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,2,False,False,0.0,0.0
+01995,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,2,False,False,0.0,0.0
+02010,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,2,False,False,0.0,0.0
+02025,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,2,False,False,0.0,0.0
+02040,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,2,False,False,0.0,0.0
+02055,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,3,False,False,0.0,0.0
+02070,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,3,False,False,0.0,0.0
+02085,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,3,False,False,0.0,0.0
+02100,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,3,False,False,0.0,0.0
+02115,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,3,False,False,0.0,0.0
+02130,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,3,False,False,0.0,0.0
+02145,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,4,False,False,0.0,0.0
+02160,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,4,False,False,0.0,0.0
+02175,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,4,False,False,0.0,0.0
+02190,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,4,False,False,0.0,0.0
+02205,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,4,False,False,0.0,0.0
+02220,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,5,False,False,0.0,0.0
+02235,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,5,False,False,0.0,0.0
+02250,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,5,False,False,0.0,0.0
+02265,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,5,False,False,0.0,0.0
+02280,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Elite Barbarians,25.0,,,,5,False,False,0.0,0.0
+02295,Cannon Cart,16.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,Bandit,5.0,3.0,2,True,True,3.0,3.0
+02310,Cannon Cart,16.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,3,False,False,0.0,0.0
+02325,Cannon Cart,16.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,3,False,False,0.0,0.0
+02340,Cannon Cart,16.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,3,False,False,0.0,0.0
+02355,Cannon Cart,16.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,3,False,False,0.0,0.0
+02370,Cannon Cart,16.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,3,False,False,0.0,0.0
+02385,Cannon Cart,16.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,4,False,False,0.0,0.0
+02400,Cannon Cart,16.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,4,False,False,0.0,0.0
+02415,Cannon Cart,16.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,4,False,False,0.0,0.0
+02430,Cannon Cart,16.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,4,False,False,0.0,0.0
+02445,Cannon Cart,16.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,4,False,False,0.0,0.0
+02460,Cannon Cart,16.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,4,False,False,0.0,0.0
+02475,Cannon Cart,16.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,5,False,False,0.0,0.0
+02490,Cannon Cart,16.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,5,False,False,0.0,0.0
+02505,Cannon Cart,16.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,5,False,False,0.0,0.0
+02520,Cannon Cart,16.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,5,False,False,0.0,0.0
+02535,Cannon Cart,16.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,5,False,False,0.0,0.0
+02550,Cannon Cart,16.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,5,False,False,0.0,0.0
+02565,Cannon Cart,16.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+02580,Cannon Cart,16.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+02595,Cannon Cart,16.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+02610,Cannon Cart,16.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+02625,Cannon Cart,16.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+02640,Cannon Cart,16.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+02655,Cannon Cart,16.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+02670,Cannon Cart,16.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+02685,Cannon Cart,16.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+02700,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,Cannon Cart,16.0,1.0,2,True,True,5.0,5.0
+02715,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,2,False,False,0.0,0.0
+02730,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,3,False,False,0.0,0.0
+02745,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,3,False,False,0.0,0.0
+02760,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,3,False,False,0.0,0.0
+02775,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,3,False,False,0.0,0.0
+02790,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,3,False,False,0.0,0.0
+02805,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,4,False,False,0.0,0.0
+02820,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,4,False,False,0.0,0.0
+02835,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,4,False,False,0.0,0.0
+02850,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,4,False,False,0.0,0.0
+02865,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,4,False,False,0.0,0.0
+02880,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,4,False,False,0.0,0.0
+02895,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,5,False,False,0.0,0.0
+02910,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,5,False,False,0.0,0.0
+02925,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,5,False,False,0.0,0.0
+02940,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,5,False,False,0.0,0.0
+02955,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,5,False,False,0.0,0.0
+02970,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,5,False,False,0.0,0.0
+02985,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+03000,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+03015,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+03030,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+03045,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+03060,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+03075,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+03090,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+03105,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+03120,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+03135,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+03150,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,8,False,False,0.0,0.0
+03165,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,8,False,False,0.0,0.0
+03180,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,8,False,False,0.0,0.0
+03195,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,8,False,False,0.0,0.0
+03210,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,8,False,False,0.0,0.0
+03225,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,9,False,False,0.0,0.0
+03240,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,9,False,False,0.0,0.0
+03255,Hunter,52.0,Barbarian Barrel,6.0,Royal Ghost,86.0,Elite Barbarians,25.0,,,,9,False,False,0.0,0.0
+03270,Hunter,52.0,Barbarian Barrel,6.0,Heal Spirit,50.0,Elite Barbarians,25.0,Royal Ghost,86.0,3.0,6,True,True,3.0,3.0
+03285,Hunter,52.0,Barbarian Barrel,6.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+03300,Hunter,52.0,Barbarian Barrel,6.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+03315,Hunter,52.0,Barbarian Barrel,6.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+03330,Hunter,52.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,Barbarian Barrel,6.0,2.0,5,True,True,2.0,2.0
+03345,Hunter,52.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,5,False,False,0.0,0.0
+03360,Hunter,52.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,5,False,False,0.0,0.0
+03375,Hunter,52.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,5,False,False,0.0,0.0
+03390,Hunter,52.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,5,False,False,0.0,0.0
+03405,Hunter,52.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+03420,Hunter,52.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+03435,Hunter,52.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+03450,Hunter,52.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+03465,Hunter,52.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+03480,Hunter,52.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+03495,Hunter,52.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+03510,Hunter,52.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+03525,Hunter,52.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+03540,Hunter,52.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+03555,Hunter,52.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+03570,Hunter,52.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,8,False,False,0.0,0.0
+03585,Hunter,52.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,8,False,False,0.0,0.0
+03600,Hunter,52.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,8,False,False,0.0,0.0
+03615,Hunter,52.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,8,False,False,0.0,0.0
+03630,Hunter,52.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,8,False,False,0.0,0.0
+03645,Hunter,52.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,9,False,False,0.0,0.0
+03660,Hunter,52.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,9,False,False,0.0,0.0
+03675,Bandit,5.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,Hunter,52.0,1.0,5,True,True,4.0,4.0
+03690,Bandit,5.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,5,False,False,0.0,0.0
+03705,Bandit,5.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,5,False,False,0.0,0.0
+03720,Bandit,5.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,5,False,False,0.0,0.0
+03735,Bandit,5.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+03750,Bandit,5.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+03765,Bandit,5.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+03780,Bandit,5.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+03795,Bandit,5.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,6,False,False,0.0,0.0
+03810,Bandit,5.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,7,False,False,0.0,0.0
+03825,Bandit,5.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,8,False,False,0.0,0.0
+03840,Bandit,5.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,8,False,False,0.0,0.0
+03855,Bandit,5.0,Magic Archer,62.0,Heal Spirit,50.0,Elite Barbarians,25.0,,,,8,False,False,0.0,0.0
+03870,Bandit,5.0,Magic Archer,62.0,Heal Spirit,50.0,Cannon Cart,16.0,Elite Barbarians,25.0,4.0,3,True,True,5.0,6.0
+03885,Bandit,5.0,Magic Archer,62.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+03900,Bandit,5.0,Magic Archer,62.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+03915,Bandit,5.0,Magic Archer,62.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+03930,Bandit,5.0,Magic Archer,62.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+03945,Bandit,5.0,Magic Archer,62.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+03960,Bandit,5.0,Magic Archer,62.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+03975,Bandit,5.0,Royal Ghost,86.0,Heal Spirit,50.0,Cannon Cart,16.0,Magic Archer,62.0,2.0,3,True,True,2.0,4.0
+03990,Bandit,5.0,Royal Ghost,86.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,2,False,True,1.0,0.0
+04005,Bandit,5.0,Royal Ghost,86.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+04020,Bandit,5.0,Royal Ghost,86.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+04035,Bandit,5.0,Royal Ghost,86.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+04050,Bandit,5.0,Royal Ghost,86.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+04065,Bandit,5.0,Royal Ghost,86.0,Heal Spirit,50.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+04080,Bandit,5.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Heal Spirit,50.0,3.0,3,True,False,0.0,1.0
+04095,Bandit,5.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+04110,Bandit,5.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+04125,Bandit,5.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+04140,Bandit,5.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+04155,Bandit,5.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+04170,Bandit,5.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+04185,Bandit,5.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+04200,Bandit,5.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+04215,Bandit,5.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+04230,Bandit,5.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+04245,Bandit,5.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+04260,Bandit,5.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+04275,Bandit,5.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+04290,Bandit,5.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+04305,Bandit,5.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+04320,Bandit,5.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+04335,Bandit,5.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+04350,Bandit,5.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+04365,Bandit,5.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+04380,Bandit,5.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+04395,Bandit,5.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+04410,Hunter,52.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Bandit,5.0,1.0,7,True,True,3.0,3.0
+04425,Hunter,52.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+04440,Hunter,52.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+04455,Hunter,52.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+04470,Hunter,52.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+04485,Hunter,52.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+04500,Hunter,52.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+04515,Hunter,52.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+04530,Hunter,52.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+04545,Elite Barbarians,25.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Hunter,52.0,1.0,6,True,True,4.0,4.0
+04560,Elite Barbarians,25.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+04575,Elite Barbarians,25.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+04590,Elite Barbarians,25.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+04605,Elite Barbarians,25.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+04620,Elite Barbarians,25.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+04635,Elite Barbarians,25.0,Royal Ghost,86.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+04650,Elite Barbarians,25.0,Magic Archer,62.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Royal Ghost,86.0,2.0,5,True,True,3.0,3.0
+04665,Elite Barbarians,25.0,Magic Archer,62.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+04680,Elite Barbarians,25.0,Magic Archer,62.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+04695,Elite Barbarians,25.0,Magic Archer,62.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+04710,Elite Barbarians,25.0,Magic Archer,62.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+04725,Elite Barbarians,25.0,Magic Archer,62.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+04740,Elite Barbarians,25.0,Magic Archer,62.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+04755,Elite Barbarians,25.0,Magic Archer,62.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+04770,Elite Barbarians,25.0,Magic Archer,62.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+04785,Heal Spirit,50.0,Magic Archer,62.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Elite Barbarians,25.0,1.0,3,True,True,5.0,6.0
+04800,Heal Spirit,50.0,Magic Archer,62.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+04815,Heal Spirit,50.0,Magic Archer,62.0,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,3.0,1,True,True,2.0,2.0
+04830,Heal Spirit,50.0,Magic Archer,62.0,Bandit,5.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+04845,Hunter,52.0,Magic Archer,62.0,Bandit,5.0,Cannon Cart,16.0,Heal Spirit,50.0,1.0,1,True,True,1.0,1.0
+04860,Hunter,52.0,Magic Archer,62.0,Bandit,5.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+04875,Hunter,52.0,Magic Archer,62.0,Bandit,5.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+04890,Hunter,52.0,Magic Archer,62.0,Bandit,5.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+04905,Hunter,52.0,Magic Archer,62.0,Bandit,5.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+04920,Hunter,52.0,Magic Archer,62.0,Bandit,5.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+04935,Hunter,52.0,Magic Archer,62.0,Bandit,5.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+04950,Hunter,52.0,Magic Archer,62.0,Bandit,5.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+04965,Hunter,52.0,Magic Archer,62.0,Bandit,5.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+04980,Hunter,52.0,Magic Archer,62.0,Bandit,5.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+04995,Hunter,52.0,Magic Archer,62.0,Bandit,5.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+05010,Hunter,52.0,Magic Archer,62.0,Bandit,5.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+05025,Hunter,52.0,Magic Archer,62.0,Bandit,5.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+05040,Hunter,52.0,Magic Archer,62.0,Bandit,5.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+05055,Hunter,52.0,Magic Archer,62.0,Bandit,5.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+05070,Hunter,52.0,Royal Ghost,86.0,Bandit,5.0,Cannon Cart,16.0,Magic Archer,62.0,2.0,2,True,True,4.0,4.0
+05085,Hunter,52.0,Royal Ghost,86.0,Bandit,5.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+05100,Hunter,52.0,Royal Ghost,86.0,Bandit,5.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+05115,Hunter,52.0,Royal Ghost,86.0,Bandit,5.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+05130,Hunter,52.0,Royal Ghost,86.0,Bandit,5.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+05145,Hunter,52.0,Royal Ghost,86.0,Bandit,5.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+05160,Hunter,52.0,Royal Ghost,86.0,Bandit,5.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+05175,Hunter,52.0,Royal Ghost,86.0,Bandit,5.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+05190,Hunter,52.0,Royal Ghost,86.0,Bandit,5.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+05205,Hunter,52.0,Royal Ghost,86.0,Bandit,5.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+05220,Hunter,52.0,Royal Ghost,86.0,Bandit,5.0,Cannon Cart,16.0,,,,1,False,True,5.0,0.0
+05235,Hunter,52.0,Royal Ghost,86.0,Bandit,5.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+05250,Hunter,52.0,Royal Ghost,86.0,Bandit,5.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+05265,Hunter,52.0,Royal Ghost,86.0,Bandit,5.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+05280,Hunter,52.0,Royal Ghost,86.0,Bandit,5.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+05295,Hunter,52.0,Royal Ghost,86.0,Bandit,5.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+05310,Hunter,52.0,Royal Ghost,86.0,Bandit,5.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+05325,Hunter,52.0,Royal Ghost,86.0,Bandit,5.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+05340,Hunter,52.0,Royal Ghost,86.0,Bandit,5.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+05355,Hunter,52.0,Royal Ghost,86.0,Bandit,5.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+05370,Barbarian Barrel,6.0,Royal Ghost,86.0,Bandit,5.0,Cannon Cart,16.0,Hunter,52.0,1.0,1,True,True,3.0,4.0
+05385,Barbarian Barrel,6.0,Royal Ghost,86.0,Bandit,5.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+05400,Barbarian Barrel,6.0,Royal Ghost,86.0,Bandit,5.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+05415,Barbarian Barrel,6.0,Royal Ghost,86.0,Bandit,5.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+05430,Barbarian Barrel,6.0,Royal Ghost,86.0,Bandit,5.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+05445,Barbarian Barrel,6.0,Royal Ghost,86.0,Bandit,5.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0

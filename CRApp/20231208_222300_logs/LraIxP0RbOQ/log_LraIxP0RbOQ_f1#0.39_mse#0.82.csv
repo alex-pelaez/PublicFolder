@@ -1,0 +1,1405 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00255,,,,,,,Fireball,30.0,,,,6,False,False,0.0,0.0
+00270,,,,,,,Fireball,30.0,,,,6,False,False,0.0,0.0
+00285,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,3.0,7,True,False,0.0,0.0
+00300,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+00315,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+00330,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+00345,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+00360,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+00375,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+00390,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+00405,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+00420,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+00435,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+00450,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+00465,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+00480,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+00495,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+00510,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,6,False,True,3.0,0.0
+00525,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+00540,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+00555,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+00570,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+00585,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+00600,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+00615,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+00630,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+00645,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+00660,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+00675,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+00690,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+00705,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+00720,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+00735,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+00750,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+00765,Zap,107.0,Fireball,30.0,Zap,107.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+00780,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,Fireball,30.0,4.0,5,True,True,4.0,4.0
+00795,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+00810,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+00825,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+00840,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+00855,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+00870,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+00885,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+00900,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+00915,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+00930,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+00945,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+00960,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+00975,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+00990,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+01005,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+01020,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+01035,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+01050,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+01065,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+01080,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+01095,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+01110,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,4,False,True,5.0,0.0
+01125,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+01140,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+01155,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+01170,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+01185,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+01200,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+01215,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+01230,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+01245,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+01260,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+01275,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+01290,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+01305,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+01320,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+01335,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+01350,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+01365,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+01380,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+01395,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+01410,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+01425,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+01440,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+01455,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+01470,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+01485,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+01500,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,6,False,True,3.0,0.0
+01515,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+01530,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+01545,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+01560,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+01575,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+01590,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+01605,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+01620,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+01635,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+01650,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+01665,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+01680,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+01695,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+01710,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+01725,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+01740,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+01755,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+01770,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+01785,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+01800,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,10,False,False,0.0,0.0
+01815,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,7,False,True,3.0,0.0
+01830,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+01845,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+01860,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+01875,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+01890,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,5,False,True,2.0,0.0
+01905,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+01920,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+01935,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+01950,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+01965,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+01980,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+01995,Zap,107.0,Fireball,30.0,Zap,107.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+02010,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,Zap,107.0,3.0,4,True,True,2.0,2.0
+02025,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+02040,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+02055,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+02070,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+02085,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+02100,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+02115,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+02130,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+02145,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+02160,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+02175,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+02190,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+02205,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+02220,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+02235,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+02250,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+02265,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+02280,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+02295,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+02310,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+02325,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+02340,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+02355,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+02370,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+02385,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+02400,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+02415,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+02430,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+02445,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+02460,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,2,False,True,7.0,0.0
+02475,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+02490,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+02505,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+02520,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+02535,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+02550,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+02565,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+02580,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+02595,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+02610,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+02625,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,1,False,True,3.0,0.0
+02640,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,1,False,False,0.0,0.0
+02655,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+02670,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+02685,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+02700,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+02715,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+02730,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+02745,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+02760,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+02775,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+02790,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+02805,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+02820,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+02835,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+02850,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+02865,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+02880,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+02895,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+02910,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+02925,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+02940,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+02955,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,0,False,True,5.0,0.0
+02970,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,0,False,False,0.0,0.0
+02985,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,1,False,False,0.0,0.0
+03000,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,1,False,False,0.0,0.0
+03015,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,1,False,False,0.0,0.0
+03030,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,1,False,False,0.0,0.0
+03045,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,1,False,False,0.0,0.0
+03060,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,1,False,False,0.0,0.0
+03075,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+03090,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+03105,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+03120,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+03135,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+03150,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+03165,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+03180,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+03195,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+03210,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+03225,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+03240,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+03255,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+03270,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+03285,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+03300,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+03315,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+03330,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+03345,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+03360,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,0,False,True,5.0,0.0
+03375,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,0,False,False,0.0,0.0
+03390,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,0,False,False,0.0,0.0
+03405,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,1,False,False,0.0,0.0
+03420,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,1,False,False,0.0,0.0
+03435,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,1,False,False,0.0,0.0
+03450,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,1,False,False,0.0,0.0
+03465,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,1,False,False,0.0,0.0
+03480,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,1,False,False,0.0,0.0
+03495,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+03510,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+03525,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+03540,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+03555,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+03570,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+03585,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+03600,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+03615,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+03630,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+03645,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+03660,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+03675,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+03690,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+03705,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+03720,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+03735,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+03750,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+03765,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+03780,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+03795,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+03810,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+03825,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+03840,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+03855,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+03870,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+03885,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+03900,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+03915,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+03930,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+03945,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,10,False,False,0.0,0.0
+03960,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,10,False,False,0.0,0.0
+03975,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,True,3.0,0.0
+03990,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+04005,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+04020,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+04035,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+04050,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+04065,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+04080,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,True,3.0,0.0
+04095,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+04110,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+04125,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+04140,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,True,2.0,0.0
+04155,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+04170,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+04185,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+04200,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+04215,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+04230,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+04245,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+04260,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+04275,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+04290,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+04305,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+04320,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,True,5.0,0.0
+04335,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+04350,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+04365,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+04380,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+04395,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+04410,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+04425,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+04440,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+04455,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+04470,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,True,3.0,0.0
+04485,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+04500,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+04515,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+04530,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+04545,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,2,False,True,3.0,0.0
+04560,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+04575,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+04590,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+04605,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+04620,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+04635,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+04650,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+04665,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+04680,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+04695,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+04710,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+04725,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+04740,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+04755,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+04770,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+04785,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,True,3.0,0.0
+04800,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+04815,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+04830,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+04845,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+04860,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+04875,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+04890,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+04905,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,True,3.0,0.0
+04920,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+04935,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+04950,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+04965,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+04980,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+04995,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+05010,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+05025,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+05040,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+05055,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+05070,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+05085,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+05100,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,True,4.0,0.0
+05115,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05130,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05145,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+05160,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+05175,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+05190,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+05205,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+05220,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+05235,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+05250,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+05265,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+05280,Zap,107.0,Fireball,30.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+05295,Zap,107.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,Fireball,30.0,2.0,5,True,True,4.0,4.0
+05310,Zap,107.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+05325,Zap,107.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+05340,Zap,107.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+05355,Zap,107.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+05370,Zap,107.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+05385,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,Zap,107.0,1.0,5,True,True,2.0,2.0
+05400,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,1,False,True,4.0,0.0
+05415,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,1,False,False,0.0,0.0
+05430,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,1,False,False,0.0,0.0
+05445,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+05460,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+05475,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+05490,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+05505,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+05520,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+05535,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+05550,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+05565,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05580,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05595,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05610,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05625,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05640,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05655,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05670,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05685,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05700,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05715,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05730,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05745,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05760,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05775,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05790,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05805,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05820,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05835,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05850,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05865,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05880,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05895,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05910,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05925,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+05940,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+05955,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+05970,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+05985,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+06000,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+06015,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+06030,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+06045,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+06060,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+06075,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+06090,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+06105,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+06120,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+06135,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+06150,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+06165,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+06180,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+06195,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+06210,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+06225,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+06240,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,True,2.0,0.0
+06255,Skeletons,94.0,Zap,107.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+06270,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,Zap,107.0,2.0,6,True,True,2.0,2.0
+06285,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+06300,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+06315,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+06330,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+06345,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+06360,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+06375,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,True,3.0,0.0
+06390,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+06405,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+06420,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+06435,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+06450,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+06465,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+06480,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+06495,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+06510,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+06525,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+06540,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+06555,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+06570,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+06585,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+06600,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+06615,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+06630,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+06645,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+06660,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+06675,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+06690,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+06705,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+06720,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+06735,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+06750,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+06765,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+06780,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+06795,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+06810,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,True,6.0,0.0
+06825,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+06840,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+06855,Skeletons,94.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+06870,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,Skeletons,94.0,1.0,3,True,True,1.0,1.0
+06885,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+06900,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+06915,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+06930,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+06945,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+06960,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+06975,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+06990,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+07005,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+07020,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+07035,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+07050,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+07065,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+07080,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+07095,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+07110,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+07125,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+07140,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+07155,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+07170,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+07185,Zap,107.0,Hunter,52.0,Zap,107.0,Giant Skeleton,37.0,Goblin Barrel,39.0,3.0,4,True,True,3.0,4.0
+07200,Zap,107.0,Hunter,52.0,Zap,107.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+07215,Zap,107.0,Hunter,52.0,Zap,107.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+07230,Zap,107.0,Hunter,52.0,Zap,107.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+07245,Zap,107.0,Hunter,52.0,Zap,107.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+07260,Zap,107.0,Hunter,52.0,Zap,107.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+07275,Zap,107.0,Hunter,52.0,Zap,107.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+07290,Zap,107.0,Hunter,52.0,Zap,107.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+07305,Zap,107.0,Hunter,52.0,Zap,107.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+07320,Zap,107.0,Hunter,52.0,Zap,107.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+07335,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,Zap,107.0,3.0,3,True,True,2.0,2.0
+07350,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+07365,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+07380,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+07395,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+07410,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+07425,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+07440,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+07455,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+07470,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+07485,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+07500,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+07515,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+07530,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+07545,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+07560,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+07575,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+07590,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+07605,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+07620,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+07635,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,4,False,True,3.0,0.0
+07650,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+07665,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+07680,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+07695,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+07710,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+07725,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+07740,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+07755,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+07770,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+07785,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+07800,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+07815,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+07830,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+07845,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+07860,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+07875,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+07890,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+07905,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+07920,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+07935,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+07950,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+07965,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+07980,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+07995,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+08010,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+08025,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+08040,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+08055,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,3,False,True,6.0,0.0
+08070,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+08085,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+08100,Zap,107.0,Hunter,52.0,Skeletons,94.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+08115,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,Skeletons,94.0,3.0,3,True,True,1.0,1.0
+08130,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+08145,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+08160,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+08175,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+08190,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+08205,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+08220,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+08235,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+08250,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+08265,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+08280,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+08295,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+08310,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+08325,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+08340,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+08355,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+08370,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+08385,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+08400,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+08415,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+08430,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+08445,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+08460,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+08475,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,True,2.0,0.0
+08490,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+08505,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+08520,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+08535,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+08550,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+08565,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+08580,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+08595,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+08610,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+08625,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+08640,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+08655,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+08670,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+08685,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+08700,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+08715,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+08730,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+08745,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+08760,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+08775,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+08790,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+08805,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+08820,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+08835,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+08850,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,Giant Skeleton,37.0,4.0,4,True,True,5.0,6.0
+08865,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+08880,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+08895,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+08910,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+08925,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+08940,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+08955,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+08970,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+08985,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+09000,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+09015,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+09030,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+09045,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+09060,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+09075,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+09090,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+09105,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+09120,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+09135,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,True,3.0,0.0
+09150,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+09165,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+09180,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+09195,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+09210,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+09225,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+09240,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+09255,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+09270,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+09285,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+09300,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+09315,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+09330,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+09345,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+09360,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+09375,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+09390,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+09405,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+09420,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+09435,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+09450,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+09465,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+09480,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+09495,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+09510,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+09525,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,True,4.0,0.0
+09540,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+09555,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+09570,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+09585,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+09600,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,True,1.0,0.0
+09615,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+09630,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+09645,Zap,107.0,Hunter,52.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+09660,Zap,107.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,Hunter,52.0,2.0,2,True,True,3.0,4.0
+09675,Zap,107.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+09690,Zap,107.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+09705,Zap,107.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+09720,Zap,107.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+09735,Zap,107.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+09750,Zap,107.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+09765,Zap,107.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+09780,Zap,107.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+09795,Zap,107.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+09810,Zap,107.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,3,False,True,2.0,0.0
+09825,Zap,107.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+09840,Zap,107.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+09855,Zap,107.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+09870,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,Zap,107.0,1.0,3,True,True,1.0,2.0
+09885,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+09900,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+09915,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+09930,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,1,False,True,3.0,0.0
+09945,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+09960,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+09975,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+09990,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+10005,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+10020,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+10035,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+10050,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+10065,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+10080,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+10095,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+10110,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+10125,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+10140,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+10155,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+10170,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+10185,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+10200,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+10215,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+10230,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+10245,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+10260,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+10275,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+10290,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,True,5.0,0.0
+10305,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+10320,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+10335,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+10350,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+10365,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+10380,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,2,False,True,4.0,0.0
+10395,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+10410,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+10425,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+10440,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+10455,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+10470,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+10485,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+10500,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+10515,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+10530,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+10545,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+10560,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+10575,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+10590,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+10605,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+10620,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+10635,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+10650,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+10665,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+10680,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+10695,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,Giant Skeleton,37.0,2.0,3,True,True,6.0,6.0
+10710,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+10725,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+10740,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+10755,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+10770,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+10785,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+10800,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+10815,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+10830,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+10845,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+10860,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+10875,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+10890,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+10905,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+10920,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+10935,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+10950,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,True,1.0,0.0
+10965,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+10980,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+10995,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+11010,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+11025,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+11040,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,7,False,True,2.0,0.0
+11055,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+11070,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+11085,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+11100,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+11115,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+11130,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,3,False,True,5.0,0.0
+11145,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+11160,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+11175,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+11190,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+11205,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+11220,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+11235,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+11250,Hunter,52.0,Zap,107.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+11265,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,Zap,107.0,2.0,4,True,True,2.0,2.0
+11280,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+11295,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+11310,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+11325,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+11340,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+11355,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+11370,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+11385,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+11400,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+11415,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+11430,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+11445,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+11460,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+11475,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+11490,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+11505,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Zap,107.0,Skeletons,94.0,4.0,9,True,False,0.0,1.0
+11520,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Zap,107.0,,,,9,False,False,0.0,0.0
+11535,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Zap,107.0,,,,9,False,False,0.0,0.0
+11550,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Zap,107.0,,,,10,False,False,0.0,0.0
+11565,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Zap,107.0,,,,8,False,True,2.0,0.0
+11580,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Zap,107.0,,,,8,False,False,0.0,0.0
+11595,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Zap,107.0,,,,9,False,False,0.0,0.0
+11610,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Zap,107.0,,,,9,False,False,0.0,0.0
+11625,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Zap,107.0,,,,9,False,False,0.0,0.0
+11640,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Zap,107.0,,,,7,False,True,2.0,0.0
+11655,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Zap,107.0,,,,7,False,False,0.0,0.0
+11670,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Zap,107.0,,,,7,False,False,0.0,0.0
+11685,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Zap,107.0,,,,8,False,False,0.0,0.0
+11700,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Zap,107.0,,,,8,False,False,0.0,0.0
+11715,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Zap,107.0,,,,8,False,False,0.0,0.0
+11730,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Zap,107.0,,,,9,False,False,0.0,0.0
+11745,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Zap,107.0,,,,3,False,True,6.0,0.0
+11760,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Zap,107.0,,,,3,False,False,0.0,0.0
+11775,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Zap,107.0,,,,4,False,False,0.0,0.0
+11790,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Zap,107.0,,,,4,False,False,0.0,0.0
+11805,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Zap,107.0,,,,4,False,False,0.0,0.0
+11820,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,Zap,107.0,4.0,3,True,True,1.0,2.0
+11835,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+11850,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+11865,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+11880,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+11895,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+11910,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+11925,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+11940,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+11955,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+11970,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+11985,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+12000,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+12015,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+12030,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+12045,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+12060,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+12075,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+12090,Hunter,52.0,Tesla,97.0,Goblin Barrel,39.0,Skeletons,94.0,Giant Skeleton,37.0,2.0,3,True,True,6.0,6.0
+12105,Hunter,52.0,Tesla,97.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+12120,Hunter,52.0,Tesla,97.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+12135,Hunter,52.0,Tesla,97.0,Goblin Barrel,39.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+12150,Hunter,52.0,Tesla,97.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+12165,Hunter,52.0,Tesla,97.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+12180,Hunter,52.0,Tesla,97.0,Goblin Barrel,39.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+12195,Hunter,52.0,Tesla,97.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+12210,Hunter,52.0,Tesla,97.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+12225,Hunter,52.0,Tesla,97.0,Goblin Barrel,39.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+12240,Hunter,52.0,Tesla,97.0,Goblin Barrel,39.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+12255,Hunter,52.0,Tesla,97.0,Goblin Barrel,39.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+12270,Hunter,52.0,Tesla,97.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+12285,Hunter,52.0,Tesla,97.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+12300,Hunter,52.0,Tesla,97.0,Goblin Barrel,39.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+12315,Hunter,52.0,Tesla,97.0,Goblin Barrel,39.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+12330,Hunter,52.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,Skeletons,94.0,4.0,8,True,True,1.0,1.0
+12345,Hunter,52.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+12360,Hunter,52.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+12375,Zap,107.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,Hunter,52.0,1.0,5,True,True,4.0,4.0
+12390,Zap,107.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+12405,Zap,107.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+12420,Zap,107.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+12435,Zap,107.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+12450,Zap,107.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+12465,Zap,107.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+12480,Zap,107.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+12495,Zap,107.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+12510,Zap,107.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+12525,Zap,107.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+12540,Zap,107.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,True,6.0,0.0
+12555,Zap,107.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+12570,Zap,107.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+12585,Zap,107.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+12600,Zap,107.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+12615,Zap,107.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,2,False,True,2.0,0.0
+12630,Zap,107.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+12645,Zap,107.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+12660,Zap,107.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+12675,Zap,107.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+12690,Zap,107.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+12705,Zap,107.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+12720,Skeletons,94.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,Zap,107.0,1.0,2,True,True,2.0,2.0
+12735,Skeletons,94.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+12750,Skeletons,94.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+12765,Skeletons,94.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+12780,Skeletons,94.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+12795,Skeletons,94.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+12810,Skeletons,94.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+12825,Skeletons,94.0,Tesla,97.0,Goblin Barrel,39.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+12840,Skeletons,94.0,Tesla,97.0,Hunter,52.0,Giant Skeleton,37.0,Goblin Barrel,39.0,3.0,2,True,True,3.0,4.0
+12855,Skeletons,94.0,Tesla,97.0,Hunter,52.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+12870,Skeletons,94.0,Tesla,97.0,Hunter,52.0,Giant Skeleton,37.0,,,,1,False,True,1.0,0.0
+12885,Skeletons,94.0,Tesla,97.0,Hunter,52.0,Giant Skeleton,37.0,,,,1,False,False,0.0,0.0
+12900,Skeletons,94.0,Tesla,97.0,Hunter,52.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+12915,Skeletons,94.0,Tesla,97.0,Hunter,52.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+12930,Skeletons,94.0,Tesla,97.0,Hunter,52.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+12945,Skeletons,94.0,Tesla,97.0,Hunter,52.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+12960,Skeletons,94.0,Tesla,97.0,Hunter,52.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+12975,Skeletons,94.0,Tesla,97.0,Hunter,52.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+12990,Skeletons,94.0,Tesla,97.0,Hunter,52.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+13005,Skeletons,94.0,Tesla,97.0,Hunter,52.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+13020,Skeletons,94.0,Tesla,97.0,Hunter,52.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+13035,Skeletons,94.0,Tesla,97.0,Hunter,52.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+13050,Skeletons,94.0,Tesla,97.0,Hunter,52.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+13065,Skeletons,94.0,Tesla,97.0,Hunter,52.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+13080,Skeletons,94.0,Tesla,97.0,Hunter,52.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+13095,Skeletons,94.0,Tesla,97.0,Hunter,52.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+13110,Skeletons,94.0,Tesla,97.0,Hunter,52.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+13125,Skeletons,94.0,Tesla,97.0,Hunter,52.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+13140,Skeletons,94.0,Tesla,97.0,Hunter,52.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+13155,Skeletons,94.0,Tesla,97.0,Hunter,52.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+13170,Skeletons,94.0,Tesla,97.0,Hunter,52.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+13185,Goblin Barrel,39.0,Tesla,97.0,Hunter,52.0,Giant Skeleton,37.0,Skeletons,94.0,1.0,8,True,True,1.0,1.0
+13200,Goblin Barrel,39.0,Tesla,97.0,Zap,107.0,Giant Skeleton,37.0,Hunter,52.0,3.0,5,True,True,3.0,4.0
+13215,Goblin Barrel,39.0,Tesla,97.0,Zap,107.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+13230,Goblin Barrel,39.0,Tesla,97.0,Zap,107.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+13245,Goblin Barrel,39.0,Tesla,97.0,Zap,107.0,Giant Skeleton,37.0,,,,3,False,True,3.0,0.0
+13260,Goblin Barrel,39.0,Tesla,97.0,Zap,107.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+13275,Goblin Barrel,39.0,Tesla,97.0,Zap,107.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+13290,Goblin Barrel,39.0,Tesla,97.0,Zap,107.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+13305,Goblin Barrel,39.0,Tesla,97.0,Zap,107.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+13320,Goblin Barrel,39.0,Tesla,97.0,Zap,107.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+13335,Skeletons,94.0,Tesla,97.0,Zap,107.0,Giant Skeleton,37.0,Goblin Barrel,39.0,1.0,4,True,True,2.0,4.0
+13350,Skeletons,94.0,Tesla,97.0,Zap,107.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+13365,Skeletons,94.0,Tesla,97.0,Zap,107.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+13380,Skeletons,94.0,Tesla,97.0,Zap,107.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+13395,Skeletons,94.0,Tesla,97.0,Zap,107.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+13410,Skeletons,94.0,Tesla,97.0,Zap,107.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+13425,Skeletons,94.0,Tesla,97.0,Zap,107.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+13440,Skeletons,94.0,Tesla,97.0,Zap,107.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+13455,Skeletons,94.0,Tesla,97.0,Skeletons,94.0,Giant Skeleton,37.0,Zap,107.0,3.0,6,True,True,1.0,2.0
+13470,Skeletons,94.0,Tesla,97.0,Skeletons,94.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+13485,Skeletons,94.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,Giant Skeleton,37.0,4.0,7,True,False,0.0,6.0
+13500,Skeletons,94.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+13515,Skeletons,94.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+13530,Skeletons,94.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+13545,Skeletons,94.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+13560,Skeletons,94.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+13575,Skeletons,94.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+13590,Skeletons,94.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+13605,Skeletons,94.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+13620,Skeletons,94.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+13635,Skeletons,94.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+13650,Skeletons,94.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+13665,Skeletons,94.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+13680,Skeletons,94.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+13695,Skeletons,94.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,10,False,False,0.0,0.0
+13710,Skeletons,94.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,6,False,True,4.0,0.0
+13725,Skeletons,94.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+13740,Skeletons,94.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+13755,Skeletons,94.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+13770,Skeletons,94.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,10,False,False,0.0,0.0
+13785,Skeletons,94.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,10,False,False,0.0,0.0
+13800,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,Skeletons,94.0,1.0,6,True,True,4.0,1.0
+13815,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+13830,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+13845,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+13860,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+13875,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+13890,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+13905,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+13920,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+13935,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+13950,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+13965,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+13980,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+13995,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+14010,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+14025,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+14040,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+14055,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+14070,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+14085,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+14100,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+14115,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+14130,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,4,False,True,5.0,0.0
+14145,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+14160,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,Skeletons,94.0,3.0,3,True,True,1.0,1.0
+14175,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+14190,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+14205,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+14220,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+14235,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+14250,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+14265,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+14280,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+14295,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,1,False,True,2.0,0.0
+14310,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,1,False,False,0.0,0.0
+14325,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,1,False,False,0.0,0.0
+14340,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,1,False,False,0.0,0.0
+14355,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,1,False,False,0.0,0.0
+14370,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,1,False,False,0.0,0.0
+14385,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+14400,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+14415,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+14430,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+14445,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+14460,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+14475,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+14490,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+14505,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,0,False,True,3.0,0.0
+14520,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,0,False,False,0.0,0.0
+14535,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,0,False,False,0.0,0.0
+14550,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,1,False,False,0.0,0.0
+14565,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,1,False,False,0.0,0.0
+14580,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,1,False,False,0.0,0.0
+14595,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,1,False,False,0.0,0.0
+14610,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,1,False,False,0.0,0.0
+14625,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,1,False,False,0.0,0.0
+14640,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+14655,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+14670,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+14685,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+14700,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+14715,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+14730,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+14745,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+14760,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+14775,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+14790,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+14805,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+14820,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+14835,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+14850,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+14865,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+14880,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+14895,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+14910,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+14925,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+14940,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+14955,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+14970,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+14985,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+15000,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+15015,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+15030,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+15045,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+15060,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+15075,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+15090,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,1,False,True,6.0,0.0
+15105,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,1,False,False,0.0,0.0
+15120,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,1,False,False,0.0,0.0
+15135,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+15150,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+15165,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+15180,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+15195,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+15210,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+15225,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+15240,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+15255,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+15270,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+15285,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+15300,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+15315,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+15330,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+15345,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+15360,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+15375,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+15390,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+15405,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+15420,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+15435,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+15450,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+15465,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+15480,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+15495,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+15510,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+15525,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+15540,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+15555,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+15570,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+15585,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+15600,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+15615,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+15630,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+15645,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+15660,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+15675,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+15690,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+15705,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+15720,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,8,False,True,1.0,0.0
+15735,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+15750,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,True,1.0,0.0
+15765,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+15780,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+15795,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+15810,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+15825,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+15840,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+15855,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+15870,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+15885,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+15900,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+15915,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+15930,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+15945,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+15960,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,True,3.0,0.0
+15975,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+15990,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+16005,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+16020,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+16035,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+16050,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+16065,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+16080,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+16095,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+16110,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,True,3.0,0.0
+16125,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+16140,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+16155,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+16170,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+16185,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+16200,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+16215,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+16230,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+16245,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+16260,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+16275,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+16290,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,1,False,True,6.0,0.0
+16305,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+16320,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+16335,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+16350,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+16365,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+16380,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+16395,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+16410,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+16425,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,1,False,True,2.0,0.0
+16440,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,1,False,False,0.0,0.0
+16455,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,1,False,False,0.0,0.0
+16470,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,1,False,False,0.0,0.0
+16485,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+16500,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+16515,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+16530,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+16545,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+16560,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+16575,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+16590,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+16605,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+16620,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+16635,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,1,False,True,1.0,0.0
+16650,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+16665,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+16680,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+16695,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+16710,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+16725,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+16740,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+16755,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+16770,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+16785,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+16800,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+16815,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+16830,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+16845,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+16860,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+16875,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+16890,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+16905,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+16920,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,True,3.0,0.0
+16935,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+16950,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+16965,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+16980,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+16995,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+17010,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+17025,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+17040,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+17055,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+17070,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+17085,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+17100,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+17115,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+17130,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+17145,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+17160,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+17175,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+17190,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+17205,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+17220,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+17235,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+17250,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+17265,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+17280,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+17295,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+17310,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+17325,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+17340,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+17355,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+17370,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+17385,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,True,3.0,0.0
+17400,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+17415,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+17430,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+17445,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+17460,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+17475,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+17490,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+17505,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+17520,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+17535,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+17550,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,True,6.0,0.0
+17565,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+17580,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+17595,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+17610,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+17625,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+17640,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+17655,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+17670,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+17685,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,True,1.0,0.0
+17700,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+17715,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,True,2.0,0.0
+17730,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+17745,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+17760,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+17775,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+17790,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,True,2.0,0.0
+17805,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+17820,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+17835,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+17850,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+17865,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+17880,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+17895,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+17910,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+17925,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+17940,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+17955,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+17970,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+17985,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+18000,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+18015,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,True,3.0,0.0
+18030,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+18045,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+18060,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,True,1.0,0.0
+18075,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+18090,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+18105,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+18120,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+18135,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+18150,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+18165,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+18180,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+18195,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,1,False,True,6.0,0.0
+18210,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+18225,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+18240,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+18255,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+18270,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+18285,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+18300,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+18315,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+18330,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+18345,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+18360,Fireball,30.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+18375,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,The Log,98.0,3.0,4,True,True,1.0,2.0
+18390,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+18405,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+18420,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+18435,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+18450,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+18465,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+18480,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+18495,Fireball,30.0,Tesla,97.0,Skeletons,94.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+18510,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,Skeletons,94.0,4.0,6,True,True,1.0,1.0
+18525,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18540,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,7,False,False,0.0,0.0
+18555,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,7,False,False,0.0,0.0
+18570,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,4,False,True,3.0,0.0
+18585,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18600,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18615,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18630,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18645,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18660,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,7,False,False,0.0,0.0
+18675,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,3,False,True,4.0,0.0
+18690,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18705,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18720,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18735,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18750,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18765,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18780,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18795,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18810,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18825,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18840,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,7,False,False,0.0,0.0
+18855,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,7,False,False,0.0,0.0
+18870,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,5,False,True,2.0,0.0
+18885,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,4,False,True,1.0,0.0
+18900,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18915,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18930,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18945,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18960,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18975,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18990,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19005,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19020,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19035,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19050,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,8,False,False,0.0,0.0
+19065,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,2,False,True,6.0,0.0
+19080,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19095,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19110,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19125,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19140,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19155,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19170,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,5,False,False,0.0,0.0
+19185,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,5,False,False,0.0,0.0
+19200,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,5,False,False,0.0,0.0
+19215,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19230,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19245,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19260,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19275,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,4,False,True,3.0,0.0
+19290,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,5,False,False,0.0,0.0
+19305,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,5,False,False,0.0,0.0
+19320,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,5,False,False,0.0,0.0
+19335,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19350,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19365,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,5,False,True,1.0,0.0
+19380,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19395,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19410,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19425,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19440,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19455,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19470,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,8,False,False,0.0,0.0
+19485,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,5,False,True,3.0,0.0
+19500,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19515,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19530,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19545,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19560,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19575,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19590,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,8,False,False,0.0,0.0
+19605,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,7,False,True,1.0,0.0
+19620,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19635,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,8,False,False,0.0,0.0
+19650,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,8,False,False,0.0,0.0
+19665,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,2,False,True,6.0,0.0
+19680,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19695,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19710,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19725,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,1,False,True,3.0,0.0
+19740,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,1,False,False,0.0,0.0
+19755,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,2,False,False,0.0,0.0
+19770,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,2,False,False,0.0,0.0
+19785,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,2,False,False,0.0,0.0
+19800,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19815,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19830,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19845,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19860,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19875,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19890,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,5,False,False,0.0,0.0
+19905,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,5,False,False,0.0,0.0
+19920,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19935,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19950,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19965,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19980,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19995,Fireball,30.0,Tesla,97.0,Skeletons,94.0,The Log,98.0,,,,7,False,False,0.0,0.0
+20010,Fireball,30.0,Skeletons,94.0,Skeletons,94.0,The Log,98.0,Tesla,97.0,2.0,4,True,True,3.0,4.0
+20025,Fireball,30.0,Skeletons,94.0,Skeletons,94.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20040,Fireball,30.0,Skeletons,94.0,Skeletons,94.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20055,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,3.0,4,True,False,0.0,1.0
+20070,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20085,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20100,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20115,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20130,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+20145,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+20160,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+20175,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+20190,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,3,False,True,3.0,0.0
+20205,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+20220,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20235,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20250,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20265,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+20280,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+20295,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+20310,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+20325,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+20340,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+20355,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+20370,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+20385,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,2,False,True,5.0,0.0
+20400,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+20415,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+20430,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+20445,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+20460,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,0,False,True,3.0,0.0
+20475,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,1,False,False,0.0,0.0
+20490,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,1,False,False,0.0,0.0
+20505,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,1,False,False,0.0,0.0
+20520,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+20535,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+20550,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+20565,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+20580,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+20595,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20610,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20625,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,3,False,True,1.0,0.0
+20640,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20655,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20670,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20685,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+20700,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+20715,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,4,False,True,1.0,0.0
+20730,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+20745,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+20760,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+20775,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+20790,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+20805,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+20820,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,4,False,True,3.0,0.0
+20835,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20850,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+20865,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+20880,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+20895,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+20910,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+20925,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+20940,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+20955,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+20970,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,1,False,True,6.0,0.0
+20985,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+21000,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+21015,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+21030,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+21045,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+21060,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,2,False,True,2.0,0.0
+21075,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+21090,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+21105,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+21120,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+21135,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,3,False,True,1.0,0.0
+21150,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+21165,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+21180,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+21195,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+21210,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,5,False,True,1.0,0.0
+21225,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+21240,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+21255,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,2,False,True,4.0,0.0
+21270,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+21285,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+21300,Fireball,30.0,Skeletons,94.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0

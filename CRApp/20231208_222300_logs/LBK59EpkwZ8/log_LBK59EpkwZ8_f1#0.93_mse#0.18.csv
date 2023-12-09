@@ -1,0 +1,564 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+00255,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+00270,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+00285,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+00300,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+00315,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+00330,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+00345,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+00360,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+00375,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+00390,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+00405,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+00420,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+00435,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+00450,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+00465,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+00480,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+00495,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+00510,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+00525,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Miner,66.0,Giant Snowball,38.0,4.0,8,True,True,1.0,2.0
+00540,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Miner,66.0,,,,8,False,False,0.0,0.0
+00555,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Miner,66.0,,,,8,False,False,0.0,0.0
+00570,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Miner,66.0,,,,8,False,False,0.0,0.0
+00585,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Miner,66.0,,,,8,False,False,0.0,0.0
+00600,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Miner,66.0,,,,8,False,False,0.0,0.0
+00615,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Miner,66.0,,,,9,False,False,0.0,0.0
+00630,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Miner,66.0,,,,9,False,False,0.0,0.0
+00645,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Miner,66.0,,,,9,False,False,0.0,0.0
+00660,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Miner,66.0,,,,9,False,False,0.0,0.0
+00675,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Miner,66.0,,,,9,False,False,0.0,0.0
+00690,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Miner,66.0,,,,9,False,False,0.0,0.0
+00705,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,Miner,66.0,4.0,7,True,True,2.0,3.0
+00720,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+00735,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+00750,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+00765,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+00780,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+00795,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+00810,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+00825,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+00840,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+00855,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+00870,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+00885,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+00900,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+00915,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,Musketeer,73.0,1.0,5,True,True,4.0,4.0
+00930,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+00945,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+00960,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+00975,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+00990,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+01005,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+01020,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+01035,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+01050,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+01065,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+01080,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+01095,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+01110,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+01125,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+01140,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+01155,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+01170,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+01185,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+01200,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+01215,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+01230,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+01245,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+01260,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+01275,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+01290,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Skeletons,94.0,4.0,9,True,False,0.0,1.0
+01305,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+01320,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+01335,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+01350,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+01365,Giant Snowball,38.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Ice Golem,53.0,1.0,8,True,True,1.0,2.0
+01380,Giant Snowball,38.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+01395,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Balloon,4.0,2.0,9,True,False,0.0,5.0
+01410,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+01425,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+01440,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+01455,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Miner,66.0,2.0,9,True,True,8.0,3.0
+01470,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+01485,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+01500,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+01515,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+01530,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+01545,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+01560,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+01575,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+01590,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+01605,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+01620,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+01635,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+01650,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+01665,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+01680,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+01695,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+01710,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+01725,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+01740,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+01755,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+01770,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+01785,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+01800,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+01815,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+01830,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+01845,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+01860,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+01875,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+01890,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Giant Snowball,38.0,1.0,4,True,True,2.0,2.0
+01905,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+01920,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+01935,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+01950,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+01965,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+01980,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+01995,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+02010,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+02025,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+02040,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+02055,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+02070,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+02085,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+02100,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+02115,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+02130,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+02145,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+02160,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+02175,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+02190,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+02205,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02220,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02235,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02250,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02265,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02280,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02295,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+02310,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+02325,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+02340,Ice Golem,53.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Skeletons,94.0,1.0,8,True,True,1.0,1.0
+02355,Ice Golem,53.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02370,Ice Golem,53.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02385,Ice Golem,53.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+02400,Ice Golem,53.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+02415,Ice Golem,53.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+02430,Ice Golem,53.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+02445,Ice Golem,53.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+02460,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Musketeer,73.0,2.0,6,True,True,3.0,4.0
+02475,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+02490,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+02505,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+02520,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+02535,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+02550,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+02565,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+02580,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+02595,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+02610,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+02625,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02640,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02655,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02670,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02685,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02700,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+02715,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+02730,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+02745,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+02760,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+02775,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+02790,Ice Golem,53.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Balloon,4.0,2.0,4,True,True,5.0,5.0
+02805,Ice Golem,53.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+02820,Ice Golem,53.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+02835,Ice Golem,53.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+02850,Ice Golem,53.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+02865,Ice Golem,53.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+02880,Ice Golem,53.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+02895,Ice Golem,53.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+02910,Ice Golem,53.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+02925,Ice Golem,53.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+02940,Ice Golem,53.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+02955,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Miner,66.0,2.0,3,True,True,3.0,3.0
+02970,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+02985,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+03000,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+03015,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+03030,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+03045,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+03060,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+03075,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+03090,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+03105,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+03120,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+03135,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+03150,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+03165,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+03180,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+03195,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+03210,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+03225,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03240,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03255,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03270,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03285,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03300,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03315,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03330,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03345,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03360,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03375,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03390,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03405,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03420,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03435,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Giant Snowball,38.0,2.0,7,True,True,2.0,2.0
+03450,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03465,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03480,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03495,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03510,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03525,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03540,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03555,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03570,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03585,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03600,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03615,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03630,Ice Golem,53.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Skeletons,94.0,2.0,8,True,True,1.0,1.0
+03645,Ice Golem,53.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03660,Ice Golem,53.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03675,Ice Golem,53.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03690,Ice Golem,53.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03705,Ice Golem,53.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03720,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Musketeer,73.0,2.0,6,True,True,3.0,4.0
+03735,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+03750,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+03765,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+03780,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+03795,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03810,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03825,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03840,Ice Golem,53.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03855,Ice Golem,53.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Balloon,4.0,2.0,4,True,True,4.0,5.0
+03870,Ice Golem,53.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+03885,Ice Golem,53.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+03900,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Miner,66.0,2.0,2,True,True,2.0,3.0
+03915,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+03930,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+03945,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+03960,Ice Golem,53.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+03975,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Giant Snowball,38.0,2.0,2,True,True,1.0,2.0
+03990,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+04005,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+04020,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+04035,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+04050,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+04065,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+04080,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+04095,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+04110,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+04125,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+04140,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+04155,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+04170,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+04185,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+04200,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+04215,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+04230,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+04245,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+04260,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,Barbarian Barrel,6.0,4.0,6,True,True,2.0,2.0
+04275,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+04290,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+04305,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+04320,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+04335,Ice Golem,53.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+04350,Balloon,4.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,Ice Golem,53.0,1.0,9,True,True,2.0,2.0
+04365,Balloon,4.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+04380,Balloon,4.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+04395,Balloon,4.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+04410,Miner,66.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,Balloon,4.0,1.0,3,True,True,5.0,5.0
+04425,Miner,66.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+04440,Miner,66.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+04455,Miner,66.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+04470,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,Miner,66.0,1.0,1,True,True,3.0,3.0
+04485,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+04500,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+04515,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+04530,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+04545,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+04560,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+04575,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+04590,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+04605,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+04620,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+04635,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+04650,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+04665,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+04680,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+04695,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+04710,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+04725,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+04740,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+04755,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+04770,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+04785,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+04800,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+04815,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+04830,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Musketeer,73.0,4.0,6,True,True,4.0,4.0
+04845,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+04860,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+04875,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+04890,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+04905,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+04920,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+04935,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+04950,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+04965,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+04980,Giant Snowball,38.0,Skeletons,94.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+04995,Giant Snowball,38.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Skeletons,94.0,2.0,9,True,False,0.0,1.0
+05010,Giant Snowball,38.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+05025,Giant Snowball,38.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+05040,Giant Snowball,38.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+05055,Giant Snowball,38.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+05070,Giant Snowball,38.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Ice Golem,53.0,2.0,8,True,True,2.0,2.0
+05085,Giant Snowball,38.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05100,Giant Snowball,38.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+05115,Giant Snowball,38.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+05130,Giant Snowball,38.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+05145,Giant Snowball,38.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+05160,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Balloon,4.0,2.0,5,True,True,5.0,5.0
+05175,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05190,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05205,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05220,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Miner,66.0,2.0,3,True,True,3.0,3.0
+05235,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05250,Giant Snowball,38.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05265,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Giant Snowball,38.0,1.0,2,True,True,2.0,2.0
+05280,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05295,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05310,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05325,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05340,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05355,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05370,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05385,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05400,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05415,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05430,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05445,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05460,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05475,Skeletons,94.0,Musketeer,73.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05490,Skeletons,94.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Musketeer,73.0,2.0,4,True,True,3.0,4.0
+05505,Skeletons,94.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05520,Skeletons,94.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05535,Skeletons,94.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05550,Skeletons,94.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05565,Skeletons,94.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05580,Skeletons,94.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05595,Skeletons,94.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05610,Skeletons,94.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05625,Skeletons,94.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05640,Skeletons,94.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05655,Skeletons,94.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05670,Skeletons,94.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05685,Skeletons,94.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05700,Skeletons,94.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+05715,Skeletons,94.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+05730,Skeletons,94.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+05745,Skeletons,94.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Ice Golem,53.0,2.0,8,True,True,1.0,2.0
+05760,Skeletons,94.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05775,Skeletons,94.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05790,Skeletons,94.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+05805,Skeletons,94.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Balloon,4.0,2.0,4,True,True,5.0,5.0
+05820,Skeletons,94.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05835,Skeletons,94.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05850,Skeletons,94.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Miner,66.0,2.0,2,True,True,3.0,3.0
+05865,Skeletons,94.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+05880,Skeletons,94.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05895,Skeletons,94.0,Giant Snowball,38.0,Bomb Tower,12.0,Musketeer,73.0,Barbarian Barrel,6.0,4.0,2,True,True,1.0,2.0
+05910,Skeletons,94.0,Giant Snowball,38.0,Bomb Tower,12.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+05925,Skeletons,94.0,Giant Snowball,38.0,Bomb Tower,12.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+05940,Skeletons,94.0,Giant Snowball,38.0,Bomb Tower,12.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+05955,Skeletons,94.0,Giant Snowball,38.0,Bomb Tower,12.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+05970,Skeletons,94.0,Ice Golem,53.0,Bomb Tower,12.0,Musketeer,73.0,Giant Snowball,38.0,2.0,1,True,True,2.0,2.0
+05985,Skeletons,94.0,Ice Golem,53.0,Bomb Tower,12.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+06000,Skeletons,94.0,Ice Golem,53.0,Bomb Tower,12.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+06015,Skeletons,94.0,Ice Golem,53.0,Bomb Tower,12.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+06030,Skeletons,94.0,Ice Golem,53.0,Bomb Tower,12.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+06045,Skeletons,94.0,Ice Golem,53.0,Bomb Tower,12.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+06060,Skeletons,94.0,Ice Golem,53.0,Bomb Tower,12.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+06075,Skeletons,94.0,Ice Golem,53.0,Bomb Tower,12.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+06090,Skeletons,94.0,Ice Golem,53.0,Bomb Tower,12.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+06105,Skeletons,94.0,Balloon,4.0,Bomb Tower,12.0,Musketeer,73.0,Ice Golem,53.0,2.0,2,True,True,2.0,2.0
+06120,Skeletons,94.0,Balloon,4.0,Bomb Tower,12.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+06135,Skeletons,94.0,Balloon,4.0,Bomb Tower,12.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+06150,Skeletons,94.0,Balloon,4.0,Bomb Tower,12.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+06165,Skeletons,94.0,Balloon,4.0,Bomb Tower,12.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+06180,Skeletons,94.0,Balloon,4.0,Bomb Tower,12.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+06195,Skeletons,94.0,Balloon,4.0,Bomb Tower,12.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+06210,Skeletons,94.0,Balloon,4.0,Bomb Tower,12.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+06225,Skeletons,94.0,Balloon,4.0,Bomb Tower,12.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+06240,Skeletons,94.0,Miner,66.0,Bomb Tower,12.0,Musketeer,73.0,Balloon,4.0,2.0,0,True,True,5.0,5.0
+06255,Skeletons,94.0,Miner,66.0,Bomb Tower,12.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+06270,Skeletons,94.0,Miner,66.0,Bomb Tower,12.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+06285,Skeletons,94.0,Miner,66.0,Bomb Tower,12.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+06300,Skeletons,94.0,Miner,66.0,Bomb Tower,12.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+06315,Skeletons,94.0,Miner,66.0,Bomb Tower,12.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+06330,Skeletons,94.0,Miner,66.0,Bomb Tower,12.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+06345,Skeletons,94.0,Miner,66.0,Bomb Tower,12.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+06360,Skeletons,94.0,Miner,66.0,Bomb Tower,12.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+06375,Skeletons,94.0,Miner,66.0,Bomb Tower,12.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+06390,Skeletons,94.0,Miner,66.0,Bomb Tower,12.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+06405,Skeletons,94.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Musketeer,73.0,4.0,0,True,True,4.0,4.0
+06420,Skeletons,94.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+06435,Skeletons,94.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+06450,Skeletons,94.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+06465,Skeletons,94.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06480,Skeletons,94.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06495,Skeletons,94.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06510,Skeletons,94.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+06525,Skeletons,94.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+06540,Skeletons,94.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06555,Skeletons,94.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06570,Skeletons,94.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06585,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Skeletons,94.0,1.0,4,True,False,0.0,1.0
+06600,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06615,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06630,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06645,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06660,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06675,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06690,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06705,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06720,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06735,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06750,Giant Snowball,38.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Miner,66.0,2.0,5,True,True,2.0,3.0
+06765,Giant Snowball,38.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06780,Giant Snowball,38.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06795,Balloon,4.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Giant Snowball,38.0,1.0,4,True,True,1.0,2.0
+06810,Balloon,4.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06825,Balloon,4.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06840,Balloon,4.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06855,Balloon,4.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06870,Musketeer,73.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Balloon,4.0,1.0,0,True,True,5.0,5.0
+06885,Musketeer,73.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+06900,Musketeer,73.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+06915,Musketeer,73.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+06930,Musketeer,73.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06945,Musketeer,73.0,Ice Golem,53.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06960,Musketeer,73.0,Ice Golem,53.0,Bomb Tower,12.0,Skeletons,94.0,Barbarian Barrel,6.0,4.0,2,True,True,1.0,2.0
+06975,Musketeer,73.0,Ice Golem,53.0,Bomb Tower,12.0,Skeletons,94.0,,,,1,False,False,0.0,0.0
+06990,Musketeer,73.0,Ice Golem,53.0,Bomb Tower,12.0,Skeletons,94.0,,,,1,False,False,0.0,0.0
+07005,Musketeer,73.0,Ice Golem,53.0,Bomb Tower,12.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+07020,Musketeer,73.0,Ice Golem,53.0,Bomb Tower,12.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+07035,Musketeer,73.0,Ice Golem,53.0,Bomb Tower,12.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+07050,Musketeer,73.0,Ice Golem,53.0,Bomb Tower,12.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+07065,Musketeer,73.0,Ice Golem,53.0,Bomb Tower,12.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+07080,Musketeer,73.0,Ice Golem,53.0,Bomb Tower,12.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+07095,Musketeer,73.0,Ice Golem,53.0,Bomb Tower,12.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+07110,Musketeer,73.0,Ice Golem,53.0,Bomb Tower,12.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+07125,Musketeer,73.0,Ice Golem,53.0,Bomb Tower,12.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+07140,Musketeer,73.0,Ice Golem,53.0,Bomb Tower,12.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+07155,Musketeer,73.0,Ice Golem,53.0,Bomb Tower,12.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+07170,Musketeer,73.0,Ice Golem,53.0,Bomb Tower,12.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+07185,Musketeer,73.0,Ice Golem,53.0,Bomb Tower,12.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+07200,Musketeer,73.0,Ice Golem,53.0,Bomb Tower,12.0,Miner,66.0,Skeletons,94.0,4.0,5,True,True,1.0,1.0
+07215,Musketeer,73.0,Ice Golem,53.0,Bomb Tower,12.0,Miner,66.0,,,,6,False,False,0.0,0.0
+07230,Musketeer,73.0,Ice Golem,53.0,Bomb Tower,12.0,Miner,66.0,,,,6,False,False,0.0,0.0
+07245,Musketeer,73.0,Ice Golem,53.0,Bomb Tower,12.0,Miner,66.0,,,,6,False,False,0.0,0.0
+07260,Musketeer,73.0,Ice Golem,53.0,Bomb Tower,12.0,Miner,66.0,,,,7,False,False,0.0,0.0
+07275,Giant Snowball,38.0,Ice Golem,53.0,Bomb Tower,12.0,Miner,66.0,Musketeer,73.0,1.0,3,True,True,4.0,4.0
+07290,Giant Snowball,38.0,Ice Golem,53.0,Bomb Tower,12.0,Miner,66.0,,,,3,False,False,0.0,0.0
+07305,Giant Snowball,38.0,Ice Golem,53.0,Bomb Tower,12.0,Miner,66.0,,,,4,False,False,0.0,0.0
+07320,Giant Snowball,38.0,Ice Golem,53.0,Bomb Tower,12.0,Miner,66.0,,,,4,False,False,0.0,0.0
+07335,Giant Snowball,38.0,Ice Golem,53.0,Bomb Tower,12.0,Miner,66.0,,,,4,False,False,0.0,0.0
+07350,Giant Snowball,38.0,Ice Golem,53.0,Bomb Tower,12.0,Miner,66.0,,,,5,False,False,0.0,0.0
+07365,Giant Snowball,38.0,Ice Golem,53.0,Bomb Tower,12.0,Miner,66.0,,,,5,False,False,0.0,0.0
+07380,Giant Snowball,38.0,Ice Golem,53.0,Bomb Tower,12.0,Miner,66.0,,,,6,False,False,0.0,0.0
+07395,Giant Snowball,38.0,Ice Golem,53.0,Bomb Tower,12.0,Miner,66.0,,,,6,False,False,0.0,0.0
+07410,Giant Snowball,38.0,Ice Golem,53.0,Bomb Tower,12.0,Miner,66.0,,,,7,False,False,0.0,0.0
+07425,Giant Snowball,38.0,Ice Golem,53.0,Bomb Tower,12.0,Miner,66.0,,,,7,False,False,0.0,0.0
+07440,Giant Snowball,38.0,Ice Golem,53.0,Bomb Tower,12.0,Miner,66.0,,,,8,False,False,0.0,0.0
+07455,Giant Snowball,38.0,Balloon,4.0,Bomb Tower,12.0,Miner,66.0,Ice Golem,53.0,2.0,6,True,True,2.0,2.0
+07470,Giant Snowball,38.0,Balloon,4.0,Bomb Tower,12.0,Miner,66.0,,,,2,False,False,0.0,0.0
+07485,Giant Snowball,38.0,Balloon,4.0,Bomb Tower,12.0,Miner,66.0,,,,2,False,False,0.0,0.0
+07500,Giant Snowball,38.0,Barbarian Barrel,6.0,Bomb Tower,12.0,Miner,66.0,Balloon,4.0,2.0,3,True,True,0.0,5.0
+07515,Giant Snowball,38.0,Barbarian Barrel,6.0,Bomb Tower,12.0,Miner,66.0,,,,3,False,False,0.0,0.0
+07530,Giant Snowball,38.0,Barbarian Barrel,6.0,Bomb Tower,12.0,Skeletons,94.0,Miner,66.0,4.0,1,True,True,2.0,3.0
+07545,Giant Snowball,38.0,Barbarian Barrel,6.0,Bomb Tower,12.0,Skeletons,94.0,,,,1,False,False,0.0,0.0
+07560,Giant Snowball,38.0,Barbarian Barrel,6.0,Bomb Tower,12.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+07575,Giant Snowball,38.0,Barbarian Barrel,6.0,Bomb Tower,12.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+07590,Musketeer,73.0,Barbarian Barrel,6.0,Bomb Tower,12.0,Skeletons,94.0,Giant Snowball,38.0,1.0,1,True,True,1.0,2.0
+07605,Musketeer,73.0,Barbarian Barrel,6.0,Bomb Tower,12.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+07620,Musketeer,73.0,Barbarian Barrel,6.0,Bomb Tower,12.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+07635,Musketeer,73.0,Barbarian Barrel,6.0,Bomb Tower,12.0,Ice Golem,53.0,Skeletons,94.0,4.0,2,True,False,0.0,1.0
+07650,Musketeer,73.0,Barbarian Barrel,6.0,Bomb Tower,12.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+07665,Musketeer,73.0,Barbarian Barrel,6.0,Bomb Tower,12.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+07680,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Ice Golem,53.0,Barbarian Barrel,6.0,2.0,1,True,True,2.0,2.0
+07695,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+07710,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+07725,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+07740,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+07755,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+07770,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+07785,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+07800,Musketeer,73.0,Balloon,4.0,Bomb Tower,12.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+07815,Musketeer,73.0,Miner,66.0,Bomb Tower,12.0,Ice Golem,53.0,Balloon,4.0,2.0,1,True,True,5.0,5.0
+07830,Musketeer,73.0,Miner,66.0,Bomb Tower,12.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+07845,Musketeer,73.0,Miner,66.0,Bomb Tower,12.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+07860,Musketeer,73.0,Miner,66.0,Bomb Tower,12.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+07875,Musketeer,73.0,Miner,66.0,Bomb Tower,12.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+07890,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,Ice Golem,53.0,4.0,1,True,True,2.0,2.0
+07905,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,Skeletons,94.0,,,,1,False,False,0.0,0.0
+07920,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,Ice Golem,53.0,Skeletons,94.0,4.0,2,True,False,0.0,1.0
+07935,Musketeer,73.0,Giant Snowball,38.0,Bomb Tower,12.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+07950,Musketeer,73.0,Skeletons,94.0,Bomb Tower,12.0,Ice Golem,53.0,Giant Snowball,38.0,2.0,1,True,True,1.0,2.0
+07965,Musketeer,73.0,Skeletons,94.0,Bomb Tower,12.0,Ice Golem,53.0,,,,1,False,False,0.0,0.0
+07980,Musketeer,73.0,Skeletons,94.0,Bomb Tower,12.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+07995,Musketeer,73.0,Skeletons,94.0,Bomb Tower,12.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+08010,Musketeer,73.0,Skeletons,94.0,Bomb Tower,12.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+08025,Musketeer,73.0,Skeletons,94.0,Bomb Tower,12.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+08040,Balloon,4.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Ice Golem,53.0,4.0,4,True,False,0.0,2.0
+08055,Balloon,4.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08070,Balloon,4.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08085,Balloon,4.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+08100,Balloon,4.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+08115,Balloon,4.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+08130,Balloon,4.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+08145,Balloon,4.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+08160,Balloon,4.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+08175,Balloon,4.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+08190,Balloon,4.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+08205,Balloon,4.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+08220,Balloon,4.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,1,False,False,0.0,0.0
+08235,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Balloon,4.0,1.0,3,True,True,5.0,5.0
+08250,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+08265,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08280,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08295,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08310,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08325,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08340,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08355,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08370,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08385,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08400,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08415,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08430,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08445,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08460,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08475,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08490,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08505,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08520,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08535,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08550,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08565,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08580,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08595,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08610,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08625,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08640,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08655,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+08670,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0

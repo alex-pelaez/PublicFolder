@@ -1,0 +1,1244 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Tornado,101.0,,,Barbarian Barrel,6.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+00255,Tornado,101.0,,,Barbarian Barrel,6.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+00270,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,2.0,6,True,False,0.0,0.0
+00285,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+00300,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+00315,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+00330,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+00345,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+00360,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+00375,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+00390,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+00405,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+00420,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+00435,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+00450,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+00465,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+00480,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+00495,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+00510,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+00525,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+00540,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,10,False,False,0.0,0.0
+00555,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,10,False,False,0.0,0.0
+00570,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,10,False,False,0.0,0.0
+00585,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,10,False,False,0.0,0.0
+00600,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,10,False,False,0.0,0.0
+00615,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,10,False,False,0.0,0.0
+00630,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,Barbarian Barrel,6.0,3.0,8,True,True,2.0,2.0
+00645,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+00660,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+00675,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+00690,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+00705,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+00720,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+00735,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+00750,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+00765,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+00780,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+00795,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,10,False,False,0.0,0.0
+00810,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,10,False,False,0.0,0.0
+00825,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,10,False,False,0.0,0.0
+00840,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,10,False,False,0.0,0.0
+00855,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,6,False,True,4.0,0.0
+00870,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+00885,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+00900,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+00915,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+00930,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+00945,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+00960,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+00975,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+00990,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+01005,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+01020,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+01035,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+01050,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+01065,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+01080,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+01095,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+01110,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+01125,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+01140,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+01155,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+01170,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+01185,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,3.0,5,True,True,4.0,5.0
+01200,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+01215,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+01230,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+01245,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+01260,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+01275,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+01290,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+01305,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+01320,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+01335,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+01350,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+01365,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+01380,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+01395,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+01410,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+01425,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+01440,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+01455,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+01470,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+01485,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,5,False,True,3.0,0.0
+01500,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+01515,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+01530,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+01545,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+01560,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+01575,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+01590,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+01605,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+01620,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+01635,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+01650,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+01665,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+01680,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+01695,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+01710,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+01725,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+01740,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+01755,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+01770,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,Barbarian Hut,7.0,3.0,2,True,True,6.0,6.0
+01785,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+01800,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+01815,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+01830,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+01845,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+01860,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+01875,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+01890,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+01905,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+01920,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+01935,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+01950,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+01965,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+01980,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+01995,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+02010,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+02025,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+02040,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+02055,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+02070,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+02085,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+02100,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+02115,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+02130,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+02145,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+02160,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+02175,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+02190,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+02205,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+02220,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+02235,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+02250,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+02265,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+02280,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+02295,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+02310,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+02325,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+02340,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+02355,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+02370,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+02385,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,Barbarian Barrel,6.0,3.0,7,True,True,2.0,2.0
+02400,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+02415,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+02430,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+02445,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+02460,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+02475,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+02490,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+02505,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+02520,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+02535,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+02550,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+02565,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+02580,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+02595,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+02610,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,6,False,True,3.0,0.0
+02625,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+02640,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+02655,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+02670,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+02685,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+02700,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+02715,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+02730,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+02745,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+02760,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+02775,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+02790,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+02805,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+02820,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+02835,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+02850,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+02865,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+02880,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+02895,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+02910,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+02925,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+02940,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+02955,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,10,False,False,0.0,0.0
+02970,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,10,False,False,0.0,0.0
+02985,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,3.0,5,True,True,5.0,5.0
+03000,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+03015,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+03030,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+03045,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+03060,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+03075,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+03090,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+03105,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+03120,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+03135,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+03150,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+03165,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+03180,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+03195,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+03210,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,4,False,True,3.0,0.0
+03225,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+03240,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+03255,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+03270,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+03285,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+03300,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+03315,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+03330,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+03345,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+03360,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+03375,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+03390,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+03405,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+03420,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+03435,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+03450,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+03465,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+03480,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+03495,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+03510,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+03525,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+03540,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+03555,Tornado,101.0,Poison,78.0,Barbarian Hut,7.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+03570,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,Barbarian Hut,7.0,3.0,2,True,True,6.0,6.0
+03585,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+03600,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+03615,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+03630,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+03645,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+03660,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+03675,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+03690,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+03705,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+03720,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+03735,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+03750,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+03765,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+03780,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+03795,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+03810,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+03825,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+03840,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+03855,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+03870,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+03885,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+03900,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+03915,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+03930,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+03945,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+03960,Tornado,101.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+03975,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,Barbarian Barrel,6.0,3.0,10,True,True,2.0,2.0
+03990,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,10,False,False,0.0,0.0
+04005,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+04020,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+04035,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+04050,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+04065,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+04080,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,10,False,False,0.0,0.0
+04095,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,6,False,True,4.0,0.0
+04110,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+04125,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+04140,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+04155,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+04170,Tornado,101.0,Poison,78.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+04185,Tornado,101.0,Barbarian Hut,7.0,Cannon Cart,16.0,Graveyard,48.0,Poison,78.0,2.0,4,True,True,3.0,4.0
+04200,Tornado,101.0,Barbarian Hut,7.0,Cannon Cart,16.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+04215,Tornado,101.0,Barbarian Hut,7.0,Cannon Cart,16.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+04230,Tornado,101.0,Barbarian Hut,7.0,Cannon Cart,16.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+04245,Tornado,101.0,Barbarian Hut,7.0,Cannon Cart,16.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+04260,Tornado,101.0,Barbarian Hut,7.0,Cannon Cart,16.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+04275,Tornado,101.0,Barbarian Hut,7.0,Cannon Cart,16.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+04290,Tornado,101.0,Barbarian Hut,7.0,Cannon Cart,16.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+04305,Tornado,101.0,Barbarian Hut,7.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+04320,Tornado,101.0,Barbarian Hut,7.0,Cannon Cart,16.0,Graveyard,48.0,,,,4,False,True,3.0,0.0
+04335,Tornado,101.0,Barbarian Hut,7.0,Cannon Cart,16.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+04350,Tornado,101.0,Barbarian Hut,7.0,Cannon Cart,16.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+04365,Tornado,101.0,Barbarian Hut,7.0,Cannon Cart,16.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+04380,Tornado,101.0,Barbarian Hut,7.0,Cannon Cart,16.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+04395,Tornado,101.0,Barbarian Hut,7.0,Cannon Cart,16.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+04410,Tornado,101.0,Barbarian Hut,7.0,Cannon Cart,16.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+04425,Tornado,101.0,Barbarian Hut,7.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+04440,Tornado,101.0,Barbarian Hut,7.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+04455,Tornado,101.0,Barbarian Hut,7.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+04470,Tornado,101.0,Barbarian Hut,7.0,Cannon Cart,16.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+04485,Tornado,101.0,Barbarian Hut,7.0,Cannon Cart,16.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+04500,Tornado,101.0,Barbarian Hut,7.0,Cannon Cart,16.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+04515,Tornado,101.0,Barbarian Hut,7.0,Cannon Cart,16.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+04530,Tornado,101.0,Barbarian Hut,7.0,Cannon Cart,16.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+04545,Tornado,101.0,Barbarian Hut,7.0,Cannon Cart,16.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+04560,Tornado,101.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,Graveyard,48.0,Cannon Cart,16.0,3.0,5,True,True,4.0,5.0
+04575,Tornado,101.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+04590,Tornado,101.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Graveyard,48.0,4.0,0,True,True,5.0,5.0
+04605,Tornado,101.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+04620,Tornado,101.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+04635,Tornado,101.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+04650,Tornado,101.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+04665,Tornado,101.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+04680,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,Barbarian Barrel,6.0,3.0,3,True,True,2.0,2.0
+04695,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+04710,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+04725,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+04740,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+04755,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+04770,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+04785,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+04800,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+04815,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+04830,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+04845,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+04860,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+04875,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+04890,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+04905,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+04920,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+04935,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+04950,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+04965,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+04980,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+04995,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+05010,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+05025,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,5,False,True,3.0,0.0
+05040,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+05055,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+05070,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,3,False,True,3.0,0.0
+05085,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+05100,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+05115,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+05130,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+05145,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+05160,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+05175,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+05190,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+05205,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+05220,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+05235,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+05250,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+05265,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+05280,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Graveyard,48.0,Cannon Cart,16.0,4.0,3,True,True,5.0,5.0
+05295,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+05310,Barbarian Barrel,6.0,Barbarian Hut,7.0,Poison,78.0,Graveyard,48.0,Tornado,101.0,1.0,1,True,True,2.0,3.0
+05325,Barbarian Barrel,6.0,Barbarian Hut,7.0,Poison,78.0,Graveyard,48.0,,,,1,False,False,0.0,0.0
+05340,Barbarian Barrel,6.0,Barbarian Hut,7.0,Poison,78.0,Graveyard,48.0,,,,1,False,False,0.0,0.0
+05355,Barbarian Barrel,6.0,Barbarian Hut,7.0,Poison,78.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+05370,Barbarian Barrel,6.0,Barbarian Hut,7.0,Poison,78.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+05385,Barbarian Barrel,6.0,Barbarian Hut,7.0,Poison,78.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+05400,Barbarian Barrel,6.0,Barbarian Hut,7.0,Poison,78.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+05415,Barbarian Barrel,6.0,Barbarian Hut,7.0,Poison,78.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+05430,Barbarian Barrel,6.0,Barbarian Hut,7.0,Poison,78.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+05445,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Graveyard,48.0,Barbarian Barrel,6.0,1.0,2,True,True,1.0,2.0
+05460,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+05475,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+05490,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+05505,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+05520,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+05535,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+05550,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+05565,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+05580,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+05595,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+05610,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,Graveyard,48.0,4.0,1,True,True,4.0,5.0
+05625,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+05640,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+05655,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+05670,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+05685,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05700,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05715,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05730,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05745,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05760,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05775,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05790,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,1,False,True,3.0,0.0
+05805,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+05820,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+05835,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+05850,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+05865,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05880,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05895,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05910,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05925,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05940,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05955,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05970,Cannon Cart,16.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05985,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,Cannon Cart,16.0,1.0,1,True,True,4.0,5.0
+06000,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+06015,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+06030,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06045,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06060,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06075,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+06090,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+06105,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06120,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06135,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06150,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06165,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06180,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06195,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06210,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06225,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06240,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06255,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06270,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06285,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+06300,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+06315,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+06330,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+06345,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,6,False,True,3.0,0.0
+06360,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06375,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06390,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06405,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+06420,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+06435,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+06450,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+06465,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+06480,Tornado,101.0,Barbarian Hut,7.0,Poison,78.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+06495,Tornado,101.0,Graveyard,48.0,Poison,78.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,2.0,3,True,True,6.0,6.0
+06510,Tornado,101.0,Graveyard,48.0,Poison,78.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+06525,Tornado,101.0,Graveyard,48.0,Poison,78.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+06540,Tornado,101.0,Graveyard,48.0,Poison,78.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06555,Tornado,101.0,Graveyard,48.0,Poison,78.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06570,Tornado,101.0,Graveyard,48.0,Poison,78.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06585,Tornado,101.0,Graveyard,48.0,Poison,78.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06600,Tornado,101.0,Graveyard,48.0,Poison,78.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06615,Tornado,101.0,Graveyard,48.0,Poison,78.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06630,Tornado,101.0,Graveyard,48.0,Poison,78.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06645,Tornado,101.0,Graveyard,48.0,Poison,78.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06660,Tornado,101.0,Graveyard,48.0,Poison,78.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06675,Tornado,101.0,Graveyard,48.0,Poison,78.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06690,Tornado,101.0,Graveyard,48.0,Poison,78.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06705,Tornado,101.0,Graveyard,48.0,Poison,78.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+06720,Tornado,101.0,Graveyard,48.0,Poison,78.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+06735,Tornado,101.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,Barbarian Barrel,6.0,4.0,6,True,True,2.0,2.0
+06750,Tornado,101.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,3,False,True,3.0,0.0
+06765,Tornado,101.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+06780,Tornado,101.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+06795,Tornado,101.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+06810,Tornado,101.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+06825,Tornado,101.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+06840,Tornado,101.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+06855,Tornado,101.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+06870,Tornado,101.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+06885,Tornado,101.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+06900,Tornado,101.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+06915,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,Tornado,101.0,1.0,4,True,True,2.0,3.0
+06930,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+06945,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+06960,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+06975,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+06990,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,2,False,True,3.0,0.0
+07005,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+07020,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+07035,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+07050,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+07065,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+07080,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+07095,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+07110,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+07125,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+07140,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+07155,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+07170,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+07185,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+07200,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+07215,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+07230,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+07245,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Poison,78.0,3.0,5,True,True,3.0,4.0
+07260,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+07275,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+07290,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,Cannon Cart,16.0,4.0,1,True,True,4.0,5.0
+07305,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+07320,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+07335,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+07350,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+07365,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+07380,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+07395,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+07410,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+07425,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+07440,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+07455,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,2,False,True,3.0,0.0
+07470,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+07485,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+07500,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+07515,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+07530,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+07545,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+07560,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+07575,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+07590,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+07605,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+07620,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+07635,Barbarian Hut,7.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+07650,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Tornado,101.0,Barbarian Barrel,6.0,3.0,9,True,False,0.0,2.0
+07665,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+07680,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+07695,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Tornado,101.0,,,,8,False,True,1.0,0.0
+07710,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+07725,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+07740,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+07755,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+07770,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+07785,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Tornado,101.0,,,,8,False,True,2.0,0.0
+07800,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+07815,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+07830,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+07845,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+07860,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,Tornado,101.0,4.0,7,True,True,3.0,3.0
+07875,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+07890,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+07905,Barbarian Hut,7.0,Graveyard,48.0,Poison,78.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+07920,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Cannon Cart,16.0,Poison,78.0,3.0,5,True,True,3.0,4.0
+07935,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+07950,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Cannon Cart,16.0,4.0,1,True,True,4.0,5.0
+07965,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+07980,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+07995,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+08010,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+08025,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+08040,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+08055,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+08070,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+08085,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+08100,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+08115,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,3,False,True,3.0,0.0
+08130,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+08145,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+08160,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Tornado,101.0,Barbarian Barrel,6.0,4.0,3,True,True,1.0,2.0
+08175,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+08190,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+08205,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+08220,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Poison,78.0,Tornado,101.0,4.0,2,True,True,2.0,3.0
+08235,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Poison,78.0,,,,2,False,False,0.0,0.0
+08250,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Poison,78.0,,,,3,False,False,0.0,0.0
+08265,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Poison,78.0,,,,3,False,False,0.0,0.0
+08280,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Poison,78.0,,,,4,False,False,0.0,0.0
+08295,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Poison,78.0,,,,4,False,False,0.0,0.0
+08310,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Poison,78.0,,,,5,False,False,0.0,0.0
+08325,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Poison,78.0,,,,2,False,True,3.0,0.0
+08340,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Poison,78.0,,,,3,False,False,0.0,0.0
+08355,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Poison,78.0,,,,4,False,False,0.0,0.0
+08370,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Poison,78.0,,,,4,False,False,0.0,0.0
+08385,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Poison,78.0,,,,5,False,False,0.0,0.0
+08400,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Poison,78.0,4.0,1,True,True,4.0,4.0
+08415,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+08430,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+08445,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+08460,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+08475,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+08490,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+08505,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+08520,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+08535,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+08550,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+08565,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,3,False,True,4.0,0.0
+08580,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+08595,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+08610,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+08625,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Tornado,101.0,Barbarian Barrel,6.0,4.0,3,True,True,2.0,2.0
+08640,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+08655,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+08670,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+08685,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+08700,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+08715,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+08730,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+08745,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+08760,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+08775,Barbarian Hut,7.0,Graveyard,48.0,Cannon Cart,16.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+08790,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,Tornado,101.0,Graveyard,48.0,2.0,4,True,True,5.0,5.0
+08805,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+08820,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+08835,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+08850,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,Tornado,101.0,,,,3,False,True,3.0,0.0
+08865,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+08880,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+08895,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+08910,Barbarian Hut,7.0,Poison,78.0,Cannon Cart,16.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+08925,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Tornado,101.0,Poison,78.0,2.0,2,True,True,3.0,4.0
+08940,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+08955,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+08970,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+08985,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+09000,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Tornado,101.0,4.0,2,True,True,2.0,3.0
+09015,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+09030,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+09045,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+09060,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+09075,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+09090,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Graveyard,48.0,Barbarian Barrel,6.0,4.0,3,True,True,1.0,2.0
+09105,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+09120,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+09135,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+09150,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+09165,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+09180,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+09195,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+09210,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+09225,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+09240,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+09255,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+09270,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+09285,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+09300,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+09315,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+09330,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+09345,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+09360,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+09375,Barbarian Hut,7.0,Cannon Cart,16.0,Cannon Cart,16.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+09390,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,Graveyard,48.0,4.0,7,True,False,0.0,5.0
+09405,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+09420,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+09435,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,3,False,True,4.0,0.0
+09450,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+09465,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+09480,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+09495,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+09510,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+09525,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+09540,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+09555,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+09570,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+09585,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+09600,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+09615,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+09630,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+09645,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+09660,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+09675,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+09690,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+09705,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+09720,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+09735,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+09750,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+09765,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+09780,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+09795,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+09810,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+09825,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+09840,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+09855,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+09870,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+09885,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+09900,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+09915,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+09930,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+09945,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+09960,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+09975,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+09990,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+10005,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+10020,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+10035,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,10,False,False,0.0,0.0
+10050,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,True,4.0,0.0
+10065,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+10080,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+10095,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+10110,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+10125,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+10140,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+10155,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+10170,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+10185,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+10200,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+10215,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+10230,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+10245,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+10260,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+10275,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+10290,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+10305,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+10320,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+10335,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+10350,Bandit,5.0,Cannon Cart,16.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+10365,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,Cannon Cart,16.0,2.0,4,True,True,5.0,5.0
+10380,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+10395,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+10410,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+10425,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+10440,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+10455,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+10470,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+10485,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+10500,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+10515,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+10530,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+10545,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+10560,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,True,1.0,0.0
+10575,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+10590,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+10605,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+10620,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+10635,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+10650,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+10665,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,1,False,True,5.0,0.0
+10680,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,1,False,False,0.0,0.0
+10695,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,1,False,False,0.0,0.0
+10710,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,1,False,False,0.0,0.0
+10725,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+10740,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+10755,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+10770,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+10785,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+10800,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+10815,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+10830,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+10845,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Bandit,5.0,4.0,0,True,True,3.0,3.0
+10860,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,0,False,False,0.0,0.0
+10875,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,0,False,False,0.0,0.0
+10890,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+10905,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+10920,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+10935,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+10950,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+10965,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+10980,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+10995,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+11010,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+11025,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+11040,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+11055,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+11070,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+11085,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+11100,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+11115,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+11130,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+11145,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+11160,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+11175,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+11190,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+11205,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+11220,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+11235,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+11250,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+11265,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+11280,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+11295,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+11310,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+11325,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+11340,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+11355,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+11370,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+11385,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+11400,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+11415,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+11430,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+11445,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+11460,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+11475,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+11490,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+11505,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+11520,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+11535,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+11550,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+11565,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+11580,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+11595,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+11610,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+11625,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+11640,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+11655,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+11670,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+11685,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+11700,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+11715,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+11730,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,6,False,True,4.0,0.0
+11745,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+11760,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+11775,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+11790,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+11805,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+11820,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+11835,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+11850,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+11865,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+11880,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+11895,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+11910,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+11925,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+11940,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+11955,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+11970,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+11985,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+12000,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+12015,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+12030,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+12045,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,5,False,True,4.0,0.0
+12060,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+12075,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+12090,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+12105,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+12120,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+12135,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+12150,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+12165,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+12180,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+12195,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+12210,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+12225,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+12240,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+12255,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+12270,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+12285,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+12300,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+12315,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+12330,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,Cannon Cart,16.0,4.0,4,True,True,5.0,5.0
+12345,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+12360,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+12375,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+12390,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+12405,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+12420,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+12435,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+12450,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,1,False,True,4.0,0.0
+12465,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,1,False,False,0.0,0.0
+12480,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+12495,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+12510,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+12525,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+12540,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+12555,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+12570,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+12585,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+12600,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+12615,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+12630,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+12645,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+12660,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+12675,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+12690,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+12705,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+12720,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+12735,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+12750,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+12765,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+12780,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+12795,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+12810,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+12825,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+12840,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+12855,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+12870,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+12885,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+12900,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+12915,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+12930,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+12945,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+12960,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+12975,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+12990,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+13005,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+13020,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+13035,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+13050,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+13065,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+13080,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+13095,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+13110,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+13125,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+13140,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+13155,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,True,1.0,0.0
+13170,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+13185,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+13200,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+13215,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+13230,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+13245,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+13260,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+13275,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+13290,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,Bandit,5.0,1.0,6,True,True,3.0,3.0
+13305,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+13320,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+13335,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+13350,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+13365,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,True,3.0,0.0
+13380,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+13395,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+13410,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+13425,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+13440,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+13455,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+13470,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,3,False,True,4.0,0.0
+13485,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+13500,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+13515,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+13530,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+13545,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,1,False,True,4.0,0.0
+13560,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,1,False,False,0.0,0.0
+13575,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+13590,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+13605,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+13620,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+13635,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+13650,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+13665,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+13680,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+13695,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+13710,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+13725,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+13740,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+13755,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+13770,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,1,False,True,5.0,0.0
+13785,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+13800,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+13815,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+13830,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+13845,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+13860,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+13875,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+13890,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+13905,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+13920,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,1,False,True,3.0,0.0
+13935,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,1,False,False,0.0,0.0
+13950,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+13965,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+13980,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+13995,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+14010,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+14025,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+14040,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+14055,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+14070,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+14085,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+14100,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+14115,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+14130,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+14145,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+14160,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+14175,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+14190,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+14205,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+14220,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,True,4.0,0.0
+14235,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+14250,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+14265,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+14280,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+14295,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+14310,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+14325,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+14340,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+14355,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+14370,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+14385,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+14400,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,True,2.0,0.0
+14415,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+14430,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+14445,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+14460,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+14475,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+14490,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+14505,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+14520,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+14535,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,10,False,False,0.0,0.0
+14550,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,True,5.0,0.0
+14565,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+14580,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+14595,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+14610,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+14625,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+14640,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+14655,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+14670,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+14685,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+14700,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+14715,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+14730,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+14745,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+14760,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,True,3.0,0.0
+14775,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+14790,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+14805,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+14820,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+14835,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+14850,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+14865,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+14880,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+14895,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+14910,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,True,5.0,0.0
+14925,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+14940,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+14955,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,1,False,True,4.0,0.0
+14970,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+14985,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+15000,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+15015,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+15030,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+15045,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+15060,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+15075,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+15090,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+15105,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+15120,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+15135,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+15150,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+15165,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+15180,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+15195,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+15210,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+15225,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+15240,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+15255,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+15270,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,True,3.0,0.0
+15285,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+15300,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+15315,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+15330,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+15345,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+15360,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+15375,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+15390,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+15405,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+15420,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+15435,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+15450,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+15465,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,Cannon Cart,16.0,1.0,4,True,True,5.0,5.0
+15480,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+15495,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+15510,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+15525,Bandit,5.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+15540,Bandit,5.0,Fireball,30.0,Fireball,30.0,Bandit,5.0,Barbarian Barrel,6.0,3.0,4,True,True,2.0,2.0
+15555,Bandit,5.0,Fireball,30.0,Fireball,30.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+15570,Bandit,5.0,Fireball,30.0,Fireball,30.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+15585,Bandit,5.0,Fireball,30.0,Fireball,30.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+15600,Bandit,5.0,Fireball,30.0,Fireball,30.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+15615,Bandit,5.0,Fireball,30.0,Fireball,30.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+15630,Bandit,5.0,Fireball,30.0,Fireball,30.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+15645,Bandit,5.0,Fireball,30.0,Fireball,30.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+15660,Bandit,5.0,Fireball,30.0,Fireball,30.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+15675,Bandit,5.0,Fireball,30.0,Fireball,30.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+15690,Bandit,5.0,Fireball,30.0,Fireball,30.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+15705,Bandit,5.0,Fireball,30.0,Fireball,30.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+15720,Bandit,5.0,Fireball,30.0,Fireball,30.0,Bandit,5.0,,,,5,False,True,3.0,0.0
+15735,Bandit,5.0,Fireball,30.0,Fireball,30.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+15750,Bandit,5.0,Fireball,30.0,Fireball,30.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+15765,Bandit,5.0,Fireball,30.0,Fireball,30.0,Bandit,5.0,,,,1,False,True,4.0,0.0
+15780,Bandit,5.0,Fireball,30.0,Fireball,30.0,Bandit,5.0,,,,1,False,False,0.0,0.0
+15795,Bandit,5.0,Fireball,30.0,Fireball,30.0,Bandit,5.0,,,,1,False,False,0.0,0.0
+15810,Bandit,5.0,Fireball,30.0,Fireball,30.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+15825,Bandit,5.0,Fireball,30.0,Fireball,30.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+15840,Bandit,5.0,Fireball,30.0,Fireball,30.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+15855,Bandit,5.0,Fireball,30.0,Fireball,30.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+15870,Bandit,5.0,Fireball,30.0,Fireball,30.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+15885,Bandit,5.0,Fireball,30.0,Fireball,30.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+15900,Bandit,5.0,Fireball,30.0,Fireball,30.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+15915,Bandit,5.0,Fireball,30.0,Fireball,30.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+15930,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,Fireball,30.0,2.0,0,True,True,4.0,4.0
+15945,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,1,False,False,0.0,0.0
+15960,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,1,False,False,0.0,0.0
+15975,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+15990,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+16005,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+16020,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+16035,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+16050,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+16065,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+16080,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+16095,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+16110,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+16125,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+16140,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+16155,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+16170,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,4.0,3,True,True,3.0,3.0
+16185,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+16200,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+16215,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+16230,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+16245,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+16260,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+16275,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+16290,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+16305,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+16320,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+16335,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+16350,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+16365,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+16380,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+16395,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+16410,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+16425,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+16440,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,True,3.0,0.0
+16455,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+16470,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+16485,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+16500,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+16515,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+16530,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+16545,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+16560,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,4,False,True,4.0,0.0
+16575,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+16590,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+16605,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+16620,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+16635,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+16650,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+16665,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,2,False,True,4.0,0.0
+16680,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+16695,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+16710,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+16725,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+16740,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+16755,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+16770,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+16785,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+16800,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+16815,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+16830,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,2,False,True,4.0,0.0
+16845,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+16860,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+16875,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+16890,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+16905,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+16920,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+16935,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+16950,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+16965,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+16980,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+16995,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+17010,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+17025,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+17040,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+17055,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+17070,Bandit,5.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+17085,Cannon Cart,16.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,1.0,7,True,True,3.0,3.0
+17100,Cannon Cart,16.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+17115,Cannon Cart,16.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+17130,Cannon Cart,16.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+17145,Cannon Cart,16.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,5,False,True,3.0,0.0
+17160,Cannon Cart,16.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+17175,Cannon Cart,16.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+17190,Cannon Cart,16.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+17205,Cannon Cart,16.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+17220,Cannon Cart,16.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+17235,Cannon Cart,16.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+17250,Cannon Cart,16.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+17265,Cannon Cart,16.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+17280,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Cannon Cart,16.0,1.0,5,True,True,4.0,5.0
+17295,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+17310,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+17325,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+17340,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+17355,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+17370,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+17385,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+17400,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,4,False,True,4.0,0.0
+17415,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+17430,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+17445,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+17460,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+17475,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+17490,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+17505,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+17520,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+17535,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+17550,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+17565,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+17580,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+17595,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+17610,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,Barbarian Barrel,6.0,4.0,8,True,True,2.0,2.0
+17625,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,4,False,True,4.0,0.0
+17640,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+17655,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,2,False,True,3.0,0.0
+17670,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+17685,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+17700,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+17715,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+17730,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+17745,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+17760,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,1,False,True,4.0,0.0
+17775,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+17790,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+17805,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+17820,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+17835,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+17850,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,Bandit,5.0,4.0,2,True,True,2.0,3.0
+17865,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+17880,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+17895,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+17910,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+17925,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+17940,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+17955,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+17970,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+17985,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+18000,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+18015,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+18030,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+18045,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+18060,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+18075,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,Barbarian Barrel,6.0,4.0,8,True,True,1.0,2.0
+18090,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+18105,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,5,False,True,3.0,0.0
+18120,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+18135,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+18150,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+18165,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+18180,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+18195,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+18210,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+18225,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+18240,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+18255,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,5,False,True,4.0,0.0
+18270,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+18285,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+18300,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+18315,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+18330,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+18345,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+18360,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+18375,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,5,False,True,4.0,0.0
+18390,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+18405,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,2,False,True,4.0,0.0
+18420,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+18435,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+18450,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+18465,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,3,False,True,1.0,0.0
+18480,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+18495,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+18510,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+18525,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+18540,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,1,False,True,4.0,0.0
+18555,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+18570,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+18585,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+18600,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+18615,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+18630,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+18645,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+18660,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+18675,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+18690,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+18705,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+18720,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+18735,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+18750,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+18765,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+18780,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+18795,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+18810,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+18825,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+18840,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+18855,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+18870,Barbarian Barrel,6.0,Cannon Cart,16.0,Fireball,30.0,Bandit,5.0,,,,7,False,False,0.0,0.0

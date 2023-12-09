@@ -1,0 +1,368 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00225,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+00240,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+00255,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+00270,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00285,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00300,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00315,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00330,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00345,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00360,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00375,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00390,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00405,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00420,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00435,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00450,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00465,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00480,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00495,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00510,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00525,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00540,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,Ice Wizard,55.0,1.0,7,True,True,3.0,3.0
+00555,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00570,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00585,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00600,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00615,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00630,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00645,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00660,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00675,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00690,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00705,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00720,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00735,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00750,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00765,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00780,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00795,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,P.E.K.K.A,76.0,1.0,3,True,True,6.0,7.0
+00810,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+00825,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+00840,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+00855,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+00870,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+00885,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+00900,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+00915,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+00930,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+00945,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+00960,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+00975,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+00990,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,Balloon,4.0,1.0,0,True,True,5.0,5.0
+01005,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,0,False,False,0.0,0.0
+01020,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,0,False,False,0.0,0.0
+01035,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,0,False,False,0.0,0.0
+01050,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01065,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01080,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01095,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01110,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01125,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01140,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01155,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01170,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01185,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01200,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01215,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01230,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01245,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01260,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01275,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01290,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01305,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01320,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01335,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01350,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01365,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01380,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01395,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01410,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01425,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01440,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01455,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01470,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01485,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01500,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01515,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01530,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01545,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01560,Baby Dragon,3.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01575,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,Baby Dragon,3.0,1.0,3,True,True,4.0,4.0
+01590,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01605,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01620,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01635,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01650,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01665,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01680,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01695,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01710,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01725,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01740,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01755,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01770,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01785,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01800,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01815,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01830,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01845,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01860,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01875,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01890,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01905,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01920,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01935,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01950,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01965,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01980,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01995,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02010,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02025,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02040,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02055,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02070,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02085,Lumberjack,61.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02100,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,Lumberjack,61.0,1.0,5,True,True,4.0,4.0
+02115,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02130,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02145,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02160,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02175,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02190,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02205,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02220,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02235,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02250,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02265,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02280,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02295,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02310,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02325,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02340,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02355,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02370,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02385,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02400,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02415,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02430,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02445,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02460,Ice Wizard,55.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02475,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,Ice Wizard,55.0,1.0,7,True,True,2.0,3.0
+02490,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02505,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02520,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02535,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02550,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02565,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02580,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02595,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02610,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02625,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02640,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02655,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02670,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02685,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02700,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,P.E.K.K.A,76.0,1.0,2,True,True,7.0,7.0
+02715,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+02730,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02745,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02760,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02775,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02790,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02805,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02820,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02835,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02850,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02865,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02880,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02895,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02910,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02925,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02940,Balloon,4.0,Zap,107.0,Freeze,34.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02955,Balloon,4.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,Tornado,101.0,4.0,2,True,True,3.0,3.0
+02970,Balloon,4.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+02985,Balloon,4.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+03000,Balloon,4.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+03015,Balloon,4.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+03030,Balloon,4.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+03045,Balloon,4.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+03060,Balloon,4.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+03075,Balloon,4.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+03090,Balloon,4.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+03105,Balloon,4.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+03120,Balloon,4.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+03135,Balloon,4.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+03150,Balloon,4.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+03165,Balloon,4.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+03180,Balloon,4.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+03195,Balloon,4.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+03210,Balloon,4.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,Zap,107.0,2.0,3,True,True,2.0,2.0
+03225,Balloon,4.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+03240,Balloon,4.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+03255,Balloon,4.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+03270,Balloon,4.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+03285,Balloon,4.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+03300,Balloon,4.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+03315,Balloon,4.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+03330,Balloon,4.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+03345,Balloon,4.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+03360,Balloon,4.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+03375,Balloon,4.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+03390,Balloon,4.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+03405,Balloon,4.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+03420,Balloon,4.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+03435,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,Balloon,4.0,1.0,1,True,True,5.0,5.0
+03450,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+03465,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+03480,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+03495,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+03510,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+03525,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+03540,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+03555,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+03570,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+03585,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+03600,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+03615,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+03630,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+03645,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+03660,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+03675,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+03690,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+03705,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+03720,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+03735,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+03750,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+03765,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+03780,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+03795,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+03810,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+03825,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+03840,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+03855,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,8,False,False,0.0,0.0
+03870,Ice Wizard,55.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,8,False,False,0.0,0.0
+03885,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,Ice Wizard,55.0,1.0,5,True,True,3.0,3.0
+03900,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+03915,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+03930,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+03945,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+03960,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+03975,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+03990,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,8,False,False,0.0,0.0
+04005,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,8,False,False,0.0,0.0
+04020,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,9,False,False,0.0,0.0
+04035,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,9,False,False,0.0,0.0
+04050,Tornado,101.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,P.E.K.K.A,76.0,1.0,2,True,True,7.0,7.0
+04065,Tornado,101.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+04080,Tornado,101.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+04095,Tornado,101.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+04110,Tornado,101.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+04125,Tornado,101.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+04140,Tornado,101.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+04155,Tornado,101.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+04170,Tornado,101.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+04185,Tornado,101.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+04200,Tornado,101.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+04215,Tornado,101.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+04230,Tornado,101.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,2,False,True,4.0,0.0
+04245,Tornado,101.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+04260,Tornado,101.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+04275,Tornado,101.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+04290,Tornado,101.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+04305,Tornado,101.0,Lumberjack,61.0,Freeze,34.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+04320,Tornado,101.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,Lumberjack,61.0,2.0,5,True,False,0.0,4.0
+04335,Tornado,101.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+04350,Tornado,101.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+04365,Tornado,101.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+04380,Tornado,101.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+04395,Tornado,101.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+04410,Tornado,101.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+04425,Tornado,101.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+04440,Tornado,101.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,8,False,False,0.0,0.0
+04455,Tornado,101.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,8,False,False,0.0,0.0
+04470,Tornado,101.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,8,False,False,0.0,0.0
+04485,Tornado,101.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,9,False,False,0.0,0.0
+04500,Tornado,101.0,Zap,107.0,Freeze,34.0,Baby Dragon,3.0,,,,9,False,False,0.0,0.0
+04515,Tornado,101.0,Zap,107.0,Freeze,34.0,Balloon,4.0,Baby Dragon,3.0,4.0,5,True,True,4.0,4.0
+04530,Tornado,101.0,Zap,107.0,Freeze,34.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+04545,Tornado,101.0,Zap,107.0,Freeze,34.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+04560,Tornado,101.0,Zap,107.0,Freeze,34.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+04575,Tornado,101.0,Zap,107.0,Freeze,34.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+04590,Tornado,101.0,Zap,107.0,Freeze,34.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+04605,Tornado,101.0,Zap,107.0,Freeze,34.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+04620,Tornado,101.0,Zap,107.0,Freeze,34.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+04635,Tornado,101.0,Zap,107.0,Freeze,34.0,Ice Wizard,55.0,Balloon,4.0,4.0,3,True,True,5.0,5.0
+04650,Tornado,101.0,Zap,107.0,Freeze,34.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+04665,Tornado,101.0,Zap,107.0,Freeze,34.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+04680,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Ice Wizard,55.0,Tornado,101.0,1.0,4,True,True,2.0,3.0
+04695,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+04710,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+04725,P.E.K.K.A,76.0,Zap,107.0,Freeze,34.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+04740,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Ice Wizard,55.0,Zap,107.0,2.0,1,True,True,1.0,2.0
+04755,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Ice Wizard,55.0,,,,1,False,False,0.0,0.0
+04770,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Ice Wizard,55.0,,,,1,False,False,0.0,0.0
+04785,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+04800,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+04815,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+04830,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+04845,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+04860,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+04875,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+04890,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+04905,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+04920,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+04935,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+04950,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+04965,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+04980,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+04995,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+05010,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+05025,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+05040,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+05055,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+05070,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Ice Wizard,55.0,,,,9,False,False,0.0,0.0
+05085,P.E.K.K.A,76.0,Lumberjack,61.0,Freeze,34.0,Ice Wizard,55.0,,,,9,False,False,0.0,0.0
+05100,P.E.K.K.A,76.0,Baby Dragon,3.0,Freeze,34.0,Ice Wizard,55.0,Lumberjack,61.0,2.0,5,True,True,4.0,4.0
+05115,P.E.K.K.A,76.0,Baby Dragon,3.0,Freeze,34.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+05130,P.E.K.K.A,76.0,Baby Dragon,3.0,Freeze,34.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+05145,P.E.K.K.A,76.0,Baby Dragon,3.0,Freeze,34.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+05160,P.E.K.K.A,76.0,Baby Dragon,3.0,Freeze,34.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+05175,P.E.K.K.A,76.0,Baby Dragon,3.0,Freeze,34.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+05190,P.E.K.K.A,76.0,Baby Dragon,3.0,Freeze,34.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+05205,P.E.K.K.A,76.0,Baby Dragon,3.0,Freeze,34.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+05220,P.E.K.K.A,76.0,Baby Dragon,3.0,Freeze,34.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+05235,P.E.K.K.A,76.0,Baby Dragon,3.0,Freeze,34.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+05250,P.E.K.K.A,76.0,Baby Dragon,3.0,Freeze,34.0,Ice Wizard,55.0,,,,9,False,False,0.0,0.0
+05265,Balloon,4.0,Baby Dragon,3.0,Freeze,34.0,Ice Wizard,55.0,P.E.K.K.A,76.0,1.0,2,True,True,7.0,7.0
+05280,Balloon,4.0,Baby Dragon,3.0,Freeze,34.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+05295,Balloon,4.0,Baby Dragon,3.0,Freeze,34.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+05310,Balloon,4.0,Baby Dragon,3.0,Freeze,34.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+05325,Balloon,4.0,Baby Dragon,3.0,Freeze,34.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+05340,Balloon,4.0,Baby Dragon,3.0,Freeze,34.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+05355,Balloon,4.0,Baby Dragon,3.0,Freeze,34.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+05370,Balloon,4.0,Baby Dragon,3.0,Freeze,34.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+05385,Balloon,4.0,Tornado,101.0,Freeze,34.0,Ice Wizard,55.0,Baby Dragon,3.0,2.0,1,True,True,4.0,4.0
+05400,Balloon,4.0,Tornado,101.0,Freeze,34.0,Ice Wizard,55.0,,,,1,False,False,0.0,0.0
+05415,Balloon,4.0,Tornado,101.0,Freeze,34.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+05430,Balloon,4.0,Tornado,101.0,Freeze,34.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+05445,Balloon,4.0,Tornado,101.0,Freeze,34.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+05460,Balloon,4.0,Tornado,101.0,Freeze,34.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+05475,Balloon,4.0,Tornado,101.0,Freeze,34.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+05490,Balloon,4.0,Tornado,101.0,Freeze,34.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+05505,Balloon,4.0,Zap,107.0,Freeze,34.0,Ice Wizard,55.0,Tornado,101.0,2.0,1,True,True,2.0,3.0
+05520,Balloon,4.0,Zap,107.0,Freeze,34.0,Ice Wizard,55.0,,,,1,False,False,0.0,0.0
+05535,Balloon,4.0,Zap,107.0,Freeze,34.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+05550,Balloon,4.0,Zap,107.0,Freeze,34.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+05565,Balloon,4.0,Zap,107.0,Freeze,34.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+05580,Balloon,4.0,Zap,107.0,Freeze,34.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+05595,Balloon,4.0,Zap,107.0,Freeze,34.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+05610,Balloon,4.0,Zap,107.0,Freeze,34.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+05625,Balloon,4.0,Zap,107.0,Freeze,34.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+05640,Balloon,4.0,Zap,107.0,Freeze,34.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+05655,Balloon,4.0,Zap,107.0,Freeze,34.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+05670,Balloon,4.0,Zap,107.0,Freeze,34.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+05685,Balloon,4.0,Zap,107.0,Freeze,34.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+05700,Balloon,4.0,Zap,107.0,Freeze,34.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+05715,Balloon,4.0,Zap,107.0,Freeze,34.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0

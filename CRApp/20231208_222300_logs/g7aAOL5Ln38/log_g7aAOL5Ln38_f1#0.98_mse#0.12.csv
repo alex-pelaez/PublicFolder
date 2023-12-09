@@ -1,0 +1,609 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00255,Mega Minion,64.0,Giant Snowball,38.0,Knight,58.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+00270,Mega Minion,64.0,Giant Snowball,38.0,Knight,58.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+00285,Mega Minion,64.0,Giant Snowball,38.0,Knight,58.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00300,Mega Minion,64.0,Giant Snowball,38.0,Knight,58.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00315,Mega Minion,64.0,Giant Snowball,38.0,Knight,58.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00330,Mega Minion,64.0,Giant Snowball,38.0,Knight,58.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00345,Mega Minion,64.0,Giant Snowball,38.0,Knight,58.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00360,Mega Minion,64.0,Giant Snowball,38.0,Knight,58.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00375,Mega Minion,64.0,Giant Snowball,38.0,Knight,58.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00390,Mega Minion,64.0,Giant Snowball,38.0,Knight,58.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00405,Mega Minion,64.0,Giant Snowball,38.0,Knight,58.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00420,Mega Minion,64.0,Giant Snowball,38.0,Knight,58.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00435,Mega Minion,64.0,Giant Snowball,38.0,Knight,58.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00450,Mega Minion,64.0,Giant Snowball,38.0,Knight,58.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00465,Mega Minion,64.0,Giant Snowball,38.0,Knight,58.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+00480,Mega Minion,64.0,Giant Snowball,38.0,Knight,58.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+00495,Mega Minion,64.0,Giant Snowball,38.0,Knight,58.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+00510,Mega Minion,64.0,Giant Snowball,38.0,Knight,58.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+00525,Mega Minion,64.0,Giant Snowball,38.0,Knight,58.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+00540,Mega Minion,64.0,Archers,1.0,Knight,58.0,Balloon,4.0,Giant Snowball,38.0,2.0,8,True,True,1.0,2.0
+00555,Mega Minion,64.0,Archers,1.0,Knight,58.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00570,Mega Minion,64.0,Archers,1.0,Knight,58.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00585,Mega Minion,64.0,Archers,1.0,Knight,58.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00600,Mega Minion,64.0,Archers,1.0,Knight,58.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00615,Mega Minion,64.0,Archers,1.0,Knight,58.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00630,Mega Minion,64.0,Archers,1.0,Knight,58.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+00645,Mega Minion,64.0,Archers,1.0,Knight,58.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+00660,Mega Minion,64.0,Archers,1.0,Knight,58.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+00675,Mega Minion,64.0,Archers,1.0,Knight,58.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+00690,Mega Minion,64.0,Miner,66.0,Knight,58.0,Balloon,4.0,Archers,1.0,2.0,6,True,True,3.0,3.0
+00705,Mega Minion,64.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00720,Mega Minion,64.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00735,Mega Minion,64.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00750,Mega Minion,64.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00765,Mega Minion,64.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00780,Mega Minion,64.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00795,Mega Minion,64.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00810,Mega Minion,64.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00825,Mega Minion,64.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00840,Mega Minion,64.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00855,Mega Minion,64.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00870,Mega Minion,64.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+00885,Mega Minion,64.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+00900,Mega Minion,64.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+00915,Mega Minion,64.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+00930,Mega Minion,64.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+00945,Mega Minion,64.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+00960,Barbarian Barrel,6.0,Miner,66.0,Knight,58.0,Balloon,4.0,Mega Minion,64.0,1.0,7,True,True,2.0,3.0
+00975,Barbarian Barrel,6.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+00990,Barbarian Barrel,6.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+01005,Barbarian Barrel,6.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+01020,Barbarian Barrel,6.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+01035,Barbarian Barrel,6.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+01050,Barbarian Barrel,6.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+01065,Barbarian Barrel,6.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+01080,Barbarian Barrel,6.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+01095,Barbarian Barrel,6.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+01110,Barbarian Barrel,6.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+01125,Barbarian Barrel,6.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+01140,Barbarian Barrel,6.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+01155,Barbarian Barrel,6.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+01170,Barbarian Barrel,6.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+01185,Barbarian Barrel,6.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+01200,Barbarian Barrel,6.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+01215,Barbarian Barrel,6.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,10,False,False,0.0,0.0
+01230,Barbarian Barrel,6.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,10,False,False,0.0,0.0
+01245,Barbarian Barrel,6.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,10,False,False,0.0,0.0
+01260,Barbarian Barrel,6.0,Miner,66.0,Knight,58.0,Balloon,4.0,,,,10,False,False,0.0,0.0
+01275,Barbarian Barrel,6.0,Miner,66.0,Bomb Tower,12.0,Balloon,4.0,Knight,58.0,3.0,7,True,True,3.0,3.0
+01290,Barbarian Barrel,6.0,Miner,66.0,Bomb Tower,12.0,Giant Snowball,38.0,Balloon,4.0,4.0,2,True,True,5.0,5.0
+01305,Barbarian Barrel,6.0,Miner,66.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+01320,Barbarian Barrel,6.0,Miner,66.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+01335,Barbarian Barrel,6.0,Miner,66.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+01350,Barbarian Barrel,6.0,Miner,66.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+01365,Barbarian Barrel,6.0,Miner,66.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+01380,Barbarian Barrel,6.0,Miner,66.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+01395,Barbarian Barrel,6.0,Miner,66.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+01410,Barbarian Barrel,6.0,Miner,66.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+01425,Barbarian Barrel,6.0,Miner,66.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+01440,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,Miner,66.0,2.0,1,True,True,2.0,3.0
+01455,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,1,False,False,0.0,0.0
+01470,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,1,False,False,0.0,0.0
+01485,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,1,False,False,0.0,0.0
+01500,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,1,False,False,0.0,0.0
+01515,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+01530,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+01545,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+01560,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+01575,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+01590,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+01605,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+01620,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+01635,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+01650,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+01665,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+01680,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+01695,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+01710,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+01725,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+01740,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+01755,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+01770,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+01785,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+01800,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+01815,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+01830,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+01845,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+01860,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+01875,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+01890,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+01905,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+01920,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+01935,Barbarian Barrel,6.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+01950,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,Barbarian Barrel,6.0,1.0,5,True,True,3.0,2.0
+01965,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+01980,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+01995,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+02010,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+02025,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+02040,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+02055,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+02070,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+02085,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+02100,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+02115,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+02130,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+02145,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+02160,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+02175,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+02190,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+02205,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+02220,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+02235,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+02250,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+02265,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+02280,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+02295,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+02310,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+02325,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+02340,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+02355,Knight,58.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,Mega Minion,64.0,1.0,10,True,False,0.0,3.0
+02370,Knight,58.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,10,False,False,0.0,0.0
+02385,Knight,58.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,10,False,False,0.0,0.0
+02400,Knight,58.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,10,False,False,0.0,0.0
+02415,Knight,58.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,7,False,True,3.0,0.0
+02430,Knight,58.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+02445,Knight,58.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+02460,Knight,58.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+02475,Knight,58.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+02490,Knight,58.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+02505,Balloon,4.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,Knight,58.0,1.0,5,True,True,3.0,3.0
+02520,Balloon,4.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+02535,Balloon,4.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+02550,Balloon,4.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+02565,Balloon,4.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+02580,Balloon,4.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+02595,Balloon,4.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+02610,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,Balloon,4.0,1.0,2,True,True,4.0,5.0
+02625,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+02640,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+02655,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+02670,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+02685,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+02700,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+02715,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+02730,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+02745,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+02760,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+02775,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+02790,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+02805,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+02820,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+02835,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+02850,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+02865,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+02880,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+02895,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+02910,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+02925,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+02940,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+02955,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+02970,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+02985,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+03000,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+03015,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+03030,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+03045,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+03060,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+03075,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+03090,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+03105,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+03120,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+03135,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+03150,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+03165,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+03180,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+03195,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+03210,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+03225,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+03240,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+03255,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+03270,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+03285,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Giant Snowball,38.0,4.0,8,True,True,1.0,2.0
+03300,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03315,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03330,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03345,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03360,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03375,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03390,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03405,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03420,Miner,66.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03435,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Miner,66.0,1.0,6,True,True,3.0,3.0
+03450,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03465,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03480,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03495,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03510,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03525,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03540,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03555,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03570,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03585,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03600,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03615,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03630,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03645,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03660,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03675,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03690,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03705,Knight,58.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Mega Minion,64.0,1.0,7,True,True,2.0,3.0
+03720,Knight,58.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03735,Knight,58.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03750,Knight,58.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03765,Knight,58.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03780,Knight,58.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03795,Knight,58.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03810,Knight,58.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03825,Knight,58.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03840,Knight,58.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03855,Knight,58.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Archers,1.0,2.0,6,True,True,3.0,3.0
+03870,Knight,58.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03885,Knight,58.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03900,Knight,58.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03915,Knight,58.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03930,Knight,58.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03945,Knight,58.0,Balloon,4.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03960,Miner,66.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Balloon,4.0,2.0,1,True,True,7.0,5.0
+03975,Miner,66.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+03990,Miner,66.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+04005,Miner,66.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+04020,Miner,66.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+04035,Miner,66.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+04050,Miner,66.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+04065,Miner,66.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+04080,Miner,66.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+04095,Miner,66.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+04110,Miner,66.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+04125,Miner,66.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+04140,Miner,66.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+04155,Miner,66.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+04170,Miner,66.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+04185,Miner,66.0,Mega Minion,64.0,Bomb Tower,12.0,Barbarian Barrel,6.0,Giant Snowball,38.0,2.0,4,True,True,2.0,2.0
+04200,Miner,66.0,Mega Minion,64.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+04215,Miner,66.0,Mega Minion,64.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+04230,Miner,66.0,Mega Minion,64.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+04245,Miner,66.0,Mega Minion,64.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+04260,Miner,66.0,Mega Minion,64.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+04275,Miner,66.0,Mega Minion,64.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+04290,Miner,66.0,Mega Minion,64.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+04305,Miner,66.0,Mega Minion,64.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+04320,Miner,66.0,Mega Minion,64.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+04335,Miner,66.0,Mega Minion,64.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+04350,Miner,66.0,Mega Minion,64.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+04365,Miner,66.0,Mega Minion,64.0,Bomb Tower,12.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+04380,Miner,66.0,Mega Minion,64.0,Archers,1.0,Barbarian Barrel,6.0,Bomb Tower,12.0,3.0,5,True,True,3.0,4.0
+04395,Miner,66.0,Mega Minion,64.0,Archers,1.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+04410,Miner,66.0,Mega Minion,64.0,Archers,1.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+04425,Miner,66.0,Mega Minion,64.0,Archers,1.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+04440,Miner,66.0,Mega Minion,64.0,Archers,1.0,Balloon,4.0,Barbarian Barrel,6.0,4.0,4,True,True,2.0,2.0
+04455,Miner,66.0,Mega Minion,64.0,Archers,1.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+04470,Miner,66.0,Mega Minion,64.0,Archers,1.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+04485,Miner,66.0,Mega Minion,64.0,Archers,1.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+04500,Miner,66.0,Mega Minion,64.0,Archers,1.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+04515,Knight,58.0,Mega Minion,64.0,Archers,1.0,Balloon,4.0,Miner,66.0,1.0,3,True,True,3.0,3.0
+04530,Knight,58.0,Mega Minion,64.0,Archers,1.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+04545,Knight,58.0,Mega Minion,64.0,Archers,1.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+04560,Knight,58.0,Mega Minion,64.0,Archers,1.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+04575,Knight,58.0,Mega Minion,64.0,Archers,1.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+04590,Knight,58.0,Mega Minion,64.0,Archers,1.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+04605,Knight,58.0,Mega Minion,64.0,Archers,1.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+04620,Knight,58.0,Mega Minion,64.0,Archers,1.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+04635,Knight,58.0,Mega Minion,64.0,Archers,1.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+04650,Knight,58.0,Mega Minion,64.0,Archers,1.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+04665,Knight,58.0,Mega Minion,64.0,Archers,1.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+04680,Knight,58.0,Mega Minion,64.0,Archers,1.0,Giant Snowball,38.0,Balloon,4.0,4.0,2,True,True,5.0,5.0
+04695,Knight,58.0,Mega Minion,64.0,Archers,1.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+04710,Knight,58.0,Mega Minion,64.0,Archers,1.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+04725,Knight,58.0,Mega Minion,64.0,Archers,1.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+04740,Knight,58.0,Mega Minion,64.0,Archers,1.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+04755,Bomb Tower,12.0,Mega Minion,64.0,Archers,1.0,Giant Snowball,38.0,Knight,58.0,1.0,1,True,True,2.0,3.0
+04770,Bomb Tower,12.0,Mega Minion,64.0,Archers,1.0,Giant Snowball,38.0,,,,1,False,False,0.0,0.0
+04785,Bomb Tower,12.0,Mega Minion,64.0,Archers,1.0,Giant Snowball,38.0,,,,1,False,False,0.0,0.0
+04800,Bomb Tower,12.0,Mega Minion,64.0,Archers,1.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+04815,Bomb Tower,12.0,Mega Minion,64.0,Archers,1.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+04830,Bomb Tower,12.0,Mega Minion,64.0,Archers,1.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+04845,Bomb Tower,12.0,Mega Minion,64.0,Archers,1.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+04860,Bomb Tower,12.0,Mega Minion,64.0,Archers,1.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+04875,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,Archers,1.0,3.0,1,True,True,2.0,3.0
+04890,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,1,False,False,0.0,0.0
+04905,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,1,False,False,0.0,0.0
+04920,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+04935,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+04950,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+04965,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+04980,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+04995,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+05010,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+05025,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+05040,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+05055,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+05070,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+05085,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+05100,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+05115,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+05130,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+05145,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+05160,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+05175,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+05190,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+05205,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+05220,Miner,66.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,Bomb Tower,12.0,1.0,5,True,True,3.0,4.0
+05235,Miner,66.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+05250,Miner,66.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+05265,Miner,66.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+05280,Miner,66.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+05295,Miner,66.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+05310,Miner,66.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+05325,Miner,66.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+05340,Miner,66.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+05355,Miner,66.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+05370,Miner,66.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+05385,Balloon,4.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,Miner,66.0,1.0,6,True,True,2.0,3.0
+05400,Balloon,4.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+05415,Balloon,4.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+05430,Balloon,4.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+05445,Balloon,4.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+05460,Balloon,4.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+05475,Balloon,4.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+05490,Balloon,4.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+05505,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Giant Snowball,38.0,Balloon,4.0,1.0,4,True,True,4.0,5.0
+05520,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Archers,1.0,Giant Snowball,38.0,4.0,2,True,True,2.0,2.0
+05535,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Archers,1.0,,,,2,False,False,0.0,0.0
+05550,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Archers,1.0,,,,3,False,False,0.0,0.0
+05565,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Archers,1.0,,,,3,False,False,0.0,0.0
+05580,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Archers,1.0,,,,3,False,False,0.0,0.0
+05595,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Archers,1.0,Knight,58.0,1.0,1,True,True,2.0,3.0
+05610,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Archers,1.0,,,,1,False,False,0.0,0.0
+05625,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Archers,1.0,,,,1,False,False,0.0,0.0
+05640,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Archers,1.0,,,,2,False,False,0.0,0.0
+05655,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Archers,1.0,,,,2,False,False,0.0,0.0
+05670,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Archers,1.0,,,,2,False,False,0.0,0.0
+05685,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Archers,1.0,,,,3,False,False,0.0,0.0
+05700,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Archers,1.0,,,,3,False,False,0.0,0.0
+05715,Bomb Tower,12.0,Mega Minion,64.0,Barbarian Barrel,6.0,Archers,1.0,,,,4,False,False,0.0,0.0
+05730,Bomb Tower,12.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,Barbarian Barrel,6.0,3.0,2,True,True,2.0,2.0
+05745,Bomb Tower,12.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,,,,2,False,False,0.0,0.0
+05760,Bomb Tower,12.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,,,,3,False,False,0.0,0.0
+05775,Bomb Tower,12.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,,,,3,False,False,0.0,0.0
+05790,Bomb Tower,12.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,,,,3,False,False,0.0,0.0
+05805,Bomb Tower,12.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,,,,4,False,False,0.0,0.0
+05820,Bomb Tower,12.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,,,,4,False,False,0.0,0.0
+05835,Bomb Tower,12.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,,,,4,False,False,0.0,0.0
+05850,Bomb Tower,12.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,,,,5,False,False,0.0,0.0
+05865,Bomb Tower,12.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,,,,5,False,False,0.0,0.0
+05880,Bomb Tower,12.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,,,,5,False,False,0.0,0.0
+05895,Bomb Tower,12.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,,,,6,False,False,0.0,0.0
+05910,Bomb Tower,12.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,,,,6,False,False,0.0,0.0
+05925,Bomb Tower,12.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,,,,7,False,False,0.0,0.0
+05940,Bomb Tower,12.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,,,,7,False,False,0.0,0.0
+05955,Bomb Tower,12.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,,,,7,False,False,0.0,0.0
+05970,Balloon,4.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,Bomb Tower,12.0,1.0,4,True,True,3.0,4.0
+05985,Balloon,4.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,,,,4,False,False,0.0,0.0
+06000,Balloon,4.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,,,,4,False,False,0.0,0.0
+06015,Balloon,4.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,,,,5,False,False,0.0,0.0
+06030,Balloon,4.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,,,,5,False,False,0.0,0.0
+06045,Balloon,4.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,,,,5,False,False,0.0,0.0
+06060,Balloon,4.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,,,,6,False,False,0.0,0.0
+06075,Balloon,4.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,,,,6,False,False,0.0,0.0
+06090,Balloon,4.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,,,,6,False,False,0.0,0.0
+06105,Balloon,4.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,,,,7,False,False,0.0,0.0
+06120,Balloon,4.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,,,,7,False,False,0.0,0.0
+06135,Balloon,4.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,,,,8,False,False,0.0,0.0
+06150,Balloon,4.0,Mega Minion,64.0,Miner,66.0,Archers,1.0,,,,8,False,False,0.0,0.0
+06165,Balloon,4.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,Miner,66.0,3.0,5,True,True,3.0,3.0
+06180,Balloon,4.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,6,False,False,0.0,0.0
+06195,Balloon,4.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,6,False,False,0.0,0.0
+06210,Balloon,4.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,6,False,False,0.0,0.0
+06225,Balloon,4.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,7,False,False,0.0,0.0
+06240,Balloon,4.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,7,False,False,0.0,0.0
+06255,Balloon,4.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,7,False,False,0.0,0.0
+06270,Balloon,4.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,8,False,False,0.0,0.0
+06285,Balloon,4.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,8,False,False,0.0,0.0
+06300,Balloon,4.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,8,False,False,0.0,0.0
+06315,Balloon,4.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,9,False,False,0.0,0.0
+06330,Knight,58.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,Balloon,4.0,1.0,4,True,True,5.0,5.0
+06345,Knight,58.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,5,False,False,0.0,0.0
+06360,Knight,58.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,5,False,False,0.0,0.0
+06375,Knight,58.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,5,False,False,0.0,0.0
+06390,Barbarian Barrel,6.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,Knight,58.0,1.0,3,True,True,2.0,3.0
+06405,Barbarian Barrel,6.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,3,False,False,0.0,0.0
+06420,Barbarian Barrel,6.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,3,False,False,0.0,0.0
+06435,Barbarian Barrel,6.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,4,False,False,0.0,0.0
+06450,Barbarian Barrel,6.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,4,False,False,0.0,0.0
+06465,Barbarian Barrel,6.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,4,False,False,0.0,0.0
+06480,Barbarian Barrel,6.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,5,False,False,0.0,0.0
+06495,Barbarian Barrel,6.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,5,False,False,0.0,0.0
+06510,Barbarian Barrel,6.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,6,False,False,0.0,0.0
+06525,Barbarian Barrel,6.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,6,False,False,0.0,0.0
+06540,Barbarian Barrel,6.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,6,False,False,0.0,0.0
+06555,Barbarian Barrel,6.0,Bomb Tower,12.0,Giant Snowball,38.0,Archers,1.0,Mega Minion,64.0,2.0,4,True,True,2.0,3.0
+06570,Miner,66.0,Bomb Tower,12.0,Giant Snowball,38.0,Archers,1.0,Barbarian Barrel,6.0,1.0,2,True,True,2.0,2.0
+06585,Miner,66.0,Bomb Tower,12.0,Giant Snowball,38.0,Archers,1.0,,,,2,False,False,0.0,0.0
+06600,Miner,66.0,Bomb Tower,12.0,Giant Snowball,38.0,Archers,1.0,,,,3,False,False,0.0,0.0
+06615,Miner,66.0,Bomb Tower,12.0,Giant Snowball,38.0,Archers,1.0,,,,3,False,False,0.0,0.0
+06630,Miner,66.0,Bomb Tower,12.0,Giant Snowball,38.0,Archers,1.0,,,,3,False,False,0.0,0.0
+06645,Miner,66.0,Bomb Tower,12.0,Giant Snowball,38.0,Archers,1.0,,,,4,False,False,0.0,0.0
+06660,Miner,66.0,Bomb Tower,12.0,Giant Snowball,38.0,Archers,1.0,,,,4,False,False,0.0,0.0
+06675,Miner,66.0,Balloon,4.0,Giant Snowball,38.0,Archers,1.0,Bomb Tower,12.0,2.0,0,True,True,4.0,4.0
+06690,Miner,66.0,Balloon,4.0,Giant Snowball,38.0,Archers,1.0,,,,1,False,False,0.0,0.0
+06705,Miner,66.0,Balloon,4.0,Giant Snowball,38.0,Archers,1.0,,,,1,False,False,0.0,0.0
+06720,Miner,66.0,Balloon,4.0,Giant Snowball,38.0,Archers,1.0,,,,2,False,False,0.0,0.0
+06735,Miner,66.0,Balloon,4.0,Giant Snowball,38.0,Archers,1.0,,,,2,False,False,0.0,0.0
+06750,Miner,66.0,Balloon,4.0,Giant Snowball,38.0,Archers,1.0,,,,2,False,False,0.0,0.0
+06765,Miner,66.0,Balloon,4.0,Giant Snowball,38.0,Archers,1.0,,,,3,False,False,0.0,0.0
+06780,Miner,66.0,Balloon,4.0,Giant Snowball,38.0,Archers,1.0,,,,3,False,False,0.0,0.0
+06795,Miner,66.0,Balloon,4.0,Giant Snowball,38.0,Archers,1.0,,,,3,False,False,0.0,0.0
+06810,Miner,66.0,Balloon,4.0,Giant Snowball,38.0,Archers,1.0,,,,4,False,False,0.0,0.0
+06825,Miner,66.0,Balloon,4.0,Giant Snowball,38.0,Archers,1.0,,,,4,False,False,0.0,0.0
+06840,Miner,66.0,Balloon,4.0,Giant Snowball,38.0,Archers,1.0,,,,4,False,False,0.0,0.0
+06855,Miner,66.0,Balloon,4.0,Giant Snowball,38.0,Archers,1.0,,,,5,False,False,0.0,0.0
+06870,Miner,66.0,Balloon,4.0,Giant Snowball,38.0,Archers,1.0,,,,5,False,False,0.0,0.0
+06885,Miner,66.0,Balloon,4.0,Giant Snowball,38.0,Archers,1.0,,,,5,False,False,0.0,0.0
+06900,Miner,66.0,Balloon,4.0,Giant Snowball,38.0,Archers,1.0,,,,6,False,False,0.0,0.0
+06915,Miner,66.0,Balloon,4.0,Giant Snowball,38.0,Archers,1.0,,,,6,False,False,0.0,0.0
+06930,Miner,66.0,Balloon,4.0,Giant Snowball,38.0,Archers,1.0,,,,7,False,False,0.0,0.0
+06945,Knight,58.0,Balloon,4.0,Giant Snowball,38.0,Archers,1.0,Miner,66.0,1.0,4,True,True,3.0,3.0
+06960,Knight,58.0,Balloon,4.0,Giant Snowball,38.0,Archers,1.0,,,,4,False,False,0.0,0.0
+06975,Knight,58.0,Balloon,4.0,Giant Snowball,38.0,Archers,1.0,,,,5,False,False,0.0,0.0
+06990,Knight,58.0,Balloon,4.0,Giant Snowball,38.0,Archers,1.0,,,,5,False,False,0.0,0.0
+07005,Knight,58.0,Balloon,4.0,Giant Snowball,38.0,Archers,1.0,,,,5,False,False,0.0,0.0
+07020,Knight,58.0,Balloon,4.0,Giant Snowball,38.0,Archers,1.0,,,,6,False,False,0.0,0.0
+07035,Knight,58.0,Balloon,4.0,Giant Snowball,38.0,Archers,1.0,,,,6,False,False,0.0,0.0
+07050,Knight,58.0,Balloon,4.0,Giant Snowball,38.0,Archers,1.0,,,,6,False,False,0.0,0.0
+07065,Knight,58.0,Balloon,4.0,Giant Snowball,38.0,Archers,1.0,,,,7,False,False,0.0,0.0
+07080,Knight,58.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,Balloon,4.0,2.0,2,True,True,5.0,5.0
+07095,Knight,58.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,2,False,False,0.0,0.0
+07110,Knight,58.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,3,False,False,0.0,0.0
+07125,Knight,58.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,3,False,False,0.0,0.0
+07140,Knight,58.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,3,False,False,0.0,0.0
+07155,Knight,58.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,4,False,False,0.0,0.0
+07170,Knight,58.0,Mega Minion,64.0,Giant Snowball,38.0,Archers,1.0,,,,4,False,False,0.0,0.0
+07185,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Archers,1.0,Giant Snowball,38.0,3.0,3,True,True,1.0,2.0
+07200,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Archers,1.0,,,,3,False,False,0.0,0.0
+07215,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Archers,1.0,,,,3,False,False,0.0,0.0
+07230,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,Archers,1.0,4.0,1,True,True,2.0,3.0
+07245,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+07260,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+07275,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+07290,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+07305,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+07320,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+07335,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+07350,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+07365,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+07380,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+07395,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+07410,Knight,58.0,Mega Minion,64.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,3.0,3,True,True,2.0,2.0
+07425,Knight,58.0,Mega Minion,64.0,Miner,66.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+07440,Knight,58.0,Mega Minion,64.0,Miner,66.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+07455,Knight,58.0,Mega Minion,64.0,Miner,66.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+07470,Knight,58.0,Mega Minion,64.0,Miner,66.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+07485,Knight,58.0,Mega Minion,64.0,Miner,66.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+07500,Knight,58.0,Mega Minion,64.0,Miner,66.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+07515,Knight,58.0,Mega Minion,64.0,Miner,66.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+07530,Knight,58.0,Mega Minion,64.0,Miner,66.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+07545,Knight,58.0,Mega Minion,64.0,Miner,66.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+07560,Knight,58.0,Mega Minion,64.0,Miner,66.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+07575,Knight,58.0,Mega Minion,64.0,Miner,66.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+07590,Knight,58.0,Balloon,4.0,Miner,66.0,Bomb Tower,12.0,Mega Minion,64.0,2.0,10,True,True,2.0,3.0
+07605,Knight,58.0,Balloon,4.0,Miner,66.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+07620,Knight,58.0,Balloon,4.0,Miner,66.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+07635,Knight,58.0,Balloon,4.0,Miner,66.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+07650,Knight,58.0,Balloon,4.0,Miner,66.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+07665,Knight,58.0,Balloon,4.0,Miner,66.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+07680,Knight,58.0,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,Balloon,4.0,2.0,5,True,True,4.0,5.0
+07695,Archers,1.0,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,Knight,58.0,1.0,2,True,True,3.0,3.0
+07710,Archers,1.0,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+07725,Archers,1.0,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+07740,Archers,1.0,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+07755,Archers,1.0,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+07770,Archers,1.0,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+07785,Archers,1.0,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+07800,Archers,1.0,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+07815,Archers,1.0,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+07830,Archers,1.0,Giant Snowball,38.0,Miner,66.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+07845,Archers,1.0,Giant Snowball,38.0,Barbarian Barrel,6.0,Bomb Tower,12.0,Miner,66.0,3.0,5,True,True,2.0,3.0
+07860,Archers,1.0,Giant Snowball,38.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+07875,Archers,1.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,Giant Snowball,38.0,2.0,4,True,True,1.0,2.0
+07890,Archers,1.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+07905,Archers,1.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+07920,Archers,1.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+07935,Archers,1.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+07950,Archers,1.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+07965,Archers,1.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+07980,Archers,1.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+07995,Archers,1.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+08010,Archers,1.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+08025,Archers,1.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+08040,Balloon,4.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,Archers,1.0,1.0,7,True,True,2.0,3.0
+08055,Balloon,4.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+08070,Balloon,4.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+08085,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,Balloon,4.0,1.0,3,True,True,5.0,5.0
+08100,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08115,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08130,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+08145,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+08160,Knight,58.0,Mega Minion,64.0,Miner,66.0,Bomb Tower,12.0,Barbarian Barrel,6.0,3.0,4,True,True,1.0,2.0
+08175,Knight,58.0,Mega Minion,64.0,Miner,66.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08190,Giant Snowball,38.0,Mega Minion,64.0,Miner,66.0,Bomb Tower,12.0,Knight,58.0,1.0,2,True,True,2.0,3.0
+08205,Giant Snowball,38.0,Mega Minion,64.0,Miner,66.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08220,Giant Snowball,38.0,Mega Minion,64.0,Miner,66.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08235,Giant Snowball,38.0,Mega Minion,64.0,Miner,66.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08250,Giant Snowball,38.0,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Miner,66.0,3.0,1,True,True,3.0,3.0
+08265,Giant Snowball,38.0,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+08280,Giant Snowball,38.0,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+08295,Giant Snowball,38.0,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08310,Giant Snowball,38.0,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08325,Giant Snowball,38.0,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08340,Giant Snowball,38.0,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08355,Balloon,4.0,Mega Minion,64.0,Archers,1.0,Mega Minion,64.0,Bomb Tower,12.0,4.0,3,True,True,1.0,4.0
+08370,Balloon,4.0,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Mega Minion,64.0,4.0,4,True,False,0.0,3.0
+08385,Balloon,4.0,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08400,Balloon,4.0,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+08415,Balloon,4.0,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+08430,Balloon,4.0,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+08445,Balloon,4.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,Archers,1.0,3.0,3,True,True,3.0,3.0
+08460,Balloon,4.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08475,Balloon,4.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08490,Balloon,4.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+08505,Balloon,4.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+08520,Balloon,4.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+08535,Balloon,4.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+08550,Balloon,4.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+08565,Balloon,4.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+08580,Balloon,4.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+08595,Balloon,4.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+08610,Balloon,4.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+08625,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,Balloon,4.0,1.0,5,True,True,4.0,5.0
+08640,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+08655,Knight,58.0,Miner,66.0,Barbarian Barrel,6.0,Bomb Tower,12.0,Mega Minion,64.0,2.0,3,True,True,2.0,3.0
+08670,Knight,58.0,Miner,66.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08685,Knight,58.0,Miner,66.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08700,Knight,58.0,Miner,66.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08715,Knight,58.0,Giant Snowball,38.0,Barbarian Barrel,6.0,Bomb Tower,12.0,Miner,66.0,2.0,2,True,True,2.0,3.0
+08730,Knight,58.0,Giant Snowball,38.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+08745,Knight,58.0,Giant Snowball,38.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08760,Knight,58.0,Giant Snowball,38.0,Archers,1.0,Bomb Tower,12.0,Barbarian Barrel,6.0,3.0,3,True,True,1.0,2.0
+08775,Knight,58.0,Giant Snowball,38.0,Archers,1.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+08790,Knight,58.0,Giant Snowball,38.0,Archers,1.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08805,Knight,58.0,Balloon,4.0,Archers,1.0,Bomb Tower,12.0,Giant Snowball,38.0,2.0,1,True,True,2.0,2.0
+08820,Knight,58.0,Balloon,4.0,Archers,1.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+08835,Knight,58.0,Balloon,4.0,Archers,1.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+08850,Knight,58.0,Balloon,4.0,Archers,1.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08865,Knight,58.0,Balloon,4.0,Archers,1.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08880,Knight,58.0,Balloon,4.0,Archers,1.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08895,Knight,58.0,Balloon,4.0,Archers,1.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08910,Knight,58.0,Balloon,4.0,Archers,1.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+08925,Knight,58.0,Balloon,4.0,Archers,1.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+08940,Knight,58.0,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,Balloon,4.0,2.0,1,True,True,4.0,5.0
+08955,Knight,58.0,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+08970,Knight,58.0,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+08985,Knight,58.0,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+09000,Knight,58.0,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+09015,Knight,58.0,Mega Minion,64.0,Archers,1.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+09030,Knight,58.0,Mega Minion,64.0,Miner,66.0,Bomb Tower,12.0,Archers,1.0,3.0,1,True,True,3.0,3.0
+09045,Knight,58.0,Mega Minion,64.0,Miner,66.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+09060,Knight,58.0,Mega Minion,64.0,Miner,66.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+09075,Knight,58.0,Mega Minion,64.0,Miner,66.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+09090,Knight,58.0,Mega Minion,64.0,Miner,66.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+09105,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,Miner,66.0,3.0,1,True,True,2.0,3.0
+09120,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+09135,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+09150,Knight,58.0,Mega Minion,64.0,Barbarian Barrel,6.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+09165,Knight,58.0,Mega Minion,64.0,Giant Snowball,38.0,Bomb Tower,12.0,Barbarian Barrel,6.0,3.0,1,True,True,1.0,2.0
+09180,Knight,58.0,Mega Minion,64.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+09195,Knight,58.0,Mega Minion,64.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+09210,Knight,58.0,Mega Minion,64.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+09225,Knight,58.0,Mega Minion,64.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+09240,Knight,58.0,Mega Minion,64.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+09255,Knight,58.0,Mega Minion,64.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+09270,Knight,58.0,Mega Minion,64.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+09285,Knight,58.0,Mega Minion,64.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+09300,Knight,58.0,Mega Minion,64.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+09315,Knight,58.0,Mega Minion,64.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+09330,Knight,58.0,Mega Minion,64.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+09345,Knight,58.0,Mega Minion,64.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+09360,Knight,58.0,Mega Minion,64.0,Giant Snowball,38.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0

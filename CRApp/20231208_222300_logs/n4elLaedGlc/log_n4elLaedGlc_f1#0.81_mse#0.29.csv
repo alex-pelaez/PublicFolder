@@ -1,0 +1,401 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+00255,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+00270,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+00285,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00300,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00315,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00330,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00345,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00360,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00375,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00390,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00405,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00420,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00435,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00450,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00465,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00480,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00495,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00510,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00525,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00540,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00555,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00570,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00585,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00600,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00615,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00630,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00645,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00660,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00675,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00690,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00705,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00720,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00735,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00750,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00765,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,Dark Prince,18.0,1.0,6,True,True,4.0,4.0
+00780,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+00795,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+00810,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+00825,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+00840,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+00855,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00870,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00885,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00900,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00915,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00930,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00945,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00960,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00975,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00990,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01005,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01020,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+01035,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+01050,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,Lightning,60.0,2.0,3,True,True,6.0,6.0
+01065,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01080,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01095,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01110,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01125,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01140,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01155,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01170,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01185,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01200,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01215,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01230,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01245,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01260,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01275,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01290,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01305,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01320,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01335,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01350,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01365,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01380,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01395,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01410,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01425,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01440,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01455,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01470,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01485,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01500,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01515,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01530,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+01545,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+01560,Barbarian Barrel,6.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,Witch,104.0,2.0,1,True,True,8.0,5.0
+01575,Barbarian Barrel,6.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01590,Barbarian Barrel,6.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,Barbarian Barrel,6.0,2.0,1,True,False,0.0,2.0
+01605,Barbarian Barrel,6.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01620,Barbarian Barrel,6.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01635,Barbarian Barrel,6.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01650,Barbarian Barrel,6.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01665,Barbarian Barrel,6.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01680,Barbarian Barrel,6.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01695,Barbarian Barrel,6.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01710,Barbarian Barrel,6.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01725,Barbarian Barrel,6.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01740,Barbarian Barrel,6.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01755,Barbarian Barrel,6.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01770,Barbarian Barrel,6.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01785,Barbarian Barrel,6.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01800,Barbarian Barrel,6.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01815,Barbarian Barrel,6.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01830,Barbarian Barrel,6.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01845,Barbarian Barrel,6.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01860,Barbarian Barrel,6.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01875,Barbarian Barrel,6.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01890,Barbarian Barrel,6.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01905,Barbarian Barrel,6.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01920,Barbarian Barrel,6.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01935,Barbarian Barrel,6.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01950,Barbarian Barrel,6.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,Baby Dragon,3.0,3.0,2,True,True,3.0,4.0
+01965,Barbarian Barrel,6.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01980,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,Barbarian Barrel,6.0,1.0,0,True,True,2.0,2.0
+01995,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,0,False,False,0.0,0.0
+02010,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,0,False,False,0.0,0.0
+02025,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+02040,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+02055,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+02070,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+02085,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+02100,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+02115,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+02130,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+02145,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+02160,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+02175,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+02190,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02205,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02220,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02235,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02250,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02265,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02280,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02295,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02310,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02325,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02340,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02355,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02370,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02385,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02400,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02415,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02430,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02445,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02460,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02475,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02490,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02505,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02520,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02535,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02550,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02565,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02580,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02595,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02610,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02625,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02640,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02655,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02670,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02685,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02700,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02715,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02730,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02745,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02760,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02775,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02790,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+02805,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+02820,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+02835,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+02850,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+02865,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+02880,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+02895,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+02910,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+02925,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+02940,Dark Prince,18.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+02955,Lightning,60.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,Dark Prince,18.0,1.0,6,True,True,4.0,4.0
+02970,Lightning,60.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02985,Lightning,60.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03000,Lightning,60.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03015,Lightning,60.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03030,Lightning,60.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03045,Lightning,60.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03060,Lightning,60.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03075,Lightning,60.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03090,Lightning,60.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03105,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,Lightning,60.0,1.0,1,True,True,6.0,6.0
+03120,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+03135,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+03150,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+03165,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+03180,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+03195,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+03210,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03225,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03240,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03255,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03270,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03285,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03300,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03315,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03330,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03345,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03360,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03375,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03390,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03405,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03420,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03435,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03450,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03465,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03480,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03495,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03510,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03525,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03540,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03555,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03570,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03585,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03600,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03615,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03630,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03645,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03660,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03675,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03690,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03705,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+03720,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+03735,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+03750,Golem,47.0,Witch,104.0,Ice Wizard,55.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+03765,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,Ice Wizard,55.0,3.0,6,True,True,3.0,3.0
+03780,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03795,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03810,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03825,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03840,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03855,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03870,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03885,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+03900,Golem,47.0,Witch,104.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+03915,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,Witch,104.0,2.0,1,True,True,8.0,5.0
+03930,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+03945,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+03960,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03975,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03990,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04005,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04020,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04035,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04050,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,1,False,True,3.0,0.0
+04065,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+04080,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+04095,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+04110,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+04125,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04140,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04155,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04170,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04185,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04200,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04215,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+04230,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+04245,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+04260,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+04275,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+04290,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+04305,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04320,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04335,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04350,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+04365,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+04380,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+04395,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+04410,Barbarian Barrel,6.0,Dark Prince,18.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+04425,Barbarian Barrel,6.0,Dark Prince,18.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,3.0,6,True,True,3.0,4.0
+04440,Ice Wizard,55.0,Dark Prince,18.0,Lightning,60.0,Tornado,101.0,Barbarian Barrel,6.0,1.0,4,True,True,2.0,2.0
+04455,Ice Wizard,55.0,Dark Prince,18.0,Lightning,60.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04470,Ice Wizard,55.0,Dark Prince,18.0,Lightning,60.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+04485,Ice Wizard,55.0,Dark Prince,18.0,Lightning,60.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+04500,Ice Wizard,55.0,Dark Prince,18.0,Lightning,60.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+04515,Ice Wizard,55.0,Dark Prince,18.0,Lightning,60.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+04530,Ice Wizard,55.0,Dark Prince,18.0,Lightning,60.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+04545,Ice Wizard,55.0,Dark Prince,18.0,Lightning,60.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04560,Ice Wizard,55.0,Dark Prince,18.0,Lightning,60.0,Golem,47.0,Tornado,101.0,4.0,8,True,False,0.0,3.0
+04575,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Golem,47.0,Ice Wizard,55.0,1.0,8,True,True,6.0,3.0
+04590,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Golem,47.0,,,,2,False,False,0.0,0.0
+04605,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Golem,47.0,,,,2,False,False,0.0,0.0
+04620,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Golem,47.0,,,,2,False,False,0.0,0.0
+04635,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Golem,47.0,,,,3,False,False,0.0,0.0
+04650,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Golem,47.0,,,,3,False,False,0.0,0.0
+04665,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Golem,47.0,,,,3,False,False,0.0,0.0
+04680,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Golem,47.0,,,,4,False,False,0.0,0.0
+04695,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Golem,47.0,,,,4,False,False,0.0,0.0
+04710,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Golem,47.0,,,,4,False,False,0.0,0.0
+04725,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Golem,47.0,,,,5,False,False,0.0,0.0
+04740,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Golem,47.0,,,,5,False,False,0.0,0.0
+04755,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Golem,47.0,,,,5,False,False,0.0,0.0
+04770,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Golem,47.0,,,,6,False,False,0.0,0.0
+04785,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Golem,47.0,,,,6,False,False,0.0,0.0
+04800,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Golem,47.0,,,,7,False,False,0.0,0.0
+04815,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Golem,47.0,,,,7,False,False,0.0,0.0
+04830,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Golem,47.0,,,,7,False,False,0.0,0.0
+04845,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Golem,47.0,,,,8,False,False,0.0,0.0
+04860,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Golem,47.0,,,,8,False,False,0.0,0.0
+04875,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Golem,47.0,,,,8,False,False,0.0,0.0
+04890,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Golem,47.0,,,,9,False,False,0.0,0.0
+04905,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Golem,47.0,,,,9,False,False,0.0,0.0
+04920,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Golem,47.0,,,,9,False,False,0.0,0.0
+04935,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,4.0,2,True,True,7.0,8.0
+04950,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+04965,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+04980,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+04995,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+05010,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+05025,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+05040,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+05055,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+05070,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+05085,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+05100,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+05115,Witch,104.0,Dark Prince,18.0,Lightning,60.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+05130,Witch,104.0,Barbarian Barrel,6.0,Lightning,60.0,Baby Dragon,3.0,Dark Prince,18.0,2.0,2,True,True,4.0,4.0
+05145,Witch,104.0,Barbarian Barrel,6.0,Lightning,60.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+05160,Witch,104.0,Barbarian Barrel,6.0,Lightning,60.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+05175,Witch,104.0,Barbarian Barrel,6.0,Lightning,60.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+05190,Witch,104.0,Barbarian Barrel,6.0,Lightning,60.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+05205,Witch,104.0,Barbarian Barrel,6.0,Lightning,60.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+05220,Witch,104.0,Barbarian Barrel,6.0,Lightning,60.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+05235,Witch,104.0,Barbarian Barrel,6.0,Lightning,60.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+05250,Tornado,101.0,Barbarian Barrel,6.0,Lightning,60.0,Baby Dragon,3.0,Witch,104.0,1.0,5,True,False,0.0,5.0
+05265,Tornado,101.0,Barbarian Barrel,6.0,Lightning,60.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+05280,Tornado,101.0,Barbarian Barrel,6.0,Lightning,60.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+05295,Tornado,101.0,Barbarian Barrel,6.0,Lightning,60.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+05310,Tornado,101.0,Barbarian Barrel,6.0,Lightning,60.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+05325,Tornado,101.0,Barbarian Barrel,6.0,Lightning,60.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+05340,Tornado,101.0,Barbarian Barrel,6.0,Lightning,60.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+05355,Tornado,101.0,Barbarian Barrel,6.0,Lightning,60.0,Baby Dragon,3.0,,,,8,False,False,0.0,0.0
+05370,Tornado,101.0,Barbarian Barrel,6.0,Lightning,60.0,Baby Dragon,3.0,,,,8,False,False,0.0,0.0
+05385,Tornado,101.0,Barbarian Barrel,6.0,Lightning,60.0,Baby Dragon,3.0,,,,4,False,True,4.0,0.0
+05400,Tornado,101.0,Barbarian Barrel,6.0,Lightning,60.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+05415,Tornado,101.0,Barbarian Barrel,6.0,Lightning,60.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+05430,Tornado,101.0,Barbarian Barrel,6.0,Lightning,60.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+05445,Tornado,101.0,Barbarian Barrel,6.0,Lightning,60.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+05460,Tornado,101.0,Barbarian Barrel,6.0,Lightning,60.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+05475,Tornado,101.0,Barbarian Barrel,6.0,Lightning,60.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+05490,Tornado,101.0,Barbarian Barrel,6.0,Lightning,60.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+05505,Tornado,101.0,Barbarian Barrel,6.0,Lightning,60.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+05520,Tornado,101.0,Barbarian Barrel,6.0,Lightning,60.0,Baby Dragon,3.0,,,,8,False,False,0.0,0.0
+05535,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Barbarian Barrel,6.0,Baby Dragon,3.0,4.0,2,True,True,6.0,4.0
+05550,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Baby Dragon,3.0,Barbarian Barrel,6.0,4.0,2,True,False,0.0,2.0
+05565,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+05580,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+05595,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+05610,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+05625,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Baby Dragon,3.0,,,,2,False,True,2.0,0.0
+05640,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+05655,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+05670,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+05685,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+05700,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+05715,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+05730,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Dark Prince,18.0,Baby Dragon,3.0,4.0,1,True,True,3.0,4.0
+05745,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+05760,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+05775,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+05790,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+05805,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+05820,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+05835,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+05850,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+05865,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+05880,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+05895,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Witch,104.0,Dark Prince,18.0,4.0,1,True,True,3.0,4.0
+05910,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Witch,104.0,,,,1,False,False,0.0,0.0
+05925,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Witch,104.0,,,,1,False,False,0.0,0.0
+05940,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Witch,104.0,,,,2,False,False,0.0,0.0
+05955,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Witch,104.0,,,,2,False,False,0.0,0.0
+05970,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Witch,104.0,,,,2,False,False,0.0,0.0
+05985,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Witch,104.0,,,,3,False,False,0.0,0.0
+06000,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Witch,104.0,,,,3,False,False,0.0,0.0
+06015,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Witch,104.0,,,,0,False,True,3.0,0.0
+06030,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Witch,104.0,,,,1,False,False,0.0,0.0
+06045,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Witch,104.0,,,,1,False,False,0.0,0.0
+06060,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Witch,104.0,,,,2,False,False,0.0,0.0
+06075,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Witch,104.0,,,,2,False,False,0.0,0.0
+06090,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Witch,104.0,,,,2,False,False,0.0,0.0
+06105,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Witch,104.0,,,,3,False,False,0.0,0.0
+06120,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Witch,104.0,,,,3,False,False,0.0,0.0
+06135,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Witch,104.0,,,,3,False,False,0.0,0.0
+06150,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Witch,104.0,,,,4,False,False,0.0,0.0
+06165,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Witch,104.0,,,,4,False,False,0.0,0.0
+06180,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Witch,104.0,,,,4,False,False,0.0,0.0
+06195,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Witch,104.0,,,,5,False,False,0.0,0.0
+06210,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Witch,104.0,,,,5,False,False,0.0,0.0
+06225,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Witch,104.0,,,,5,False,False,0.0,0.0

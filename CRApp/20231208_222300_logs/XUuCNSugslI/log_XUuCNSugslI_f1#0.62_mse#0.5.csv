@@ -1,0 +1,1370 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00255,,,Lightning,60.0,,,,,,,,6,False,False,0.0,0.0
+00270,,,Lightning,60.0,,,,,,,,6,False,False,0.0,0.0
+00285,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,4.0,6,True,False,0.0,0.0
+00300,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00315,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00330,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00345,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00360,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00375,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00390,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00405,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00420,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00435,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00450,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00465,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00480,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00495,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00510,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00525,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00540,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00555,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00570,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00585,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00600,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,True,3.0,0.0
+00615,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00630,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00645,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00660,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00675,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00690,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00705,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00720,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00735,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00750,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00765,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00780,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00795,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00810,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00825,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,Golem,47.0,1.0,1,True,True,8.0,8.0
+00840,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+00855,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+00870,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+00885,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+00900,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+00915,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+00930,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+00945,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+00960,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+00975,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+00990,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01005,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01020,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01035,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01050,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01065,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01080,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01095,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01110,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01125,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01140,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01155,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01170,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01185,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01200,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01215,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01230,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01245,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,1.0,2,True,True,4.0,3.0
+01260,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01275,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01290,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01305,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01320,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01335,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01350,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01365,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01380,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01395,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01410,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01425,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01440,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01455,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01470,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01485,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01500,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01515,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01530,Golem,47.0,Lightning,60.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01545,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,3.0,2,True,True,4.0,4.0
+01560,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01575,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01590,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01605,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01620,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01635,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01650,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01665,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01680,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01695,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01710,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01725,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01740,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01755,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,0,False,True,4.0,0.0
+01770,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01785,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01800,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01815,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01830,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01845,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01860,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01875,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01890,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01905,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01920,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01935,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01950,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01965,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01980,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01995,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02010,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02025,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02040,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02055,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02070,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02085,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02100,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02115,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02130,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02145,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02160,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02175,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02190,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02205,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02220,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02235,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02250,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02265,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02280,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02295,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02310,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02325,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02340,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,True,3.0,0.0
+02355,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02370,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02385,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02400,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02415,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02430,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02445,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02460,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02475,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02490,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02505,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02520,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02535,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02550,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02565,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02580,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02595,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02610,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02625,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02640,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02655,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02670,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02685,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02700,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02715,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02730,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02745,Golem,47.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02760,Tornado,101.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,Golem,47.0,1.0,1,True,True,8.0,8.0
+02775,Tornado,101.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+02790,Tornado,101.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+02805,Tornado,101.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+02820,Tornado,101.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+02835,Tornado,101.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+02850,Tornado,101.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+02865,Tornado,101.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02880,Tornado,101.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02895,Tornado,101.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02910,Tornado,101.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02925,Tornado,101.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02940,Tornado,101.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02955,Tornado,101.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02970,Tornado,101.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02985,Tornado,101.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03000,Tornado,101.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03015,Tornado,101.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03030,Tornado,101.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03045,Tornado,101.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03060,Tornado,101.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03075,Tornado,101.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03090,Tornado,101.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03105,Tornado,101.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03120,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,Tornado,101.0,1.0,2,True,True,4.0,3.0
+03135,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+03150,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+03165,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+03180,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+03195,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03210,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03225,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03240,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03255,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03270,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03285,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03300,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03315,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03330,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03345,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03360,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03375,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03390,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03405,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03420,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03435,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03450,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03465,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03480,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03495,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03510,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,2,False,True,4.0,0.0
+03525,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03540,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03555,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03570,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03585,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03600,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03615,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03630,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03645,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03660,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03675,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03690,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03705,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03720,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03735,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03750,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03765,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,True,2.0,0.0
+03780,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,Tornado,101.0,4.0,2,True,True,1.0,3.0
+03795,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,2,False,False,0.0,0.0
+03810,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,2,False,False,0.0,0.0
+03825,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,3,False,False,0.0,0.0
+03840,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,3,False,False,0.0,0.0
+03855,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,3,False,False,0.0,0.0
+03870,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,4,False,False,0.0,0.0
+03885,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,4,False,False,0.0,0.0
+03900,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,4,False,False,0.0,0.0
+03915,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,5,False,False,0.0,0.0
+03930,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,5,False,False,0.0,0.0
+03945,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,5,False,False,0.0,0.0
+03960,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,6,False,False,0.0,0.0
+03975,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,6,False,False,0.0,0.0
+03990,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,4,False,True,2.0,0.0
+04005,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,4,False,False,0.0,0.0
+04020,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,4,False,False,0.0,0.0
+04035,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,5,False,False,0.0,0.0
+04050,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,5,False,False,0.0,0.0
+04065,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,5,False,False,0.0,0.0
+04080,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,6,False,False,0.0,0.0
+04095,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,6,False,False,0.0,0.0
+04110,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,6,False,False,0.0,0.0
+04125,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,7,False,False,0.0,0.0
+04140,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,7,False,False,0.0,0.0
+04155,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,8,False,False,0.0,0.0
+04170,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,8,False,False,0.0,0.0
+04185,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,8,False,False,0.0,0.0
+04200,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Golem,47.0,,,,9,False,False,0.0,0.0
+04215,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,Golem,47.0,4.0,1,True,True,8.0,8.0
+04230,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+04245,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+04260,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+04275,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+04290,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04305,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04320,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04335,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04350,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,1,False,True,3.0,0.0
+04365,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+04380,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+04395,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+04410,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04425,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04440,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04455,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04470,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04485,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Tornado,101.0,4.0,0,True,True,4.0,3.0
+04500,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+04515,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+04530,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+04545,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+04560,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+04575,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+04590,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+04605,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+04620,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+04635,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+04650,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+04665,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+04680,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+04695,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+04710,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+04725,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+04740,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+04755,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+04770,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+04785,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,8,False,False,0.0,0.0
+04800,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Baby Dragon,3.0,1.0,4,True,True,4.0,4.0
+04815,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+04830,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+04845,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+04860,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+04875,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+04890,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+04905,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+04920,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+04935,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+04950,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,4,False,True,3.0,0.0
+04965,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+04980,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+04995,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+05010,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+05025,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+05040,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+05055,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+05070,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+05085,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,8,False,False,0.0,0.0
+05100,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,8,False,False,0.0,0.0
+05115,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,8,False,False,0.0,0.0
+05130,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,9,False,False,0.0,0.0
+05145,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,5,False,True,4.0,0.0
+05160,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+05175,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+05190,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+05205,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Lightning,60.0,2.0,4,True,True,2.0,6.0
+05220,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+05235,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+05250,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,True,3.0,0.0
+05265,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+05280,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+05295,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05310,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05325,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05340,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+05355,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+05370,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+05385,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+05400,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+05415,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,True,3.0,0.0
+05430,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+05445,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+05460,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05475,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05490,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05505,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+05520,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+05535,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+05550,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,True,2.0,0.0
+05565,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+05580,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+05595,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05610,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05625,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05640,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05655,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05670,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05685,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05700,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05715,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05730,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05745,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05760,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05775,Golem,47.0,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05790,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,Tornado,101.0,2.0,2,True,False,0.0,3.0
+05805,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05820,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05835,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05850,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05865,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05880,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05895,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05910,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05925,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05940,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05955,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05970,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+05985,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06000,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06015,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06030,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06045,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06060,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06075,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06090,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06105,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06120,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06135,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06150,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06165,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06180,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06195,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06210,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06225,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06240,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06255,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06270,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06285,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06300,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06315,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06330,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06345,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06360,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06375,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06390,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06405,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06420,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06435,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06450,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06465,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06480,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06495,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06510,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06525,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06540,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06555,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06570,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06585,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06600,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06615,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06630,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06645,Golem,47.0,Baby Dragon,3.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06660,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Baby Dragon,3.0,2.0,2,True,False,0.0,4.0
+06675,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06690,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06705,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06720,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06735,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+06750,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+06765,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+06780,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+06795,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+06810,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+06825,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+06840,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+06855,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+06870,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+06885,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+06900,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+06915,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+06930,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+06945,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+06960,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+06975,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+06990,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07005,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07020,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07035,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07050,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07065,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07080,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07095,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07110,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07125,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07140,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07155,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07170,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07185,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07200,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07215,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07230,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07245,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07260,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07275,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07290,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07305,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07320,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07335,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07350,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07365,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07380,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07395,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07410,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07425,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07440,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07455,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07470,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,True,2.0,0.0
+07485,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+07500,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+07515,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+07530,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+07545,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+07560,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+07575,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07590,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07605,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07620,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07635,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07650,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07665,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+07680,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+07695,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+07710,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+07725,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+07740,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+07755,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+07770,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+07785,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+07800,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+07815,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+07830,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,True,3.0,0.0
+07845,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+07860,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+07875,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+07890,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+07905,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+07920,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07935,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07950,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07965,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07980,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+07995,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+08010,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+08025,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,0,False,True,4.0,0.0
+08040,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,0,False,False,0.0,0.0
+08055,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,0,False,False,0.0,0.0
+08070,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,0,False,False,0.0,0.0
+08085,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+08100,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+08115,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+08130,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+08145,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+08160,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+08175,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+08190,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+08205,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+08220,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+08235,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+08250,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+08265,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+08280,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,0,False,True,3.0,0.0
+08295,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,0,False,False,0.0,0.0
+08310,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,0,False,False,0.0,0.0
+08325,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,0,False,False,0.0,0.0
+08340,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+08355,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+08370,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+08385,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+08400,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+08415,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+08430,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+08445,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+08460,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+08475,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+08490,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+08505,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+08520,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+08535,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,0,False,True,3.0,0.0
+08550,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,0,False,False,0.0,0.0
+08565,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,0,False,False,0.0,0.0
+08580,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+08595,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+08610,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+08625,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+08640,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+08655,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+08670,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+08685,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+08700,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+08715,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+08730,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+08745,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+08760,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+08775,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+08790,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+08805,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+08820,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+08835,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+08850,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+08865,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+08880,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+08895,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+08910,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+08925,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+08940,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+08955,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+08970,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+08985,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+09000,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+09015,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+09030,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+09045,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+09060,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+09075,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+09090,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+09105,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+09120,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+09135,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+09150,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+09165,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+09180,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,8,False,False,0.0,0.0
+09195,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,8,False,False,0.0,0.0
+09210,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,8,False,False,0.0,0.0
+09225,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,8,False,False,0.0,0.0
+09240,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,8,False,False,0.0,0.0
+09255,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,9,False,False,0.0,0.0
+09270,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,9,False,False,0.0,0.0
+09285,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,9,False,False,0.0,0.0
+09300,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,9,False,False,0.0,0.0
+09315,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,9,False,False,0.0,0.0
+09330,Golem,47.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,9,False,False,0.0,0.0
+09345,Tornado,101.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,1.0,2,True,True,7.0,8.0
+09360,Tornado,101.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+09375,Tornado,101.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+09390,Tornado,101.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+09405,Tornado,101.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+09420,Tornado,101.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+09435,Tornado,101.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+09450,Tornado,101.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+09465,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,3.0,0,True,True,3.0,3.0
+09480,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Baby Dragon,3.0,,,,0,False,False,0.0,0.0
+09495,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Baby Dragon,3.0,,,,0,False,False,0.0,0.0
+09510,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+09525,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+09540,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Baby Dragon,3.0,,,,1,False,False,0.0,0.0
+09555,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+09570,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+09585,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Baby Dragon,3.0,,,,2,False,False,0.0,0.0
+09600,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+09615,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+09630,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Baby Dragon,3.0,,,,3,False,False,0.0,0.0
+09645,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+09660,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+09675,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+09690,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+09705,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+09720,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+09735,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+09750,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+09765,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+09780,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,Baby Dragon,3.0,4.0,3,True,True,4.0,4.0
+09795,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,,,,3,False,False,0.0,0.0
+09810,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,,,,4,False,False,0.0,0.0
+09825,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,,,,4,False,False,0.0,0.0
+09840,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,,,,5,False,False,0.0,0.0
+09855,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,,,,5,False,False,0.0,0.0
+09870,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,,,,5,False,False,0.0,0.0
+09885,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,,,,3,False,True,2.0,0.0
+09900,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,,,,3,False,False,0.0,0.0
+09915,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,,,,3,False,False,0.0,0.0
+09930,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,,,,4,False,False,0.0,0.0
+09945,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,,,,1,False,True,3.0,0.0
+09960,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,,,,1,False,False,0.0,0.0
+09975,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,,,,2,False,False,0.0,0.0
+09990,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,,,,2,False,False,0.0,0.0
+10005,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,,,,2,False,False,0.0,0.0
+10020,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,,,,3,False,False,0.0,0.0
+10035,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,,,,3,False,False,0.0,0.0
+10050,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,,,,3,False,False,0.0,0.0
+10065,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,,,,4,False,False,0.0,0.0
+10080,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,,,,4,False,False,0.0,0.0
+10095,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,,,,5,False,False,0.0,0.0
+10110,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,,,,5,False,False,0.0,0.0
+10125,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,,,,5,False,False,0.0,0.0
+10140,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,,,,6,False,False,0.0,0.0
+10155,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,,,,6,False,False,0.0,0.0
+10170,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,Golem,47.0,,,,6,False,False,0.0,0.0
+10185,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,Lightning,60.0,2.0,1,True,True,5.0,6.0
+10200,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,1,False,False,0.0,0.0
+10215,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,1,False,False,0.0,0.0
+10230,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,2,False,False,0.0,0.0
+10245,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,2,False,False,0.0,0.0
+10260,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,3,False,False,0.0,0.0
+10275,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,3,False,False,0.0,0.0
+10290,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,3,False,False,0.0,0.0
+10305,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,4,False,False,0.0,0.0
+10320,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,4,False,False,0.0,0.0
+10335,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,4,False,False,0.0,0.0
+10350,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,1,False,True,3.0,0.0
+10365,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,1,False,False,0.0,0.0
+10380,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,1,False,False,0.0,0.0
+10395,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,2,False,False,0.0,0.0
+10410,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,2,False,False,0.0,0.0
+10425,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,2,False,False,0.0,0.0
+10440,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,3,False,False,0.0,0.0
+10455,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,3,False,False,0.0,0.0
+10470,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,4,False,False,0.0,0.0
+10485,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,4,False,False,0.0,0.0
+10500,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,4,False,False,0.0,0.0
+10515,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,5,False,False,0.0,0.0
+10530,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,5,False,False,0.0,0.0
+10545,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,5,False,False,0.0,0.0
+10560,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,6,False,False,0.0,0.0
+10575,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,6,False,False,0.0,0.0
+10590,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,6,False,False,0.0,0.0
+10605,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,7,False,False,0.0,0.0
+10620,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,7,False,False,0.0,0.0
+10635,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,7,False,False,0.0,0.0
+10650,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,8,False,False,0.0,0.0
+10665,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,8,False,False,0.0,0.0
+10680,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,8,False,False,0.0,0.0
+10695,Tornado,101.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,9,False,False,0.0,0.0
+10710,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,Tornado,101.0,1.0,5,True,True,4.0,3.0
+10725,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,6,False,False,0.0,0.0
+10740,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,6,False,False,0.0,0.0
+10755,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,6,False,False,0.0,0.0
+10770,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,7,False,False,0.0,0.0
+10785,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,7,False,False,0.0,0.0
+10800,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,7,False,False,0.0,0.0
+10815,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,7,False,False,0.0,0.0
+10830,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,8,False,False,0.0,0.0
+10845,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,8,False,False,0.0,0.0
+10860,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,9,False,False,0.0,0.0
+10875,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,6,False,True,3.0,0.0
+10890,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,7,False,False,0.0,0.0
+10905,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,7,False,False,0.0,0.0
+10920,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,7,False,False,0.0,0.0
+10935,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,8,False,False,0.0,0.0
+10950,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,5,False,True,3.0,0.0
+10965,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,5,False,False,0.0,0.0
+10980,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,6,False,False,0.0,0.0
+10995,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,6,False,False,0.0,0.0
+11010,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,6,False,False,0.0,0.0
+11025,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,7,False,False,0.0,0.0
+11040,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,7,False,False,0.0,0.0
+11055,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,7,False,False,0.0,0.0
+11070,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,8,False,False,0.0,0.0
+11085,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,Golem,47.0,,,,8,False,False,0.0,0.0
+11100,Lightning,60.0,Rocket,84.0,Baby Dragon,3.0,X,106.0,Golem,47.0,4.0,5,True,True,3.0,8.0
+11115,Lightning,60.0,Rocket,84.0,The Log,98.0,X,106.0,Baby Dragon,3.0,3.0,2,True,True,3.0,4.0
+11130,Lightning,60.0,Rocket,84.0,The Log,98.0,X,106.0,,,,2,False,False,0.0,0.0
+11145,Lightning,60.0,Rocket,84.0,The Log,98.0,X,106.0,,,,3,False,False,0.0,0.0
+11160,Lightning,60.0,Rocket,84.0,The Log,98.0,X,106.0,,,,3,False,False,0.0,0.0
+11175,Lightning,60.0,Rocket,84.0,The Log,98.0,X,106.0,,,,3,False,False,0.0,0.0
+11190,Lightning,60.0,Rocket,84.0,The Log,98.0,X,106.0,,,,4,False,False,0.0,0.0
+11205,Lightning,60.0,Rocket,84.0,The Log,98.0,X,106.0,,,,4,False,False,0.0,0.0
+11220,Lightning,60.0,Rocket,84.0,The Log,98.0,X,106.0,,,,4,False,False,0.0,0.0
+11235,Lightning,60.0,Rocket,84.0,The Log,98.0,X,106.0,,,,5,False,False,0.0,0.0
+11250,Lightning,60.0,Rocket,84.0,The Log,98.0,X,106.0,,,,5,False,False,0.0,0.0
+11265,Lightning,60.0,Rocket,84.0,The Log,98.0,X,106.0,,,,5,False,False,0.0,0.0
+11280,Lightning,60.0,Rocket,84.0,The Log,98.0,X,106.0,,,,6,False,False,0.0,0.0
+11295,Lightning,60.0,Rocket,84.0,The Log,98.0,X,106.0,,,,6,False,False,0.0,0.0
+11310,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,Lightning,60.0,1.0,7,True,False,0.0,6.0
+11325,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+11340,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11355,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11370,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11385,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11400,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11415,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11430,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11445,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11460,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11475,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11490,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11505,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11520,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11535,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11550,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11565,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11580,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11595,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11610,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11625,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,10,False,False,0.0,0.0
+11640,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,10,False,False,0.0,0.0
+11655,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,6,False,True,4.0,0.0
+11670,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,6,False,False,0.0,0.0
+11685,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,6,False,False,0.0,0.0
+11700,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,6,False,False,0.0,0.0
+11715,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,6,False,False,0.0,0.0
+11730,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+11745,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+11760,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+11775,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+11790,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+11805,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11820,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11835,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11850,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11865,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11880,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11895,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+11910,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+11925,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+11940,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+11955,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+11970,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,10,False,False,0.0,0.0
+11985,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,10,False,False,0.0,0.0
+12000,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,9,False,True,1.0,0.0
+12015,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12030,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12045,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12060,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12075,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12090,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,Ice Wizard,55.0,1.0,7,True,True,2.0,3.0
+12105,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+12120,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+12135,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+12150,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+12165,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+12180,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+12195,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+12210,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+12225,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+12240,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+12255,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12270,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12285,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12300,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12315,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12330,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12345,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,10,False,False,0.0,0.0
+12360,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,10,False,False,0.0,0.0
+12375,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,7,False,True,3.0,0.0
+12390,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+12405,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+12420,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+12435,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+12450,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+12465,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+12480,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+12495,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+12510,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12525,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12540,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12555,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12570,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12585,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12600,Tornado,101.0,Rocket,84.0,The Log,98.0,X,106.0,,,,10,False,False,0.0,0.0
+12615,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,The Log,98.0,3.0,10,True,True,2.0,2.0
+12630,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,,,,8,False,False,0.0,0.0
+12645,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,Rocket,84.0,2.0,2,True,True,6.0,6.0
+12660,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+12675,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+12690,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+12705,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+12720,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+12735,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+12750,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+12765,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+12780,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+12795,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+12810,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+12825,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,0,False,True,4.0,0.0
+12840,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,0,False,False,0.0,0.0
+12855,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+12870,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+12885,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+12900,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+12915,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+12930,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+12945,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+12960,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+12975,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+12990,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+13005,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+13020,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+13035,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+13050,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+13065,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+13080,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+13095,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+13110,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+13125,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+13140,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+13155,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,0,False,True,3.0,0.0
+13170,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,0,False,False,0.0,0.0
+13185,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,0,False,False,0.0,0.0
+13200,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+13215,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+13230,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+13245,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+13260,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,1,False,False,0.0,0.0
+13275,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+13290,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+13305,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+13320,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+13335,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+13350,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,2,False,False,0.0,0.0
+13365,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+13380,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+13395,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+13410,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+13425,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,3,False,False,0.0,0.0
+13440,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+13455,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+13470,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+13485,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+13500,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+13515,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,4,False,False,0.0,0.0
+13530,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+13545,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+13560,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+13575,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+13590,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+13605,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,5,False,False,0.0,0.0
+13620,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+13635,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+13650,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+13665,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+13680,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,6,False,False,0.0,0.0
+13695,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+13710,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+13725,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+13740,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+13755,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+13770,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,7,False,False,0.0,0.0
+13785,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,8,False,False,0.0,0.0
+13800,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,8,False,False,0.0,0.0
+13815,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,8,False,False,0.0,0.0
+13830,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,8,False,False,0.0,0.0
+13845,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,8,False,False,0.0,0.0
+13860,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,9,False,False,0.0,0.0
+13875,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,X,106.0,,,,9,False,False,0.0,0.0
+13890,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,Rocket,84.0,X,106.0,4.0,3,True,True,6.0,6.0
+13905,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+13920,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+13935,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+13950,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+13965,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+13980,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+13995,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+14010,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+14025,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+14040,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+14055,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,Rocket,84.0,,,,2,False,True,3.0,0.0
+14070,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+14085,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+14100,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,2.0,0,True,True,2.0,2.0
+14115,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+14130,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+14145,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+14160,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+14175,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+14190,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+14205,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+14220,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+14235,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+14250,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+14265,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+14280,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+14295,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+14310,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+14325,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+14340,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+14355,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+14370,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+14385,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+14400,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+14415,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+14430,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+14445,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,0,False,True,4.0,0.0
+14460,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+14475,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+14490,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+14505,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,0,False,True,1.0,0.0
+14520,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,0,False,False,0.0,0.0
+14535,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+14550,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+14565,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+14580,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+14595,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+14610,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+14625,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+14640,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+14655,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+14670,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+14685,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+14700,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+14715,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+14730,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+14745,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,0,False,True,3.0,0.0
+14760,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,0,False,False,0.0,0.0
+14775,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,0,False,False,0.0,0.0
+14790,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+14805,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+14820,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+14835,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+14850,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+14865,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+14880,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+14895,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+14910,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+14925,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+14940,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+14955,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+14970,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+14985,Tornado,101.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+15000,The Log,98.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,1.0,0,True,True,3.0,3.0
+15015,The Log,98.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,0,False,False,0.0,0.0
+15030,The Log,98.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,0,False,False,0.0,0.0
+15045,The Log,98.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+15060,The Log,98.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+15075,The Log,98.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+15090,The Log,98.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+15105,The Log,98.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+15120,The Log,98.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+15135,The Log,98.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+15150,The Log,98.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+15165,The Log,98.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+15180,The Log,98.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+15195,The Log,98.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+15210,The Log,98.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+15225,The Log,98.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+15240,The Log,98.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+15255,The Log,98.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+15270,The Log,98.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+15285,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,The Log,98.0,1.0,2,True,True,2.0,2.0
+15300,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+15315,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+15330,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+15345,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+15360,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+15375,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+15390,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+15405,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+15420,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+15435,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+15450,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+15465,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+15480,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+15495,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+15510,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+15525,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+15540,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+15555,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+15570,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,3.0,6,True,True,3.0,3.0
+15585,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+15600,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+15615,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+15630,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+15645,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+15660,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+15675,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+15690,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,8,False,True,1.0,0.0
+15705,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+15720,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+15735,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,6,False,True,3.0,0.0
+15750,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+15765,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+15780,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+15795,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+15810,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+15825,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,Rocket,84.0,4.0,2,True,True,6.0,6.0
+15840,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,3,False,False,0.0,0.0
+15855,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,3,False,False,0.0,0.0
+15870,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,3,False,False,0.0,0.0
+15885,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,4,False,False,0.0,0.0
+15900,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,4,False,False,0.0,0.0
+15915,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,4,False,False,0.0,0.0
+15930,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,1,False,True,3.0,0.0
+15945,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,1,False,False,0.0,0.0
+15960,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,1,False,False,0.0,0.0
+15975,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,2,False,False,0.0,0.0
+15990,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,2,False,False,0.0,0.0
+16005,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,3,False,False,0.0,0.0
+16020,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,3,False,False,0.0,0.0
+16035,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,3,False,False,0.0,0.0
+16050,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,1,False,True,2.0,0.0
+16065,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,1,False,False,0.0,0.0
+16080,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,1,False,False,0.0,0.0
+16095,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,2,False,False,0.0,0.0
+16110,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,2,False,False,0.0,0.0
+16125,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,2,False,False,0.0,0.0
+16140,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,3,False,False,0.0,0.0
+16155,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,3,False,False,0.0,0.0
+16170,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,3,False,False,0.0,0.0
+16185,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,4,False,False,0.0,0.0
+16200,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,4,False,False,0.0,0.0
+16215,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,5,False,False,0.0,0.0
+16230,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,5,False,False,0.0,0.0
+16245,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,5,False,False,0.0,0.0
+16260,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,5,False,False,0.0,0.0
+16275,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,5,False,False,0.0,0.0
+16290,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,5,False,False,0.0,0.0
+16305,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+16320,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+16335,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,The Log,98.0,4.0,4,True,True,2.0,2.0
+16350,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+16365,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+16380,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+16395,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+16410,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+16425,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,1,False,True,5.0,0.0
+16440,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+16455,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+16470,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+16485,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+16500,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+16515,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+16530,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+16545,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+16560,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+16575,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+16590,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+16605,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+16620,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+16635,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+16650,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+16665,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+16680,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,Rocket,84.0,X,106.0,2.0,4,True,True,2.0,6.0
+16695,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,Rocket,84.0,2.0,4,True,False,0.0,6.0
+16710,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+16725,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+16740,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+16755,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+16770,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+16785,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+16800,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+16815,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+16830,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+16845,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+16860,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+16875,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,4,False,True,4.0,0.0
+16890,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+16905,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+16920,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+16935,Ice Wizard,55.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+16950,The Log,98.0,X,106.0,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,1.0,3,True,True,3.0,3.0
+16965,The Log,98.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+16980,The Log,98.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+16995,The Log,98.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+17010,The Log,98.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+17025,The Log,98.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+17040,The Log,98.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+17055,The Log,98.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+17070,The Log,98.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+17085,The Log,98.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+17100,The Log,98.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+17115,The Log,98.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+17130,The Log,98.0,X,106.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+17145,The Log,98.0,X,106.0,Tornado,101.0,The Log,98.0,Rocket,84.0,4.0,1,True,True,5.0,6.0
+17160,The Log,98.0,X,106.0,Tornado,101.0,The Log,98.0,,,,1,False,False,0.0,0.0
+17175,The Log,98.0,X,106.0,Tornado,101.0,The Log,98.0,,,,1,False,False,0.0,0.0
+17190,The Log,98.0,X,106.0,Tornado,101.0,The Log,98.0,,,,2,False,False,0.0,0.0
+17205,The Log,98.0,X,106.0,Tornado,101.0,The Log,98.0,,,,2,False,False,0.0,0.0
+17220,The Log,98.0,X,106.0,Tornado,101.0,The Log,98.0,,,,2,False,False,0.0,0.0
+17235,The Log,98.0,X,106.0,Tornado,101.0,The Log,98.0,,,,3,False,False,0.0,0.0
+17250,The Log,98.0,X,106.0,Tornado,101.0,The Log,98.0,,,,3,False,False,0.0,0.0
+17265,The Log,98.0,X,106.0,Tornado,101.0,The Log,98.0,,,,0,False,True,3.0,0.0
+17280,The Log,98.0,X,106.0,Tornado,101.0,The Log,98.0,,,,1,False,False,0.0,0.0
+17295,The Log,98.0,X,106.0,Tornado,101.0,The Log,98.0,,,,1,False,False,0.0,0.0
+17310,The Log,98.0,X,106.0,Tornado,101.0,The Log,98.0,,,,2,False,False,0.0,0.0
+17325,The Log,98.0,X,106.0,Tornado,101.0,The Log,98.0,,,,2,False,False,0.0,0.0
+17340,The Log,98.0,X,106.0,Tornado,101.0,The Log,98.0,,,,2,False,False,0.0,0.0
+17355,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,The Log,98.0,1.0,2,True,False,0.0,2.0
+17370,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,2,False,False,0.0,0.0
+17385,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,2,False,False,0.0,0.0
+17400,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,2,False,False,0.0,0.0
+17415,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,2,False,False,0.0,0.0
+17430,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,2,False,False,0.0,0.0
+17445,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,3,False,False,0.0,0.0
+17460,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,3,False,False,0.0,0.0
+17475,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,4,False,False,0.0,0.0
+17490,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,4,False,False,0.0,0.0
+17505,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,4,False,False,0.0,0.0
+17520,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,5,False,False,0.0,0.0
+17535,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,5,False,False,0.0,0.0
+17550,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,5,False,False,0.0,0.0
+17565,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+17580,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+17595,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+17610,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,7,False,False,0.0,0.0
+17625,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,7,False,False,0.0,0.0
+17640,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,7,False,False,0.0,0.0
+17655,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,8,False,False,0.0,0.0
+17670,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,5,False,True,3.0,0.0
+17685,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+17700,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+17715,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+17730,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,7,False,False,0.0,0.0
+17745,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,7,False,False,0.0,0.0
+17760,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,7,False,False,0.0,0.0
+17775,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,8,False,False,0.0,0.0
+17790,Rocket,84.0,X,106.0,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,1.0,5,True,True,3.0,3.0
+17805,Rocket,84.0,X,106.0,Tornado,101.0,The Log,98.0,,,,5,False,False,0.0,0.0
+17820,Rocket,84.0,X,106.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+17835,Rocket,84.0,X,106.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+17850,Rocket,84.0,X,106.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+17865,Rocket,84.0,X,106.0,Tornado,101.0,The Log,98.0,,,,7,False,False,0.0,0.0
+17880,Rocket,84.0,X,106.0,Tornado,101.0,The Log,98.0,,,,7,False,False,0.0,0.0
+17895,Rocket,84.0,X,106.0,Tornado,101.0,The Log,98.0,,,,8,False,False,0.0,0.0
+17910,Rocket,84.0,X,106.0,Tornado,101.0,The Log,98.0,,,,8,False,False,0.0,0.0
+17925,Rocket,84.0,X,106.0,Tornado,101.0,The Log,98.0,,,,8,False,False,0.0,0.0
+17940,Rocket,84.0,X,106.0,Tornado,101.0,The Log,98.0,,,,9,False,False,0.0,0.0
+17955,Rocket,84.0,X,106.0,Tornado,101.0,The Log,98.0,,,,9,False,False,0.0,0.0
+17970,Rocket,84.0,X,106.0,Tornado,101.0,The Log,98.0,,,,5,False,True,4.0,0.0
+17985,Rocket,84.0,X,106.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18000,Rocket,84.0,X,106.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18015,Rocket,84.0,X,106.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18030,Rocket,84.0,X,106.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18045,Rocket,84.0,X,106.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18060,Rocket,84.0,X,106.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18075,Rocket,84.0,X,106.0,Tornado,101.0,The Log,98.0,,,,7,False,False,0.0,0.0
+18090,Rocket,84.0,X,106.0,Tornado,101.0,The Log,98.0,,,,7,False,False,0.0,0.0
+18105,Rocket,84.0,X,106.0,Tornado,101.0,The Log,98.0,,,,8,False,False,0.0,0.0
+18120,Rocket,84.0,X,106.0,Tornado,101.0,The Log,98.0,,,,8,False,False,0.0,0.0
+18135,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,Rocket,84.0,1.0,2,True,True,6.0,6.0
+18150,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18165,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18180,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18195,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18210,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18225,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18240,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18255,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18270,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,The Log,98.0,Tornado,101.0,3.0,2,True,True,3.0,3.0
+18285,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18300,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18315,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18330,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18345,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18360,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,True,1.0,0.0
+18375,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18390,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18405,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18420,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18435,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18450,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18465,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18480,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18495,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18510,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18525,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,The Log,98.0,,,,7,False,False,0.0,0.0
+18540,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,The Log,98.0,,,,7,False,False,0.0,0.0
+18555,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,The Log,98.0,,,,7,False,False,0.0,0.0
+18570,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,The Log,98.0,,,,8,False,False,0.0,0.0
+18585,Ice Wizard,55.0,X,106.0,Ice Wizard,55.0,The Log,98.0,,,,8,False,False,0.0,0.0
+18600,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,3.0,5,True,True,3.0,3.0
+18615,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18630,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18645,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18660,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,7,False,False,0.0,0.0
+18675,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,7,False,False,0.0,0.0
+18690,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,7,False,False,0.0,0.0
+18705,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,7,False,False,0.0,0.0
+18720,Ice Wizard,55.0,X,106.0,Tornado,101.0,The Log,98.0,,,,8,False,False,0.0,0.0
+18735,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,X,106.0,2.0,3,True,True,5.0,6.0
+18750,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18765,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18780,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18795,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18810,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18825,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18840,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,4,False,True,1.0,0.0
+18855,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18870,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18885,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18900,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18915,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,7,False,False,0.0,0.0
+18930,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,7,False,False,0.0,0.0
+18945,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,8,False,False,0.0,0.0
+18960,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,5,False,True,3.0,0.0
+18975,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18990,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19005,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19020,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19035,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19050,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,8,False,False,0.0,0.0
+19065,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,8,False,False,0.0,0.0
+19080,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,9,False,False,0.0,0.0
+19095,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,6,False,True,3.0,0.0
+19110,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19125,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,8,False,False,0.0,0.0
+19140,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,8,False,False,0.0,0.0
+19155,X,106.0,Rocket,84.0,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,1.0,6,True,True,2.0,3.0
+19170,X,106.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19185,X,106.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19200,X,106.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19215,X,106.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,8,False,False,0.0,0.0
+19230,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,X,106.0,1.0,2,True,True,6.0,6.0
+19245,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19260,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19275,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19290,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,Tornado,101.0,3.0,1,True,True,3.0,3.0
+19305,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,2,False,False,0.0,0.0
+19320,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,2,False,False,0.0,0.0
+19335,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19350,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19365,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19380,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,5,False,False,0.0,0.0
+19395,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,1,False,True,4.0,0.0
+19410,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,2,False,False,0.0,0.0
+19425,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,2,False,False,0.0,0.0
+19440,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19455,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19470,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19485,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19500,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19515,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19530,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,5,False,False,0.0,0.0
+19545,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19560,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19575,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19590,Ice Wizard,55.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19605,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,Ice Wizard,55.0,1.0,5,True,True,2.0,3.0
+19620,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,5,False,False,0.0,0.0
+19635,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19650,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19665,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19680,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19695,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,8,False,False,0.0,0.0
+19710,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,X,106.0,1.0,8,True,True,5.0,6.0
+19725,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19740,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19755,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,X,106.0,The Log,98.0,4.0,1,True,True,2.0,2.0
+19770,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,X,106.0,4.0,2,True,False,0.0,6.0
+19785,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,2,False,False,0.0,0.0
+19800,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19815,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19830,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19845,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,Tornado,101.0,1.0,1,True,True,3.0,3.0
+19860,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,2,False,False,0.0,0.0
+19875,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,2,False,False,0.0,0.0
+19890,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19905,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19920,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19935,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19950,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,5,False,False,0.0,0.0
+19965,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19980,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19995,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,True,3.0,0.0
+20010,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,False,0.0,0.0
+20025,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20040,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,True,1.0,0.0
+20055,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20070,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20085,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,5,False,False,0.0,0.0
+20100,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,2,False,True,3.0,0.0
+20115,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,False,0.0,0.0
+20130,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,False,0.0,0.0
+20145,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20160,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,5,False,False,0.0,0.0
+20175,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,5,False,False,0.0,0.0
+20190,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,6,False,False,0.0,0.0
+20205,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,6,False,False,0.0,0.0
+20220,X,106.0,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,The Log,98.0,4.0,5,True,True,1.0,2.0
+20235,X,106.0,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+20250,X,106.0,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+20265,X,106.0,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+20280,X,106.0,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+20295,X,106.0,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,,,,1,False,True,6.0,0.0
+20310,X,106.0,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+20325,X,106.0,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+20340,X,106.0,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+20355,X,106.0,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+20370,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,Tornado,101.0,4.0,1,True,True,3.0,3.0
+20385,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,2,False,False,0.0,0.0
+20400,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,2,False,False,0.0,0.0
+20415,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,False,0.0,0.0
+20430,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,False,0.0,0.0
+20445,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20460,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20475,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,5,False,False,0.0,0.0
+20490,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,5,False,False,0.0,0.0
+20505,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,6,False,False,0.0,0.0
+20520,X,106.0,Rocket,84.0,Ice Wizard,55.0,The Log,98.0,,,,6,False,False,0.0,0.0
+20535,X,106.0,Ice Wizard,55.0,Ice Wizard,55.0,The Log,98.0,Rocket,84.0,2.0,1,True,True,5.0,6.0
+20550,X,106.0,Ice Wizard,55.0,Ice Wizard,55.0,The Log,98.0,,,,2,False,False,0.0,0.0
+20565,X,106.0,Ice Wizard,55.0,Ice Wizard,55.0,The Log,98.0,,,,2,False,False,0.0,0.0
+20580,X,106.0,Ice Wizard,55.0,Ice Wizard,55.0,The Log,98.0,,,,2,False,False,0.0,0.0
+20595,X,106.0,Ice Wizard,55.0,Ice Wizard,55.0,The Log,98.0,,,,2,False,False,0.0,0.0
+20610,X,106.0,Ice Wizard,55.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,False,0.0,0.0
+20625,X,106.0,Ice Wizard,55.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,False,0.0,0.0
+20640,X,106.0,Ice Wizard,55.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20655,X,106.0,Ice Wizard,55.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20670,X,106.0,Ice Wizard,55.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20685,X,106.0,Ice Wizard,55.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20700,X,106.0,Ice Wizard,55.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20715,X,106.0,Ice Wizard,55.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20730,X,106.0,Ice Wizard,55.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20745,X,106.0,Ice Wizard,55.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20760,X,106.0,Ice Wizard,55.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+20775,X,106.0,Ice Wizard,55.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0

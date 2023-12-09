@@ -1,0 +1,564 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00255,Prince,79.0,The Log,98.0,Princess,80.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+00270,Prince,79.0,The Log,98.0,Princess,80.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+00285,Prince,79.0,The Log,98.0,Princess,80.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+00300,Prince,79.0,The Log,98.0,Princess,80.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+00315,Prince,79.0,The Log,98.0,Princess,80.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+00330,Prince,79.0,The Log,98.0,Princess,80.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+00345,Prince,79.0,The Log,98.0,Princess,80.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+00360,Prince,79.0,The Log,98.0,Princess,80.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+00375,Prince,79.0,The Log,98.0,Princess,80.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+00390,Prince,79.0,The Log,98.0,Princess,80.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+00405,Prince,79.0,The Log,98.0,Princess,80.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+00420,Prince,79.0,The Log,98.0,Princess,80.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+00435,Prince,79.0,The Log,98.0,Princess,80.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+00450,Prince,79.0,The Log,98.0,Princess,80.0,Dark Prince,18.0,,,,9,False,False,0.0,0.0
+00465,Prince,79.0,The Log,98.0,Princess,80.0,Dark Prince,18.0,,,,9,False,False,0.0,0.0
+00480,Prince,79.0,The Log,98.0,Princess,80.0,Dark Prince,18.0,,,,9,False,False,0.0,0.0
+00495,Prince,79.0,The Log,98.0,Princess,80.0,Dark Prince,18.0,,,,9,False,False,0.0,0.0
+00510,Prince,79.0,The Log,98.0,Princess,80.0,Goblin Gang,42.0,Dark Prince,18.0,4.0,5,True,True,4.0,4.0
+00525,Prince,79.0,The Log,98.0,Princess,80.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+00540,Prince,79.0,The Log,98.0,Princess,80.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+00555,Prince,79.0,The Log,98.0,Princess,80.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+00570,Prince,79.0,The Log,98.0,Princess,80.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+00585,Prince,79.0,The Log,98.0,Princess,80.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+00600,Prince,79.0,The Log,98.0,Princess,80.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+00615,Prince,79.0,The Log,98.0,Princess,80.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+00630,Prince,79.0,The Log,98.0,Princess,80.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+00645,Prince,79.0,The Log,98.0,Princess,80.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+00660,Prince,79.0,The Log,98.0,Princess,80.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+00675,Prince,79.0,The Log,98.0,Princess,80.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+00690,Prince,79.0,The Log,98.0,Princess,80.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+00705,Prince,79.0,The Log,98.0,Princess,80.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+00720,Prince,79.0,The Log,98.0,Princess,80.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+00735,Prince,79.0,The Log,98.0,Princess,80.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+00750,Prince,79.0,The Log,98.0,Princess,80.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+00765,Prince,79.0,The Log,98.0,Princess,80.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+00780,Prince,79.0,The Log,98.0,Princess,80.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+00795,Prince,79.0,The Log,98.0,Princess,80.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+00810,Prince,79.0,The Log,98.0,Princess,80.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+00825,Prince,79.0,The Log,98.0,Princess,80.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+00840,Prince,79.0,The Log,98.0,Princess,80.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+00855,Prince,79.0,The Log,98.0,Princess,80.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+00870,Prince,79.0,The Log,98.0,Zap,107.0,Goblin Gang,42.0,Princess,80.0,3.0,7,True,True,2.0,3.0
+00885,Prince,79.0,The Log,98.0,Zap,107.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+00900,Prince,79.0,The Log,98.0,Zap,107.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+00915,Prince,79.0,The Log,98.0,Zap,107.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+00930,Prince,79.0,The Log,98.0,Zap,107.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+00945,Prince,79.0,The Log,98.0,Zap,107.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+00960,Prince,79.0,The Log,98.0,Zap,107.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+00975,Prince,79.0,The Log,98.0,Zap,107.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+00990,Prince,79.0,The Log,98.0,Zap,107.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+01005,Prince,79.0,The Log,98.0,Zap,107.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+01020,Prince,79.0,The Log,98.0,Zap,107.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+01035,Prince,79.0,The Log,98.0,Zap,107.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+01050,Prince,79.0,The Log,98.0,Zap,107.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+01065,Prince,79.0,The Log,98.0,Zap,107.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+01080,Prince,79.0,The Log,98.0,Zap,107.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+01095,Prince,79.0,The Log,98.0,Zap,107.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+01110,Prince,79.0,The Log,98.0,Zap,107.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+01125,Prince,79.0,The Log,98.0,Zap,107.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+01140,Prince,79.0,The Log,98.0,Zap,107.0,Bats,9.0,Goblin Gang,42.0,4.0,7,True,True,3.0,3.0
+01155,Prince,79.0,The Log,98.0,Zap,107.0,Bats,9.0,,,,7,False,False,0.0,0.0
+01170,Prince,79.0,The Log,98.0,Zap,107.0,Bats,9.0,,,,7,False,False,0.0,0.0
+01185,Prince,79.0,The Log,98.0,Zap,107.0,Bats,9.0,,,,7,False,False,0.0,0.0
+01200,Prince,79.0,The Log,98.0,Zap,107.0,Bats,9.0,,,,7,False,False,0.0,0.0
+01215,Prince,79.0,The Log,98.0,Zap,107.0,Bats,9.0,,,,8,False,False,0.0,0.0
+01230,Prince,79.0,The Log,98.0,Zap,107.0,Bats,9.0,,,,8,False,False,0.0,0.0
+01245,Prince,79.0,The Log,98.0,Zap,107.0,Bats,9.0,,,,8,False,False,0.0,0.0
+01260,Prince,79.0,The Log,98.0,Zap,107.0,Bats,9.0,,,,8,False,False,0.0,0.0
+01275,Prince,79.0,The Log,98.0,Zap,107.0,Bats,9.0,,,,8,False,False,0.0,0.0
+01290,Prince,79.0,The Log,98.0,Zap,107.0,Bats,9.0,,,,8,False,False,0.0,0.0
+01305,Prince,79.0,The Log,98.0,Zap,107.0,Bats,9.0,,,,9,False,False,0.0,0.0
+01320,Prince,79.0,The Log,98.0,Zap,107.0,Bats,9.0,,,,9,False,False,0.0,0.0
+01335,Prince,79.0,The Log,98.0,Zap,107.0,Bats,9.0,,,,9,False,False,0.0,0.0
+01350,Prince,79.0,The Log,98.0,Zap,107.0,Bats,9.0,,,,9,False,False,0.0,0.0
+01365,Prince,79.0,The Log,98.0,Zap,107.0,Bats,9.0,,,,9,False,False,0.0,0.0
+01380,Prince,79.0,The Log,98.0,Zap,107.0,Bats,9.0,,,,10,False,False,0.0,0.0
+01395,Prince,79.0,The Log,98.0,Zap,107.0,Bats,9.0,,,,10,False,False,0.0,0.0
+01410,Bandit,5.0,The Log,98.0,Zap,107.0,Bats,9.0,Prince,79.0,1.0,5,True,True,5.0,5.0
+01425,Bandit,5.0,The Log,98.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+01440,Bandit,5.0,The Log,98.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+01455,Bandit,5.0,The Log,98.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+01470,Bandit,5.0,The Log,98.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+01485,Bandit,5.0,The Log,98.0,Zap,107.0,Bats,9.0,,,,5,False,False,0.0,0.0
+01500,Bandit,5.0,The Log,98.0,Zap,107.0,Bats,9.0,,,,6,False,False,0.0,0.0
+01515,Bandit,5.0,The Log,98.0,Zap,107.0,Bats,9.0,,,,6,False,False,0.0,0.0
+01530,Bandit,5.0,The Log,98.0,Zap,107.0,Bats,9.0,,,,6,False,False,0.0,0.0
+01545,Bandit,5.0,The Log,98.0,Zap,107.0,Bats,9.0,,,,6,False,False,0.0,0.0
+01560,Bandit,5.0,The Log,98.0,Zap,107.0,Bats,9.0,,,,6,False,False,0.0,0.0
+01575,Bandit,5.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,Bats,9.0,4.0,5,True,True,1.0,2.0
+01590,Bandit,5.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+01605,Bandit,5.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+01620,Bandit,5.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+01635,Bandit,5.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+01650,Bandit,5.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+01665,Bandit,5.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+01680,Bandit,5.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+01695,Bandit,5.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+01710,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,Bandit,5.0,1.0,3,True,True,3.0,3.0
+01725,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+01740,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+01755,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+01770,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+01785,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+01800,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+01815,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+01830,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+01845,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+01860,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+01875,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+01890,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+01905,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+01920,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+01935,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+01950,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+01965,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+01980,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+01995,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+02010,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+02025,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+02040,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+02055,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+02070,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+02085,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+02100,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+02115,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+02130,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+02145,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+02160,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+02175,Princess,80.0,The Log,98.0,Zap,107.0,Dark Prince,18.0,,,,9,False,False,0.0,0.0
+02190,Princess,80.0,The Log,98.0,Zap,107.0,Goblin Gang,42.0,Dark Prince,18.0,4.0,5,True,True,4.0,4.0
+02205,Princess,80.0,The Log,98.0,Zap,107.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+02220,Princess,80.0,The Log,98.0,Zap,107.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+02235,Princess,80.0,The Log,98.0,Zap,107.0,Prince,79.0,Goblin Gang,42.0,4.0,2,True,True,3.0,3.0
+02250,Princess,80.0,The Log,98.0,Zap,107.0,Prince,79.0,,,,3,False,False,0.0,0.0
+02265,Princess,80.0,Bats,9.0,Zap,107.0,Prince,79.0,The Log,98.0,2.0,2,True,True,1.0,2.0
+02280,Princess,80.0,Bats,9.0,Zap,107.0,Prince,79.0,,,,1,False,True,1.0,0.0
+02295,Princess,80.0,Bats,9.0,Zap,107.0,Prince,79.0,,,,1,False,False,0.0,0.0
+02310,Princess,80.0,Bats,9.0,Zap,107.0,Prince,79.0,,,,1,False,False,0.0,0.0
+02325,Princess,80.0,Bats,9.0,Zap,107.0,Prince,79.0,,,,1,False,False,0.0,0.0
+02340,Princess,80.0,Bats,9.0,Zap,107.0,Prince,79.0,,,,2,False,False,0.0,0.0
+02355,Princess,80.0,Bats,9.0,Zap,107.0,Prince,79.0,,,,2,False,False,0.0,0.0
+02370,Princess,80.0,Bats,9.0,Bandit,5.0,Prince,79.0,Zap,107.0,3.0,3,True,False,0.0,2.0
+02385,Princess,80.0,Bats,9.0,Bandit,5.0,Prince,79.0,,,,3,False,False,0.0,0.0
+02400,Princess,80.0,Bats,9.0,Bandit,5.0,Prince,79.0,,,,3,False,False,0.0,0.0
+02415,Princess,80.0,Bats,9.0,Bandit,5.0,Prince,79.0,,,,3,False,False,0.0,0.0
+02430,Princess,80.0,Bats,9.0,Bandit,5.0,Prince,79.0,,,,1,False,True,2.0,0.0
+02445,Princess,80.0,Bats,9.0,Bandit,5.0,Prince,79.0,,,,1,False,False,0.0,0.0
+02460,Princess,80.0,Bats,9.0,Bandit,5.0,Prince,79.0,,,,1,False,False,0.0,0.0
+02475,Princess,80.0,Bats,9.0,Bandit,5.0,Prince,79.0,,,,1,False,False,0.0,0.0
+02490,Princess,80.0,Bats,9.0,Bandit,5.0,Prince,79.0,,,,1,False,False,0.0,0.0
+02505,Princess,80.0,Bats,9.0,Bandit,5.0,Prince,79.0,,,,2,False,False,0.0,0.0
+02520,Princess,80.0,Bats,9.0,Bandit,5.0,Prince,79.0,,,,2,False,False,0.0,0.0
+02535,Princess,80.0,Bats,9.0,Bandit,5.0,Prince,79.0,,,,2,False,False,0.0,0.0
+02550,Princess,80.0,Bats,9.0,Bandit,5.0,Prince,79.0,,,,2,False,False,0.0,0.0
+02565,Princess,80.0,Bats,9.0,Bandit,5.0,Prince,79.0,,,,2,False,False,0.0,0.0
+02580,Princess,80.0,Bats,9.0,Bandit,5.0,Prince,79.0,,,,2,False,False,0.0,0.0
+02595,Princess,80.0,Bats,9.0,Bandit,5.0,Prince,79.0,,,,3,False,False,0.0,0.0
+02610,Princess,80.0,Bats,9.0,Bandit,5.0,Prince,79.0,,,,3,False,False,0.0,0.0
+02625,Princess,80.0,Bats,9.0,Bandit,5.0,Prince,79.0,,,,3,False,False,0.0,0.0
+02640,Princess,80.0,Bats,9.0,Bandit,5.0,Prince,79.0,,,,3,False,False,0.0,0.0
+02655,Princess,80.0,Bats,9.0,Bandit,5.0,Prince,79.0,,,,3,False,False,0.0,0.0
+02670,Princess,80.0,Bats,9.0,Bandit,5.0,Prince,79.0,,,,4,False,False,0.0,0.0
+02685,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,Bandit,5.0,3.0,1,True,True,3.0,3.0
+02700,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,1,False,False,0.0,0.0
+02715,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,1,False,False,0.0,0.0
+02730,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,1,False,False,0.0,0.0
+02745,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,1,False,False,0.0,0.0
+02760,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,2,False,False,0.0,0.0
+02775,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,2,False,False,0.0,0.0
+02790,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,2,False,False,0.0,0.0
+02805,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,2,False,False,0.0,0.0
+02820,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,2,False,False,0.0,0.0
+02835,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,3,False,False,0.0,0.0
+02850,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,3,False,False,0.0,0.0
+02865,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,3,False,False,0.0,0.0
+02880,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,3,False,False,0.0,0.0
+02895,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,3,False,False,0.0,0.0
+02910,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,3,False,False,0.0,0.0
+02925,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,4,False,False,0.0,0.0
+02940,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,4,False,False,0.0,0.0
+02955,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,4,False,False,0.0,0.0
+02970,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,4,False,False,0.0,0.0
+02985,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,4,False,False,0.0,0.0
+03000,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,4,False,False,0.0,0.0
+03015,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,5,False,False,0.0,0.0
+03030,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,5,False,False,0.0,0.0
+03045,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,5,False,False,0.0,0.0
+03060,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,5,False,False,0.0,0.0
+03075,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,5,False,False,0.0,0.0
+03090,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,6,False,False,0.0,0.0
+03105,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,6,False,False,0.0,0.0
+03120,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,6,False,False,0.0,0.0
+03135,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,6,False,False,0.0,0.0
+03150,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,6,False,False,0.0,0.0
+03165,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,6,False,False,0.0,0.0
+03180,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,7,False,False,0.0,0.0
+03195,Princess,80.0,Bats,9.0,Dark Prince,18.0,Prince,79.0,,,,7,False,False,0.0,0.0
+03210,Princess,80.0,Bats,9.0,Goblin Gang,42.0,Prince,79.0,Dark Prince,18.0,3.0,3,True,True,4.0,4.0
+03225,Princess,80.0,Bats,9.0,Goblin Gang,42.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03240,Princess,80.0,Bats,9.0,Goblin Gang,42.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03255,Princess,80.0,Bats,9.0,Goblin Gang,42.0,Prince,79.0,,,,4,False,False,0.0,0.0
+03270,Princess,80.0,Bats,9.0,Goblin Gang,42.0,Prince,79.0,,,,4,False,False,0.0,0.0
+03285,Princess,80.0,Bats,9.0,Goblin Gang,42.0,Prince,79.0,,,,4,False,False,0.0,0.0
+03300,Princess,80.0,The Log,98.0,Goblin Gang,42.0,Prince,79.0,Bats,9.0,2.0,2,True,True,2.0,2.0
+03315,Princess,80.0,The Log,98.0,Goblin Gang,42.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03330,Princess,80.0,The Log,98.0,Goblin Gang,42.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03345,Princess,80.0,The Log,98.0,Goblin Gang,42.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03360,Princess,80.0,The Log,98.0,Goblin Gang,42.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03375,Princess,80.0,The Log,98.0,Goblin Gang,42.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03390,Princess,80.0,The Log,98.0,Goblin Gang,42.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03405,Princess,80.0,The Log,98.0,Goblin Gang,42.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03420,Princess,80.0,The Log,98.0,Goblin Gang,42.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03435,Princess,80.0,The Log,98.0,Goblin Gang,42.0,Prince,79.0,,,,4,False,False,0.0,0.0
+03450,Princess,80.0,The Log,98.0,Zap,107.0,Prince,79.0,Goblin Gang,42.0,3.0,1,True,True,3.0,3.0
+03465,Princess,80.0,The Log,98.0,Zap,107.0,Prince,79.0,,,,1,False,False,0.0,0.0
+03480,Princess,80.0,The Log,98.0,Zap,107.0,Prince,79.0,,,,1,False,False,0.0,0.0
+03495,Princess,80.0,The Log,98.0,Zap,107.0,Prince,79.0,,,,1,False,False,0.0,0.0
+03510,Princess,80.0,The Log,98.0,Zap,107.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03525,Princess,80.0,The Log,98.0,Zap,107.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03540,Princess,80.0,The Log,98.0,Zap,107.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03555,Princess,80.0,Bandit,5.0,Zap,107.0,Prince,79.0,The Log,98.0,2.0,0,True,True,2.0,2.0
+03570,Princess,80.0,Bandit,5.0,Zap,107.0,Prince,79.0,,,,0,False,False,0.0,0.0
+03585,Princess,80.0,Bandit,5.0,Zap,107.0,Prince,79.0,,,,0,False,False,0.0,0.0
+03600,Princess,80.0,Bandit,5.0,Zap,107.0,Prince,79.0,,,,1,False,False,0.0,0.0
+03615,Princess,80.0,Bandit,5.0,Zap,107.0,Prince,79.0,,,,1,False,False,0.0,0.0
+03630,Princess,80.0,Bandit,5.0,Zap,107.0,Prince,79.0,,,,1,False,False,0.0,0.0
+03645,Princess,80.0,Bandit,5.0,Zap,107.0,Prince,79.0,,,,1,False,False,0.0,0.0
+03660,Princess,80.0,Bandit,5.0,Zap,107.0,Prince,79.0,,,,1,False,False,0.0,0.0
+03675,Princess,80.0,Bandit,5.0,Zap,107.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03690,Princess,80.0,Bandit,5.0,Zap,107.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03705,Princess,80.0,Bandit,5.0,Zap,107.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03720,Princess,80.0,Bandit,5.0,Zap,107.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03735,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Prince,79.0,Zap,107.0,3.0,0,True,True,2.0,2.0
+03750,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Prince,79.0,,,,0,False,False,0.0,0.0
+03765,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Prince,79.0,,,,1,False,False,0.0,0.0
+03780,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Prince,79.0,,,,1,False,False,0.0,0.0
+03795,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Prince,79.0,,,,1,False,False,0.0,0.0
+03810,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03825,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03840,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03855,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03870,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03885,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03900,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Prince,79.0,,,,4,False,False,0.0,0.0
+03915,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Prince,79.0,,,,4,False,False,0.0,0.0
+03930,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Prince,79.0,,,,5,False,False,0.0,0.0
+03945,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Prince,79.0,,,,5,False,False,0.0,0.0
+03960,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Prince,79.0,,,,5,False,False,0.0,0.0
+03975,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Prince,79.0,,,,6,False,False,0.0,0.0
+03990,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Prince,79.0,,,,6,False,False,0.0,0.0
+04005,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Prince,79.0,,,,6,False,False,0.0,0.0
+04020,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Prince,79.0,,,,7,False,False,0.0,0.0
+04035,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Prince,79.0,,,,7,False,False,0.0,0.0
+04050,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Prince,79.0,,,,7,False,False,0.0,0.0
+04065,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Prince,79.0,,,,8,False,False,0.0,0.0
+04080,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Prince,79.0,,,,8,False,False,0.0,0.0
+04095,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Prince,79.0,,,,9,False,False,0.0,0.0
+04110,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Prince,79.0,,,,9,False,False,0.0,0.0
+04125,Princess,80.0,Bandit,5.0,Bats,9.0,Prince,79.0,Dark Prince,18.0,3.0,5,True,True,4.0,4.0
+04140,Princess,80.0,Bandit,5.0,Bats,9.0,Prince,79.0,,,,6,False,False,0.0,0.0
+04155,Princess,80.0,Bandit,5.0,Bats,9.0,Prince,79.0,,,,6,False,False,0.0,0.0
+04170,Princess,80.0,Bandit,5.0,Bats,9.0,Prince,79.0,,,,6,False,False,0.0,0.0
+04185,Princess,80.0,Bandit,5.0,Bats,9.0,Goblin Gang,42.0,Prince,79.0,4.0,2,True,True,4.0,5.0
+04200,Princess,80.0,Bandit,5.0,Bats,9.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+04215,Princess,80.0,Bandit,5.0,Bats,9.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+04230,Princess,80.0,Bandit,5.0,Bats,9.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04245,Princess,80.0,Bandit,5.0,Bats,9.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04260,Princess,80.0,Bandit,5.0,Bats,9.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04275,Princess,80.0,Bandit,5.0,Bats,9.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+04290,Princess,80.0,Bandit,5.0,The Log,98.0,Goblin Gang,42.0,Bats,9.0,3.0,2,True,True,2.0,2.0
+04305,Princess,80.0,Bandit,5.0,The Log,98.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+04320,Princess,80.0,Bandit,5.0,The Log,98.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04335,Princess,80.0,Bandit,5.0,The Log,98.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04350,Princess,80.0,Bandit,5.0,Zap,107.0,Goblin Gang,42.0,The Log,98.0,3.0,2,True,True,1.0,2.0
+04365,Princess,80.0,Bandit,5.0,Zap,107.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+04380,Princess,80.0,Bandit,5.0,Zap,107.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+04395,Princess,80.0,Bandit,5.0,Zap,107.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04410,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Goblin Gang,42.0,Zap,107.0,3.0,1,True,True,2.0,2.0
+04425,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+04440,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+04455,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+04470,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+04485,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04500,Princess,80.0,Bandit,5.0,Dark Prince,18.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04515,Princess,80.0,Prince,79.0,Dark Prince,18.0,Goblin Gang,42.0,Bandit,5.0,2.0,0,True,True,3.0,3.0
+04530,Princess,80.0,Prince,79.0,Dark Prince,18.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+04545,Princess,80.0,Prince,79.0,Dark Prince,18.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+04560,Princess,80.0,Prince,79.0,Dark Prince,18.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+04575,Princess,80.0,Prince,79.0,Dark Prince,18.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+04590,Princess,80.0,Prince,79.0,Dark Prince,18.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+04605,Princess,80.0,Prince,79.0,Dark Prince,18.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04620,Princess,80.0,Prince,79.0,Dark Prince,18.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04635,Princess,80.0,Prince,79.0,Dark Prince,18.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04650,Princess,80.0,Prince,79.0,Dark Prince,18.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+04665,Princess,80.0,Prince,79.0,Dark Prince,18.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+04680,Princess,80.0,Prince,79.0,Dark Prince,18.0,Bats,9.0,Goblin Gang,42.0,4.0,1,True,True,3.0,3.0
+04695,Princess,80.0,Prince,79.0,Dark Prince,18.0,Bats,9.0,,,,2,False,False,0.0,0.0
+04710,Princess,80.0,Prince,79.0,Dark Prince,18.0,Bats,9.0,,,,2,False,False,0.0,0.0
+04725,Princess,80.0,Prince,79.0,Dark Prince,18.0,Bats,9.0,,,,2,False,False,0.0,0.0
+04740,Princess,80.0,Prince,79.0,Dark Prince,18.0,Bats,9.0,,,,3,False,False,0.0,0.0
+04755,Princess,80.0,Prince,79.0,Dark Prince,18.0,Bats,9.0,,,,3,False,False,0.0,0.0
+04770,Princess,80.0,Prince,79.0,Dark Prince,18.0,Bats,9.0,,,,4,False,False,0.0,0.0
+04785,Princess,80.0,Prince,79.0,Dark Prince,18.0,Bats,9.0,,,,4,False,False,0.0,0.0
+04800,Princess,80.0,Prince,79.0,Dark Prince,18.0,Bats,9.0,,,,4,False,False,0.0,0.0
+04815,Princess,80.0,Prince,79.0,Dark Prince,18.0,Bats,9.0,,,,5,False,False,0.0,0.0
+04830,Princess,80.0,Prince,79.0,Dark Prince,18.0,Bats,9.0,,,,5,False,False,0.0,0.0
+04845,Princess,80.0,Prince,79.0,Dark Prince,18.0,Bats,9.0,,,,5,False,False,0.0,0.0
+04860,Princess,80.0,Prince,79.0,Dark Prince,18.0,Bats,9.0,,,,6,False,False,0.0,0.0
+04875,Princess,80.0,Prince,79.0,Dark Prince,18.0,Bats,9.0,,,,6,False,False,0.0,0.0
+04890,Princess,80.0,Prince,79.0,Dark Prince,18.0,Bats,9.0,,,,6,False,False,0.0,0.0
+04905,Princess,80.0,Prince,79.0,Dark Prince,18.0,Bats,9.0,,,,7,False,False,0.0,0.0
+04920,Princess,80.0,Prince,79.0,Dark Prince,18.0,Bats,9.0,,,,7,False,False,0.0,0.0
+04935,Princess,80.0,Prince,79.0,Dark Prince,18.0,Bats,9.0,,,,8,False,False,0.0,0.0
+04950,Princess,80.0,Prince,79.0,Dark Prince,18.0,Bats,9.0,,,,8,False,False,0.0,0.0
+04965,Princess,80.0,Prince,79.0,Dark Prince,18.0,Bats,9.0,,,,8,False,False,0.0,0.0
+04980,Princess,80.0,Prince,79.0,Dark Prince,18.0,Bats,9.0,,,,9,False,False,0.0,0.0
+04995,Princess,80.0,Prince,79.0,The Log,98.0,Bats,9.0,Dark Prince,18.0,3.0,5,True,True,4.0,4.0
+05010,Princess,80.0,Prince,79.0,The Log,98.0,Bats,9.0,,,,5,False,False,0.0,0.0
+05025,Princess,80.0,Prince,79.0,The Log,98.0,Bats,9.0,,,,6,False,False,0.0,0.0
+05040,Princess,80.0,Prince,79.0,The Log,98.0,Bats,9.0,,,,6,False,False,0.0,0.0
+05055,Princess,80.0,Prince,79.0,The Log,98.0,Bats,9.0,,,,6,False,False,0.0,0.0
+05070,Princess,80.0,Prince,79.0,The Log,98.0,Bats,9.0,,,,7,False,False,0.0,0.0
+05085,Princess,80.0,Prince,79.0,The Log,98.0,Bats,9.0,,,,7,False,False,0.0,0.0
+05100,Princess,80.0,Prince,79.0,The Log,98.0,Bats,9.0,,,,7,False,False,0.0,0.0
+05115,Princess,80.0,Prince,79.0,The Log,98.0,Bats,9.0,,,,8,False,False,0.0,0.0
+05130,Princess,80.0,Prince,79.0,The Log,98.0,Bats,9.0,,,,8,False,False,0.0,0.0
+05145,Princess,80.0,Prince,79.0,The Log,98.0,Bats,9.0,,,,8,False,False,0.0,0.0
+05160,Princess,80.0,Zap,107.0,The Log,98.0,Bats,9.0,Prince,79.0,2.0,4,True,True,4.0,5.0
+05175,Princess,80.0,Zap,107.0,The Log,98.0,Bats,9.0,,,,4,False,False,0.0,0.0
+05190,Princess,80.0,Zap,107.0,The Log,98.0,Bats,9.0,,,,5,False,False,0.0,0.0
+05205,Princess,80.0,Zap,107.0,The Log,98.0,Bandit,5.0,Bats,9.0,4.0,6,True,False,0.0,2.0
+05220,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,The Log,98.0,3.0,6,True,True,4.0,2.0
+05235,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+05250,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+05265,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+05280,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+05295,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+05310,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+05325,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+05340,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+05355,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+05370,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+05385,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+05400,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+05415,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+05430,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+05445,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+05460,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+05475,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+05490,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+05505,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+05520,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+05535,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+05550,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Dark Prince,18.0,Bandit,5.0,4.0,6,True,True,3.0,3.0
+05565,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+05580,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+05595,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+05610,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Prince,79.0,Dark Prince,18.0,4.0,4,True,True,3.0,4.0
+05625,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Prince,79.0,,,,4,False,False,0.0,0.0
+05640,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Prince,79.0,,,,4,False,False,0.0,0.0
+05655,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Prince,79.0,,,,5,False,False,0.0,0.0
+05670,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Prince,79.0,,,,5,False,False,0.0,0.0
+05685,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Prince,79.0,,,,5,False,False,0.0,0.0
+05700,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Prince,79.0,,,,6,False,False,0.0,0.0
+05715,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Prince,79.0,,,,6,False,False,0.0,0.0
+05730,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Prince,79.0,,,,6,False,False,0.0,0.0
+05745,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Prince,79.0,,,,7,False,False,0.0,0.0
+05760,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bats,9.0,Prince,79.0,4.0,2,True,True,5.0,5.0
+05775,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bats,9.0,,,,2,False,False,0.0,0.0
+05790,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bats,9.0,,,,3,False,False,0.0,0.0
+05805,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bats,9.0,,,,3,False,False,0.0,0.0
+05820,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bats,9.0,,,,4,False,False,0.0,0.0
+05835,Princess,80.0,Zap,107.0,Goblin Gang,42.0,The Log,98.0,Bats,9.0,4.0,2,True,True,2.0,2.0
+05850,Princess,80.0,Zap,107.0,Goblin Gang,42.0,The Log,98.0,,,,2,False,False,0.0,0.0
+05865,Princess,80.0,Zap,107.0,Goblin Gang,42.0,The Log,98.0,,,,3,False,False,0.0,0.0
+05880,Princess,80.0,Zap,107.0,Goblin Gang,42.0,The Log,98.0,,,,3,False,False,0.0,0.0
+05895,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,The Log,98.0,4.0,3,True,True,1.0,2.0
+05910,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+05925,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+05940,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+05955,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+05970,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+05985,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Dark Prince,18.0,Bandit,5.0,4.0,0,True,True,3.0,3.0
+06000,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+06015,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+06030,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+06045,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+06060,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+06075,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+06090,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+06105,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+06120,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+06135,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+06150,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Prince,79.0,Dark Prince,18.0,4.0,0,True,True,4.0,4.0
+06165,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Prince,79.0,,,,1,False,False,0.0,0.0
+06180,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Prince,79.0,,,,1,False,False,0.0,0.0
+06195,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Prince,79.0,,,,1,False,False,0.0,0.0
+06210,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Prince,79.0,,,,2,False,False,0.0,0.0
+06225,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Prince,79.0,,,,2,False,False,0.0,0.0
+06240,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Prince,79.0,,,,3,False,False,0.0,0.0
+06255,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Prince,79.0,,,,3,False,False,0.0,0.0
+06270,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Prince,79.0,,,,3,False,False,0.0,0.0
+06285,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Prince,79.0,,,,4,False,False,0.0,0.0
+06300,Princess,80.0,Zap,107.0,Goblin Gang,42.0,Prince,79.0,,,,4,False,False,0.0,0.0
+06315,Princess,80.0,Zap,107.0,Bats,9.0,Prince,79.0,Goblin Gang,42.0,3.0,1,True,True,3.0,3.0
+06330,Princess,80.0,Zap,107.0,Bats,9.0,Prince,79.0,,,,2,False,False,0.0,0.0
+06345,Princess,80.0,Zap,107.0,Bats,9.0,Prince,79.0,,,,2,False,False,0.0,0.0
+06360,Princess,80.0,Zap,107.0,Bats,9.0,Prince,79.0,,,,2,False,False,0.0,0.0
+06375,Princess,80.0,Zap,107.0,Bats,9.0,Prince,79.0,,,,3,False,False,0.0,0.0
+06390,Princess,80.0,The Log,98.0,Bats,9.0,Prince,79.0,Zap,107.0,2.0,1,True,True,2.0,2.0
+06405,Princess,80.0,The Log,98.0,Bats,9.0,Prince,79.0,,,,1,False,False,0.0,0.0
+06420,Princess,80.0,The Log,98.0,Bats,9.0,Prince,79.0,,,,2,False,False,0.0,0.0
+06435,Princess,80.0,The Log,98.0,Bats,9.0,Prince,79.0,,,,2,False,False,0.0,0.0
+06450,Princess,80.0,The Log,98.0,Bats,9.0,Prince,79.0,,,,3,False,False,0.0,0.0
+06465,Princess,80.0,The Log,98.0,Bats,9.0,Prince,79.0,,,,3,False,False,0.0,0.0
+06480,Princess,80.0,The Log,98.0,Bats,9.0,Prince,79.0,,,,3,False,False,0.0,0.0
+06495,Princess,80.0,The Log,98.0,Bats,9.0,Prince,79.0,,,,4,False,False,0.0,0.0
+06510,Princess,80.0,The Log,98.0,Bats,9.0,Prince,79.0,,,,4,False,False,0.0,0.0
+06525,Princess,80.0,The Log,98.0,Bats,9.0,Prince,79.0,,,,4,False,False,0.0,0.0
+06540,Princess,80.0,The Log,98.0,Bats,9.0,Prince,79.0,,,,5,False,False,0.0,0.0
+06555,Princess,80.0,The Log,98.0,Bats,9.0,Prince,79.0,,,,5,False,False,0.0,0.0
+06570,Princess,80.0,The Log,98.0,Bats,9.0,Prince,79.0,,,,5,False,False,0.0,0.0
+06585,Princess,80.0,The Log,98.0,Bats,9.0,Prince,79.0,,,,6,False,False,0.0,0.0
+06600,Princess,80.0,The Log,98.0,Bats,9.0,Prince,79.0,,,,6,False,False,0.0,0.0
+06615,Princess,80.0,The Log,98.0,Bats,9.0,Prince,79.0,,,,6,False,False,0.0,0.0
+06630,Princess,80.0,The Log,98.0,Bats,9.0,Prince,79.0,,,,7,False,False,0.0,0.0
+06645,Princess,80.0,The Log,98.0,Bats,9.0,Prince,79.0,,,,7,False,False,0.0,0.0
+06660,Princess,80.0,The Log,98.0,Bats,9.0,Prince,79.0,,,,8,False,False,0.0,0.0
+06675,Princess,80.0,The Log,98.0,Bats,9.0,Prince,79.0,,,,8,False,False,0.0,0.0
+06690,Princess,80.0,The Log,98.0,Bats,9.0,Prince,79.0,,,,8,False,False,0.0,0.0
+06705,Princess,80.0,The Log,98.0,Bats,9.0,Bandit,5.0,Prince,79.0,4.0,4,True,True,4.0,5.0
+06720,Princess,80.0,The Log,98.0,Bats,9.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+06735,Princess,80.0,The Log,98.0,Bats,9.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+06750,Princess,80.0,The Log,98.0,Bats,9.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+06765,Princess,80.0,The Log,98.0,Bats,9.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+06780,Princess,80.0,The Log,98.0,Bats,9.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+06795,Princess,80.0,The Log,98.0,Bats,9.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+06810,Princess,80.0,The Log,98.0,Bats,9.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+06825,Princess,80.0,The Log,98.0,Bats,9.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+06840,Princess,80.0,The Log,98.0,Bats,9.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+06855,Princess,80.0,The Log,98.0,Bats,9.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+06870,Princess,80.0,The Log,98.0,Bats,9.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+06885,Princess,80.0,The Log,98.0,Bats,9.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+06900,Princess,80.0,The Log,98.0,Bats,9.0,Dark Prince,18.0,Bandit,5.0,4.0,5,True,True,3.0,3.0
+06915,Princess,80.0,The Log,98.0,Bats,9.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+06930,Princess,80.0,The Log,98.0,Bats,9.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+06945,Princess,80.0,The Log,98.0,Bats,9.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+06960,Princess,80.0,The Log,98.0,Bats,9.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+06975,Princess,80.0,The Log,98.0,Bats,9.0,Goblin Gang,42.0,Dark Prince,18.0,4.0,3,True,True,4.0,4.0
+06990,Princess,80.0,The Log,98.0,Bats,9.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+07005,Princess,80.0,The Log,98.0,Bats,9.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+07020,Princess,80.0,The Log,98.0,Bats,9.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+07035,Princess,80.0,The Log,98.0,Bats,9.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+07050,Princess,80.0,The Log,98.0,Bats,9.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+07065,Princess,80.0,The Log,98.0,Bats,9.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+07080,Princess,80.0,The Log,98.0,Bats,9.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+07095,Princess,80.0,The Log,98.0,Bats,9.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+07110,Princess,80.0,The Log,98.0,Bats,9.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+07125,Princess,80.0,The Log,98.0,Bats,9.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+07140,Princess,80.0,The Log,98.0,Bats,9.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+07155,Princess,80.0,The Log,98.0,Bats,9.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+07170,Princess,80.0,The Log,98.0,Zap,107.0,Goblin Gang,42.0,Bats,9.0,3.0,6,True,True,1.0,2.0
+07185,Princess,80.0,The Log,98.0,Zap,107.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+07200,Princess,80.0,The Log,98.0,Zap,107.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+07215,Princess,80.0,The Log,98.0,Zap,107.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+07230,Princess,80.0,Prince,79.0,Zap,107.0,Goblin Gang,42.0,The Log,98.0,2.0,5,True,True,2.0,2.0
+07245,Princess,80.0,Prince,79.0,Zap,107.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+07260,Princess,80.0,Prince,79.0,Zap,107.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+07275,Princess,80.0,Prince,79.0,Zap,107.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+07290,Princess,80.0,Prince,79.0,Zap,107.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+07305,Princess,80.0,Prince,79.0,Zap,107.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+07320,Princess,80.0,Prince,79.0,Bandit,5.0,Goblin Gang,42.0,Zap,107.0,3.0,5,True,True,2.0,2.0
+07335,Princess,80.0,Prince,79.0,Bandit,5.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+07350,Princess,80.0,Prince,79.0,Bandit,5.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+07365,Princess,80.0,Prince,79.0,Bandit,5.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+07380,Princess,80.0,Prince,79.0,Bandit,5.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+07395,Princess,80.0,Prince,79.0,Bandit,5.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+07410,Princess,80.0,Prince,79.0,Bandit,5.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+07425,Princess,80.0,Prince,79.0,Bandit,5.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+07440,Princess,80.0,Prince,79.0,Bandit,5.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+07455,Princess,80.0,Prince,79.0,Bandit,5.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+07470,Princess,80.0,Prince,79.0,Bandit,5.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+07485,Princess,80.0,Dark Prince,18.0,Bandit,5.0,Goblin Gang,42.0,Prince,79.0,2.0,5,True,True,5.0,5.0
+07500,Princess,80.0,Dark Prince,18.0,Bandit,5.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+07515,Princess,80.0,Dark Prince,18.0,Bandit,5.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+07530,Princess,80.0,Dark Prince,18.0,Bandit,5.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+07545,Princess,80.0,Dark Prince,18.0,Bandit,5.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+07560,Princess,80.0,Dark Prince,18.0,Bandit,5.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+07575,Princess,80.0,Dark Prince,18.0,Bandit,5.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+07590,Princess,80.0,Dark Prince,18.0,Bandit,5.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+07605,Princess,80.0,Dark Prince,18.0,Bandit,5.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+07620,Princess,80.0,Bats,9.0,Bandit,5.0,Goblin Gang,42.0,Dark Prince,18.0,2.0,6,True,True,3.0,4.0
+07635,Princess,80.0,Bats,9.0,Bandit,5.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+07650,Princess,80.0,Bats,9.0,Bandit,5.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+07665,Princess,80.0,Bats,9.0,The Log,98.0,Goblin Gang,42.0,Bandit,5.0,3.0,4,True,True,3.0,3.0
+07680,Princess,80.0,Bats,9.0,The Log,98.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+07695,Princess,80.0,Bats,9.0,The Log,98.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+07710,Princess,80.0,Bats,9.0,The Log,98.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+07725,Princess,80.0,Bats,9.0,The Log,98.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+07740,Princess,80.0,Zap,107.0,The Log,98.0,Goblin Gang,42.0,Bats,9.0,2.0,5,True,True,1.0,2.0
+07755,Princess,80.0,Zap,107.0,The Log,98.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+07770,Princess,80.0,Zap,107.0,Prince,79.0,Goblin Gang,42.0,The Log,98.0,3.0,4,True,True,2.0,2.0
+07785,Princess,80.0,Zap,107.0,Prince,79.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+07800,Princess,80.0,Zap,107.0,Prince,79.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+07815,Princess,80.0,Dark Prince,18.0,Prince,79.0,Goblin Gang,42.0,Zap,107.0,2.0,4,True,True,1.0,2.0
+07830,Princess,80.0,Dark Prince,18.0,Prince,79.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+07845,Princess,80.0,Dark Prince,18.0,Prince,79.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+07860,Princess,80.0,Dark Prince,18.0,Prince,79.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+07875,Princess,80.0,Dark Prince,18.0,Prince,79.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+07890,Princess,80.0,Dark Prince,18.0,Prince,79.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+07905,Princess,80.0,Dark Prince,18.0,Prince,79.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+07920,Princess,80.0,Dark Prince,18.0,Prince,79.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+07935,Princess,80.0,Dark Prince,18.0,Prince,79.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+07950,Princess,80.0,Dark Prince,18.0,Prince,79.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+07965,Princess,80.0,Dark Prince,18.0,Prince,79.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+07980,Princess,80.0,Dark Prince,18.0,Prince,79.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+07995,Princess,80.0,Dark Prince,18.0,Bandit,5.0,Goblin Gang,42.0,Prince,79.0,3.0,5,True,True,5.0,5.0
+08010,Princess,80.0,Dark Prince,18.0,Bandit,5.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+08025,Princess,80.0,Dark Prince,18.0,Bandit,5.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08040,Princess,80.0,Dark Prince,18.0,Bandit,5.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+08055,Princess,80.0,Dark Prince,18.0,Bandit,5.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+08070,Princess,80.0,Dark Prince,18.0,Bandit,5.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+08085,Princess,80.0,Bats,9.0,Bandit,5.0,Goblin Gang,42.0,Dark Prince,18.0,2.0,4,True,True,4.0,4.0
+08100,Princess,80.0,Bats,9.0,The Log,98.0,Goblin Gang,42.0,Bandit,5.0,3.0,2,True,True,2.0,3.0
+08115,Princess,80.0,Bats,9.0,The Log,98.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+08130,Princess,80.0,Bats,9.0,The Log,98.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+08145,Princess,80.0,Zap,107.0,The Log,98.0,Goblin Gang,42.0,Bats,9.0,2.0,1,True,True,2.0,2.0
+08160,Princess,80.0,Zap,107.0,The Log,98.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+08175,Princess,80.0,Zap,107.0,The Log,98.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+08190,Princess,80.0,Zap,107.0,Prince,79.0,Goblin Gang,42.0,The Log,98.0,3.0,1,True,True,1.0,2.0
+08205,Princess,80.0,Zap,107.0,Prince,79.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+08220,Princess,80.0,Zap,107.0,Prince,79.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+08235,Princess,80.0,Zap,107.0,Prince,79.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+08250,Princess,80.0,Zap,107.0,Prince,79.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+08265,Princess,80.0,Zap,107.0,Prince,79.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+08280,Princess,80.0,Dark Prince,18.0,Prince,79.0,Goblin Gang,42.0,Zap,107.0,2.0,2,True,True,2.0,2.0
+08295,Princess,80.0,Dark Prince,18.0,Prince,79.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+08310,Princess,80.0,Dark Prince,18.0,Prince,79.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+08325,Princess,80.0,Dark Prince,18.0,Prince,79.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+08340,Princess,80.0,Dark Prince,18.0,Prince,79.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+08355,Princess,80.0,Dark Prince,18.0,Prince,79.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+08370,Princess,80.0,Dark Prince,18.0,Prince,79.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+08385,Princess,80.0,Dark Prince,18.0,Prince,79.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08400,Princess,80.0,Dark Prince,18.0,Bandit,5.0,Goblin Gang,42.0,Prince,79.0,3.0,1,True,True,5.0,5.0
+08415,Princess,80.0,Dark Prince,18.0,Bandit,5.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+08430,Princess,80.0,Dark Prince,18.0,Bandit,5.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+08445,Princess,80.0,Dark Prince,18.0,Bandit,5.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+08460,Princess,80.0,Dark Prince,18.0,Bandit,5.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+08475,Princess,80.0,Dark Prince,18.0,Bandit,5.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+08490,Princess,80.0,Dark Prince,18.0,Bandit,5.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+08505,Princess,80.0,Dark Prince,18.0,Bandit,5.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+08520,Princess,80.0,Bats,9.0,Bandit,5.0,Goblin Gang,42.0,Dark Prince,18.0,2.0,2,True,True,3.0,4.0
+08535,Princess,80.0,Bats,9.0,Bandit,5.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+08550,Princess,80.0,Bats,9.0,Bandit,5.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+08565,Princess,80.0,Bats,9.0,Bandit,5.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+08580,Princess,80.0,Bats,9.0,Bandit,5.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+08595,Princess,80.0,Bats,9.0,The Log,98.0,Goblin Gang,42.0,Bandit,5.0,3.0,1,True,True,3.0,3.0
+08610,Princess,80.0,Bats,9.0,The Log,98.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+08625,Princess,80.0,Bats,9.0,The Log,98.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+08640,Princess,80.0,Bats,9.0,Zap,107.0,Goblin Gang,42.0,The Log,98.0,3.0,3,True,True,1.0,2.0
+08655,Princess,80.0,Bats,9.0,Zap,107.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+08670,Princess,80.0,Bats,9.0,Zap,107.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+08685,Princess,80.0,Bats,9.0,Zap,107.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0

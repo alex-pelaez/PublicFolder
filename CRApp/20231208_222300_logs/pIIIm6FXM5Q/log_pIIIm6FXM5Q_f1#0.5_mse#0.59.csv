@@ -1,0 +1,915 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00225,,,,,Skeletons,94.0,,,,,,6,False,False,0.0,0.0
+00240,,,,,Skeletons,94.0,,,,,,6,False,False,0.0,0.0
+00255,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,4.0,6,True,False,0.0,0.0
+00270,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+00285,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+00300,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+00315,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+00330,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+00345,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+00360,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00375,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00390,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00405,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00420,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00435,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00450,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00465,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00480,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00495,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00510,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00525,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00540,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,Skeletons,94.0,3.0,9,True,False,0.0,1.0
+00555,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00570,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00585,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00600,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00615,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+00630,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+00645,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+00660,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+00675,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+00690,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,True,2.0,0.0
+00705,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00720,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00735,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00750,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00765,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00780,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00795,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00810,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00825,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00840,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00855,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+00870,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+00885,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+00900,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+00915,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+00930,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,True,3.0,0.0
+00945,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+00960,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+00975,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+00990,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+01005,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+01020,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01035,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01050,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01065,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01080,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01095,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+01110,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+01125,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+01140,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,6,False,True,3.0,0.0
+01155,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+01170,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+01185,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+01200,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+01215,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+01230,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+01245,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+01260,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01275,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01290,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01305,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01320,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01335,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01350,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,5,False,True,3.0,0.0
+01365,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+01380,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+01395,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+01410,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+01425,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+01440,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+01455,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+01470,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+01485,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+01500,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+01515,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+01530,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+01545,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+01560,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+01575,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+01590,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+01605,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01620,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01635,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01650,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01665,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01680,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+01695,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+01710,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+01725,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+01740,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+01755,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+01770,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+01785,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,True,1.0,0.0
+01800,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+01815,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+01830,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+01845,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,True,2.0,0.0
+01860,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+01875,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01890,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01905,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01920,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01935,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+01950,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+01965,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+01980,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+01995,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+02010,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+02025,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,6,False,True,3.0,0.0
+02040,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+02055,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+02070,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+02085,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+02100,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+02115,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+02130,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+02145,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,5,False,True,3.0,0.0
+02160,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+02175,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+02190,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+02205,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+02220,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+02235,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+02250,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+02265,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+02280,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,Tornado,101.0,3.0,3,True,True,3.0,3.0
+02295,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+02310,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+02325,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+02340,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+02355,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+02370,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+02385,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+02400,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+02415,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+02430,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+02445,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+02460,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+02475,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+02490,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+02505,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+02520,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+02535,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+02550,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+02565,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+02580,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+02595,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+02610,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+02625,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+02640,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+02655,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+02670,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+02685,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+02700,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+02715,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+02730,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+02745,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+02760,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,5,False,True,4.0,0.0
+02775,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+02790,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+02805,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+02820,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+02835,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+02850,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,0,False,True,6.0,0.0
+02865,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,0,False,False,0.0,0.0
+02880,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02895,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02910,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02925,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02940,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02955,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02970,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02985,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+03000,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+03015,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+03030,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+03045,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+03060,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,1,False,True,2.0,0.0
+03075,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+03090,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+03105,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+03120,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+03135,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+03150,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+03165,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+03180,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+03195,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+03210,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+03225,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+03240,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+03255,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+03270,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+03285,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+03300,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+03315,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+03330,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+03345,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+03360,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+03375,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+03390,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+03405,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+03420,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+03435,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+03450,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+03465,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+03480,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+03495,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+03510,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+03525,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+03540,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+03555,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+03570,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+03585,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+03600,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+03615,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+03630,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+03645,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+03660,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+03675,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+03690,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+03705,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+03720,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+03735,Skeletons,94.0,Mega Minion,64.0,Skeletons,94.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+03750,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,Skeletons,94.0,3.0,8,True,True,1.0,1.0
+03765,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+03780,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+03795,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+03810,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+03825,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,True,3.0,0.0
+03840,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+03855,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+03870,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+03885,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+03900,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+03915,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+03930,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+03945,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+03960,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+03975,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,6,False,True,4.0,0.0
+03990,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+04005,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+04020,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+04035,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+04050,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+04065,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+04080,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+04095,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+04110,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+04125,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+04140,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+04155,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,4,False,True,6.0,0.0
+04170,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+04185,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+04200,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+04215,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+04230,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+04245,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+04260,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+04275,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+04290,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+04305,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+04320,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+04335,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+04350,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+04365,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+04380,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+04395,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+04410,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+04425,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+04440,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+04455,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,True,2.0,0.0
+04470,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,5,False,True,3.0,0.0
+04485,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+04500,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+04515,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+04530,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+04545,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+04560,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+04575,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+04590,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+04605,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+04620,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,6,False,True,2.0,0.0
+04635,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+04650,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+04665,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+04680,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+04695,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+04710,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+04725,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+04740,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+04755,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+04770,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,5,False,True,4.0,0.0
+04785,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+04800,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+04815,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+04830,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+04845,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,1,False,True,6.0,0.0
+04860,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+04875,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+04890,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+04905,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+04920,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+04935,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+04950,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+04965,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+04980,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,0,False,True,3.0,0.0
+04995,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+05010,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+05025,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+05040,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+05055,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+05070,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+05085,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+05100,Skeletons,94.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+05115,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,Tornado,101.0,3.0,1,True,True,2.0,3.0
+05130,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+05145,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+05160,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+05175,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+05190,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+05205,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+05220,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+05235,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+05250,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,2,False,True,1.0,0.0
+05265,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+05280,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+05295,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+05310,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+05325,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,1,False,True,2.0,0.0
+05340,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+05355,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+05370,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+05385,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+05400,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+05415,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+05430,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+05445,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+05460,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+05475,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+05490,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,1,False,True,3.0,0.0
+05505,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+05520,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+05535,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+05550,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+05565,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+05580,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+05595,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+05610,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+05625,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+05640,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+05655,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+05670,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+05685,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+05700,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+05715,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+05730,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+05745,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+05760,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+05775,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+05790,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+05805,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+05820,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+05835,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Tornado,101.0,Rocket,84.0,4.0,3,True,True,5.0,6.0
+05850,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+05865,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+05880,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+05895,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+05910,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+05925,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+05940,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+05955,Skeletons,94.0,Mega Minion,64.0,Mega Minion,64.0,Tornado,101.0,,,,3,False,True,2.0,0.0
+05970,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tornado,101.0,Skeletons,94.0,1.0,2,True,True,1.0,1.0
+05985,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+06000,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+06015,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+06030,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+06045,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+06060,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+06075,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+06090,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+06105,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+06120,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+06135,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+06150,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+06165,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+06180,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+06195,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+06210,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,Tornado,101.0,4.0,5,True,True,2.0,3.0
+06225,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,6,False,False,0.0,0.0
+06240,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,6,False,False,0.0,0.0
+06255,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,6,False,False,0.0,0.0
+06270,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,3,False,True,3.0,0.0
+06285,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+06300,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+06315,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+06330,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+06345,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+06360,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+06375,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+06390,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+06405,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,5,False,False,0.0,0.0
+06420,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,5,False,False,0.0,0.0
+06435,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,5,False,False,0.0,0.0
+06450,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,5,False,False,0.0,0.0
+06465,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,5,False,False,0.0,0.0
+06480,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,5,False,False,0.0,0.0
+06495,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,5,False,False,0.0,0.0
+06510,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,5,False,False,0.0,0.0
+06525,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,5,False,False,0.0,0.0
+06540,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,6,False,False,0.0,0.0
+06555,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,6,False,False,0.0,0.0
+06570,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,6,False,False,0.0,0.0
+06585,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,6,False,False,0.0,0.0
+06600,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,6,False,False,0.0,0.0
+06615,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,6,False,False,0.0,0.0
+06630,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,7,False,False,0.0,0.0
+06645,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,7,False,False,0.0,0.0
+06660,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,7,False,False,0.0,0.0
+06675,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,7,False,False,0.0,0.0
+06690,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,7,False,False,0.0,0.0
+06705,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,8,False,False,0.0,0.0
+06720,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,8,False,False,0.0,0.0
+06735,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,8,False,False,0.0,0.0
+06750,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,8,False,False,0.0,0.0
+06765,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,8,False,False,0.0,0.0
+06780,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,8,False,False,0.0,0.0
+06795,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,9,False,False,0.0,0.0
+06810,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,9,False,False,0.0,0.0
+06825,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,9,False,False,0.0,0.0
+06840,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,9,False,False,0.0,0.0
+06855,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,9,False,False,0.0,0.0
+06870,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,9,False,False,0.0,0.0
+06885,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,10,False,False,0.0,0.0
+06900,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,10,False,False,0.0,0.0
+06915,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,10,False,False,0.0,0.0
+06930,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,10,False,False,0.0,0.0
+06945,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,10,False,False,0.0,0.0
+06960,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,10,False,False,0.0,0.0
+06975,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Tombstone,100.0,,,,10,False,False,0.0,0.0
+06990,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,Tombstone,100.0,4.0,7,True,True,3.0,3.0
+07005,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+07020,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+07035,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+07050,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+07065,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+07080,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+07095,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+07110,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+07125,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+07140,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+07155,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+07170,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+07185,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+07200,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+07215,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+07230,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+07245,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,10,False,False,0.0,0.0
+07260,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,10,False,False,0.0,0.0
+07275,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,10,False,False,0.0,0.0
+07290,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,10,False,False,0.0,0.0
+07305,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,10,False,False,0.0,0.0
+07320,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,10,False,False,0.0,0.0
+07335,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,10,False,False,0.0,0.0
+07350,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,10,False,False,0.0,0.0
+07365,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,10,False,False,0.0,0.0
+07380,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,10,False,False,0.0,0.0
+07395,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,10,False,False,0.0,0.0
+07410,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,10,False,False,0.0,0.0
+07425,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,Barbarians,8.0,,,,10,False,False,0.0,0.0
+07440,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,Mega Minion,64.0,2.0,10,True,True,3.0,3.0
+07455,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,10,False,False,0.0,0.0
+07470,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+07485,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+07500,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+07515,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+07530,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+07545,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+07560,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+07575,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+07590,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+07605,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+07620,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+07635,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+07650,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+07665,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+07680,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+07695,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,10,False,False,0.0,0.0
+07710,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,10,False,False,0.0,0.0
+07725,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,10,False,False,0.0,0.0
+07740,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,True,3.0,0.0
+07755,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+07770,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+07785,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+07800,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+07815,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+07830,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,4,False,True,4.0,0.0
+07845,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+07860,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+07875,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+07890,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+07905,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+07920,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+07935,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+07950,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+07965,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+07980,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+07995,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+08010,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+08025,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+08040,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+08055,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+08070,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+08085,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+08100,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+08115,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+08130,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+08145,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+08160,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+08175,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+08190,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+08205,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+08220,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,Barbarians,8.0,4.0,4,True,True,4.0,5.0
+08235,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+08250,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+08265,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+08280,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+08295,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,5,False,False,0.0,0.0
+08310,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,5,False,False,0.0,0.0
+08325,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,5,False,False,0.0,0.0
+08340,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,0,False,True,5.0,0.0
+08355,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,0,False,False,0.0,0.0
+08370,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,0,False,False,0.0,0.0
+08385,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+08400,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+08415,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+08430,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+08445,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+08460,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+08475,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+08490,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+08505,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+08520,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+08535,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+08550,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,1,False,True,1.0,0.0
+08565,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+08580,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+08595,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+08610,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+08625,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+08640,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+08655,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+08670,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+08685,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+08700,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+08715,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,3,False,False,0.0,0.0
+08730,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,3,False,False,0.0,0.0
+08745,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,3,False,False,0.0,0.0
+08760,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,3,False,False,0.0,0.0
+08775,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,3,False,False,0.0,0.0
+08790,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,3,False,False,0.0,0.0
+08805,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+08820,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+08835,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+08850,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+08865,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+08880,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+08895,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,5,False,False,0.0,0.0
+08910,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,5,False,False,0.0,0.0
+08925,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,5,False,False,0.0,0.0
+08940,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,5,False,False,0.0,0.0
+08955,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,5,False,False,0.0,0.0
+08970,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,6,False,False,0.0,0.0
+08985,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,6,False,False,0.0,0.0
+09000,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,6,False,False,0.0,0.0
+09015,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,6,False,False,0.0,0.0
+09030,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,6,False,False,0.0,0.0
+09045,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,6,False,False,0.0,0.0
+09060,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,7,False,False,0.0,0.0
+09075,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,7,False,False,0.0,0.0
+09090,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,7,False,False,0.0,0.0
+09105,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,7,False,False,0.0,0.0
+09120,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,7,False,False,0.0,0.0
+09135,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,8,False,False,0.0,0.0
+09150,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,8,False,False,0.0,0.0
+09165,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,8,False,False,0.0,0.0
+09180,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,8,False,False,0.0,0.0
+09195,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,8,False,False,0.0,0.0
+09210,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,8,False,False,0.0,0.0
+09225,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,9,False,False,0.0,0.0
+09240,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,9,False,False,0.0,0.0
+09255,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,9,False,False,0.0,0.0
+09270,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,9,False,False,0.0,0.0
+09285,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,9,False,False,0.0,0.0
+09300,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Tombstone,100.0,,,,9,False,False,0.0,0.0
+09315,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,Tombstone,100.0,4.0,7,True,True,2.0,3.0
+09330,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+09345,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+09360,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+09375,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+09390,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+09405,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+09420,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+09435,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+09450,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+09465,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+09480,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+09495,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+09510,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+09525,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+09540,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+09555,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,10,False,False,0.0,0.0
+09570,Zap,107.0,Barbarians,8.0,Mega Minion,64.0,Barbarians,8.0,Lava Hound,59.0,2.0,3,True,True,7.0,7.0
+09585,Zap,107.0,Barbarians,8.0,Mega Minion,64.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+09600,Zap,107.0,Barbarians,8.0,Mega Minion,64.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+09615,Zap,107.0,Barbarians,8.0,Mega Minion,64.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+09630,Zap,107.0,Barbarians,8.0,Mega Minion,64.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+09645,Zap,107.0,Barbarians,8.0,Mega Minion,64.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09660,Zap,107.0,Barbarians,8.0,Mega Minion,64.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09675,Zap,107.0,Barbarians,8.0,Mega Minion,64.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09690,Zap,107.0,Barbarians,8.0,Mega Minion,64.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09705,Zap,107.0,Barbarians,8.0,Mega Minion,64.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09720,Zap,107.0,Barbarians,8.0,Mega Minion,64.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09735,Zap,107.0,Barbarians,8.0,Mega Minion,64.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+09750,Zap,107.0,Barbarians,8.0,Mega Minion,64.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+09765,Zap,107.0,Barbarians,8.0,Mega Minion,64.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+09780,Zap,107.0,Barbarians,8.0,Mega Minion,64.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+09795,Zap,107.0,Barbarians,8.0,Mega Minion,64.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+09810,Zap,107.0,Barbarians,8.0,Mega Minion,64.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+09825,Zap,107.0,Barbarians,8.0,Mega Minion,64.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+09840,Zap,107.0,Barbarians,8.0,Mega Minion,64.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+09855,Zap,107.0,Barbarians,8.0,Mega Minion,64.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+09870,Zap,107.0,Barbarians,8.0,Mega Minion,64.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+09885,Zap,107.0,Barbarians,8.0,Mega Minion,64.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+09900,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,Mega Minion,64.0,3.0,4,True,True,2.0,3.0
+09915,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09930,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+09945,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,1,False,True,3.0,0.0
+09960,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,1,False,False,0.0,0.0
+09975,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,2,False,False,0.0,0.0
+09990,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,2,False,False,0.0,0.0
+10005,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,2,False,False,0.0,0.0
+10020,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,2,False,False,0.0,0.0
+10035,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,2,False,False,0.0,0.0
+10050,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,2,False,False,0.0,0.0
+10065,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+10080,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+10095,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+10110,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+10125,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+10140,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+10155,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+10170,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+10185,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+10200,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+10215,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+10230,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+10245,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+10260,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+10275,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+10290,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+10305,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,3,False,True,5.0,0.0
+10320,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+10335,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+10350,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+10365,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+10380,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+10395,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+10410,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+10425,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+10440,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+10455,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+10470,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+10485,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+10500,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+10515,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+10530,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+10545,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+10560,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+10575,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,10,False,False,0.0,0.0
+10590,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,10,False,False,0.0,0.0
+10605,Zap,107.0,Barbarians,8.0,Tombstone,100.0,Barbarians,8.0,,,,10,False,False,0.0,0.0
+10620,Zap,107.0,Lava Hound,59.0,Tombstone,100.0,Barbarians,8.0,Barbarians,8.0,2.0,5,True,True,5.0,5.0
+10635,Zap,107.0,Lava Hound,59.0,Tombstone,100.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+10650,Zap,107.0,Lava Hound,59.0,Tombstone,100.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+10665,Zap,107.0,Lava Hound,59.0,Tombstone,100.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+10680,Zap,107.0,Lava Hound,59.0,Tombstone,100.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+10695,Zap,107.0,Lava Hound,59.0,Tombstone,100.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+10710,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,Tombstone,100.0,3.0,4,True,True,3.0,3.0
+10725,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+10740,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+10755,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+10770,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+10785,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+10800,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+10815,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+10830,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+10845,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,4,False,True,3.0,0.0
+10860,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+10875,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+10890,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+10905,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+10920,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+10935,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+10950,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+10965,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+10980,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+10995,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+11010,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+11025,Zap,107.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,5,False,True,3.0,0.0
+11040,Barbarians,8.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,Zap,107.0,1.0,3,True,True,2.0,2.0
+11055,Barbarians,8.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+11070,Barbarians,8.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+11085,Barbarians,8.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+11100,Barbarians,8.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+11115,Barbarians,8.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+11130,Barbarians,8.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+11145,Barbarians,8.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+11160,Barbarians,8.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+11175,Barbarians,8.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+11190,Barbarians,8.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+11205,Barbarians,8.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+11220,Barbarians,8.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+11235,Barbarians,8.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+11250,Barbarians,8.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+11265,Barbarians,8.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+11280,Barbarians,8.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+11295,Barbarians,8.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+11310,Barbarians,8.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,9,False,False,0.0,0.0
+11325,Barbarians,8.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,10,False,False,0.0,0.0
+11340,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,Barbarians,8.0,1.0,5,True,True,5.0,5.0
+11355,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+11370,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+11385,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+11400,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+11415,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+11430,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+11445,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+11460,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+11475,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+11490,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,5,False,True,3.0,0.0
+11505,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,1,False,True,4.0,0.0
+11520,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,1,False,False,0.0,0.0
+11535,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,2,False,False,0.0,0.0
+11550,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,2,False,False,0.0,0.0
+11565,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,2,False,False,0.0,0.0
+11580,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+11595,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+11610,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+11625,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+11640,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+11655,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+11670,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+11685,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+11700,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,Mega Minion,64.0,3.0,2,True,True,3.0,3.0
+11715,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+11730,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+11745,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+11760,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+11775,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+11790,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+11805,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+11820,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+11835,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+11850,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+11865,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+11880,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+11895,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+11910,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+11925,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+11940,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,4,False,True,4.0,0.0
+11955,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+11970,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+11985,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+12000,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+12015,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+12030,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+12045,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+12060,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+12075,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+12090,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+12105,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,8,False,False,0.0,0.0
+12120,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,Tombstone,100.0,1.0,5,True,True,3.0,3.0
+12135,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+12150,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+12165,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+12180,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+12195,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,7,False,False,0.0,0.0
+12210,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,5,False,True,2.0,0.0
+12225,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+12240,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+12255,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+12270,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,6,False,False,0.0,0.0
+12285,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,1,False,True,5.0,0.0
+12300,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,2,False,False,0.0,0.0
+12315,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,2,False,False,0.0,0.0
+12330,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,2,False,False,0.0,0.0
+12345,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+12360,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,3,False,False,0.0,0.0
+12375,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+12390,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+12405,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,4,False,False,0.0,0.0
+12420,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+12435,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+12450,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Barbarians,8.0,,,,5,False,False,0.0,0.0
+12465,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,Barbarians,8.0,4.0,7,True,True,6.0,5.0
+12480,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,1,False,False,0.0,0.0
+12495,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,1,False,False,0.0,0.0
+12510,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+12525,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+12540,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+12555,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+12570,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+12585,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+12600,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+12615,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+12630,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+12645,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+12660,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+12675,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+12690,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+12705,Mega Minion,64.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+12720,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,1.0,4,True,True,2.0,3.0
+12735,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+12750,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+12765,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+12780,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+12795,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+12810,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Mega Minion,64.0,Zap,107.0,3.0,4,True,True,2.0,2.0
+12825,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+12840,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+12855,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+12870,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+12885,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Mega Minion,64.0,,,,2,False,True,3.0,0.0
+12900,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+12915,Tombstone,100.0,Lava Hound,59.0,Mega Minion,64.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+12930,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,Mega Minion,64.0,3.0,3,True,False,0.0,3.0
+12945,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+12960,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+12975,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+12990,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+13005,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+13020,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+13035,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+13050,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+13065,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+13080,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+13095,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+13110,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+13125,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+13140,Tombstone,100.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+13155,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,Tombstone,100.0,1.0,5,True,True,3.0,3.0
+13170,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+13185,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,1,False,True,4.0,0.0
+13200,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,1,False,False,0.0,0.0
+13215,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+13230,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+13245,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+13260,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+13275,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+13290,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+13305,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+13320,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+13335,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+13350,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+13365,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+13380,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+13395,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+13410,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+13425,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+13440,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+13455,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+13470,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+13485,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+13500,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+13515,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,9,False,False,0.0,0.0
+13530,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,9,False,False,0.0,0.0
+13545,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,6,False,True,3.0,0.0
+13560,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+13575,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+13590,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+13605,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+13620,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,3,False,True,5.0,0.0
+13635,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+13650,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+13665,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+13680,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+13695,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+13710,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+13725,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+13740,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+13755,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Tombstone,100.0,Mega Minion,64.0,4.0,4,True,True,2.0,3.0
+13770,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+13785,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Tombstone,100.0,,,,5,False,False,0.0,0.0
+13800,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Tombstone,100.0,,,,1,False,True,4.0,0.0
+13815,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+13830,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+13845,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+13860,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+13875,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+13890,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Tombstone,100.0,,,,3,False,False,0.0,0.0
+13905,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Tombstone,100.0,,,,3,False,False,0.0,0.0
+13920,Barbarians,8.0,Lava Hound,59.0,Zap,107.0,Tombstone,100.0,,,,4,False,False,0.0,0.0

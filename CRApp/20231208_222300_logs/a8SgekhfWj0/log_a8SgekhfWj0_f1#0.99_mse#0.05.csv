@@ -1,0 +1,606 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00225,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+00240,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+00255,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+00270,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00285,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00300,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00315,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00330,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00345,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00360,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00375,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00390,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00405,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00420,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00435,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00450,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00465,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00480,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00495,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00510,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00525,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00540,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00555,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00570,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00585,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00600,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00615,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00630,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00645,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Tornado,101.0,Barbarian Barrel,6.0,4.0,8,True,True,2.0,2.0
+00660,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00675,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00690,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00705,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00720,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00735,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00750,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00765,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00780,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00795,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00810,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00825,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00840,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00855,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00870,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00885,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00900,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00915,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00930,Poison,78.0,Goblin Cage,40.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00945,Poison,78.0,Knight,58.0,Baby Dragon,3.0,Tornado,101.0,Goblin Cage,40.0,2.0,6,True,True,4.0,4.0
+00960,Poison,78.0,Knight,58.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+00975,Poison,78.0,Knight,58.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+00990,Poison,78.0,Knight,58.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01005,Poison,78.0,Knight,58.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01020,Poison,78.0,Knight,58.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01035,Poison,78.0,Knight,58.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01050,Poison,78.0,Knight,58.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01065,Poison,78.0,Knight,58.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01080,Poison,78.0,Knight,58.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01095,Poison,78.0,Knight,58.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01110,Poison,78.0,Knight,58.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01125,Poison,78.0,Knight,58.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01140,Poison,78.0,Knight,58.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01155,Poison,78.0,Knight,58.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01170,Poison,78.0,Knight,58.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01185,Poison,78.0,Knight,58.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+01200,Poison,78.0,Knight,58.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+01215,Poison,78.0,Knight,58.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+01230,Poison,78.0,Knight,58.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+01245,Poison,78.0,Knight,58.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+01260,Poison,78.0,Knight,58.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+01275,Poison,78.0,Knight,58.0,Ice Wizard,55.0,Tornado,101.0,Baby Dragon,3.0,3.0,6,True,True,3.0,4.0
+01290,Poison,78.0,Knight,58.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01305,Poison,78.0,Knight,58.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01320,Poison,78.0,Knight,58.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01335,Poison,78.0,Knight,58.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01350,Poison,78.0,Knight,58.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01365,Poison,78.0,Knight,58.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01380,Poison,78.0,Knight,58.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01395,Poison,78.0,Knight,58.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01410,Poison,78.0,Knight,58.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01425,Poison,78.0,Knight,58.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01440,Poison,78.0,Knight,58.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01455,Poison,78.0,Knight,58.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01470,Poison,78.0,Knight,58.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01485,Poison,78.0,Knight,58.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01500,Poison,78.0,Knight,58.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01515,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,Knight,58.0,2.0,5,True,True,3.0,3.0
+01530,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01545,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01560,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,Graveyard,48.0,2.0,1,True,True,5.0,5.0
+01575,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01590,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01605,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01620,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01635,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01650,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01665,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01680,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01695,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01710,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01725,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01740,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01755,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01770,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01785,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01800,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01815,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01830,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01845,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01860,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01875,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01890,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01905,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01920,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01935,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01950,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01965,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01980,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01995,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02010,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02025,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02040,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02055,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02070,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02085,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02100,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02115,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02130,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02145,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02160,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02175,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02190,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02205,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02220,Poison,78.0,Barbarian Barrel,6.0,Ice Wizard,55.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02235,Poison,78.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Tornado,101.0,Ice Wizard,55.0,3.0,6,True,True,3.0,3.0
+02250,Poison,78.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02265,Poison,78.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02280,Poison,78.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02295,Poison,78.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02310,Poison,78.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02325,Poison,78.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02340,Poison,78.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02355,Poison,78.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02370,Poison,78.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02385,Poison,78.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02400,Poison,78.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02415,Poison,78.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02430,Poison,78.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02445,Poison,78.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02460,Poison,78.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02475,Poison,78.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02490,Poison,78.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02505,Poison,78.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02520,Poison,78.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02535,Poison,78.0,Barbarian Barrel,6.0,Goblin Cage,40.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+02550,Poison,78.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,Goblin Cage,40.0,3.0,6,True,True,4.0,4.0
+02565,Poison,78.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02580,Poison,78.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02595,Poison,78.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02610,Poison,78.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+02625,Poison,78.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02640,Poison,78.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02655,Poison,78.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02670,Poison,78.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02685,Poison,78.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02700,Poison,78.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+02715,Poison,78.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02730,Poison,78.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02745,Poison,78.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02760,Poison,78.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02775,Poison,78.0,Barbarian Barrel,6.0,Knight,58.0,Tornado,101.0,Baby Dragon,3.0,3.0,4,True,True,4.0,4.0
+02790,Poison,78.0,Barbarian Barrel,6.0,Knight,58.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02805,Poison,78.0,Barbarian Barrel,6.0,Knight,58.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02820,Poison,78.0,Barbarian Barrel,6.0,Knight,58.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+02835,Poison,78.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,Barbarian Barrel,6.0,2.0,3,True,True,2.0,2.0
+02850,Poison,78.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02865,Poison,78.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02880,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,Knight,58.0,3.0,1,True,True,2.0,3.0
+02895,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+02910,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+02925,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+02940,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+02955,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+02970,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+02985,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+03000,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+03015,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+03030,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+03045,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03060,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03075,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03090,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03105,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03120,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+03135,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03150,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03165,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03180,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03195,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+03210,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03225,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03240,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03255,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03270,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03285,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03300,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03315,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03330,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03345,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03360,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03375,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03390,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03405,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03420,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03435,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03450,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03465,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03480,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03495,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03510,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03525,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03540,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03555,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+03570,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+03585,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+03600,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+03615,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+03630,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,Ice Wizard,55.0,3.0,7,True,True,2.0,3.0
+03645,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03660,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03675,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03690,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03705,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03720,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03735,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03750,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03765,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03780,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03795,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+03810,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+03825,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+03840,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+03855,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+03870,Poison,78.0,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Goblin Cage,40.0,3.0,6,True,True,4.0,4.0
+03885,Poison,78.0,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+03900,Poison,78.0,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03915,Poison,78.0,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03930,Poison,78.0,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03945,Poison,78.0,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03960,Poison,78.0,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03975,Poison,78.0,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+03990,Poison,78.0,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+04005,Poison,78.0,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+04020,Poison,78.0,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+04035,Poison,78.0,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+04050,Poison,78.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,Baby Dragon,3.0,3.0,10,True,True,4.0,4.0
+04065,Poison,78.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+04080,Poison,78.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04095,Poison,78.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04110,Poison,78.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04125,Poison,78.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+04140,Poison,78.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+04155,Poison,78.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+04170,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,Poison,78.0,1.0,5,True,True,3.0,4.0
+04185,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+04200,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+04215,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+04230,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+04245,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04260,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04275,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04290,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+04305,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+04320,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+04335,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+04350,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+04365,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+04380,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+04395,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+04410,Knight,58.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+04425,Ice Wizard,55.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,Knight,58.0,1.0,7,True,True,3.0,3.0
+04440,Ice Wizard,55.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04455,Ice Wizard,55.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04470,Ice Wizard,55.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+04485,Goblin Cage,40.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,Ice Wizard,55.0,1.0,5,True,True,3.0,3.0
+04500,Goblin Cage,40.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+04515,Goblin Cage,40.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+04530,Goblin Cage,40.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+04545,Goblin Cage,40.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04560,Goblin Cage,40.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04575,Goblin Cage,40.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04590,Goblin Cage,40.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+04605,Goblin Cage,40.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+04620,Goblin Cage,40.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+04635,Goblin Cage,40.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+04650,Goblin Cage,40.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+04665,Goblin Cage,40.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+04680,Baby Dragon,3.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,Goblin Cage,40.0,1.0,6,True,True,3.0,4.0
+04695,Baby Dragon,3.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+04710,Baby Dragon,3.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04725,Baby Dragon,3.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04740,Baby Dragon,3.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04755,Baby Dragon,3.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+04770,Baby Dragon,3.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+04785,Baby Dragon,3.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+04800,Baby Dragon,3.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+04815,Baby Dragon,3.0,Graveyard,48.0,Poison,78.0,Tornado,101.0,Barbarian Barrel,6.0,3.0,10,True,True,2.0,2.0
+04830,Baby Dragon,3.0,Graveyard,48.0,Poison,78.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+04845,Baby Dragon,3.0,Graveyard,48.0,Poison,78.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+04860,Baby Dragon,3.0,Graveyard,48.0,Poison,78.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+04875,Baby Dragon,3.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,Poison,78.0,3.0,4,True,True,4.0,4.0
+04890,Baby Dragon,3.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+04905,Baby Dragon,3.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+04920,Baby Dragon,3.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+04935,Baby Dragon,3.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,Knight,58.0,3.0,3,True,True,3.0,3.0
+04950,Baby Dragon,3.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04965,Baby Dragon,3.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04980,Baby Dragon,3.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+04995,Baby Dragon,3.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+05010,Baby Dragon,3.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+05025,Baby Dragon,3.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+05040,Baby Dragon,3.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+05055,Baby Dragon,3.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+05070,Baby Dragon,3.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+05085,Baby Dragon,3.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+05100,Baby Dragon,3.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+05115,Baby Dragon,3.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+05130,Baby Dragon,3.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+05145,Baby Dragon,3.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+05160,Baby Dragon,3.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+05175,Baby Dragon,3.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+05190,Baby Dragon,3.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+05205,Baby Dragon,3.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,Ice Wizard,55.0,3.0,6,True,True,3.0,3.0
+05220,Baby Dragon,3.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+05235,Baby Dragon,3.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+05250,Baby Dragon,3.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+05265,Baby Dragon,3.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+05280,Baby Dragon,3.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+05295,Baby Dragon,3.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+05310,Baby Dragon,3.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+05325,Baby Dragon,3.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+05340,Baby Dragon,3.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+05355,Baby Dragon,3.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+05370,Baby Dragon,3.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+05385,Baby Dragon,3.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,Goblin Cage,40.0,3.0,6,True,True,4.0,4.0
+05400,Baby Dragon,3.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+05415,Baby Dragon,3.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+05430,Baby Dragon,3.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+05445,Baby Dragon,3.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+05460,Baby Dragon,3.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+05475,Baby Dragon,3.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+05490,Baby Dragon,3.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+05505,Baby Dragon,3.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+05520,Baby Dragon,3.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+05535,Baby Dragon,3.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+05550,Poison,78.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,Baby Dragon,3.0,1.0,6,True,True,3.0,4.0
+05565,Poison,78.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+05580,Poison,78.0,Graveyard,48.0,Barbarian Barrel,6.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+05595,Poison,78.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,Barbarian Barrel,6.0,3.0,5,True,True,1.0,2.0
+05610,Poison,78.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+05625,Ice Wizard,55.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,Poison,78.0,1.0,1,True,True,4.0,4.0
+05640,Ice Wizard,55.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+05655,Ice Wizard,55.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+05670,Ice Wizard,55.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+05685,Ice Wizard,55.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+05700,Ice Wizard,55.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+05715,Ice Wizard,55.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+05730,Ice Wizard,55.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+05745,Ice Wizard,55.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+05760,Ice Wizard,55.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+05775,Ice Wizard,55.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+05790,Ice Wizard,55.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+05805,Ice Wizard,55.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+05820,Ice Wizard,55.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+05835,Ice Wizard,55.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+05850,Ice Wizard,55.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+05865,Ice Wizard,55.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+05880,Ice Wizard,55.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+05895,Ice Wizard,55.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+05910,Ice Wizard,55.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+05925,Ice Wizard,55.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+05940,Goblin Cage,40.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,Ice Wizard,55.0,1.0,6,True,True,2.0,3.0
+05955,Goblin Cage,40.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+05970,Goblin Cage,40.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+05985,Goblin Cage,40.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+06000,Goblin Cage,40.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+06015,Goblin Cage,40.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+06030,Goblin Cage,40.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+06045,Goblin Cage,40.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+06060,Goblin Cage,40.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+06075,Goblin Cage,40.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+06090,Baby Dragon,3.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,Goblin Cage,40.0,1.0,5,True,True,4.0,4.0
+06105,Baby Dragon,3.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+06120,Baby Dragon,3.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+06135,Baby Dragon,3.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+06150,Baby Dragon,3.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+06165,Baby Dragon,3.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+06180,Baby Dragon,3.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+06195,Baby Dragon,3.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+06210,Baby Dragon,3.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+06225,Baby Dragon,3.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+06240,Baby Dragon,3.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+06255,Barbarian Barrel,6.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,Baby Dragon,3.0,1.0,5,True,True,4.0,4.0
+06270,Barbarian Barrel,6.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+06285,Barbarian Barrel,6.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+06300,Barbarian Barrel,6.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+06315,Barbarian Barrel,6.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+06330,Barbarian Barrel,6.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+06345,Barbarian Barrel,6.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+06360,Barbarian Barrel,6.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+06375,Barbarian Barrel,6.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+06390,Barbarian Barrel,6.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+06405,Barbarian Barrel,6.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+06420,Barbarian Barrel,6.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+06435,Barbarian Barrel,6.0,Graveyard,48.0,Poison,78.0,Tornado,101.0,Knight,58.0,3.0,7,True,True,2.0,3.0
+06450,Barbarian Barrel,6.0,Graveyard,48.0,Poison,78.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+06465,Barbarian Barrel,6.0,Graveyard,48.0,Poison,78.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+06480,Barbarian Barrel,6.0,Graveyard,48.0,Poison,78.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+06495,Barbarian Barrel,6.0,Graveyard,48.0,Poison,78.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+06510,Barbarian Barrel,6.0,Graveyard,48.0,Poison,78.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+06525,Barbarian Barrel,6.0,Graveyard,48.0,Poison,78.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+06540,Barbarian Barrel,6.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,Poison,78.0,3.0,5,True,True,4.0,4.0
+06555,Barbarian Barrel,6.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+06570,Barbarian Barrel,6.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+06585,Barbarian Barrel,6.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+06600,Barbarian Barrel,6.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+06615,Barbarian Barrel,6.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+06630,Barbarian Barrel,6.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+06645,Barbarian Barrel,6.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+06660,Barbarian Barrel,6.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+06675,Barbarian Barrel,6.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+06690,Barbarian Barrel,6.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+06705,Barbarian Barrel,6.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+06720,Barbarian Barrel,6.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,Ice Wizard,55.0,3.0,6,True,True,3.0,3.0
+06735,Barbarian Barrel,6.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+06750,Barbarian Barrel,6.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+06765,Barbarian Barrel,6.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+06780,Barbarian Barrel,6.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+06795,Barbarian Barrel,6.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+06810,Barbarian Barrel,6.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+06825,Barbarian Barrel,6.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+06840,Barbarian Barrel,6.0,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Goblin Cage,40.0,3.0,5,True,True,4.0,4.0
+06855,Barbarian Barrel,6.0,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+06870,Barbarian Barrel,6.0,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+06885,Barbarian Barrel,6.0,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+06900,Barbarian Barrel,6.0,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+06915,Barbarian Barrel,6.0,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+06930,Barbarian Barrel,6.0,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+06945,Barbarian Barrel,6.0,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+06960,Barbarian Barrel,6.0,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+06975,Barbarian Barrel,6.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,Baby Dragon,3.0,3.0,4,True,True,4.0,4.0
+06990,Barbarian Barrel,6.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+07005,Barbarian Barrel,6.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+07020,Poison,78.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,Barbarian Barrel,6.0,1.0,4,True,True,1.0,2.0
+07035,Poison,78.0,Graveyard,48.0,Knight,58.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+07050,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,Knight,58.0,3.0,1,True,True,3.0,3.0
+07065,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+07080,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+07095,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+07110,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+07125,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+07140,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+07155,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+07170,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+07185,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+07200,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+07215,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+07230,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+07245,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,Ice Wizard,55.0,3.0,3,True,True,3.0,3.0
+07260,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+07275,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+07290,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+07305,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+07320,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+07335,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+07350,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+07365,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+07380,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Baby Dragon,3.0,Tornado,101.0,4.0,3,True,True,3.0,3.0
+07395,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+07410,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+07425,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+07440,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+07455,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+07470,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+07485,Poison,78.0,Graveyard,48.0,Goblin Cage,40.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+07500,Poison,78.0,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Goblin Cage,40.0,3.0,4,True,True,3.0,4.0
+07515,Poison,78.0,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,,,,4,False,False,0.0,0.0
+07530,Poison,78.0,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+07545,Poison,78.0,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,,,,5,False,False,0.0,0.0
+07560,Poison,78.0,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+07575,Poison,78.0,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,,,,6,False,False,0.0,0.0
+07590,Poison,78.0,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+07605,Poison,78.0,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,,,,7,False,False,0.0,0.0
+07620,Poison,78.0,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,,,,8,False,False,0.0,0.0
+07635,Poison,78.0,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,,,,9,False,False,0.0,0.0
+07650,Poison,78.0,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,,,,9,False,False,0.0,0.0
+07665,Poison,78.0,Graveyard,48.0,Barbarian Barrel,6.0,Baby Dragon,3.0,,,,10,False,False,0.0,0.0
+07680,Poison,78.0,Graveyard,48.0,Barbarian Barrel,6.0,Knight,58.0,Baby Dragon,3.0,4.0,6,True,True,4.0,4.0
+07695,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,Barbarian Barrel,6.0,3.0,4,True,True,2.0,2.0
+07710,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,,,,5,False,False,0.0,0.0
+07725,Poison,78.0,Graveyard,48.0,Ice Wizard,55.0,Knight,58.0,,,,5,False,False,0.0,0.0
+07740,Poison,78.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,Graveyard,48.0,2.0,1,True,True,4.0,5.0
+07755,Poison,78.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,1,False,False,0.0,0.0
+07770,Poison,78.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,2,False,False,0.0,0.0
+07785,Poison,78.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,2,False,False,0.0,0.0
+07800,Poison,78.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,3,False,False,0.0,0.0
+07815,Poison,78.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,4,False,False,0.0,0.0
+07830,Poison,78.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,4,False,False,0.0,0.0
+07845,Poison,78.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,5,False,False,0.0,0.0
+07860,Poison,78.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,5,False,False,0.0,0.0
+07875,Poison,78.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,6,False,False,0.0,0.0
+07890,Poison,78.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,6,False,False,0.0,0.0
+07905,Goblin Cage,40.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,Poison,78.0,1.0,3,True,True,3.0,4.0
+07920,Goblin Cage,40.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,3,False,False,0.0,0.0
+07935,Goblin Cage,40.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,4,False,False,0.0,0.0
+07950,Goblin Cage,40.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,4,False,False,0.0,0.0
+07965,Goblin Cage,40.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,5,False,False,0.0,0.0
+07980,Goblin Cage,40.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,5,False,False,0.0,0.0
+07995,Goblin Cage,40.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,6,False,False,0.0,0.0
+08010,Goblin Cage,40.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,6,False,False,0.0,0.0
+08025,Goblin Cage,40.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,7,False,False,0.0,0.0
+08040,Goblin Cage,40.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,7,False,False,0.0,0.0
+08055,Goblin Cage,40.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,8,False,False,0.0,0.0
+08070,Goblin Cage,40.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,9,False,False,0.0,0.0
+08085,Goblin Cage,40.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,9,False,False,0.0,0.0
+08100,Goblin Cage,40.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08115,Goblin Cage,40.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08130,Baby Dragon,3.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,Goblin Cage,40.0,1.0,6,True,True,4.0,4.0
+08145,Baby Dragon,3.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,6,False,False,0.0,0.0
+08160,Baby Dragon,3.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,7,False,False,0.0,0.0
+08175,Baby Dragon,3.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,7,False,False,0.0,0.0
+08190,Baby Dragon,3.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,8,False,False,0.0,0.0
+08205,Baby Dragon,3.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,,,,8,False,False,0.0,0.0
+08220,Baby Dragon,3.0,Tornado,101.0,Barbarian Barrel,6.0,Knight,58.0,Ice Wizard,55.0,3.0,6,True,True,2.0,3.0
+08235,Baby Dragon,3.0,Tornado,101.0,Barbarian Barrel,6.0,Knight,58.0,,,,6,False,False,0.0,0.0
+08250,Baby Dragon,3.0,Tornado,101.0,Barbarian Barrel,6.0,Knight,58.0,,,,7,False,False,0.0,0.0
+08265,Baby Dragon,3.0,Tornado,101.0,Barbarian Barrel,6.0,Knight,58.0,,,,7,False,False,0.0,0.0
+08280,Baby Dragon,3.0,Tornado,101.0,Barbarian Barrel,6.0,Knight,58.0,,,,8,False,False,0.0,0.0
+08295,Baby Dragon,3.0,Tornado,101.0,Barbarian Barrel,6.0,Knight,58.0,,,,9,False,False,0.0,0.0
+08310,Baby Dragon,3.0,Tornado,101.0,Barbarian Barrel,6.0,Knight,58.0,,,,9,False,False,0.0,0.0
+08325,Baby Dragon,3.0,Tornado,101.0,Barbarian Barrel,6.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08340,Baby Dragon,3.0,Tornado,101.0,Barbarian Barrel,6.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08355,Baby Dragon,3.0,Tornado,101.0,Barbarian Barrel,6.0,Graveyard,48.0,Knight,58.0,4.0,10,True,True,2.0,3.0
+08370,Baby Dragon,3.0,Tornado,101.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,10,False,False,0.0,0.0
+08385,Baby Dragon,3.0,Tornado,101.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+08400,Poison,78.0,Tornado,101.0,Barbarian Barrel,6.0,Graveyard,48.0,Baby Dragon,3.0,1.0,5,True,True,3.0,4.0
+08415,Poison,78.0,Tornado,101.0,Barbarian Barrel,6.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+08430,Poison,78.0,Tornado,101.0,Goblin Cage,40.0,Graveyard,48.0,Barbarian Barrel,6.0,3.0,4,True,True,1.0,2.0
+08445,Poison,78.0,Tornado,101.0,Goblin Cage,40.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+08460,Poison,78.0,Tornado,101.0,Goblin Cage,40.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+08475,Poison,78.0,Tornado,101.0,Goblin Cage,40.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+08490,Poison,78.0,Tornado,101.0,Goblin Cage,40.0,Ice Wizard,55.0,Graveyard,48.0,4.0,1,True,True,4.0,5.0
+08505,Poison,78.0,Tornado,101.0,Goblin Cage,40.0,Ice Wizard,55.0,,,,1,False,False,0.0,0.0
+08520,Poison,78.0,Tornado,101.0,Goblin Cage,40.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+08535,Poison,78.0,Tornado,101.0,Goblin Cage,40.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+08550,Poison,78.0,Tornado,101.0,Goblin Cage,40.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+08565,Poison,78.0,Tornado,101.0,Goblin Cage,40.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+08580,Poison,78.0,Tornado,101.0,Goblin Cage,40.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+08595,Poison,78.0,Knight,58.0,Goblin Cage,40.0,Ice Wizard,55.0,Tornado,101.0,2.0,2,True,True,2.0,3.0
+08610,Poison,78.0,Knight,58.0,Goblin Cage,40.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+08625,Poison,78.0,Knight,58.0,Goblin Cage,40.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+08640,Poison,78.0,Knight,58.0,Goblin Cage,40.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+08655,Poison,78.0,Knight,58.0,Goblin Cage,40.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+08670,Poison,78.0,Knight,58.0,Goblin Cage,40.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+08685,Poison,78.0,Knight,58.0,Goblin Cage,40.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+08700,Poison,78.0,Knight,58.0,Goblin Cage,40.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+08715,Poison,78.0,Knight,58.0,Goblin Cage,40.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+08730,Poison,78.0,Knight,58.0,Goblin Cage,40.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+08745,Poison,78.0,Knight,58.0,Goblin Cage,40.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+08760,Poison,78.0,Knight,58.0,Goblin Cage,40.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+08775,Poison,78.0,Knight,58.0,Goblin Cage,40.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+08790,Poison,78.0,Knight,58.0,Goblin Cage,40.0,Ice Wizard,55.0,,,,9,False,False,0.0,0.0
+08805,Poison,78.0,Knight,58.0,Goblin Cage,40.0,Ice Wizard,55.0,,,,9,False,False,0.0,0.0
+08820,Baby Dragon,3.0,Knight,58.0,Goblin Cage,40.0,Ice Wizard,55.0,Poison,78.0,1.0,6,True,True,3.0,4.0
+08835,Baby Dragon,3.0,Knight,58.0,Goblin Cage,40.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+08850,Baby Dragon,3.0,Knight,58.0,Goblin Cage,40.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+08865,Baby Dragon,3.0,Knight,58.0,Goblin Cage,40.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+08880,Baby Dragon,3.0,Knight,58.0,Goblin Cage,40.0,Barbarian Barrel,6.0,Ice Wizard,55.0,4.0,5,True,True,2.0,3.0
+08895,Baby Dragon,3.0,Knight,58.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+08910,Baby Dragon,3.0,Knight,58.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+08925,Baby Dragon,3.0,Knight,58.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+08940,Baby Dragon,3.0,Graveyard,48.0,Goblin Cage,40.0,Barbarian Barrel,6.0,Knight,58.0,2.0,4,True,True,3.0,3.0
+08955,Baby Dragon,3.0,Graveyard,48.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+08970,Baby Dragon,3.0,Graveyard,48.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+08985,Baby Dragon,3.0,Graveyard,48.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+09000,Baby Dragon,3.0,Tornado,101.0,Goblin Cage,40.0,Barbarian Barrel,6.0,Graveyard,48.0,2.0,1,True,True,5.0,5.0
+09015,Baby Dragon,3.0,Tornado,101.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+09030,Baby Dragon,3.0,Tornado,101.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+09045,Baby Dragon,3.0,Tornado,101.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+09060,Baby Dragon,3.0,Tornado,101.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+09075,Baby Dragon,3.0,Poison,78.0,Goblin Cage,40.0,Barbarian Barrel,6.0,Tornado,101.0,2.0,1,True,True,2.0,3.0
+09090,Baby Dragon,3.0,Poison,78.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+09105,Baby Dragon,3.0,Poison,78.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+09120,Baby Dragon,3.0,Poison,78.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+09135,Baby Dragon,3.0,Poison,78.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+09150,Baby Dragon,3.0,Poison,78.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+09165,Baby Dragon,3.0,Poison,78.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+09180,Baby Dragon,3.0,Poison,78.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,1,False,True,3.0,0.0
+09195,Baby Dragon,3.0,Poison,78.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+09210,Baby Dragon,3.0,Poison,78.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+09225,Baby Dragon,3.0,Poison,78.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+09240,Baby Dragon,3.0,Poison,78.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+09255,Baby Dragon,3.0,Poison,78.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+09270,Baby Dragon,3.0,Poison,78.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+09285,Baby Dragon,3.0,Poison,78.0,Goblin Cage,40.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0

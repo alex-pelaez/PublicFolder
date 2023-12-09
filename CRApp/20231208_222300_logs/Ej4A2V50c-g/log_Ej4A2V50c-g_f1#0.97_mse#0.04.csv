@@ -1,0 +1,495 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00255,Tesla,97.0,Knight,58.0,The Log,98.0,X,106.0,,,,6,False,False,0.0,0.0
+00270,Tesla,97.0,Knight,58.0,The Log,98.0,X,106.0,,,,6,False,False,0.0,0.0
+00285,Tesla,97.0,Knight,58.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+00300,Tesla,97.0,Knight,58.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+00315,Tesla,97.0,Knight,58.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+00330,Tesla,97.0,Knight,58.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+00345,Tesla,97.0,Knight,58.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+00360,Tesla,97.0,Knight,58.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+00375,Tesla,97.0,Knight,58.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+00390,Tesla,97.0,Knight,58.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+00405,Tesla,97.0,Knight,58.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+00420,Tesla,97.0,Knight,58.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+00435,Tesla,97.0,Knight,58.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+00450,Tesla,97.0,Knight,58.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+00465,Tesla,97.0,Knight,58.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+00480,Tesla,97.0,Knight,58.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+00495,Tesla,97.0,Knight,58.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+00510,Tesla,97.0,Knight,58.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+00525,Tesla,97.0,Knight,58.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+00540,Tesla,97.0,Knight,58.0,The Log,98.0,X,106.0,,,,10,False,False,0.0,0.0
+00555,Tesla,97.0,Knight,58.0,The Log,98.0,X,106.0,,,,10,False,False,0.0,0.0
+00570,Tesla,97.0,Knight,58.0,The Log,98.0,X,106.0,,,,10,False,False,0.0,0.0
+00585,Ice Wizard,55.0,Knight,58.0,The Log,98.0,X,106.0,Tesla,97.0,1.0,6,True,True,4.0,4.0
+00600,Ice Wizard,55.0,Knight,58.0,The Log,98.0,X,106.0,,,,6,False,False,0.0,0.0
+00615,Ice Wizard,55.0,Knight,58.0,The Log,98.0,X,106.0,,,,6,False,False,0.0,0.0
+00630,Ice Wizard,55.0,Knight,58.0,The Log,98.0,X,106.0,,,,6,False,False,0.0,0.0
+00645,Ice Wizard,55.0,Knight,58.0,The Log,98.0,X,106.0,,,,6,False,False,0.0,0.0
+00660,Ice Wizard,55.0,Knight,58.0,The Log,98.0,X,106.0,,,,6,False,False,0.0,0.0
+00675,Ice Wizard,55.0,Knight,58.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+00690,Ice Wizard,55.0,Knight,58.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+00705,Ice Wizard,55.0,Knight,58.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+00720,Ice Wizard,55.0,Knight,58.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+00735,Ice Wizard,55.0,Knight,58.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+00750,Ice Wizard,55.0,Knight,58.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+00765,Ice Wizard,55.0,Knight,58.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+00780,Ice Wizard,55.0,Knight,58.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+00795,Ice Wizard,55.0,Knight,58.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+00810,Ice Wizard,55.0,Knight,58.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+00825,Ice Wizard,55.0,Knight,58.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+00840,Ice Wizard,55.0,Knight,58.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+00855,Ice Wizard,55.0,Knight,58.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+00870,Ice Wizard,55.0,Knight,58.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+00885,Ice Wizard,55.0,Knight,58.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+00900,Ice Wizard,55.0,Knight,58.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+00915,Tornado,101.0,Knight,58.0,The Log,98.0,X,106.0,Ice Wizard,55.0,1.0,7,True,True,2.0,3.0
+00930,Tornado,101.0,Knight,58.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+00945,Tornado,101.0,Knight,58.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+00960,Tornado,101.0,Knight,58.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+00975,Tornado,101.0,Knight,58.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+00990,Tornado,101.0,Knight,58.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+01005,Tornado,101.0,Knight,58.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+01020,Tornado,101.0,Knight,58.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+01035,Tornado,101.0,Knight,58.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+01050,Tornado,101.0,Knight,58.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+01065,Tornado,101.0,Knight,58.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+01080,Tornado,101.0,Knight,58.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+01095,Tornado,101.0,Knight,58.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+01110,Tornado,101.0,Knight,58.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+01125,Tornado,101.0,Knight,58.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+01140,Tornado,101.0,Knight,58.0,The Log,98.0,Skeletons,94.0,X,106.0,4.0,3,True,True,6.0,6.0
+01155,Tornado,101.0,Knight,58.0,The Log,98.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+01170,Tornado,101.0,Knight,58.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+01185,Tornado,101.0,Knight,58.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+01200,Tornado,101.0,Knight,58.0,The Log,98.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+01215,Tornado,101.0,Knight,58.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,4.0,3,True,True,1.0,1.0
+01230,Tornado,101.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+01245,Tornado,101.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+01260,Tornado,101.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+01275,Tornado,101.0,Knight,58.0,The Log,98.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+01290,Tornado,101.0,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,3.0,2,True,True,2.0,2.0
+01305,Tornado,101.0,Knight,58.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+01320,Tornado,101.0,Knight,58.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+01335,Tornado,101.0,Knight,58.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+01350,Tornado,101.0,Knight,58.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+01365,Tornado,101.0,Knight,58.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+01380,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,Knight,58.0,2.0,0,True,True,3.0,3.0
+01395,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,0,False,False,0.0,0.0
+01410,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,0,False,False,0.0,0.0
+01425,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+01440,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+01455,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+01470,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+01485,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+01500,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+01515,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+01530,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+01545,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+01560,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+01575,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+01590,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+01605,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+01620,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+01635,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+01650,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+01665,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+01680,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+01695,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+01710,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+01725,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+01740,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+01755,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+01770,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+01785,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+01800,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+01815,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+01830,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+01845,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+01860,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+01875,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+01890,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+01905,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+01920,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+01935,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+01950,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+01965,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+01980,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+01995,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+02010,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+02025,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+02040,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+02055,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+02070,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+02085,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+02100,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+02115,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+02130,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+02145,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+02160,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+02175,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+02190,Tornado,101.0,X,106.0,Tesla,97.0,Fireball,30.0,Ice Wizard,55.0,2.0,7,True,True,3.0,3.0
+02205,Tornado,101.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+02220,Tornado,101.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+02235,Tornado,101.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+02250,Tornado,101.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+02265,Tornado,101.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+02280,Tornado,101.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+02295,Tornado,101.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+02310,Tornado,101.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+02325,Tornado,101.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+02340,Skeletons,94.0,X,106.0,Tesla,97.0,Fireball,30.0,Tornado,101.0,1.0,5,True,True,3.0,3.0
+02355,Skeletons,94.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+02370,Skeletons,94.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+02385,Skeletons,94.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+02400,Skeletons,94.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+02415,Skeletons,94.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+02430,Skeletons,94.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+02445,Skeletons,94.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+02460,Skeletons,94.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+02475,Skeletons,94.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+02490,Skeletons,94.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+02505,Skeletons,94.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+02520,Skeletons,94.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+02535,Skeletons,94.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+02550,Skeletons,94.0,The Log,98.0,Tesla,97.0,Fireball,30.0,X,106.0,2.0,2,True,True,6.0,6.0
+02565,Skeletons,94.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02580,Skeletons,94.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02595,Skeletons,94.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02610,Skeletons,94.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02625,Skeletons,94.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02640,Skeletons,94.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02655,Skeletons,94.0,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,2.0,3,True,True,2.0,2.0
+02670,Skeletons,94.0,Knight,58.0,Tesla,97.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+02685,Skeletons,94.0,Knight,58.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02700,Skeletons,94.0,Knight,58.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02715,Skeletons,94.0,Knight,58.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02730,Skeletons,94.0,Knight,58.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02745,Skeletons,94.0,Knight,58.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02760,Skeletons,94.0,Knight,58.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02775,Skeletons,94.0,Knight,58.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02790,Skeletons,94.0,Knight,58.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02805,Skeletons,94.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,Knight,58.0,2.0,0,True,True,3.0,3.0
+02820,Skeletons,94.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,0,False,False,0.0,0.0
+02835,Skeletons,94.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,0,False,False,0.0,0.0
+02850,Skeletons,94.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+02865,Skeletons,94.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+02880,Skeletons,94.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+02895,Skeletons,94.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+02910,Skeletons,94.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+02925,Skeletons,94.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+02940,Skeletons,94.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02955,Skeletons,94.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02970,Skeletons,94.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02985,Skeletons,94.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+03000,Skeletons,94.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+03015,Skeletons,94.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03030,Skeletons,94.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03045,Skeletons,94.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03060,Skeletons,94.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03075,Skeletons,94.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03090,Skeletons,94.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03105,Skeletons,94.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03120,Skeletons,94.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03135,Skeletons,94.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03150,Skeletons,94.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03165,Skeletons,94.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03180,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,Skeletons,94.0,1.0,3,True,True,1.0,1.0
+03195,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03210,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03225,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03240,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03255,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03270,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03285,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03300,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03315,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03330,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03345,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03360,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03375,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03390,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03405,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03420,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03435,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03450,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03465,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03480,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03495,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03510,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03525,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03540,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03555,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03570,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03585,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03600,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03615,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+03630,Tornado,101.0,Ice Wizard,55.0,Tesla,97.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+03645,Tornado,101.0,X,106.0,Tesla,97.0,Fireball,30.0,Ice Wizard,55.0,2.0,6,True,True,3.0,3.0
+03660,Tornado,101.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03675,Tornado,101.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03690,Tornado,101.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03705,Tornado,101.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03720,Tornado,101.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03735,Tornado,101.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03750,Tornado,101.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03765,Tornado,101.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03780,Tornado,101.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03795,Tornado,101.0,X,106.0,Tesla,97.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03810,Tornado,101.0,The Log,98.0,Tesla,97.0,Fireball,30.0,X,106.0,2.0,2,True,True,6.0,6.0
+03825,Tornado,101.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03840,Tornado,101.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03855,Tornado,101.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03870,Tornado,101.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03885,Tornado,101.0,Knight,58.0,Tesla,97.0,Fireball,30.0,The Log,98.0,2.0,2,True,True,2.0,2.0
+03900,Tornado,101.0,Knight,58.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03915,Tornado,101.0,Knight,58.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03930,Tornado,101.0,Knight,58.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03945,Tornado,101.0,Knight,58.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03960,Tornado,101.0,Knight,58.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03975,Tornado,101.0,Knight,58.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03990,Tornado,101.0,Knight,58.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04005,Tornado,101.0,Knight,58.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04020,Tornado,101.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,Knight,58.0,2.0,2,True,True,3.0,3.0
+04035,Tornado,101.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04050,Tornado,101.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04065,Tornado,101.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04080,Tornado,101.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04095,Tornado,101.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04110,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,Fireball,30.0,Tesla,97.0,3.0,4,True,True,3.0,4.0
+04125,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+04140,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+04155,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04170,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04185,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04200,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04215,Tornado,101.0,Skeletons,94.0,Ice Wizard,55.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04230,Tornado,101.0,X,106.0,Ice Wizard,55.0,Fireball,30.0,Skeletons,94.0,2.0,2,True,True,1.0,1.0
+04245,Tornado,101.0,X,106.0,Ice Wizard,55.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04260,Tornado,101.0,X,106.0,Ice Wizard,55.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04275,Tornado,101.0,X,106.0,Ice Wizard,55.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04290,Tornado,101.0,X,106.0,Ice Wizard,55.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04305,Tornado,101.0,X,106.0,Ice Wizard,55.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04320,Tornado,101.0,X,106.0,Ice Wizard,55.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04335,Tornado,101.0,X,106.0,Ice Wizard,55.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04350,Tornado,101.0,X,106.0,Ice Wizard,55.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04365,Tornado,101.0,X,106.0,Ice Wizard,55.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04380,Tornado,101.0,X,106.0,Ice Wizard,55.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04395,Tornado,101.0,X,106.0,Ice Wizard,55.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04410,Tornado,101.0,X,106.0,Ice Wizard,55.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04425,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,Fireball,30.0,X,106.0,2.0,1,True,True,6.0,6.0
+04440,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+04455,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04470,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04485,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04500,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04515,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04530,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04545,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04560,Knight,58.0,The Log,98.0,Ice Wizard,55.0,Fireball,30.0,Tornado,101.0,1.0,1,True,True,3.0,3.0
+04575,Knight,58.0,The Log,98.0,Ice Wizard,55.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04590,Knight,58.0,The Log,98.0,Ice Wizard,55.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04605,Knight,58.0,The Log,98.0,Ice Wizard,55.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04620,Knight,58.0,The Log,98.0,Ice Wizard,55.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04635,Knight,58.0,The Log,98.0,Ice Wizard,55.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04650,Knight,58.0,The Log,98.0,Ice Wizard,55.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04665,Knight,58.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,The Log,98.0,2.0,2,True,True,1.0,2.0
+04680,Knight,58.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04695,Knight,58.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04710,Knight,58.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04725,Knight,58.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04740,Knight,58.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04755,Knight,58.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04770,Knight,58.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04785,Knight,58.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04800,Knight,58.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04815,Knight,58.0,Skeletons,94.0,Ice Wizard,55.0,Fireball,30.0,Tesla,97.0,2.0,3,True,True,2.0,4.0
+04830,Knight,58.0,Skeletons,94.0,Ice Wizard,55.0,Fireball,30.0,,,,2,False,True,1.0,0.0
+04845,Knight,58.0,Skeletons,94.0,Ice Wizard,55.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04860,Knight,58.0,Skeletons,94.0,Ice Wizard,55.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04875,Knight,58.0,Skeletons,94.0,Ice Wizard,55.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04890,Knight,58.0,Skeletons,94.0,Ice Wizard,55.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04905,Knight,58.0,Skeletons,94.0,Ice Wizard,55.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04920,Knight,58.0,Skeletons,94.0,Ice Wizard,55.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04935,Knight,58.0,Skeletons,94.0,X,106.0,Fireball,30.0,Ice Wizard,55.0,3.0,3,True,True,1.0,3.0
+04950,Knight,58.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,2,False,True,1.0,0.0
+04965,Knight,58.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04980,Knight,58.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04995,Knight,58.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05010,Knight,58.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05025,Knight,58.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05040,Knight,58.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05055,Tornado,101.0,Skeletons,94.0,X,106.0,Fireball,30.0,Knight,58.0,1.0,1,True,True,3.0,3.0
+05070,Tornado,101.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+05085,Tornado,101.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05100,Tornado,101.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05115,Tornado,101.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05130,Tornado,101.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05145,Tornado,101.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05160,Tornado,101.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05175,Tornado,101.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05190,Tornado,101.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05205,The Log,98.0,Skeletons,94.0,X,106.0,Fireball,30.0,Tornado,101.0,1.0,2,True,True,2.0,3.0
+05220,The Log,98.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05235,The Log,98.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05250,The Log,98.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05265,The Log,98.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05280,The Log,98.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05295,The Log,98.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05310,The Log,98.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05325,The Log,98.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05340,The Log,98.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05355,The Log,98.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05370,The Log,98.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05385,The Log,98.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05400,The Log,98.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05415,The Log,98.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+05430,The Log,98.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+05445,The Log,98.0,Skeletons,94.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+05460,The Log,98.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,X,106.0,3.0,2,True,True,5.0,6.0
+05475,The Log,98.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05490,The Log,98.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05505,The Log,98.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05520,The Log,98.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05535,The Log,98.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05550,The Log,98.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05565,The Log,98.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05580,The Log,98.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05595,The Log,98.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05610,The Log,98.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05625,The Log,98.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05640,The Log,98.0,Skeletons,94.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05655,The Log,98.0,Skeletons,94.0,Ice Wizard,55.0,Fireball,30.0,Tesla,97.0,3.0,2,True,True,4.0,4.0
+05670,The Log,98.0,Skeletons,94.0,Ice Wizard,55.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05685,The Log,98.0,Skeletons,94.0,Ice Wizard,55.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05700,The Log,98.0,Skeletons,94.0,Ice Wizard,55.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05715,The Log,98.0,Knight,58.0,Ice Wizard,55.0,Fireball,30.0,Skeletons,94.0,2.0,3,True,False,0.0,1.0
+05730,The Log,98.0,Knight,58.0,Ice Wizard,55.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05745,The Log,98.0,Knight,58.0,Ice Wizard,55.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05760,The Log,98.0,Knight,58.0,Ice Wizard,55.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05775,The Log,98.0,Knight,58.0,Ice Wizard,55.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05790,The Log,98.0,Knight,58.0,Ice Wizard,55.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05805,The Log,98.0,Knight,58.0,Ice Wizard,55.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05820,The Log,98.0,Knight,58.0,Ice Wizard,55.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05835,The Log,98.0,Knight,58.0,Ice Wizard,55.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05850,The Log,98.0,Knight,58.0,Ice Wizard,55.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05865,The Log,98.0,Knight,58.0,Ice Wizard,55.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05880,The Log,98.0,Knight,58.0,Ice Wizard,55.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+05895,The Log,98.0,Knight,58.0,Ice Wizard,55.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+05910,The Log,98.0,Knight,58.0,Ice Wizard,55.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+05925,The Log,98.0,Knight,58.0,Ice Wizard,55.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+05940,Tornado,101.0,Knight,58.0,Ice Wizard,55.0,Fireball,30.0,The Log,98.0,1.0,6,True,True,2.0,2.0
+05955,Tornado,101.0,Knight,58.0,Ice Wizard,55.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05970,Tornado,101.0,Knight,58.0,Ice Wizard,55.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+05985,Tornado,101.0,Knight,58.0,Ice Wizard,55.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+06000,Tornado,101.0,Knight,58.0,Ice Wizard,55.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+06015,Tornado,101.0,Knight,58.0,Ice Wizard,55.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+06030,Tornado,101.0,Knight,58.0,Ice Wizard,55.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+06045,Tornado,101.0,Knight,58.0,Ice Wizard,55.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+06060,Tornado,101.0,Knight,58.0,Ice Wizard,55.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+06075,Tornado,101.0,Knight,58.0,Ice Wizard,55.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+06090,Tornado,101.0,X,106.0,Ice Wizard,55.0,Fireball,30.0,Knight,58.0,2.0,7,True,True,2.0,3.0
+06105,Tornado,101.0,X,106.0,Ice Wizard,55.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+06120,Tornado,101.0,X,106.0,Ice Wizard,55.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+06135,Tornado,101.0,X,106.0,Ice Wizard,55.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+06150,Tornado,101.0,X,106.0,Ice Wizard,55.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+06165,Tornado,101.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,X,106.0,2.0,2,True,True,6.0,6.0
+06180,Tornado,101.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+06195,Tornado,101.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+06210,Tornado,101.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+06225,Tornado,101.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+06240,Tornado,101.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+06255,Tornado,101.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+06270,Tornado,101.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+06285,Tornado,101.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+06300,Skeletons,94.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,Tornado,101.0,1.0,3,True,True,2.0,3.0
+06315,Skeletons,94.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+06330,Skeletons,94.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+06345,Skeletons,94.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+06360,Skeletons,94.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+06375,Skeletons,94.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+06390,Skeletons,94.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+06405,Skeletons,94.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+06420,Skeletons,94.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06435,Skeletons,94.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06450,Skeletons,94.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06465,Skeletons,94.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+06480,Skeletons,94.0,Tesla,97.0,Ice Wizard,55.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+06495,Skeletons,94.0,Tesla,97.0,Ice Wizard,55.0,The Log,98.0,Fireball,30.0,4.0,3,True,True,4.0,4.0
+06510,Skeletons,94.0,Tesla,97.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+06525,Skeletons,94.0,Tesla,97.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+06540,Skeletons,94.0,Tesla,97.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+06555,Skeletons,94.0,Tesla,97.0,Ice Wizard,55.0,The Log,98.0,,,,5,False,False,0.0,0.0
+06570,Skeletons,94.0,Tesla,97.0,Ice Wizard,55.0,The Log,98.0,,,,5,False,False,0.0,0.0
+06585,Skeletons,94.0,Tesla,97.0,Ice Wizard,55.0,The Log,98.0,,,,5,False,False,0.0,0.0
+06600,Skeletons,94.0,Tesla,97.0,Ice Wizard,55.0,The Log,98.0,,,,6,False,False,0.0,0.0
+06615,Skeletons,94.0,Knight,58.0,Ice Wizard,55.0,The Log,98.0,Tesla,97.0,2.0,2,True,True,4.0,4.0
+06630,Skeletons,94.0,Knight,58.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,False,0.0,0.0
+06645,X,106.0,Knight,58.0,Ice Wizard,55.0,The Log,98.0,Skeletons,94.0,1.0,2,True,True,1.0,1.0
+06660,X,106.0,Knight,58.0,Ice Wizard,55.0,The Log,98.0,,,,2,False,False,0.0,0.0
+06675,X,106.0,Knight,58.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,False,0.0,0.0
+06690,X,106.0,Knight,58.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,False,0.0,0.0
+06705,X,106.0,Knight,58.0,Ice Wizard,55.0,The Log,98.0,,,,3,False,False,0.0,0.0
+06720,X,106.0,Knight,58.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+06735,X,106.0,Knight,58.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+06750,X,106.0,Knight,58.0,Ice Wizard,55.0,The Log,98.0,,,,4,False,False,0.0,0.0
+06765,X,106.0,Knight,58.0,Ice Wizard,55.0,The Log,98.0,,,,5,False,False,0.0,0.0
+06780,X,106.0,Knight,58.0,Ice Wizard,55.0,The Log,98.0,,,,5,False,False,0.0,0.0
+06795,X,106.0,Knight,58.0,Ice Wizard,55.0,The Log,98.0,,,,5,False,False,0.0,0.0
+06810,X,106.0,Knight,58.0,Ice Wizard,55.0,The Log,98.0,,,,6,False,False,0.0,0.0
+06825,X,106.0,Knight,58.0,Tornado,101.0,The Log,98.0,Ice Wizard,55.0,3.0,3,True,True,3.0,3.0
+06840,X,106.0,Knight,58.0,Tornado,101.0,The Log,98.0,,,,3,False,False,0.0,0.0
+06855,X,106.0,Knight,58.0,Tornado,101.0,The Log,98.0,,,,4,False,False,0.0,0.0
+06870,X,106.0,Knight,58.0,Tornado,101.0,The Log,98.0,,,,4,False,False,0.0,0.0
+06885,X,106.0,Knight,58.0,Tornado,101.0,The Log,98.0,,,,5,False,False,0.0,0.0
+06900,X,106.0,Knight,58.0,Tornado,101.0,The Log,98.0,,,,5,False,False,0.0,0.0
+06915,X,106.0,Knight,58.0,Tornado,101.0,The Log,98.0,,,,5,False,False,0.0,0.0
+06930,X,106.0,Knight,58.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+06945,X,106.0,Knight,58.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+06960,X,106.0,Knight,58.0,Tornado,101.0,The Log,98.0,,,,6,False,False,0.0,0.0
+06975,X,106.0,Knight,58.0,Tornado,101.0,The Log,98.0,,,,7,False,False,0.0,0.0
+06990,X,106.0,Knight,58.0,Tornado,101.0,The Log,98.0,,,,7,False,False,0.0,0.0
+07005,X,106.0,Knight,58.0,Tornado,101.0,The Log,98.0,,,,7,False,False,0.0,0.0
+07020,X,106.0,Knight,58.0,Tornado,101.0,The Log,98.0,,,,8,False,False,0.0,0.0
+07035,X,106.0,Knight,58.0,Fireball,30.0,The Log,98.0,Tornado,101.0,3.0,5,True,True,3.0,3.0
+07050,X,106.0,Knight,58.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+07065,X,106.0,Knight,58.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+07080,X,106.0,Knight,58.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+07095,X,106.0,Knight,58.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+07110,X,106.0,Knight,58.0,Fireball,30.0,Tesla,97.0,The Log,98.0,4.0,5,True,True,2.0,2.0
+07125,X,106.0,Knight,58.0,Fireball,30.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+07140,X,106.0,Knight,58.0,Fireball,30.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+07155,X,106.0,Knight,58.0,Fireball,30.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+07170,X,106.0,Knight,58.0,Fireball,30.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+07185,X,106.0,Knight,58.0,Fireball,30.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+07200,X,106.0,Knight,58.0,Fireball,30.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+07215,X,106.0,Knight,58.0,Fireball,30.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+07230,X,106.0,Knight,58.0,Fireball,30.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+07245,X,106.0,Knight,58.0,Fireball,30.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+07260,X,106.0,Knight,58.0,Fireball,30.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+07275,X,106.0,Knight,58.0,Fireball,30.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+07290,X,106.0,Knight,58.0,Fireball,30.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+07305,X,106.0,Knight,58.0,Fireball,30.0,Skeletons,94.0,Tesla,97.0,4.0,6,True,True,3.0,4.0
+07320,X,106.0,Knight,58.0,Fireball,30.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+07335,X,106.0,Knight,58.0,Fireball,30.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+07350,X,106.0,Knight,58.0,Ice Wizard,55.0,Skeletons,94.0,Fireball,30.0,3.0,3,True,True,3.0,4.0
+07365,X,106.0,Knight,58.0,Ice Wizard,55.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+07380,X,106.0,Knight,58.0,Ice Wizard,55.0,Tornado,101.0,Skeletons,94.0,4.0,2,True,True,1.0,1.0
+07395,X,106.0,Knight,58.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+07410,X,106.0,Knight,58.0,Ice Wizard,55.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+07425,X,106.0,Knight,58.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+07440,X,106.0,Knight,58.0,Ice Wizard,55.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+07455,X,106.0,Knight,58.0,Ice Wizard,55.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+07470,X,106.0,Knight,58.0,The Log,98.0,Tornado,101.0,Ice Wizard,55.0,3.0,3,True,True,2.0,3.0
+07485,X,106.0,Knight,58.0,The Log,98.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+07500,X,106.0,Knight,58.0,The Log,98.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+07515,X,106.0,Knight,58.0,The Log,98.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+07530,X,106.0,Knight,58.0,The Log,98.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+07545,X,106.0,Knight,58.0,The Log,98.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+07560,X,106.0,Knight,58.0,The Log,98.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+07575,X,106.0,Knight,58.0,The Log,98.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+07590,X,106.0,Knight,58.0,The Log,98.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+07605,X,106.0,Knight,58.0,Tesla,97.0,Tornado,101.0,The Log,98.0,3.0,5,True,True,2.0,2.0
+07620,X,106.0,Knight,58.0,Tesla,97.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+07635,X,106.0,Knight,58.0,Tesla,97.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+07650,X,106.0,Knight,58.0,Tesla,97.0,Fireball,30.0,Tornado,101.0,4.0,4,True,True,2.0,3.0

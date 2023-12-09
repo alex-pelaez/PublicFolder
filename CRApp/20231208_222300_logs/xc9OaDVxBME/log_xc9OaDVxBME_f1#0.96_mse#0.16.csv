@@ -1,0 +1,435 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+00255,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+00270,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+00285,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+00300,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+00315,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+00330,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+00345,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+00360,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+00375,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+00390,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+00405,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+00420,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+00435,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+00450,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+00465,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+00480,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+00495,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+00510,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+00525,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,The Log,98.0,Goblin Gang,42.0,4.0,7,True,True,2.0,3.0
+00540,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Rocket,84.0,The Log,98.0,4.0,7,True,False,0.0,2.0
+00555,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+00570,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+00585,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+00600,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+00615,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00630,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00645,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00660,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00675,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00690,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00705,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00720,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00735,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00750,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00765,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+00780,Dart Goblin,19.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+00795,Prince,79.0,The Log,98.0,Rascals,83.0,Rocket,84.0,Dart Goblin,19.0,1.0,10,True,True,3.0,3.0
+00810,Prince,79.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,10,False,False,0.0,0.0
+00825,Prince,79.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+00840,Prince,79.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+00855,Prince,79.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+00870,Prince,79.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+00885,Princess,80.0,The Log,98.0,Rascals,83.0,Rocket,84.0,Prince,79.0,1.0,3,True,True,5.0,5.0
+00900,Princess,80.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+00915,Princess,80.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+00930,Princess,80.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+00945,Princess,80.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+00960,Princess,80.0,The Log,98.0,Rascals,83.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+00975,Princess,80.0,Goblin Barrel,39.0,Rascals,83.0,Rocket,84.0,The Log,98.0,2.0,2,True,True,2.0,2.0
+00990,Princess,80.0,Goblin Barrel,39.0,Rascals,83.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+01005,Princess,80.0,Goblin Barrel,39.0,Rascals,83.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+01020,Princess,80.0,Goblin Barrel,39.0,Rascals,83.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+01035,Princess,80.0,Goblin Barrel,39.0,Rascals,83.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+01050,Princess,80.0,Goblin Barrel,39.0,Rascals,83.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+01065,Princess,80.0,Goblin Barrel,39.0,Rascals,83.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+01080,Princess,80.0,Goblin Barrel,39.0,Rascals,83.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+01095,Princess,80.0,Goblin Barrel,39.0,Rascals,83.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+01110,Princess,80.0,Goblin Barrel,39.0,Rascals,83.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+01125,Princess,80.0,Goblin Barrel,39.0,Rascals,83.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+01140,Princess,80.0,Goblin Barrel,39.0,Rascals,83.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+01155,Princess,80.0,Goblin Barrel,39.0,Rascals,83.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+01170,Princess,80.0,Goblin Barrel,39.0,Rascals,83.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+01185,Princess,80.0,Goblin Barrel,39.0,Rascals,83.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+01200,Princess,80.0,Goblin Barrel,39.0,Rascals,83.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+01215,Princess,80.0,Goblin Barrel,39.0,Rascals,83.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+01230,Princess,80.0,Goblin Barrel,39.0,Rascals,83.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+01245,Princess,80.0,Goblin Barrel,39.0,Goblin Gang,42.0,Rocket,84.0,Rascals,83.0,3.0,0,True,True,5.0,5.0
+01260,Princess,80.0,Goblin Barrel,39.0,Goblin Gang,42.0,Rocket,84.0,,,,0,False,False,0.0,0.0
+01275,Princess,80.0,Goblin Barrel,39.0,Goblin Gang,42.0,Rocket,84.0,,,,0,False,False,0.0,0.0
+01290,Princess,80.0,Goblin Barrel,39.0,Goblin Gang,42.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+01305,Princess,80.0,Goblin Barrel,39.0,Goblin Gang,42.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+01320,Princess,80.0,Goblin Barrel,39.0,Goblin Gang,42.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+01335,Princess,80.0,Goblin Barrel,39.0,Goblin Gang,42.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+01350,Princess,80.0,Goblin Barrel,39.0,Goblin Gang,42.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+01365,Princess,80.0,Goblin Barrel,39.0,Goblin Gang,42.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+01380,Princess,80.0,Goblin Barrel,39.0,Goblin Gang,42.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+01395,Princess,80.0,Goblin Barrel,39.0,Goblin Gang,42.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+01410,Princess,80.0,Goblin Barrel,39.0,Goblin Gang,42.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+01425,Princess,80.0,Goblin Barrel,39.0,Goblin Gang,42.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+01440,Princess,80.0,Goblin Barrel,39.0,Goblin Gang,42.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+01455,Princess,80.0,Goblin Barrel,39.0,Goblin Gang,42.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+01470,Princess,80.0,Goblin Barrel,39.0,Goblin Gang,42.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+01485,Princess,80.0,Goblin Barrel,39.0,Goblin Gang,42.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+01500,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,Goblin Barrel,39.0,2.0,0,True,True,3.0,4.0
+01515,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,0,False,False,0.0,0.0
+01530,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,0,False,False,0.0,0.0
+01545,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+01560,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+01575,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+01590,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+01605,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+01620,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+01635,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+01650,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+01665,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+01680,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+01695,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+01710,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+01725,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+01740,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+01755,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+01770,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+01785,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+01800,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+01815,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+01830,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+01845,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+01860,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+01875,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+01890,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+01905,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+01920,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+01935,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+01950,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+01965,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+01980,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+01995,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+02010,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+02025,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+02040,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+02055,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+02070,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+02085,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+02100,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+02115,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+02130,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+02145,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+02160,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+02175,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+02190,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+02205,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+02220,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+02235,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+02250,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+02265,Princess,80.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+02280,Prince,79.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,Princess,80.0,1.0,6,True,True,3.0,3.0
+02295,Prince,79.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+02310,Prince,79.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+02325,Prince,79.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+02340,Prince,79.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+02355,Prince,79.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+02370,Prince,79.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+02385,Prince,79.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+02400,The Log,98.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,Prince,79.0,1.0,3,True,True,5.0,5.0
+02415,The Log,98.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+02430,The Log,98.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+02445,The Log,98.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+02460,The Log,98.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+02475,The Log,98.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+02490,The Log,98.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+02505,The Log,98.0,Dart Goblin,19.0,Goblin Gang,42.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+02520,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,Rocket,84.0,Dart Goblin,19.0,2.0,1,True,True,3.0,3.0
+02535,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02550,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02565,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02580,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02595,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02610,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02625,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02640,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+02655,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+02670,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+02685,The Log,98.0,Rascals,83.0,Goblin Gang,42.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+02700,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,Goblin Gang,42.0,3.0,0,True,True,3.0,3.0
+02715,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,0,False,False,0.0,0.0
+02730,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02745,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02760,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02775,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02790,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+02805,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02820,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02835,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02850,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02865,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02880,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+02895,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+02910,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+02925,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+02940,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+02955,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+02970,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+02985,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+03000,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+03015,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+03030,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+03045,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+03060,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+03075,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+03090,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+03105,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+03120,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+03135,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+03150,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+03165,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+03180,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+03195,The Log,98.0,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+03210,The Log,98.0,Rascals,83.0,Princess,80.0,Rocket,84.0,Goblin Barrel,39.0,3.0,3,True,True,3.0,4.0
+03225,The Log,98.0,Rascals,83.0,Princess,80.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+03240,The Log,98.0,Rascals,83.0,Princess,80.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+03255,The Log,98.0,Rascals,83.0,Princess,80.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+03270,The Log,98.0,Rascals,83.0,Princess,80.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+03285,The Log,98.0,Rascals,83.0,Princess,80.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+03300,The Log,98.0,Rascals,83.0,Princess,80.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+03315,The Log,98.0,Rascals,83.0,Princess,80.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+03330,The Log,98.0,Rascals,83.0,Princess,80.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+03345,The Log,98.0,Rascals,83.0,Princess,80.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+03360,The Log,98.0,Rascals,83.0,Princess,80.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+03375,The Log,98.0,Rascals,83.0,Princess,80.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+03390,The Log,98.0,Rascals,83.0,Princess,80.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+03405,The Log,98.0,Rascals,83.0,Princess,80.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+03420,The Log,98.0,Rascals,83.0,Princess,80.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+03435,The Log,98.0,Rascals,83.0,Princess,80.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+03450,The Log,98.0,Rascals,83.0,Princess,80.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+03465,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,Rocket,84.0,4.0,6,True,True,3.0,6.0
+03480,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03495,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,1,False,True,2.0,0.0
+03510,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,1,False,False,0.0,0.0
+03525,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,1,False,False,0.0,0.0
+03540,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,1,False,False,0.0,0.0
+03555,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03570,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03585,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03600,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03615,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03630,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,2,False,False,0.0,0.0
+03645,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03660,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03675,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03690,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03705,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03720,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,3,False,False,0.0,0.0
+03735,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,4,False,False,0.0,0.0
+03750,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,4,False,False,0.0,0.0
+03765,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,4,False,False,0.0,0.0
+03780,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,4,False,False,0.0,0.0
+03795,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,5,False,False,0.0,0.0
+03810,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,6,False,False,0.0,0.0
+03825,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,6,False,False,0.0,0.0
+03840,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,6,False,False,0.0,0.0
+03855,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,7,False,False,0.0,0.0
+03870,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,7,False,False,0.0,0.0
+03885,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,7,False,False,0.0,0.0
+03900,The Log,98.0,Rascals,83.0,Princess,80.0,Prince,79.0,,,,8,False,False,0.0,0.0
+03915,The Log,98.0,Rascals,83.0,Dart Goblin,19.0,Prince,79.0,Princess,80.0,3.0,5,True,True,3.0,3.0
+03930,The Log,98.0,Rascals,83.0,Dart Goblin,19.0,Goblin Gang,42.0,Prince,79.0,4.0,0,True,True,5.0,5.0
+03945,The Log,98.0,Rascals,83.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+03960,The Log,98.0,Rascals,83.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+03975,The Log,98.0,Rascals,83.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+03990,The Log,98.0,Rascals,83.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+04005,The Log,98.0,Rascals,83.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+04020,The Log,98.0,Rascals,83.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04035,The Log,98.0,Rascals,83.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04050,The Log,98.0,Rascals,83.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04065,The Log,98.0,Rascals,83.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+04080,The Log,98.0,Rascals,83.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+04095,The Log,98.0,Rascals,83.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+04110,The Log,98.0,Rascals,83.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+04125,The Log,98.0,Rascals,83.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+04140,The Log,98.0,Goblin Barrel,39.0,Dart Goblin,19.0,Goblin Gang,42.0,Rascals,83.0,2.0,0,True,True,5.0,5.0
+04155,The Log,98.0,Goblin Barrel,39.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+04170,The Log,98.0,Goblin Barrel,39.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+04185,The Log,98.0,Goblin Barrel,39.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+04200,The Log,98.0,Goblin Barrel,39.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+04215,The Log,98.0,Goblin Barrel,39.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+04230,The Log,98.0,Goblin Barrel,39.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04245,The Log,98.0,Goblin Barrel,39.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04260,The Log,98.0,Goblin Barrel,39.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04275,The Log,98.0,Goblin Barrel,39.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+04290,The Log,98.0,Goblin Barrel,39.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+04305,The Log,98.0,Goblin Barrel,39.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+04320,The Log,98.0,Goblin Barrel,39.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+04335,The Log,98.0,Goblin Barrel,39.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+04350,The Log,98.0,Goblin Barrel,39.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+04365,The Log,98.0,Goblin Barrel,39.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+04380,The Log,98.0,Goblin Barrel,39.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+04395,The Log,98.0,Goblin Barrel,39.0,Dart Goblin,19.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+04410,The Log,98.0,Goblin Barrel,39.0,Rocket,84.0,Goblin Gang,42.0,Dart Goblin,19.0,3.0,4,True,True,2.0,3.0
+04425,The Log,98.0,Goblin Barrel,39.0,Rocket,84.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+04440,The Log,98.0,Goblin Barrel,39.0,Rocket,84.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+04455,The Log,98.0,Princess,80.0,Rocket,84.0,Goblin Gang,42.0,Goblin Barrel,39.0,2.0,2,True,True,3.0,4.0
+04470,The Log,98.0,Princess,80.0,Rocket,84.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+04485,The Log,98.0,Princess,80.0,Rocket,84.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04500,The Log,98.0,Princess,80.0,Rocket,84.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04515,The Log,98.0,Prince,79.0,Rocket,84.0,Goblin Gang,42.0,Princess,80.0,2.0,0,True,True,3.0,3.0
+04530,The Log,98.0,Prince,79.0,Rocket,84.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+04545,The Log,98.0,Prince,79.0,Rocket,84.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+04560,The Log,98.0,Prince,79.0,Rocket,84.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+04575,The Log,98.0,Prince,79.0,Rocket,84.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+04590,The Log,98.0,Prince,79.0,Rocket,84.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+04605,The Log,98.0,Prince,79.0,Rocket,84.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+04620,The Log,98.0,Prince,79.0,Rocket,84.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04635,The Log,98.0,Prince,79.0,Rocket,84.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04650,Rocket,84.0,Prince,79.0,Rocket,84.0,Rascals,83.0,Goblin Gang,42.0,4.0,1,True,True,2.0,3.0
+04665,Rocket,84.0,Prince,79.0,Rocket,84.0,Rascals,83.0,,,,1,False,False,0.0,0.0
+04680,The Log,98.0,Prince,79.0,Rocket,84.0,Rascals,83.0,Rocket,84.0,1.0,1,True,False,0.0,6.0
+04695,The Log,98.0,Prince,79.0,Rocket,84.0,Rascals,83.0,,,,2,False,False,0.0,0.0
+04710,The Log,98.0,Prince,79.0,Rocket,84.0,Rascals,83.0,,,,2,False,False,0.0,0.0
+04725,The Log,98.0,Prince,79.0,Rocket,84.0,Rascals,83.0,,,,2,False,False,0.0,0.0
+04740,The Log,98.0,Prince,79.0,Rocket,84.0,Rascals,83.0,,,,3,False,False,0.0,0.0
+04755,The Log,98.0,Prince,79.0,Rocket,84.0,Rascals,83.0,,,,3,False,False,0.0,0.0
+04770,The Log,98.0,Prince,79.0,Rocket,84.0,Rascals,83.0,,,,3,False,False,0.0,0.0
+04785,The Log,98.0,Prince,79.0,Rocket,84.0,Rascals,83.0,,,,4,False,False,0.0,0.0
+04800,The Log,98.0,Prince,79.0,Rocket,84.0,Rascals,83.0,,,,4,False,False,0.0,0.0
+04815,The Log,98.0,Prince,79.0,Rocket,84.0,Rascals,83.0,,,,4,False,False,0.0,0.0
+04830,The Log,98.0,Prince,79.0,Rocket,84.0,Rascals,83.0,,,,5,False,False,0.0,0.0
+04845,The Log,98.0,Prince,79.0,Rocket,84.0,Rascals,83.0,,,,5,False,False,0.0,0.0
+04860,Dart Goblin,19.0,Prince,79.0,Rocket,84.0,Rascals,83.0,The Log,98.0,1.0,4,True,True,1.0,2.0
+04875,Dart Goblin,19.0,Prince,79.0,Rocket,84.0,Rascals,83.0,,,,4,False,False,0.0,0.0
+04890,Dart Goblin,19.0,Prince,79.0,Rocket,84.0,Rascals,83.0,,,,4,False,False,0.0,0.0
+04905,Dart Goblin,19.0,Prince,79.0,Rocket,84.0,Rascals,83.0,,,,5,False,False,0.0,0.0
+04920,Dart Goblin,19.0,Prince,79.0,Rocket,84.0,Rascals,83.0,,,,5,False,False,0.0,0.0
+04935,Dart Goblin,19.0,Prince,79.0,Rocket,84.0,Rascals,83.0,,,,5,False,False,0.0,0.0
+04950,Dart Goblin,19.0,Prince,79.0,Rocket,84.0,Rascals,83.0,,,,6,False,False,0.0,0.0
+04965,Dart Goblin,19.0,Prince,79.0,Rocket,84.0,Rascals,83.0,,,,6,False,False,0.0,0.0
+04980,Dart Goblin,19.0,Prince,79.0,Rocket,84.0,Rascals,83.0,,,,6,False,False,0.0,0.0
+04995,Dart Goblin,19.0,Goblin Barrel,39.0,Rocket,84.0,Rascals,83.0,Prince,79.0,2.0,8,True,True,5.0,5.0
+05010,Dart Goblin,19.0,Goblin Barrel,39.0,Rocket,84.0,Rascals,83.0,,,,8,False,False,0.0,0.0
+05025,Dart Goblin,19.0,Goblin Barrel,39.0,Rocket,84.0,Rascals,83.0,,,,3,False,False,0.0,0.0
+05040,Dart Goblin,19.0,Goblin Barrel,39.0,Rocket,84.0,Rascals,83.0,,,,3,False,False,0.0,0.0
+05055,Dart Goblin,19.0,Goblin Barrel,39.0,Rocket,84.0,Rascals,83.0,,,,3,False,False,0.0,0.0
+05070,Dart Goblin,19.0,Goblin Barrel,39.0,Rocket,84.0,Rascals,83.0,,,,4,False,False,0.0,0.0
+05085,Dart Goblin,19.0,Goblin Barrel,39.0,Rocket,84.0,Rascals,83.0,,,,4,False,False,0.0,0.0
+05100,Dart Goblin,19.0,Goblin Barrel,39.0,Rocket,84.0,Rascals,83.0,,,,4,False,False,0.0,0.0
+05115,Dart Goblin,19.0,Goblin Barrel,39.0,Rocket,84.0,Rascals,83.0,,,,5,False,False,0.0,0.0
+05130,Dart Goblin,19.0,Goblin Barrel,39.0,Rocket,84.0,Rascals,83.0,,,,5,False,False,0.0,0.0
+05145,Dart Goblin,19.0,Goblin Barrel,39.0,Rocket,84.0,Rascals,83.0,,,,5,False,False,0.0,0.0
+05160,Dart Goblin,19.0,Goblin Barrel,39.0,Rocket,84.0,Rascals,83.0,,,,6,False,False,0.0,0.0
+05175,Dart Goblin,19.0,Goblin Barrel,39.0,Rocket,84.0,Rascals,83.0,,,,6,False,False,0.0,0.0
+05190,Dart Goblin,19.0,Goblin Barrel,39.0,Rocket,84.0,Rascals,83.0,,,,6,False,False,0.0,0.0
+05205,Dart Goblin,19.0,Goblin Barrel,39.0,Rocket,84.0,Rascals,83.0,,,,7,False,False,0.0,0.0
+05220,Dart Goblin,19.0,Goblin Barrel,39.0,Rocket,84.0,Rascals,83.0,,,,7,False,False,0.0,0.0
+05235,Dart Goblin,19.0,Goblin Barrel,39.0,Rocket,84.0,Rascals,83.0,,,,8,False,False,0.0,0.0
+05250,Dart Goblin,19.0,Goblin Barrel,39.0,Rocket,84.0,Rascals,83.0,,,,8,False,False,0.0,0.0
+05265,Dart Goblin,19.0,Goblin Barrel,39.0,Rocket,84.0,Rascals,83.0,,,,8,False,False,0.0,0.0
+05280,Dart Goblin,19.0,Goblin Barrel,39.0,Rocket,84.0,Rascals,83.0,,,,9,False,False,0.0,0.0
+05295,Dart Goblin,19.0,Goblin Barrel,39.0,Rocket,84.0,Rascals,83.0,,,,9,False,False,0.0,0.0
+05310,Princess,80.0,Goblin Barrel,39.0,Rocket,84.0,Rascals,83.0,Dart Goblin,19.0,1.0,6,True,True,3.0,3.0
+05325,Princess,80.0,Goblin Barrel,39.0,Rocket,84.0,Rascals,83.0,,,,7,False,False,0.0,0.0
+05340,Princess,80.0,Goblin Gang,42.0,Rocket,84.0,Rascals,83.0,Goblin Barrel,39.0,2.0,4,True,True,3.0,4.0
+05355,Princess,80.0,Goblin Gang,42.0,Rocket,84.0,Rascals,83.0,,,,4,False,False,0.0,0.0
+05370,Princess,80.0,Goblin Gang,42.0,Rocket,84.0,Rascals,83.0,,,,5,False,False,0.0,0.0
+05385,Princess,80.0,Goblin Gang,42.0,Rocket,84.0,Rascals,83.0,,,,5,False,False,0.0,0.0
+05400,Princess,80.0,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,Rascals,83.0,4.0,0,True,True,5.0,5.0
+05415,Princess,80.0,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,,,,1,False,False,0.0,0.0
+05430,Princess,80.0,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,,,,1,False,False,0.0,0.0
+05445,Princess,80.0,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,,,,1,False,False,0.0,0.0
+05460,Princess,80.0,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,,,,2,False,False,0.0,0.0
+05475,Princess,80.0,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,,,,2,False,False,0.0,0.0
+05490,Princess,80.0,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,,,,3,False,False,0.0,0.0
+05505,Princess,80.0,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,,,,3,False,False,0.0,0.0
+05520,Princess,80.0,Goblin Gang,42.0,Rocket,84.0,The Log,98.0,,,,3,False,False,0.0,0.0
+05535,Princess,80.0,Prince,79.0,Rocket,84.0,The Log,98.0,Goblin Gang,42.0,2.0,1,True,True,2.0,3.0
+05550,Princess,80.0,Prince,79.0,Rocket,84.0,The Log,98.0,,,,1,False,False,0.0,0.0
+05565,Princess,80.0,Prince,79.0,Rocket,84.0,The Log,98.0,,,,1,False,False,0.0,0.0
+05580,Princess,80.0,Prince,79.0,Rocket,84.0,The Log,98.0,,,,2,False,False,0.0,0.0
+05595,Princess,80.0,Prince,79.0,Rocket,84.0,The Log,98.0,,,,2,False,False,0.0,0.0
+05610,Princess,80.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,The Log,98.0,4.0,0,True,True,2.0,2.0
+05625,Princess,80.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,1,False,False,0.0,0.0
+05640,Princess,80.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,1,False,False,0.0,0.0
+05655,Princess,80.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,1,False,False,0.0,0.0
+05670,Princess,80.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,2,False,False,0.0,0.0
+05685,Princess,80.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,2,False,False,0.0,0.0
+05700,Princess,80.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,3,False,False,0.0,0.0
+05715,Princess,80.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,3,False,False,0.0,0.0
+05730,Princess,80.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,3,False,False,0.0,0.0
+05745,Goblin Barrel,39.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,Princess,80.0,1.0,1,True,True,2.0,3.0
+05760,Goblin Barrel,39.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,1,False,False,0.0,0.0
+05775,Goblin Barrel,39.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,1,False,False,0.0,0.0
+05790,Goblin Barrel,39.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,2,False,False,0.0,0.0
+05805,Goblin Barrel,39.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,2,False,False,0.0,0.0
+05820,Goblin Barrel,39.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,2,False,False,0.0,0.0
+05835,Goblin Barrel,39.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,3,False,False,0.0,0.0
+05850,Goblin Barrel,39.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,3,False,False,0.0,0.0
+05865,Goblin Barrel,39.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,3,False,False,0.0,0.0
+05880,Goblin Barrel,39.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,4,False,False,0.0,0.0
+05895,Rascals,83.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,Goblin Barrel,39.0,1.0,1,True,True,3.0,4.0
+05910,Rascals,83.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,2,False,False,0.0,0.0
+05925,Rascals,83.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,2,False,False,0.0,0.0
+05940,Rascals,83.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,2,False,False,0.0,0.0
+05955,Rascals,83.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,3,False,False,0.0,0.0
+05970,Rascals,83.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,3,False,False,0.0,0.0
+05985,Rascals,83.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,3,False,False,0.0,0.0
+06000,Rascals,83.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,4,False,False,0.0,0.0
+06015,Rascals,83.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,4,False,False,0.0,0.0
+06030,Rascals,83.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,4,False,False,0.0,0.0
+06045,Rascals,83.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,5,False,False,0.0,0.0
+06060,Rascals,83.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,5,False,False,0.0,0.0
+06075,Rascals,83.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,5,False,False,0.0,0.0
+06090,Rascals,83.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,6,False,False,0.0,0.0
+06105,Rascals,83.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,6,False,False,0.0,0.0
+06120,Rascals,83.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,7,False,False,0.0,0.0
+06135,Rascals,83.0,Prince,79.0,Rocket,84.0,Dart Goblin,19.0,,,,7,False,False,0.0,0.0
+06150,Rascals,83.0,Prince,79.0,Rocket,84.0,Goblin Gang,42.0,Dart Goblin,19.0,4.0,4,True,True,3.0,3.0
+06165,Rascals,83.0,Prince,79.0,Rocket,84.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+06180,Rascals,83.0,Prince,79.0,Rocket,84.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+06195,Rascals,83.0,Prince,79.0,Rocket,84.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+06210,Rascals,83.0,Prince,79.0,Rocket,84.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+06225,Rascals,83.0,Prince,79.0,Rocket,84.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+06240,Rascals,83.0,Prince,79.0,Rocket,84.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+06255,Rascals,83.0,Prince,79.0,Rocket,84.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+06270,Rascals,83.0,Prince,79.0,Rocket,84.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+06285,Rascals,83.0,Prince,79.0,Rocket,84.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+06300,Rascals,83.0,Prince,79.0,Rocket,84.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+06315,Rascals,83.0,Prince,79.0,Rocket,84.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+06330,Rascals,83.0,Prince,79.0,Rocket,84.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+06345,Rascals,83.0,Prince,79.0,Rocket,84.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+06360,Rascals,83.0,Prince,79.0,Rocket,84.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+06375,Rascals,83.0,The Log,98.0,Rocket,84.0,Goblin Gang,42.0,Prince,79.0,2.0,5,True,True,4.0,5.0
+06390,Rascals,83.0,The Log,98.0,Rocket,84.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+06405,Rascals,83.0,The Log,98.0,Rocket,84.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+06420,Rascals,83.0,The Log,98.0,Rocket,84.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+06435,Rascals,83.0,The Log,98.0,Rocket,84.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+06450,Rascals,83.0,The Log,98.0,Rocket,84.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+06465,Rascals,83.0,Princess,80.0,Rocket,84.0,Goblin Gang,42.0,The Log,98.0,2.0,5,True,True,1.0,2.0
+06480,Rascals,83.0,Princess,80.0,Rocket,84.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+06495,Rascals,83.0,Princess,80.0,Rocket,84.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+06510,Rascals,83.0,Princess,80.0,Rocket,84.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+06525,Rascals,83.0,Princess,80.0,Rocket,84.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+06540,Rascals,83.0,Princess,80.0,Rocket,84.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+06555,Rascals,83.0,Princess,80.0,Rocket,84.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+06570,Rascals,83.0,Princess,80.0,Rocket,84.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+06585,Rascals,83.0,Princess,80.0,Rocket,84.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+06600,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,Goblin Gang,42.0,Princess,80.0,2.0,5,True,True,3.0,3.0
+06615,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+06630,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+06645,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+06660,Rascals,83.0,Goblin Barrel,39.0,Rocket,84.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+06675,Rascals,83.0,Dart Goblin,19.0,Rocket,84.0,Goblin Gang,42.0,Goblin Barrel,39.0,2.0,4,True,True,2.0,4.0
+06690,Rascals,83.0,Dart Goblin,19.0,Rocket,84.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+06705,Rascals,83.0,Dart Goblin,19.0,Rocket,84.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+06720,Rascals,83.0,Dart Goblin,19.0,Rocket,84.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+06735,Rascals,83.0,Dart Goblin,19.0,Rocket,84.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0

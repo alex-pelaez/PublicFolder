@@ -1,0 +1,1295 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Bowler,14.0,,,,,Freeze,34.0,,,,6,False,False,0.0,0.0
+00255,Bowler,14.0,,,,,Freeze,34.0,,,,6,False,False,0.0,0.0
+00270,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,3.0,6,True,False,0.0,0.0
+00285,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+00300,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+00315,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+00330,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+00345,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+00360,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+00375,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+00390,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+00405,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+00420,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+00435,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+00450,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,9,False,False,0.0,0.0
+00465,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,9,False,False,0.0,0.0
+00480,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,9,False,False,0.0,0.0
+00495,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,9,False,False,0.0,0.0
+00510,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,9,False,False,0.0,0.0
+00525,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,10,False,False,0.0,0.0
+00540,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,10,False,False,0.0,0.0
+00555,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,10,False,False,0.0,0.0
+00570,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,10,False,False,0.0,0.0
+00585,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,True,5.0,0.0
+00600,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+00615,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+00630,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+00645,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+00660,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+00675,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+00690,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+00705,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+00720,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+00735,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+00750,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+00765,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+00780,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+00795,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+00810,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+00825,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+00840,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+00855,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+00870,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+00885,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+00900,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+00915,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,9,False,False,0.0,0.0
+00930,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,9,False,False,0.0,0.0
+00945,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,9,False,False,0.0,0.0
+00960,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,9,False,False,0.0,0.0
+00975,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,9,False,False,0.0,0.0
+00990,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,9,False,False,0.0,0.0
+01005,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,10,False,False,0.0,0.0
+01020,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,10,False,False,0.0,0.0
+01035,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,True,4.0,0.0
+01050,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+01065,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+01080,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+01095,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+01110,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+01125,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+01140,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+01155,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+01170,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+01185,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+01200,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+01215,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+01230,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+01245,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+01260,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+01275,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+01290,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,9,False,False,0.0,0.0
+01305,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,9,False,False,0.0,0.0
+01320,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,9,False,False,0.0,0.0
+01335,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,9,False,False,0.0,0.0
+01350,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,9,False,False,0.0,0.0
+01365,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,9,False,False,0.0,0.0
+01380,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,True,3.0,0.0
+01395,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+01410,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+01425,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+01440,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+01455,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+01470,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+01485,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+01500,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+01515,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+01530,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+01545,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+01560,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+01575,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+01590,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+01605,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+01620,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,True,2.0,0.0
+01635,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+01650,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,True,4.0,0.0
+01665,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+01680,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+01695,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+01710,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+01725,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+01740,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+01755,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+01770,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+01785,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,1,False,True,3.0,0.0
+01800,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+01815,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+01830,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+01845,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+01860,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+01875,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+01890,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+01905,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+01920,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+01935,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+01950,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+01965,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+01980,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+01995,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+02010,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+02025,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+02040,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+02055,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+02070,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+02085,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,0,False,True,5.0,0.0
+02100,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,0,False,False,0.0,0.0
+02115,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,0,False,False,0.0,0.0
+02130,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,0,False,False,0.0,0.0
+02145,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,1,False,False,0.0,0.0
+02160,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,1,False,False,0.0,0.0
+02175,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,1,False,False,0.0,0.0
+02190,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,1,False,False,0.0,0.0
+02205,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,1,False,False,0.0,0.0
+02220,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+02235,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+02250,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+02265,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+02280,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+02295,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+02310,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+02325,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+02340,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+02355,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+02370,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+02385,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+02400,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+02415,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+02430,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+02445,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+02460,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+02475,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+02490,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+02505,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,1,False,True,4.0,0.0
+02520,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,1,False,False,0.0,0.0
+02535,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,1,False,False,0.0,0.0
+02550,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+02565,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+02580,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+02595,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+02610,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+02625,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+02640,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+02655,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+02670,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+02685,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+02700,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+02715,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+02730,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+02745,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+02760,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+02775,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+02790,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+02805,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+02820,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+02835,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+02850,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+02865,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+02880,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+02895,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+02910,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+02925,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+02940,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+02955,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+02970,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+02985,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,True,4.0,0.0
+03000,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+03015,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+03030,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+03045,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,1,False,True,2.0,0.0
+03060,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+03075,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+03090,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+03105,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+03120,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+03135,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+03150,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+03165,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+03180,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+03195,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+03210,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+03225,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+03240,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,1,False,True,3.0,0.0
+03255,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,1,False,False,0.0,0.0
+03270,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,1,False,False,0.0,0.0
+03285,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,1,False,False,0.0,0.0
+03300,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,1,False,False,0.0,0.0
+03315,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+03330,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+03345,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+03360,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+03375,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+03390,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+03405,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+03420,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+03435,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+03450,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+03465,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+03480,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+03495,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+03510,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+03525,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+03540,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+03555,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+03570,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+03585,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+03600,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+03615,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+03630,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+03645,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+03660,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+03675,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+03690,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+03705,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+03720,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+03735,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+03750,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+03765,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+03780,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+03795,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+03810,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+03825,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,9,False,False,0.0,0.0
+03840,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,9,False,False,0.0,0.0
+03855,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,10,False,False,0.0,0.0
+03870,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,10,False,False,0.0,0.0
+03885,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,True,5.0,0.0
+03900,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+03915,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+03930,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+03945,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+03960,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+03975,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+03990,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+04005,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+04020,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+04035,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+04050,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,9,False,False,0.0,0.0
+04065,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,9,False,False,0.0,0.0
+04080,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,True,4.0,0.0
+04095,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+04110,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+04125,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+04140,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+04155,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+04170,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,7,False,False,0.0,0.0
+04185,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+04200,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,8,False,False,0.0,0.0
+04215,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,9,False,False,0.0,0.0
+04230,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,True,4.0,0.0
+04245,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+04260,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,True,3.0,0.0
+04275,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+04290,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+04305,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+04320,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+04335,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,1,False,True,2.0,0.0
+04350,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+04365,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+04380,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+04395,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+04410,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+04425,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+04440,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+04455,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,1,False,True,3.0,0.0
+04470,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+04485,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+04500,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+04515,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+04530,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+04545,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+04560,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+04575,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+04590,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+04605,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+04620,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+04635,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,6,False,False,0.0,0.0
+04650,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,True,4.0,0.0
+04665,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+04680,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+04695,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+04710,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+04725,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+04740,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+04755,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+04770,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+04785,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+04800,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,1,False,True,4.0,0.0
+04815,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+04830,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+04845,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+04860,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+04875,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+04890,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+04905,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+04920,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+04935,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+04950,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,5,False,False,0.0,0.0
+04965,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,0,False,True,5.0,0.0
+04980,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,1,False,False,0.0,0.0
+04995,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,1,False,False,0.0,0.0
+05010,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,1,False,False,0.0,0.0
+05025,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+05040,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,2,False,False,0.0,0.0
+05055,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+05070,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+05085,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,3,False,False,0.0,0.0
+05100,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+05115,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+05130,Bowler,14.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,,,,4,False,False,0.0,0.0
+05145,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,Freeze,34.0,4.0,1,True,True,3.0,4.0
+05160,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+05175,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+05190,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05205,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05220,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05235,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05250,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05265,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05280,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,1,False,True,2.0,0.0
+05295,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+05310,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05325,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05340,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05355,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05370,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05385,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05400,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05415,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05430,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05445,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05460,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05475,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05490,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05505,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05520,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+05535,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+05550,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+05565,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+05580,Bowler,14.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+05595,Fireball,30.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,Bowler,14.0,1.0,8,True,False,0.0,5.0
+05610,Fireball,30.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+05625,Fireball,30.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+05640,Fireball,30.0,Minion Horde,68.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,2.0,10,True,False,0.0,4.0
+05655,Fireball,30.0,Minion Horde,68.0,Fireball,30.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+05670,Fireball,30.0,Minion Horde,68.0,Fireball,30.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+05685,Fireball,30.0,Minion Horde,68.0,Fireball,30.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+05700,Fireball,30.0,Minion Horde,68.0,Fireball,30.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+05715,Fireball,30.0,Minion Horde,68.0,Fireball,30.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+05730,Fireball,30.0,Minion Horde,68.0,Fireball,30.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+05745,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Fireball,30.0,Fireball,30.0,3.0,10,True,False,0.0,4.0
+05760,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+05775,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+05790,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+05805,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+05820,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,Fireball,30.0,4.0,10,True,False,0.0,4.0
+05835,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+05850,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+05865,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+05880,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+05895,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+05910,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+05925,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,True,4.0,0.0
+05940,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+05955,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+05970,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+05985,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+06000,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+06015,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+06030,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+06045,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+06060,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+06075,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+06090,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+06105,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+06120,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+06135,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+06150,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+06165,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+06180,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+06195,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+06210,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+06225,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+06240,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+06255,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+06270,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,10,False,False,0.0,0.0
+06285,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,True,3.0,0.0
+06300,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+06315,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+06330,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+06345,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+06360,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+06375,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+06390,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+06405,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+06420,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+06435,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+06450,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,True,1.0,0.0
+06465,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+06480,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+06495,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+06510,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+06525,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+06540,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+06555,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+06570,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+06585,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+06600,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+06615,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+06630,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+06645,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+06660,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+06675,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,True,6.0,0.0
+06690,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+06705,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+06720,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+06735,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+06750,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+06765,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+06780,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+06795,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+06810,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+06825,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+06840,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+06855,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+06870,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+06885,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+06900,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+06915,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+06930,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+06945,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+06960,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+06975,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+06990,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+07005,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+07020,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+07035,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+07050,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+07065,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,True,2.0,0.0
+07080,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+07095,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+07110,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+07125,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+07140,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+07155,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+07170,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+07185,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+07200,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+07215,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+07230,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+07245,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,Minion Horde,68.0,2.0,3,True,True,5.0,5.0
+07260,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+07275,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+07290,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+07305,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,2,False,True,2.0,0.0
+07320,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+07335,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+07350,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+07365,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+07380,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+07395,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+07410,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,1,False,True,2.0,0.0
+07425,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,1,False,False,0.0,0.0
+07440,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,1,False,False,0.0,0.0
+07455,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+07470,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+07485,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+07500,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+07515,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+07530,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+07545,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+07560,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+07575,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,0,False,True,3.0,0.0
+07590,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,0,False,False,0.0,0.0
+07605,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,0,False,False,0.0,0.0
+07620,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,1,False,False,0.0,0.0
+07635,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,1,False,False,0.0,0.0
+07650,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,1,False,False,0.0,0.0
+07665,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,1,False,False,0.0,0.0
+07680,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,1,False,False,0.0,0.0
+07695,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,1,False,False,0.0,0.0
+07710,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+07725,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+07740,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+07755,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+07770,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+07785,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+07800,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+07815,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+07830,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+07845,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+07860,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+07875,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+07890,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+07905,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+07920,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+07935,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+07950,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+07965,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+07980,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+07995,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+08010,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+08025,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+08040,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+08055,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+08070,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+08085,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+08100,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+08115,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+08130,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+08145,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+08160,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+08175,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+08190,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+08205,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+08220,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+08235,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+08250,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+08265,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+08280,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+08295,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+08310,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+08325,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+08340,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+08355,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+08370,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+08385,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,True,5.0,0.0
+08400,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+08415,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+08430,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+08445,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+08460,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+08475,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+08490,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+08505,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+08520,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+08535,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+08550,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+08565,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+08580,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+08595,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+08610,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+08625,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+08640,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+08655,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+08670,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+08685,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+08700,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+08715,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+08730,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+08745,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+08760,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+08775,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+08790,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+08805,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+08820,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+08835,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+08850,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,True,5.0,0.0
+08865,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+08880,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+08895,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+08910,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+08925,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+08940,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+08955,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+08970,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+08985,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+09000,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+09015,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,True,2.0,0.0
+09030,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+09045,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,2,False,True,2.0,0.0
+09060,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+09075,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+09090,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+09105,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+09120,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+09135,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+09150,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+09165,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+09180,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+09195,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+09210,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+09225,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+09240,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+09255,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+09270,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+09285,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+09300,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+09315,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+09330,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,2,False,True,4.0,0.0
+09345,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+09360,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+09375,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+09390,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+09405,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+09420,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+09435,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+09450,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+09465,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+09480,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+09495,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+09510,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+09525,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+09540,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+09555,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+09570,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+09585,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+09600,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+09615,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+09630,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+09645,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+09660,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+09675,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+09690,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,9,False,False,0.0,0.0
+09705,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,True,6.0,0.0
+09720,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+09735,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+09750,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+09765,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+09780,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+09795,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+09810,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+09825,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+09840,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+09855,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+09870,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+09885,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+09900,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,8,False,False,0.0,0.0
+09915,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,True,5.0,0.0
+09930,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+09945,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+09960,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+09975,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+09990,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+10005,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+10020,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,True,1.0,0.0
+10035,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+10050,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+10065,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+10080,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+10095,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+10110,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,True,1.0,0.0
+10125,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+10140,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+10155,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+10170,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+10185,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,True,1.0,0.0
+10200,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+10215,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+10230,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+10245,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+10260,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+10275,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+10290,Fireball,30.0,Archers,1.0,Minion Horde,68.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+10305,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,Minion Horde,68.0,3.0,1,True,True,5.0,5.0
+10320,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+10335,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+10350,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+10365,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+10380,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+10395,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+10410,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+10425,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+10440,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+10455,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+10470,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,2,False,True,3.0,0.0
+10485,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+10500,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+10515,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+10530,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+10545,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+10560,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+10575,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,3,False,True,1.0,0.0
+10590,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+10605,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+10620,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+10635,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+10650,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+10665,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+10680,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+10695,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+10710,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,1,False,True,5.0,0.0
+10725,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,1,False,False,0.0,0.0
+10740,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+10755,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+10770,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,0,False,True,2.0,0.0
+10785,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,1,False,False,0.0,0.0
+10800,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,1,False,False,0.0,0.0
+10815,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+10830,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+10845,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+10860,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+10875,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+10890,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+10905,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+10920,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+10935,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+10950,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+10965,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+10980,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+10995,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+11010,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,4,False,True,2.0,0.0
+11025,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+11040,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+11055,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+11070,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+11085,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+11100,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+11115,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+11130,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,4,False,True,3.0,0.0
+11145,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+11160,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+11175,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+11190,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,3,False,True,2.0,0.0
+11205,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+11220,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+11235,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+11250,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+11265,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+11280,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+11295,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+11310,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,6,False,False,0.0,0.0
+11325,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+11340,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+11355,Fireball,30.0,Archers,1.0,Fireball,30.0,Minion Horde,68.0,,,,7,False,False,0.0,0.0
+11370,Archers,1.0,Archers,1.0,Fireball,30.0,Fireball,30.0,Minion Horde,68.0,4.0,7,True,False,0.0,5.0
+11385,Archers,1.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,Archers,1.0,2.0,7,True,False,0.0,3.0
+11400,Archers,1.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+11415,Archers,1.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+11430,Archers,1.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+11445,Archers,1.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+11460,Archers,1.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+11475,Archers,1.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+11490,Archers,1.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+11505,Archers,1.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+11520,Archers,1.0,Fireball,30.0,Fireball,30.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+11535,Archers,1.0,Fireball,30.0,The Log,98.0,Fireball,30.0,Fireball,30.0,3.0,7,True,False,0.0,4.0
+11550,Archers,1.0,Fireball,30.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+11565,Archers,1.0,Fireball,30.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+11580,Archers,1.0,Fireball,30.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+11595,Archers,1.0,Fireball,30.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+11610,Archers,1.0,Fireball,30.0,The Log,98.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+11625,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,Fireball,30.0,4.0,7,True,False,0.0,4.0
+11640,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+11655,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+11670,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+11685,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+11700,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+11715,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,6,False,True,1.0,0.0
+11730,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,6,False,False,0.0,0.0
+11745,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,6,False,False,0.0,0.0
+11760,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,6,False,False,0.0,0.0
+11775,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,6,False,False,0.0,0.0
+11790,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+11805,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+11820,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+11835,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+11850,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+11865,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+11880,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11895,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11910,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11925,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11940,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+11955,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+11970,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+11985,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12000,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12015,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,8,False,True,1.0,0.0
+12030,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+12045,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12060,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12075,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12090,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12105,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12120,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12135,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,10,False,False,0.0,0.0
+12150,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,10,False,False,0.0,0.0
+12165,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,10,False,False,0.0,0.0
+12180,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,10,False,False,0.0,0.0
+12195,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,7,False,True,3.0,0.0
+12210,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+12225,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+12240,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+12255,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+12270,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+12285,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+12300,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+12315,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+12330,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+12345,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+12360,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12375,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12390,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12405,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12420,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,9,False,False,0.0,0.0
+12435,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,4.0,3,True,True,6.0,6.0
+12450,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+12465,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+12480,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+12495,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+12510,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+12525,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+12540,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+12555,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+12570,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,4,False,True,1.0,0.0
+12585,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+12600,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+12615,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+12630,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+12645,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+12660,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+12675,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+12690,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+12705,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+12720,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+12735,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+12750,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+12765,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+12780,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+12795,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+12810,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+12825,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+12840,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+12855,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+12870,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+12885,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+12900,Archers,1.0,Fireball,30.0,The Log,98.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+12915,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,Tesla,97.0,4.0,4,True,True,4.0,4.0
+12930,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,4,False,False,0.0,0.0
+12945,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,2,False,True,2.0,0.0
+12960,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,2,False,False,0.0,0.0
+12975,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,2,False,False,0.0,0.0
+12990,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,2,False,False,0.0,0.0
+13005,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,2,False,False,0.0,0.0
+13020,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,2,False,False,0.0,0.0
+13035,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,3,False,False,0.0,0.0
+13050,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,3,False,False,0.0,0.0
+13065,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,2,False,True,1.0,0.0
+13080,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,2,False,False,0.0,0.0
+13095,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,2,False,False,0.0,0.0
+13110,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,3,False,False,0.0,0.0
+13125,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,3,False,False,0.0,0.0
+13140,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,3,False,False,0.0,0.0
+13155,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,3,False,False,0.0,0.0
+13170,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,3,False,False,0.0,0.0
+13185,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,3,False,False,0.0,0.0
+13200,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,4,False,False,0.0,0.0
+13215,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,4,False,False,0.0,0.0
+13230,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,4,False,False,0.0,0.0
+13245,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,4,False,False,0.0,0.0
+13260,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,4,False,False,0.0,0.0
+13275,Archers,1.0,Fireball,30.0,The Log,98.0,X,106.0,,,,4,False,False,0.0,0.0
+13290,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,The Log,98.0,3.0,3,True,True,1.0,2.0
+13305,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+13320,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+13335,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,2,False,True,1.0,0.0
+13350,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+13365,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+13380,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+13395,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+13410,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+13425,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+13440,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+13455,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+13470,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+13485,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+13500,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+13515,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+13530,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+13545,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+13560,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+13575,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+13590,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+13605,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+13620,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+13635,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+13650,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+13665,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+13680,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+13695,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+13710,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+13725,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+13740,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+13755,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+13770,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+13785,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+13800,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+13815,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+13830,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+13845,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+13860,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+13875,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,9,False,False,0.0,0.0
+13890,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,9,False,False,0.0,0.0
+13905,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,9,False,False,0.0,0.0
+13920,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,9,False,False,0.0,0.0
+13935,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,X,106.0,4.0,3,True,True,6.0,6.0
+13950,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+13965,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+13980,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+13995,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+14010,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+14025,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+14040,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+14055,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+14070,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+14085,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+14100,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+14115,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+14130,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+14145,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+14160,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+14175,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+14190,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+14205,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+14220,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+14235,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,3,False,True,4.0,0.0
+14250,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+14265,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+14280,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+14295,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+14310,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+14325,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+14340,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+14355,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+14370,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+14385,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+14400,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,2,False,True,3.0,0.0
+14415,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+14430,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+14445,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+14460,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+14475,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+14490,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,2,False,True,1.0,0.0
+14505,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+14520,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+14535,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+14550,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+14565,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+14580,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,Archers,1.0,1.0,0,True,True,3.0,3.0
+14595,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,0,False,False,0.0,0.0
+14610,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,0,False,False,0.0,0.0
+14625,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,1,False,False,0.0,0.0
+14640,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,1,False,False,0.0,0.0
+14655,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,1,False,False,0.0,0.0
+14670,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,1,False,False,0.0,0.0
+14685,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,0,False,True,1.0,0.0
+14700,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,0,False,False,0.0,0.0
+14715,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,1,False,False,0.0,0.0
+14730,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,1,False,False,0.0,0.0
+14745,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,1,False,False,0.0,0.0
+14760,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,1,False,False,0.0,0.0
+14775,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,1,False,False,0.0,0.0
+14790,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+14805,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+14820,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+14835,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+14850,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+14865,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+14880,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+14895,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+14910,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+14925,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+14940,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+14955,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+14970,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+14985,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+15000,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+15015,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+15030,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+15045,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+15060,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+15075,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+15090,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+15105,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+15120,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+15135,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+15150,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+15165,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+15180,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+15195,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+15210,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+15225,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+15240,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+15255,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+15270,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+15285,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+15300,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+15315,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+15330,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+15345,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,9,False,False,0.0,0.0
+15360,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,9,False,False,0.0,0.0
+15375,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,9,False,False,0.0,0.0
+15390,Tesla,97.0,Fireball,30.0,Tesla,97.0,The Log,98.0,X,106.0,1.0,4,True,True,5.0,6.0
+15405,Tesla,97.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+15420,Tesla,97.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+15435,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,Tesla,97.0,3.0,1,True,True,3.0,4.0
+15450,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,1,False,False,0.0,0.0
+15465,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,2,False,False,0.0,0.0
+15480,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,2,False,False,0.0,0.0
+15495,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,1,False,True,1.0,0.0
+15510,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,2,False,False,0.0,0.0
+15525,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,2,False,False,0.0,0.0
+15540,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,2,False,False,0.0,0.0
+15555,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,3,False,False,0.0,0.0
+15570,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,3,False,False,0.0,0.0
+15585,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,3,False,False,0.0,0.0
+15600,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,4,False,False,0.0,0.0
+15615,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,4,False,False,0.0,0.0
+15630,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,5,False,False,0.0,0.0
+15645,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,5,False,False,0.0,0.0
+15660,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,5,False,False,0.0,0.0
+15675,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,6,False,False,0.0,0.0
+15690,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,6,False,False,0.0,0.0
+15705,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,The Log,98.0,4.0,4,True,True,2.0,2.0
+15720,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,5,False,False,0.0,0.0
+15735,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,5,False,False,0.0,0.0
+15750,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,5,False,False,0.0,0.0
+15765,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,6,False,False,0.0,0.0
+15780,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,6,False,False,0.0,0.0
+15795,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,6,False,False,0.0,0.0
+15810,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,7,False,False,0.0,0.0
+15825,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,7,False,False,0.0,0.0
+15840,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,7,False,False,0.0,0.0
+15855,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,8,False,False,0.0,0.0
+15870,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,8,False,False,0.0,0.0
+15885,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,8,False,False,0.0,0.0
+15900,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,8,False,False,0.0,0.0
+15915,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,8,False,False,0.0,0.0
+15930,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,9,False,False,0.0,0.0
+15945,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,9,False,False,0.0,0.0
+15960,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,9,False,False,0.0,0.0
+15975,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,10,False,False,0.0,0.0
+15990,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,7,False,True,3.0,0.0
+16005,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,7,False,False,0.0,0.0
+16020,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,7,False,False,0.0,0.0
+16035,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,8,False,False,0.0,0.0
+16050,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,5,False,True,3.0,0.0
+16065,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,6,False,False,0.0,0.0
+16080,The Log,98.0,Fireball,30.0,Archers,1.0,X,106.0,Tesla,97.0,1.0,2,True,True,4.0,4.0
+16095,The Log,98.0,Fireball,30.0,Archers,1.0,X,106.0,,,,2,False,False,0.0,0.0
+16110,The Log,98.0,Fireball,30.0,Archers,1.0,X,106.0,,,,2,False,False,0.0,0.0
+16125,The Log,98.0,Fireball,30.0,Archers,1.0,X,106.0,,,,2,False,False,0.0,0.0
+16140,The Log,98.0,Fireball,30.0,Archers,1.0,X,106.0,,,,2,False,False,0.0,0.0
+16155,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,The Log,98.0,1.0,2,True,True,1.0,2.0
+16170,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,1,False,False,0.0,0.0
+16185,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,0,False,True,1.0,0.0
+16200,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,1,False,False,0.0,0.0
+16215,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,1,False,False,0.0,0.0
+16230,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,1,False,False,0.0,0.0
+16245,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,2,False,False,0.0,0.0
+16260,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,2,False,False,0.0,0.0
+16275,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,3,False,False,0.0,0.0
+16290,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,3,False,False,0.0,0.0
+16305,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,3,False,False,0.0,0.0
+16320,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,4,False,False,0.0,0.0
+16335,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,4,False,False,0.0,0.0
+16350,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,4,False,False,0.0,0.0
+16365,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,5,False,False,0.0,0.0
+16380,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,5,False,False,0.0,0.0
+16395,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,5,False,False,0.0,0.0
+16410,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,6,False,False,0.0,0.0
+16425,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,6,False,False,0.0,0.0
+16440,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,6,False,False,0.0,0.0
+16455,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,7,False,False,0.0,0.0
+16470,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,7,False,False,0.0,0.0
+16485,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,8,False,False,0.0,0.0
+16500,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,8,False,False,0.0,0.0
+16515,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,8,False,False,0.0,0.0
+16530,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,9,False,False,0.0,0.0
+16545,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,9,False,False,0.0,0.0
+16560,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,9,False,False,0.0,0.0
+16575,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,10,False,False,0.0,0.0
+16590,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,7,False,True,3.0,0.0
+16605,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,7,False,False,0.0,0.0
+16620,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,8,False,False,0.0,0.0
+16635,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,8,False,False,0.0,0.0
+16650,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,8,False,False,0.0,0.0
+16665,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,9,False,False,0.0,0.0
+16680,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,9,False,False,0.0,0.0
+16695,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,9,False,False,0.0,0.0
+16710,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,6,False,True,3.0,0.0
+16725,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,6,False,False,0.0,0.0
+16740,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,6,False,False,0.0,0.0
+16755,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,7,False,False,0.0,0.0
+16770,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,7,False,False,0.0,0.0
+16785,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,7,False,False,0.0,0.0
+16800,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,8,False,False,0.0,0.0
+16815,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,8,False,False,0.0,0.0
+16830,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,9,False,False,0.0,0.0
+16845,Tesla,97.0,Fireball,30.0,The Log,98.0,X,106.0,Archers,1.0,3.0,6,True,True,3.0,3.0
+16860,Tesla,97.0,Fireball,30.0,The Log,98.0,X,106.0,,,,6,False,False,0.0,0.0
+16875,Tesla,97.0,Fireball,30.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+16890,Tesla,97.0,Fireball,30.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+16905,Tesla,97.0,Fireball,30.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+16920,Tesla,97.0,Fireball,30.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+16935,Tesla,97.0,Fireball,30.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+16950,Tesla,97.0,Fireball,30.0,The Log,98.0,X,106.0,,,,7,False,True,1.0,0.0
+16965,Tesla,97.0,Fireball,30.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+16980,Tesla,97.0,Fireball,30.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+16995,Tesla,97.0,Fireball,30.0,The Log,98.0,X,106.0,,,,7,False,True,1.0,0.0
+17010,Tesla,97.0,Fireball,30.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+17025,Tesla,97.0,Fireball,30.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+17040,Tesla,97.0,Fireball,30.0,The Log,98.0,X,106.0,,,,8,False,False,0.0,0.0
+17055,Tesla,97.0,Fireball,30.0,The Log,98.0,X,106.0,,,,6,False,True,2.0,0.0
+17070,Tesla,97.0,Fireball,30.0,The Log,98.0,X,106.0,,,,6,False,False,0.0,0.0
+17085,Tesla,97.0,Fireball,30.0,The Log,98.0,X,106.0,,,,7,False,False,0.0,0.0
+17100,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,The Log,98.0,3.0,7,True,True,2.0,2.0
+17115,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,5,False,False,0.0,0.0
+17130,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,6,False,False,0.0,0.0
+17145,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,6,False,False,0.0,0.0
+17160,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,3,False,True,3.0,0.0
+17175,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,4,False,False,0.0,0.0
+17190,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,4,False,False,0.0,0.0
+17205,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,4,False,False,0.0,0.0
+17220,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,5,False,False,0.0,0.0
+17235,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,5,False,False,0.0,0.0
+17250,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,5,False,False,0.0,0.0
+17265,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,6,False,False,0.0,0.0
+17280,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,2,False,True,4.0,0.0
+17295,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,3,False,False,0.0,0.0
+17310,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,3,False,False,0.0,0.0
+17325,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,2,False,True,1.0,0.0
+17340,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,3,False,False,0.0,0.0
+17355,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,3,False,False,0.0,0.0
+17370,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,3,False,False,0.0,0.0
+17385,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,4,False,False,0.0,0.0
+17400,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,4,False,False,0.0,0.0
+17415,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,4,False,False,0.0,0.0
+17430,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,5,False,False,0.0,0.0
+17445,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,5,False,False,0.0,0.0
+17460,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,5,False,False,0.0,0.0
+17475,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,6,False,False,0.0,0.0
+17490,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,,,,6,False,False,0.0,0.0
+17505,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,X,106.0,4.0,7,True,True,6.0,6.0
+17520,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,1,False,False,0.0,0.0
+17535,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,1,False,False,0.0,0.0
+17550,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,2,False,False,0.0,0.0
+17565,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,2,False,False,0.0,0.0
+17580,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,2,False,False,0.0,0.0
+17595,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,3,False,False,0.0,0.0
+17610,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,2,False,True,1.0,0.0
+17625,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,2,False,False,0.0,0.0
+17640,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,3,False,False,0.0,0.0
+17655,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,3,False,False,0.0,0.0
+17670,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,4,False,False,0.0,0.0
+17685,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,4,False,False,0.0,0.0
+17700,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,4,False,False,0.0,0.0
+17715,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,5,False,False,0.0,0.0
+17730,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,5,False,False,0.0,0.0
+17745,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,5,False,False,0.0,0.0
+17760,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,6,False,False,0.0,0.0
+17775,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,6,False,False,0.0,0.0
+17790,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,3,False,True,3.0,0.0
+17805,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,4,False,False,0.0,0.0
+17820,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,4,False,False,0.0,0.0
+17835,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,4,False,False,0.0,0.0
+17850,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,5,False,False,0.0,0.0
+17865,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,5,False,False,0.0,0.0
+17880,Tesla,97.0,Fireball,30.0,X,106.0,The Log,98.0,Archers,1.0,3.0,2,True,True,3.0,3.0
+17895,Tesla,97.0,Fireball,30.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+17910,Tesla,97.0,Fireball,30.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+17925,Tesla,97.0,Fireball,30.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+17940,Tesla,97.0,Fireball,30.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+17955,Tesla,97.0,Fireball,30.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+17970,Tesla,97.0,Fireball,30.0,X,106.0,The Log,98.0,,,,5,False,False,0.0,0.0
+17985,Tesla,97.0,Fireball,30.0,X,106.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18000,Tesla,97.0,Fireball,30.0,X,106.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18015,Tesla,97.0,Fireball,30.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18030,Tesla,97.0,Fireball,30.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18045,Tesla,97.0,Fireball,30.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18060,Tesla,97.0,Fireball,30.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18075,Tesla,97.0,Fireball,30.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18090,Tesla,97.0,Fireball,30.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18105,Tesla,97.0,Fireball,30.0,X,106.0,The Log,98.0,,,,7,False,False,0.0,0.0
+18120,Tesla,97.0,Fireball,30.0,X,106.0,The Log,98.0,,,,7,False,False,0.0,0.0
+18135,Tesla,97.0,Fireball,30.0,X,106.0,The Log,98.0,,,,8,False,False,0.0,0.0
+18150,Tesla,97.0,Fireball,30.0,X,106.0,The Log,98.0,,,,8,False,False,0.0,0.0
+18165,Tesla,97.0,Fireball,30.0,X,106.0,The Log,98.0,,,,8,False,False,0.0,0.0
+18180,Tesla,97.0,Fireball,30.0,X,106.0,The Log,98.0,,,,9,False,False,0.0,0.0
+18195,Tesla,97.0,Fireball,30.0,X,106.0,The Log,98.0,,,,9,False,False,0.0,0.0
+18210,Tesla,97.0,Fireball,30.0,X,106.0,The Log,98.0,,,,9,False,False,0.0,0.0
+18225,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,X,106.0,3.0,10,True,False,0.0,6.0
+18240,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,10,False,False,0.0,0.0
+18255,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,10,False,False,0.0,0.0
+18270,Tesla,97.0,Fireball,30.0,Archers,1.0,X,106.0,The Log,98.0,4.0,10,True,False,0.0,2.0
+18285,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,X,106.0,4.0,1,True,True,9.0,6.0
+18300,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,2,False,False,0.0,0.0
+18315,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,2,False,False,0.0,0.0
+18330,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,2,False,False,0.0,0.0
+18345,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18360,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18375,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18390,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18405,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,3,False,True,1.0,0.0
+18420,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18435,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18450,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18465,Tesla,97.0,Fireball,30.0,Archers,1.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18480,Tesla,97.0,Fireball,30.0,Archers,1.0,Archers,1.0,The Log,98.0,4.0,3,True,True,1.0,2.0
+18495,Tesla,97.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,3,False,False,0.0,0.0
+18510,Tesla,97.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,3,False,False,0.0,0.0
+18525,Tesla,97.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,4,False,False,0.0,0.0
+18540,Tesla,97.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,4,False,False,0.0,0.0
+18555,Tesla,97.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,5,False,False,0.0,0.0
+18570,Tesla,97.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,5,False,False,0.0,0.0
+18585,Tesla,97.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,5,False,False,0.0,0.0
+18600,Tesla,97.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,6,False,False,0.0,0.0
+18615,Tesla,97.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,6,False,False,0.0,0.0
+18630,Tesla,97.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,6,False,False,0.0,0.0
+18645,Tesla,97.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,7,False,False,0.0,0.0
+18660,Tesla,97.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,7,False,False,0.0,0.0
+18675,Tesla,97.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,7,False,False,0.0,0.0
+18690,Tesla,97.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,8,False,False,0.0,0.0
+18705,Tesla,97.0,Fireball,30.0,X,106.0,Archers,1.0,Archers,1.0,3.0,5,True,True,3.0,3.0
+18720,Tesla,97.0,Fireball,30.0,X,106.0,Archers,1.0,,,,5,False,False,0.0,0.0
+18735,Tesla,97.0,Fireball,30.0,X,106.0,Archers,1.0,,,,3,False,True,2.0,0.0
+18750,Tesla,97.0,Fireball,30.0,X,106.0,Archers,1.0,,,,3,False,False,0.0,0.0
+18765,Tesla,97.0,Fireball,30.0,X,106.0,Archers,1.0,,,,3,False,False,0.0,0.0
+18780,Tesla,97.0,Fireball,30.0,X,106.0,Archers,1.0,,,,3,False,False,0.0,0.0
+18795,Tesla,97.0,Fireball,30.0,X,106.0,Archers,1.0,,,,3,False,False,0.0,0.0
+18810,Tesla,97.0,Fireball,30.0,X,106.0,Archers,1.0,,,,4,False,False,0.0,0.0
+18825,Tesla,97.0,Fireball,30.0,X,106.0,Archers,1.0,,,,4,False,False,0.0,0.0
+18840,Tesla,97.0,Fireball,30.0,X,106.0,Archers,1.0,,,,4,False,False,0.0,0.0
+18855,The Log,98.0,Fireball,30.0,X,106.0,Archers,1.0,Tesla,97.0,1.0,1,True,True,3.0,4.0
+18870,The Log,98.0,Fireball,30.0,X,106.0,Archers,1.0,,,,1,False,False,0.0,0.0
+18885,The Log,98.0,Fireball,30.0,X,106.0,Archers,1.0,,,,0,False,True,1.0,0.0
+18900,The Log,98.0,Fireball,30.0,X,106.0,Archers,1.0,,,,1,False,False,0.0,0.0
+18915,The Log,98.0,Fireball,30.0,X,106.0,Archers,1.0,,,,1,False,False,0.0,0.0
+18930,The Log,98.0,Fireball,30.0,X,106.0,Archers,1.0,,,,2,False,False,0.0,0.0
+18945,The Log,98.0,Fireball,30.0,X,106.0,Archers,1.0,,,,2,False,False,0.0,0.0
+18960,The Log,98.0,Fireball,30.0,X,106.0,Archers,1.0,,,,3,False,False,0.0,0.0
+18975,The Log,98.0,Fireball,30.0,X,106.0,Archers,1.0,,,,4,False,False,0.0,0.0
+18990,The Log,98.0,Fireball,30.0,X,106.0,Archers,1.0,,,,4,False,False,0.0,0.0
+19005,The Log,98.0,Fireball,30.0,X,106.0,Archers,1.0,,,,5,False,False,0.0,0.0
+19020,The Log,98.0,Fireball,30.0,X,106.0,Archers,1.0,,,,5,False,False,0.0,0.0
+19035,The Log,98.0,Fireball,30.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+19050,The Log,98.0,Fireball,30.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+19065,The Log,98.0,Fireball,30.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+19080,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,X,106.0,3.0,1,True,True,6.0,6.0
+19095,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+19110,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+19125,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,3,False,False,0.0,0.0
+19140,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,3,False,False,0.0,0.0
+19155,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,1,False,True,2.0,0.0
+19170,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+19185,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+19200,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,3,False,False,0.0,0.0
+19215,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,3,False,False,0.0,0.0
+19230,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,4,False,False,0.0,0.0
+19245,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,4,False,False,0.0,0.0
+19260,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,5,False,False,0.0,0.0
+19275,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,5,False,False,0.0,0.0
+19290,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,5,False,False,0.0,0.0
+19305,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,5,False,False,0.0,0.0
+19320,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,4,False,True,1.0,0.0
+19335,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,1,False,True,3.0,0.0
+19350,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+19365,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,3,False,False,0.0,0.0
+19380,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,2,False,True,1.0,0.0
+19395,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,3,False,False,0.0,0.0
+19410,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,3,False,False,0.0,0.0
+19425,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,4,False,False,0.0,0.0
+19440,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,4,False,False,0.0,0.0
+19455,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,5,False,False,0.0,0.0
+19470,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,1,False,True,4.0,0.0
+19485,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+19500,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+19515,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,3,False,False,0.0,0.0
+19530,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,3,False,False,0.0,0.0
+19545,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,4,False,False,0.0,0.0
+19560,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,2,False,True,2.0,0.0
+19575,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+19590,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,3,False,False,0.0,0.0
+19605,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,1,False,True,2.0,0.0
+19620,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+19635,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,1,False,True,1.0,0.0

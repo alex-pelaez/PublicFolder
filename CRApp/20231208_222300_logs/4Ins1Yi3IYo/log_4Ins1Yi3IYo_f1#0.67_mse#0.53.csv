@@ -1,0 +1,227 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00255,Guards,49.0,Miner,66.0,Witch,104.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+00270,Guards,49.0,Miner,66.0,Witch,104.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+00285,Guards,49.0,Miner,66.0,Witch,104.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+00300,Guards,49.0,Miner,66.0,Witch,104.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+00315,Guards,49.0,Miner,66.0,Witch,104.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+00330,Guards,49.0,Miner,66.0,Witch,104.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+00345,Guards,49.0,Miner,66.0,Witch,104.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+00360,Guards,49.0,Miner,66.0,Witch,104.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+00375,Guards,49.0,Miner,66.0,Witch,104.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+00390,Guards,49.0,Miner,66.0,Witch,104.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+00405,Guards,49.0,Miner,66.0,Witch,104.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+00420,Guards,49.0,Miner,66.0,Witch,104.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+00435,Guards,49.0,Miner,66.0,Witch,104.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+00450,Guards,49.0,Miner,66.0,Witch,104.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+00465,Guards,49.0,Miner,66.0,Witch,104.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+00480,Guards,49.0,Miner,66.0,Arrows,2.0,Skeleton Dragons,92.0,Witch,104.0,3.0,9,True,False,0.0,5.0
+00495,Guards,49.0,Miner,66.0,Arrows,2.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+00510,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,Miner,66.0,2.0,6,True,True,3.0,3.0
+00525,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+00540,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+00555,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+00570,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+00585,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+00600,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+00615,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+00630,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+00645,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+00660,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+00675,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+00690,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+00705,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+00720,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+00735,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+00750,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+00765,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,5,False,True,4.0,0.0
+00780,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+00795,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+00810,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+00825,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+00840,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+00855,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+00870,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+00885,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+00900,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+00915,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+00930,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+00945,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+00960,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+00975,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+00990,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+01005,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+01020,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+01035,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+01050,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+01065,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+01080,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+01095,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+01110,Guards,49.0,Lava Hound,59.0,Arrows,2.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+01125,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,Lava Hound,59.0,2.0,3,True,True,6.0,7.0
+01140,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+01155,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+01170,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+01185,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+01200,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+01215,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+01230,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+01245,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+01260,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+01275,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+01290,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+01305,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+01320,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+01335,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+01350,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+01365,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+01380,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+01395,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+01410,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+01425,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+01440,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+01455,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+01470,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+01485,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+01500,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+01515,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+01530,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+01545,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+01560,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+01575,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+01590,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+01605,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+01620,Guards,49.0,Flying Machine,33.0,Arrows,2.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+01635,Guards,49.0,Zap,107.0,Arrows,2.0,Skeleton Dragons,92.0,Flying Machine,33.0,2.0,5,True,True,3.0,4.0
+01650,Guards,49.0,Zap,107.0,Arrows,2.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+01665,Guards,49.0,Zap,107.0,Arrows,2.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+01680,Guards,49.0,Zap,107.0,Arrows,2.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+01695,Guards,49.0,Zap,107.0,Arrows,2.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+01710,Guards,49.0,Zap,107.0,Arrows,2.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+01725,Guards,49.0,Zap,107.0,Arrows,2.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+01740,Guards,49.0,Zap,107.0,Arrows,2.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+01755,Guards,49.0,Zap,107.0,Arrows,2.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+01770,Guards,49.0,Zap,107.0,Arrows,2.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+01785,Guards,49.0,Zap,107.0,Arrows,2.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+01800,Guards,49.0,Zap,107.0,Arrows,2.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+01815,Guards,49.0,Zap,107.0,Arrows,2.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+01830,Guards,49.0,Zap,107.0,Arrows,2.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+01845,Guards,49.0,Zap,107.0,Arrows,2.0,Miner,66.0,Skeleton Dragons,92.0,4.0,3,True,True,4.0,4.0
+01860,Guards,49.0,Zap,107.0,Arrows,2.0,Miner,66.0,,,,3,False,False,0.0,0.0
+01875,Guards,49.0,Zap,107.0,Arrows,2.0,Miner,66.0,,,,3,False,False,0.0,0.0
+01890,Guards,49.0,Zap,107.0,Arrows,2.0,Miner,66.0,,,,4,False,False,0.0,0.0
+01905,Guards,49.0,Zap,107.0,Arrows,2.0,Miner,66.0,,,,4,False,False,0.0,0.0
+01920,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,Miner,66.0,4.0,4,True,True,3.0,3.0
+01935,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,1,False,False,0.0,0.0
+01950,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,1,False,False,0.0,0.0
+01965,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,2,False,False,0.0,0.0
+01980,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,2,False,False,0.0,0.0
+01995,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,2,False,False,0.0,0.0
+02010,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,2,False,False,0.0,0.0
+02025,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,2,False,False,0.0,0.0
+02040,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,2,False,False,0.0,0.0
+02055,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,3,False,False,0.0,0.0
+02070,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,3,False,False,0.0,0.0
+02085,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,3,False,False,0.0,0.0
+02100,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,3,False,False,0.0,0.0
+02115,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,3,False,False,0.0,0.0
+02130,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,4,False,False,0.0,0.0
+02145,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,4,False,False,0.0,0.0
+02160,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,4,False,False,0.0,0.0
+02175,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,4,False,False,0.0,0.0
+02190,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,4,False,False,0.0,0.0
+02205,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,4,False,False,0.0,0.0
+02220,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,5,False,False,0.0,0.0
+02235,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,5,False,False,0.0,0.0
+02250,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,5,False,False,0.0,0.0
+02265,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,5,False,False,0.0,0.0
+02280,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,5,False,False,0.0,0.0
+02295,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,5,False,False,0.0,0.0
+02310,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,6,False,False,0.0,0.0
+02325,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,6,False,False,0.0,0.0
+02340,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,6,False,False,0.0,0.0
+02355,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,6,False,False,0.0,0.0
+02370,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,6,False,False,0.0,0.0
+02385,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,7,False,False,0.0,0.0
+02400,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,7,False,False,0.0,0.0
+02415,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,7,False,False,0.0,0.0
+02430,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,7,False,False,0.0,0.0
+02445,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,7,False,False,0.0,0.0
+02460,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,7,False,False,0.0,0.0
+02475,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,8,False,False,0.0,0.0
+02490,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,8,False,False,0.0,0.0
+02505,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,8,False,False,0.0,0.0
+02520,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,8,False,False,0.0,0.0
+02535,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,8,False,False,0.0,0.0
+02550,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,9,False,False,0.0,0.0
+02565,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,9,False,False,0.0,0.0
+02580,Guards,49.0,Zap,107.0,Arrows,2.0,Witch,104.0,,,,9,False,False,0.0,0.0
+02595,Guards,49.0,Zap,107.0,Arrows,2.0,Lava Hound,59.0,Witch,104.0,4.0,9,True,False,0.0,5.0
+02610,Guards,49.0,Zap,107.0,Arrows,2.0,Lava Hound,59.0,,,,9,False,False,0.0,0.0
+02625,Guards,49.0,Zap,107.0,Arrows,2.0,Lava Hound,59.0,,,,9,False,False,0.0,0.0
+02640,Guards,49.0,Zap,107.0,Arrows,2.0,Lava Hound,59.0,,,,6,False,True,3.0,0.0
+02655,Guards,49.0,Zap,107.0,Arrows,2.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+02670,Guards,49.0,Zap,107.0,Arrows,2.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+02685,Guards,49.0,Zap,107.0,Arrows,2.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+02700,Guards,49.0,Zap,107.0,Arrows,2.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+02715,Guards,49.0,Zap,107.0,Arrows,2.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+02730,Guards,49.0,Zap,107.0,Arrows,2.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+02745,Guards,49.0,Zap,107.0,Arrows,2.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+02760,Guards,49.0,Zap,107.0,Arrows,2.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+02775,Guards,49.0,Zap,107.0,Arrows,2.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+02790,Guards,49.0,Zap,107.0,Arrows,2.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+02805,Guards,49.0,Zap,107.0,Arrows,2.0,Lava Hound,59.0,,,,8,False,False,0.0,0.0
+02820,Guards,49.0,Zap,107.0,Arrows,2.0,Lava Hound,59.0,,,,8,False,False,0.0,0.0
+02835,Guards,49.0,Zap,107.0,Arrows,2.0,Lava Hound,59.0,,,,8,False,False,0.0,0.0
+02850,Guards,49.0,Zap,107.0,Arrows,2.0,Lava Hound,59.0,,,,8,False,False,0.0,0.0
+02865,Skeleton Dragons,92.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,Lava Hound,59.0,4.0,1,True,True,7.0,7.0
+02880,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,Skeleton Dragons,92.0,1.0,1,True,False,0.0,4.0
+02895,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,2,False,False,0.0,0.0
+02910,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,2,False,False,0.0,0.0
+02925,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,2,False,False,0.0,0.0
+02940,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,2,False,False,0.0,0.0
+02955,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,2,False,False,0.0,0.0
+02970,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,2,False,False,0.0,0.0
+02985,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,3,False,False,0.0,0.0
+03000,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,3,False,False,0.0,0.0
+03015,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,3,False,False,0.0,0.0
+03030,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,3,False,False,0.0,0.0
+03045,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,3,False,False,0.0,0.0
+03060,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,4,False,False,0.0,0.0
+03075,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,4,False,False,0.0,0.0
+03090,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,4,False,False,0.0,0.0
+03105,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,0,False,True,4.0,0.0
+03120,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,0,False,False,0.0,0.0
+03135,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,0,False,False,0.0,0.0
+03150,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,1,False,False,0.0,0.0
+03165,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,1,False,False,0.0,0.0
+03180,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,1,False,False,0.0,0.0
+03195,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,1,False,False,0.0,0.0
+03210,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,1,False,False,0.0,0.0
+03225,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,2,False,False,0.0,0.0
+03240,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,2,False,False,0.0,0.0
+03255,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,2,False,False,0.0,0.0
+03270,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,2,False,False,0.0,0.0
+03285,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,2,False,False,0.0,0.0
+03300,Guards,49.0,Zap,107.0,Arrows,2.0,Flying Machine,33.0,,,,2,False,False,0.0,0.0
+03315,Guards,49.0,Miner,66.0,Arrows,2.0,Flying Machine,33.0,Zap,107.0,2.0,2,True,True,1.0,2.0
+03330,Guards,49.0,Miner,66.0,Arrows,2.0,Flying Machine,33.0,,,,1,False,False,0.0,0.0
+03345,Guards,49.0,Miner,66.0,Arrows,2.0,Flying Machine,33.0,,,,1,False,False,0.0,0.0
+03360,Guards,49.0,Miner,66.0,Arrows,2.0,Flying Machine,33.0,,,,1,False,False,0.0,0.0
+03375,Guards,49.0,Miner,66.0,Arrows,2.0,Flying Machine,33.0,,,,1,False,False,0.0,0.0
+03390,Guards,49.0,Miner,66.0,Arrows,2.0,Flying Machine,33.0,,,,1,False,False,0.0,0.0
+03405,Guards,49.0,Miner,66.0,Arrows,2.0,Flying Machine,33.0,,,,2,False,False,0.0,0.0
+03420,Guards,49.0,Miner,66.0,Arrows,2.0,Flying Machine,33.0,,,,2,False,False,0.0,0.0
+03435,Guards,49.0,Miner,66.0,Arrows,2.0,Flying Machine,33.0,,,,2,False,False,0.0,0.0
+03450,Guards,49.0,Miner,66.0,Arrows,2.0,Flying Machine,33.0,,,,2,False,False,0.0,0.0
+03465,Guards,49.0,Miner,66.0,Arrows,2.0,Flying Machine,33.0,,,,2,False,False,0.0,0.0
+03480,Guards,49.0,Miner,66.0,Arrows,2.0,Flying Machine,33.0,,,,3,False,False,0.0,0.0
+03495,Guards,49.0,Miner,66.0,Arrows,2.0,Flying Machine,33.0,,,,3,False,False,0.0,0.0
+03510,Guards,49.0,Miner,66.0,Arrows,2.0,Flying Machine,33.0,,,,3,False,False,0.0,0.0
+03525,Guards,49.0,Miner,66.0,Arrows,2.0,Flying Machine,33.0,,,,0,False,True,3.0,0.0
+03540,Guards,49.0,Miner,66.0,Arrows,2.0,Flying Machine,33.0,,,,0,False,False,0.0,0.0
+03555,Guards,49.0,Miner,66.0,Arrows,2.0,Flying Machine,33.0,,,,0,False,False,0.0,0.0
+03570,Guards,49.0,Miner,66.0,Arrows,2.0,Flying Machine,33.0,,,,1,False,False,0.0,0.0
+03585,Guards,49.0,Miner,66.0,Arrows,2.0,Flying Machine,33.0,,,,1,False,False,0.0,0.0
+03600,Guards,49.0,Miner,66.0,Arrows,2.0,Flying Machine,33.0,,,,1,False,False,0.0,0.0
+03615,Guards,49.0,Miner,66.0,Arrows,2.0,Flying Machine,33.0,,,,1,False,False,0.0,0.0
+03630,Guards,49.0,Miner,66.0,Arrows,2.0,Flying Machine,33.0,,,,1,False,False,0.0,0.0

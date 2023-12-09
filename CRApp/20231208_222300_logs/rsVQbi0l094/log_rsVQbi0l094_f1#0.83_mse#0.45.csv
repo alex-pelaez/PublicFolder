@@ -1,0 +1,390 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Witch,104.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+00255,Witch,104.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+00270,Witch,104.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+00285,Witch,104.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+00300,Witch,104.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+00315,Witch,104.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+00330,Witch,104.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+00345,Witch,104.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,7,False,True,1.0,0.0
+00360,Witch,104.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+00375,Witch,104.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+00390,Witch,104.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+00405,Witch,104.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+00420,Witch,104.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+00435,Witch,104.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+00450,Witch,104.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,9,False,False,0.0,0.0
+00465,Witch,104.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,9,False,False,0.0,0.0
+00480,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,Witch,104.0,1.0,9,True,False,0.0,5.0
+00495,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,9,False,False,0.0,0.0
+00510,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,9,False,False,0.0,0.0
+00525,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,10,False,False,0.0,0.0
+00540,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,10,False,False,0.0,0.0
+00555,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,10,False,False,0.0,0.0
+00570,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,10,False,False,0.0,0.0
+00585,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,10,False,False,0.0,0.0
+00600,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,10,False,False,0.0,0.0
+00615,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,10,False,False,0.0,0.0
+00630,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,10,False,False,0.0,0.0
+00645,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,6,False,True,4.0,0.0
+00660,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+00675,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+00690,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+00705,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+00720,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+00735,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+00750,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+00765,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+00780,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+00795,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+00810,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+00825,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+00840,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+00855,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+00870,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+00885,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,9,False,False,0.0,0.0
+00900,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,9,False,False,0.0,0.0
+00915,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,9,False,False,0.0,0.0
+00930,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,9,False,False,0.0,0.0
+00945,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,9,False,False,0.0,0.0
+00960,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,9,False,False,0.0,0.0
+00975,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,Barbarian Barrel,6.0,2.0,8,True,True,1.0,2.0
+00990,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+01005,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+01020,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+01035,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+01050,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+01065,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,9,False,False,0.0,0.0
+01080,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,9,False,False,0.0,0.0
+01095,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,9,False,False,0.0,0.0
+01110,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,9,False,False,0.0,0.0
+01125,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,9,False,False,0.0,0.0
+01140,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,10,False,False,0.0,0.0
+01155,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,10,False,False,0.0,0.0
+01170,Skeleton Army,90.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,Baby Dragon,3.0,2.0,6,True,True,4.0,4.0
+01185,Skeleton Army,90.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+01200,Skeleton Army,90.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+01215,Skeleton Army,90.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+01230,Skeleton Army,90.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+01245,Skeleton Army,90.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+01260,Skeleton Army,90.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+01275,Skeleton Army,90.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+01290,Skeleton Army,90.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+01305,Skeleton Army,90.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+01320,Skeleton Army,90.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+01335,Skeleton Army,90.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+01350,Skeleton Army,90.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+01365,Skeleton Army,90.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+01380,Skeleton Army,90.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+01395,Skeleton Army,90.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+01410,Skeleton Army,90.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,,,,9,False,False,0.0,0.0
+01425,Skeleton Army,90.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,,,,9,False,False,0.0,0.0
+01440,Skeleton Army,90.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,,,,9,False,False,0.0,0.0
+01455,Skeleton Army,90.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,,,,9,False,False,0.0,0.0
+01470,Skeleton Army,90.0,Golem,47.0,Tornado,101.0,Clone,17.0,Lumberjack,61.0,2.0,5,True,True,4.0,4.0
+01485,Skeleton Army,90.0,Golem,47.0,Tornado,101.0,Clone,17.0,,,,5,False,False,0.0,0.0
+01500,Skeleton Army,90.0,Golem,47.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+01515,Skeleton Army,90.0,Golem,47.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+01530,Skeleton Army,90.0,Golem,47.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+01545,Skeleton Army,90.0,Golem,47.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+01560,Skeleton Army,90.0,Golem,47.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+01575,Skeleton Army,90.0,Golem,47.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+01590,Skeleton Army,90.0,Golem,47.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+01605,Skeleton Army,90.0,Golem,47.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+01620,Skeleton Army,90.0,Golem,47.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+01635,Skeleton Army,90.0,Golem,47.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+01650,Skeleton Army,90.0,Golem,47.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+01665,Skeleton Army,90.0,Golem,47.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+01680,Skeleton Army,90.0,Golem,47.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+01695,Skeleton Army,90.0,Golem,47.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+01710,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,Clone,17.0,Golem,47.0,2.0,0,True,True,8.0,8.0
+01725,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,Clone,17.0,,,,0,False,False,0.0,0.0
+01740,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,Clone,17.0,,,,0,False,False,0.0,0.0
+01755,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,Clone,17.0,,,,1,False,False,0.0,0.0
+01770,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,Clone,17.0,,,,1,False,False,0.0,0.0
+01785,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,Clone,17.0,,,,1,False,False,0.0,0.0
+01800,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,Clone,17.0,,,,1,False,False,0.0,0.0
+01815,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,Clone,17.0,,,,1,False,False,0.0,0.0
+01830,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+01845,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+01860,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+01875,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+01890,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+01905,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+01920,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,Clone,17.0,,,,3,False,False,0.0,0.0
+01935,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,Clone,17.0,,,,3,False,False,0.0,0.0
+01950,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,Clone,17.0,,,,3,False,False,0.0,0.0
+01965,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,Clone,17.0,,,,3,False,False,0.0,0.0
+01980,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,Clone,17.0,,,,3,False,False,0.0,0.0
+01995,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,Clone,17.0,,,,3,False,False,0.0,0.0
+02010,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,Clone,17.0,,,,4,False,False,0.0,0.0
+02025,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,Clone,17.0,,,,4,False,False,0.0,0.0
+02040,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,Witch,104.0,2.0,5,True,False,0.0,5.0
+02055,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,5,False,False,0.0,0.0
+02070,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,5,False,False,0.0,0.0
+02085,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,5,False,False,0.0,0.0
+02100,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,1,False,True,4.0,0.0
+02115,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,1,False,False,0.0,0.0
+02130,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,1,False,False,0.0,0.0
+02145,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,1,False,False,0.0,0.0
+02160,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,1,False,False,0.0,0.0
+02175,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+02190,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+02205,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,Barbarian Barrel,6.0,2.0,0,True,True,2.0,2.0
+02220,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,0,False,False,0.0,0.0
+02235,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,0,False,False,0.0,0.0
+02250,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,1,False,False,0.0,0.0
+02265,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,1,False,False,0.0,0.0
+02280,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,1,False,False,0.0,0.0
+02295,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,1,False,False,0.0,0.0
+02310,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,1,False,False,0.0,0.0
+02325,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,1,False,False,0.0,0.0
+02340,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+02355,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+02370,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+02385,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+02400,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+02415,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+02430,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,3,False,False,0.0,0.0
+02445,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,3,False,False,0.0,0.0
+02460,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,3,False,False,0.0,0.0
+02475,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,3,False,False,0.0,0.0
+02490,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,3,False,False,0.0,0.0
+02505,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,4,False,False,0.0,0.0
+02520,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,4,False,False,0.0,0.0
+02535,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,4,False,False,0.0,0.0
+02550,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,4,False,False,0.0,0.0
+02565,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,4,False,False,0.0,0.0
+02580,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,4,False,False,0.0,0.0
+02595,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,5,False,False,0.0,0.0
+02610,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,5,False,False,0.0,0.0
+02625,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,5,False,False,0.0,0.0
+02640,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,5,False,False,0.0,0.0
+02655,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,5,False,False,0.0,0.0
+02670,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+02685,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+02700,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+02715,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+02730,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+02745,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+02760,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+02775,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+02790,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+02805,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+02820,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+02835,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+02850,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+02865,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+02880,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+02895,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+02910,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+02925,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,9,False,False,0.0,0.0
+02940,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,9,False,False,0.0,0.0
+02955,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,9,False,False,0.0,0.0
+02970,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,9,False,False,0.0,0.0
+02985,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,9,False,False,0.0,0.0
+03000,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,9,False,False,0.0,0.0
+03015,Skeleton Army,90.0,Baby Dragon,3.0,Tornado,101.0,Clone,17.0,,,,10,False,False,0.0,0.0
+03030,Skeleton Army,90.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,Baby Dragon,3.0,2.0,6,True,True,4.0,4.0
+03045,Skeleton Army,90.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+03060,Skeleton Army,90.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+03075,Skeleton Army,90.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+03090,Skeleton Army,90.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+03105,Golem,47.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,Skeleton Army,90.0,1.0,3,True,True,3.0,3.0
+03120,Golem,47.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,,,,4,False,False,0.0,0.0
+03135,Golem,47.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,,,,4,False,False,0.0,0.0
+03150,Golem,47.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,,,,4,False,False,0.0,0.0
+03165,Golem,47.0,Lumberjack,61.0,Tornado,101.0,Clone,17.0,,,,4,False,False,0.0,0.0
+03180,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,Lumberjack,61.0,2.0,0,True,True,4.0,4.0
+03195,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,1,False,False,0.0,0.0
+03210,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,1,False,False,0.0,0.0
+03225,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,1,False,False,0.0,0.0
+03240,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,1,False,False,0.0,0.0
+03255,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,1,False,False,0.0,0.0
+03270,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,1,False,False,0.0,0.0
+03285,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+03300,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+03315,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+03330,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+03345,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+03360,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,3,False,False,0.0,0.0
+03375,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,3,False,False,0.0,0.0
+03390,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,3,False,False,0.0,0.0
+03405,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,3,False,False,0.0,0.0
+03420,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,3,False,False,0.0,0.0
+03435,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,3,False,False,0.0,0.0
+03450,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,4,False,False,0.0,0.0
+03465,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,4,False,False,0.0,0.0
+03480,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,0,False,True,4.0,0.0
+03495,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,0,False,False,0.0,0.0
+03510,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,0,False,False,0.0,0.0
+03525,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,0,False,False,0.0,0.0
+03540,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,1,False,False,0.0,0.0
+03555,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,1,False,False,0.0,0.0
+03570,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,1,False,False,0.0,0.0
+03585,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,1,False,False,0.0,0.0
+03600,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,1,False,False,0.0,0.0
+03615,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+03630,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+03645,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+03660,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+03675,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+03690,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+03705,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,3,False,False,0.0,0.0
+03720,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,3,False,False,0.0,0.0
+03735,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,3,False,False,0.0,0.0
+03750,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,3,False,False,0.0,0.0
+03765,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,3,False,False,0.0,0.0
+03780,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,4,False,False,0.0,0.0
+03795,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,4,False,False,0.0,0.0
+03810,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,4,False,False,0.0,0.0
+03825,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,5,False,False,0.0,0.0
+03840,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,5,False,False,0.0,0.0
+03855,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,5,False,False,0.0,0.0
+03870,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+03885,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+03900,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+03915,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+03930,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+03945,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+03960,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+03975,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+03990,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+04005,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,9,False,False,0.0,0.0
+04020,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,Golem,47.0,1.0,7,True,True,2.0,8.0
+04035,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,2,False,True,5.0,0.0
+04050,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+04065,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+04080,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,3,False,False,0.0,0.0
+04095,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,3,False,False,0.0,0.0
+04110,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,3,False,False,0.0,0.0
+04125,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,4,False,False,0.0,0.0
+04140,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,4,False,False,0.0,0.0
+04155,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,4,False,False,0.0,0.0
+04170,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,5,False,False,0.0,0.0
+04185,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,5,False,False,0.0,0.0
+04200,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,5,False,False,0.0,0.0
+04215,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+04230,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+04245,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+04260,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+04275,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+04290,Baby Dragon,3.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+04305,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,Baby Dragon,3.0,1.0,4,True,True,4.0,4.0
+04320,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,4,False,False,0.0,0.0
+04335,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,5,False,False,0.0,0.0
+04350,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,5,False,False,0.0,0.0
+04365,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,5,False,False,0.0,0.0
+04380,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+04395,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+04410,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+04425,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+04440,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+04455,Skeleton Army,90.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+04470,Lumberjack,61.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,Skeleton Army,90.0,1.0,5,True,True,3.0,3.0
+04485,Lumberjack,61.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,5,False,False,0.0,0.0
+04500,Lumberjack,61.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+04515,Lumberjack,61.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+04530,Lumberjack,61.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+04545,Lumberjack,61.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+04560,Lumberjack,61.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+04575,Lumberjack,61.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,7,False,False,0.0,0.0
+04590,Lumberjack,61.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,8,False,False,0.0,0.0
+04605,Witch,104.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,Lumberjack,61.0,1.0,4,True,True,4.0,4.0
+04620,Witch,104.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,4,False,False,0.0,0.0
+04635,Witch,104.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,5,False,False,0.0,0.0
+04650,Witch,104.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,5,False,False,0.0,0.0
+04665,Witch,104.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+04680,Witch,104.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+04695,Witch,104.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,6,False,False,0.0,0.0
+04710,Witch,104.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,2,False,False,0.0,0.0
+04725,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,Witch,104.0,1.0,3,True,True,4.0,5.0
+04740,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,3,False,False,0.0,0.0
+04755,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,4,False,False,0.0,0.0
+04770,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,4,False,False,0.0,0.0
+04785,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,4,False,False,0.0,0.0
+04800,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Clone,17.0,,,,5,False,False,0.0,0.0
+04815,Golem,47.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Clone,17.0,Tornado,101.0,3.0,2,True,True,3.0,3.0
+04830,Golem,47.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Clone,17.0,,,,2,False,False,0.0,0.0
+04845,Golem,47.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Clone,17.0,,,,3,False,False,0.0,0.0
+04860,Golem,47.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Clone,17.0,,,,3,False,False,0.0,0.0
+04875,Golem,47.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Clone,17.0,,,,4,False,False,0.0,0.0
+04890,Golem,47.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Clone,17.0,,,,4,False,False,0.0,0.0
+04905,Golem,47.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Clone,17.0,,,,4,False,False,0.0,0.0
+04920,Golem,47.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Clone,17.0,,,,5,False,False,0.0,0.0
+04935,Golem,47.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Skeleton Army,90.0,Clone,17.0,4.0,2,True,True,3.0,3.0
+04950,Golem,47.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+04965,Golem,47.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+04980,Golem,47.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+04995,Golem,47.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+05010,Golem,47.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+05025,Golem,47.0,Barbarian Barrel,6.0,Baby Dragon,3.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+05040,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Skeleton Army,90.0,Baby Dragon,3.0,3.0,0,True,True,4.0,4.0
+05055,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Skeleton Army,90.0,,,,1,False,False,0.0,0.0
+05070,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Skeleton Army,90.0,,,,1,False,False,0.0,0.0
+05085,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+05100,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+05115,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+05130,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+05145,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+05160,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+05175,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+05190,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+05205,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+05220,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+05235,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+05250,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+05265,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+05280,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+05295,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Skeleton Army,90.0,,,,7,False,False,0.0,0.0
+05310,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Skeleton Army,90.0,,,,7,False,False,0.0,0.0
+05325,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Skeleton Army,90.0,,,,7,False,False,0.0,0.0
+05340,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Skeleton Army,90.0,,,,8,False,False,0.0,0.0
+05355,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Skeleton Army,90.0,,,,8,False,False,0.0,0.0
+05370,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Skeleton Army,90.0,,,,8,False,False,0.0,0.0
+05385,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Skeleton Army,90.0,,,,9,False,False,0.0,0.0
+05400,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Skeleton Army,90.0,,,,9,False,False,0.0,0.0
+05415,Golem,47.0,Barbarian Barrel,6.0,Witch,104.0,Skeleton Army,90.0,Lumberjack,61.0,3.0,5,True,True,4.0,4.0
+05430,Golem,47.0,Barbarian Barrel,6.0,Witch,104.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+05445,Golem,47.0,Barbarian Barrel,6.0,Witch,104.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+05460,Golem,47.0,Barbarian Barrel,6.0,Witch,104.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+05475,Golem,47.0,Barbarian Barrel,6.0,Witch,104.0,Skeleton Army,90.0,,,,7,False,False,0.0,0.0
+05490,Golem,47.0,Barbarian Barrel,6.0,Witch,104.0,Skeleton Army,90.0,,,,7,False,False,0.0,0.0
+05505,Golem,47.0,Barbarian Barrel,6.0,Witch,104.0,Skeleton Army,90.0,,,,8,False,False,0.0,0.0
+05520,Golem,47.0,Barbarian Barrel,6.0,Witch,104.0,Skeleton Army,90.0,,,,8,False,False,0.0,0.0
+05535,Golem,47.0,Barbarian Barrel,6.0,Witch,104.0,Skeleton Army,90.0,,,,8,False,False,0.0,0.0
+05550,Golem,47.0,Barbarian Barrel,6.0,Witch,104.0,Skeleton Army,90.0,,,,9,False,False,0.0,0.0
+05565,Golem,47.0,Barbarian Barrel,6.0,Witch,104.0,Skeleton Army,90.0,,,,9,False,False,0.0,0.0
+05580,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Skeleton Army,90.0,Witch,104.0,3.0,5,True,True,4.0,5.0
+05595,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+05610,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+05625,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+05640,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Skeleton Army,90.0,,,,7,False,False,0.0,0.0
+05655,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Skeleton Army,90.0,,,,7,False,False,0.0,0.0
+05670,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Skeleton Army,90.0,,,,7,False,False,0.0,0.0
+05685,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Skeleton Army,90.0,,,,8,False,False,0.0,0.0
+05700,Golem,47.0,Barbarian Barrel,6.0,Tornado,101.0,Skeleton Army,90.0,,,,8,False,False,0.0,0.0
+05715,Clone,17.0,Barbarian Barrel,6.0,Tornado,101.0,Skeleton Army,90.0,Golem,47.0,1.0,1,True,True,7.0,8.0
+05730,Clone,17.0,Barbarian Barrel,6.0,Tornado,101.0,Skeleton Army,90.0,,,,1,False,False,0.0,0.0
+05745,Clone,17.0,Barbarian Barrel,6.0,Tornado,101.0,Skeleton Army,90.0,,,,1,False,False,0.0,0.0
+05760,Clone,17.0,Barbarian Barrel,6.0,Tornado,101.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+05775,Clone,17.0,Barbarian Barrel,6.0,Tornado,101.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+05790,Clone,17.0,Barbarian Barrel,6.0,Tornado,101.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+05805,Clone,17.0,Barbarian Barrel,6.0,Tornado,101.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+05820,Clone,17.0,Barbarian Barrel,6.0,Tornado,101.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+05835,Clone,17.0,Barbarian Barrel,6.0,Tornado,101.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+05850,Clone,17.0,Barbarian Barrel,6.0,Tornado,101.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+05865,Clone,17.0,Barbarian Barrel,6.0,Tornado,101.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+05880,Clone,17.0,Baby Dragon,3.0,Tornado,101.0,Skeleton Army,90.0,Barbarian Barrel,6.0,2.0,3,True,True,1.0,2.0
+05895,Clone,17.0,Baby Dragon,3.0,Tornado,101.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+05910,Clone,17.0,Baby Dragon,3.0,Tornado,101.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+05925,Clone,17.0,Baby Dragon,3.0,Tornado,101.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+05940,Clone,17.0,Baby Dragon,3.0,Tornado,101.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+05955,Clone,17.0,Baby Dragon,3.0,Tornado,101.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+05970,Clone,17.0,Baby Dragon,3.0,Tornado,101.0,Skeleton Army,90.0,,,,1,False,True,3.0,0.0
+05985,Clone,17.0,Baby Dragon,3.0,Tornado,101.0,Skeleton Army,90.0,,,,1,False,False,0.0,0.0
+06000,Clone,17.0,Baby Dragon,3.0,Tornado,101.0,Skeleton Army,90.0,,,,1,False,False,0.0,0.0
+06015,Clone,17.0,Baby Dragon,3.0,Tornado,101.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+06030,Clone,17.0,Baby Dragon,3.0,Tornado,101.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+06045,Clone,17.0,Baby Dragon,3.0,Tornado,101.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+06060,Clone,17.0,Baby Dragon,3.0,Tornado,101.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0

@@ -1,0 +1,608 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00255,Giant,36.0,Witch,104.0,Fisherman,32.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+00270,Giant,36.0,Witch,104.0,Fisherman,32.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+00285,Giant,36.0,Witch,104.0,Fisherman,32.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+00300,Giant,36.0,Witch,104.0,Fisherman,32.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+00315,Giant,36.0,Witch,104.0,Fisherman,32.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+00330,Giant,36.0,Witch,104.0,Fisherman,32.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+00345,Giant,36.0,Witch,104.0,Fisherman,32.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+00360,Giant,36.0,Witch,104.0,Fisherman,32.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+00375,Giant,36.0,Witch,104.0,Fisherman,32.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+00390,Giant,36.0,Witch,104.0,Fisherman,32.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+00405,Giant,36.0,Witch,104.0,Fisherman,32.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+00420,Giant,36.0,Witch,104.0,Fisherman,32.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+00435,Giant,36.0,Witch,104.0,Fisherman,32.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+00450,Giant,36.0,Witch,104.0,Fisherman,32.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+00465,Giant,36.0,Witch,104.0,Fisherman,32.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+00480,Giant,36.0,Witch,104.0,Fisherman,32.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+00495,Giant,36.0,Witch,104.0,Fisherman,32.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+00510,Giant,36.0,Witch,104.0,Fisherman,32.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+00525,Giant,36.0,Witch,104.0,Fisherman,32.0,Electro Wizard,24.0,Skeletons,94.0,4.0,8,True,True,1.0,1.0
+00540,Giant,36.0,Witch,104.0,Fisherman,32.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+00555,Giant,36.0,Witch,104.0,Fisherman,32.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+00570,Giant,36.0,Witch,104.0,Fisherman,32.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+00585,Giant,36.0,Witch,104.0,Fisherman,32.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+00600,Giant,36.0,Witch,104.0,Fisherman,32.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+00615,Giant,36.0,Witch,104.0,Fisherman,32.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+00630,Giant,36.0,Witch,104.0,Fisherman,32.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00645,Giant,36.0,Witch,104.0,Fisherman,32.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00660,Giant,36.0,Witch,104.0,Fisherman,32.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00675,Giant,36.0,Witch,104.0,Fisherman,32.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00690,Giant,36.0,Witch,104.0,Fisherman,32.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00705,Giant,36.0,Witch,104.0,Fisherman,32.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00720,Giant,36.0,Witch,104.0,Fisherman,32.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00735,Giant,36.0,Witch,104.0,Fisherman,32.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00750,Giant,36.0,Witch,104.0,Fisherman,32.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00765,Giant,36.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,Witch,104.0,2.0,10,True,False,0.0,5.0
+00780,Giant,36.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00795,Giant,36.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00810,Giant,36.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,True,4.0,0.0
+00825,Giant,36.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+00840,Giant,36.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+00855,Giant,36.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+00870,Giant,36.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+00885,Giant,36.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+00900,Giant,36.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+00915,Giant,36.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+00930,Giant,36.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+00945,Giant,36.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+00960,Giant,36.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+00975,Giant,36.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+00990,Giant,36.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01005,Giant,36.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01020,Giant,36.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01035,Giant,36.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01050,Giant,36.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01065,Giant,36.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+01080,Giant,36.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+01095,Giant,36.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+01110,The Log,98.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,Giant,36.0,1.0,4,True,True,5.0,5.0
+01125,The Log,98.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+01140,The Log,98.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01155,The Log,98.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01170,The Log,98.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01185,The Log,98.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01200,The Log,98.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01215,The Log,98.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01230,The Log,98.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01245,The Log,98.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01260,The Log,98.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01275,The Log,98.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01290,The Log,98.0,Miner,66.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01305,The Log,98.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,Miner,66.0,2.0,3,True,True,3.0,3.0
+01320,The Log,98.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+01335,The Log,98.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+01350,The Log,98.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+01365,The Log,98.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+01380,The Log,98.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+01395,The Log,98.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01410,The Log,98.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01425,The Log,98.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01440,The Log,98.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01455,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,The Log,98.0,1.0,3,True,True,2.0,2.0
+01470,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+01485,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+01500,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+01515,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+01530,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+01545,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+01560,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01575,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01590,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01605,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01620,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01635,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01650,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01665,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01680,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01695,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01710,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01725,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01740,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01755,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01770,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01785,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01800,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01815,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01830,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01845,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01860,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01875,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01890,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01905,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+01920,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+01935,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+01950,Witch,104.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,Skeletons,94.0,1.0,8,True,True,1.0,1.0
+01965,Witch,104.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01980,Witch,104.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+01995,Witch,104.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+02010,Witch,104.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+02025,Witch,104.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+02040,Witch,104.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+02055,Witch,104.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+02070,Witch,104.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+02085,Witch,104.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+02100,Witch,104.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+02115,Witch,104.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+02130,Witch,104.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+02145,Witch,104.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+02160,Witch,104.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,Fisherman,32.0,3.0,7,True,True,3.0,3.0
+02175,Witch,104.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02190,Witch,104.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02205,Witch,104.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02220,Witch,104.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02235,Witch,104.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02250,Witch,104.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02265,Witch,104.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02280,Witch,104.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02295,Witch,104.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02310,Witch,104.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02325,Witch,104.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+02340,Witch,104.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+02355,Witch,104.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+02370,Witch,104.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+02385,Witch,104.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+02400,Miner,66.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,Witch,104.0,1.0,10,True,True,4.0,5.0
+02415,Miner,66.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02430,Miner,66.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02445,Miner,66.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02460,Miner,66.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02475,Miner,66.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02490,Miner,66.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02505,Miner,66.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02520,Miner,66.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02535,Miner,66.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02550,Miner,66.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02565,Miner,66.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02580,Miner,66.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02595,Miner,66.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02610,Miner,66.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02625,Miner,66.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02640,The Log,98.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,Miner,66.0,1.0,5,True,True,3.0,3.0
+02655,The Log,98.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02670,The Log,98.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02685,The Log,98.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02700,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,The Log,98.0,1.0,4,True,True,2.0,2.0
+02715,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+02730,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+02745,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+02760,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+02775,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+02790,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+02805,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+02820,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02835,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02850,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02865,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02880,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02895,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02910,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02925,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02940,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02955,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02970,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02985,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03000,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03015,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03030,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03045,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03060,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03075,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03090,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03105,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03120,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03135,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03150,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,Giant,36.0,3.0,4,True,True,5.0,5.0
+03165,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03180,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03195,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03210,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03225,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03240,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03255,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03270,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03285,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03300,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03315,Skeletons,94.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03330,Witch,104.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,Skeletons,94.0,1.0,6,True,False,0.0,1.0
+03345,Witch,104.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03360,Witch,104.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03375,Witch,104.0,Fireball,30.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03390,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,Fisherman,32.0,3.0,3,True,True,3.0,3.0
+03405,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03420,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+03435,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+03450,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+03465,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+03480,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+03495,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03510,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03525,The Log,98.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,Witch,104.0,1.0,5,True,False,0.0,5.0
+03540,The Log,98.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03555,The Log,98.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03570,The Log,98.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03585,The Log,98.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,2,False,True,3.0,0.0
+03600,The Log,98.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+03615,The Log,98.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+03630,The Log,98.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+03645,The Log,98.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+03660,The Log,98.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+03675,The Log,98.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03690,The Log,98.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03705,The Log,98.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03720,The Log,98.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03735,The Log,98.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03750,The Log,98.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+03765,The Log,98.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+03780,The Log,98.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,Miner,66.0,3.0,1,True,True,3.0,3.0
+03795,The Log,98.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+03810,The Log,98.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+03825,The Log,98.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+03840,The Log,98.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03855,The Log,98.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03870,The Log,98.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03885,The Log,98.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+03900,The Log,98.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+03915,The Log,98.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+03930,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,The Log,98.0,1.0,3,True,True,1.0,2.0
+03945,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03960,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+03975,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+03990,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04005,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04020,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04035,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04050,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04065,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04080,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04095,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04110,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04125,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+04140,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+04155,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+04170,Skeletons,94.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+04185,Fisherman,32.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,Skeletons,94.0,1.0,8,True,True,1.0,1.0
+04200,Fisherman,32.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+04215,Fisherman,32.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+04230,Fisherman,32.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+04245,Fisherman,32.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+04260,Witch,104.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,Fisherman,32.0,1.0,7,True,True,2.0,3.0
+04275,Witch,104.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04290,Witch,104.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04305,Witch,104.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+04320,Witch,104.0,Fireball,30.0,Giant,36.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+04335,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,Giant,36.0,3.0,4,True,True,4.0,5.0
+04350,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04365,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04380,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04395,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04410,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04425,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04440,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04455,Witch,104.0,Fireball,30.0,The Log,98.0,Electro Wizard,24.0,Miner,66.0,3.0,3,True,True,3.0,3.0
+04470,Witch,104.0,Fireball,30.0,The Log,98.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04485,Witch,104.0,Fireball,30.0,The Log,98.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04500,Witch,104.0,Fireball,30.0,The Log,98.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04515,Witch,104.0,Fireball,30.0,The Log,98.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04530,Witch,104.0,Fireball,30.0,The Log,98.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04545,Witch,104.0,Skeletons,94.0,The Log,98.0,Electro Wizard,24.0,Fireball,30.0,2.0,2,True,True,3.0,4.0
+04560,Witch,104.0,Skeletons,94.0,The Log,98.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+04575,Witch,104.0,Skeletons,94.0,The Log,98.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+04590,Witch,104.0,Skeletons,94.0,The Log,98.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+04605,Witch,104.0,Skeletons,94.0,The Log,98.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+04620,Witch,104.0,Skeletons,94.0,The Log,98.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+04635,Witch,104.0,Skeletons,94.0,The Log,98.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04650,Witch,104.0,Skeletons,94.0,The Log,98.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04665,Witch,104.0,Skeletons,94.0,The Log,98.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04680,Witch,104.0,Skeletons,94.0,Fisherman,32.0,Electro Wizard,24.0,The Log,98.0,3.0,3,True,True,1.0,2.0
+04695,Witch,104.0,Skeletons,94.0,Fisherman,32.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+04710,Witch,104.0,Skeletons,94.0,Fisherman,32.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+04725,Witch,104.0,Skeletons,94.0,Fisherman,32.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04740,Witch,104.0,Skeletons,94.0,Fisherman,32.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04755,Witch,104.0,Skeletons,94.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04770,Witch,104.0,Skeletons,94.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04785,Witch,104.0,Skeletons,94.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04800,Witch,104.0,Skeletons,94.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04815,Witch,104.0,Skeletons,94.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04830,Witch,104.0,Skeletons,94.0,Fisherman,32.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04845,Witch,104.0,Skeletons,94.0,Fisherman,32.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04860,Witch,104.0,Skeletons,94.0,Fisherman,32.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04875,Witch,104.0,Skeletons,94.0,Fisherman,32.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04890,Witch,104.0,Skeletons,94.0,Fisherman,32.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+04905,Witch,104.0,Skeletons,94.0,Giant,36.0,Electro Wizard,24.0,Fisherman,32.0,3.0,5,True,True,3.0,3.0
+04920,Witch,104.0,Skeletons,94.0,Giant,36.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04935,Witch,104.0,Skeletons,94.0,Giant,36.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04950,Witch,104.0,Skeletons,94.0,Giant,36.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04965,Witch,104.0,Skeletons,94.0,Giant,36.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04980,Witch,104.0,Skeletons,94.0,Giant,36.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04995,Witch,104.0,Skeletons,94.0,Giant,36.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+05010,Witch,104.0,Skeletons,94.0,Giant,36.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+05025,Witch,104.0,Skeletons,94.0,Giant,36.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+05040,Witch,104.0,Skeletons,94.0,Miner,66.0,Electro Wizard,24.0,Giant,36.0,3.0,3,True,True,5.0,5.0
+05055,Witch,104.0,Skeletons,94.0,Miner,66.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05070,Witch,104.0,Skeletons,94.0,Miner,66.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05085,Witch,104.0,Skeletons,94.0,Miner,66.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05100,Witch,104.0,Skeletons,94.0,Miner,66.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05115,Witch,104.0,Skeletons,94.0,Miner,66.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05130,Witch,104.0,Skeletons,94.0,Miner,66.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05145,Witch,104.0,Skeletons,94.0,Miner,66.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05160,Witch,104.0,Skeletons,94.0,Miner,66.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05175,Witch,104.0,Skeletons,94.0,Miner,66.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+05190,Witch,104.0,Skeletons,94.0,Miner,66.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+05205,Witch,104.0,Skeletons,94.0,Fireball,30.0,Electro Wizard,24.0,Miner,66.0,3.0,4,True,True,3.0,3.0
+05220,Witch,104.0,Skeletons,94.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05235,Witch,104.0,Skeletons,94.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05250,Witch,104.0,Skeletons,94.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05265,Witch,104.0,Skeletons,94.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05280,Witch,104.0,Skeletons,94.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05295,Witch,104.0,Skeletons,94.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05310,Witch,104.0,Skeletons,94.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+05325,Witch,104.0,Skeletons,94.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+05340,Witch,104.0,Skeletons,94.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+05355,Witch,104.0,Skeletons,94.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+05370,Witch,104.0,Skeletons,94.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+05385,Witch,104.0,Skeletons,94.0,Fireball,30.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+05400,Witch,104.0,Skeletons,94.0,Fireball,30.0,The Log,98.0,Electro Wizard,24.0,4.0,5,True,True,4.0,4.0
+05415,Witch,104.0,Skeletons,94.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+05430,Witch,104.0,Skeletons,94.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+05445,Witch,104.0,Skeletons,94.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+05460,Witch,104.0,Skeletons,94.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+05475,Witch,104.0,Skeletons,94.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+05490,Witch,104.0,Skeletons,94.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+05505,Witch,104.0,Skeletons,94.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+05520,Witch,104.0,Fisherman,32.0,Fireball,30.0,The Log,98.0,Skeletons,94.0,2.0,7,True,False,0.0,1.0
+05535,Witch,104.0,Fisherman,32.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+05550,Witch,104.0,Fisherman,32.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+05565,Witch,104.0,Fisherman,32.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+05580,Witch,104.0,Fisherman,32.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+05595,Witch,104.0,Giant,36.0,Fireball,30.0,The Log,98.0,Fisherman,32.0,2.0,5,True,True,3.0,3.0
+05610,Witch,104.0,Giant,36.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+05625,Witch,104.0,Giant,36.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+05640,Witch,104.0,Giant,36.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+05655,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,Giant,36.0,2.0,2,True,True,5.0,5.0
+05670,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,2,False,False,0.0,0.0
+05685,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+05700,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+05715,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+05730,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+05745,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+05760,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,0,False,True,4.0,0.0
+05775,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,1,False,False,0.0,0.0
+05790,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,1,False,False,0.0,0.0
+05805,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,1,False,False,0.0,0.0
+05820,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,2,False,False,0.0,0.0
+05835,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,2,False,False,0.0,0.0
+05850,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+05865,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+05880,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,3,False,False,0.0,0.0
+05895,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+05910,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+05925,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+05940,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+05955,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+05970,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+05985,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+06000,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+06015,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+06030,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+06045,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+06060,Electro Wizard,24.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+06075,Skeletons,94.0,Miner,66.0,Fireball,30.0,The Log,98.0,Electro Wizard,24.0,1.0,4,True,True,3.0,4.0
+06090,Skeletons,94.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,4,False,False,0.0,0.0
+06105,Skeletons,94.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+06120,Skeletons,94.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+06135,Skeletons,94.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,5,False,False,0.0,0.0
+06150,Skeletons,94.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+06165,Skeletons,94.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+06180,Skeletons,94.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,6,False,False,0.0,0.0
+06195,Skeletons,94.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+06210,Skeletons,94.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,7,False,False,0.0,0.0
+06225,Skeletons,94.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+06240,Skeletons,94.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+06255,Fisherman,32.0,Miner,66.0,Fireball,30.0,The Log,98.0,Skeletons,94.0,1.0,9,True,True,1.0,1.0
+06270,Fisherman,32.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,9,False,False,0.0,0.0
+06285,Fisherman,32.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+06300,Fisherman,32.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,8,False,False,0.0,0.0
+06315,Fisherman,32.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,9,False,False,0.0,0.0
+06330,Fisherman,32.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,9,False,False,0.0,0.0
+06345,Fisherman,32.0,Miner,66.0,Fireball,30.0,The Log,98.0,,,,9,False,False,0.0,0.0
+06360,Fisherman,32.0,Miner,66.0,Giant,36.0,The Log,98.0,Fireball,30.0,3.0,6,True,True,3.0,4.0
+06375,Fisherman,32.0,Miner,66.0,Giant,36.0,The Log,98.0,,,,6,False,False,0.0,0.0
+06390,Fisherman,32.0,Miner,66.0,Giant,36.0,The Log,98.0,,,,6,False,False,0.0,0.0
+06405,Fisherman,32.0,Miner,66.0,Giant,36.0,The Log,98.0,,,,7,False,False,0.0,0.0
+06420,Fisherman,32.0,Miner,66.0,Giant,36.0,The Log,98.0,,,,7,False,False,0.0,0.0
+06435,Fisherman,32.0,Miner,66.0,Giant,36.0,The Log,98.0,,,,7,False,False,0.0,0.0
+06450,Fisherman,32.0,Miner,66.0,Giant,36.0,The Log,98.0,,,,8,False,False,0.0,0.0
+06465,Fisherman,32.0,Miner,66.0,Giant,36.0,The Log,98.0,,,,8,False,False,0.0,0.0
+06480,Fisherman,32.0,Miner,66.0,Giant,36.0,The Log,98.0,,,,8,False,False,0.0,0.0
+06495,Fisherman,32.0,Miner,66.0,Giant,36.0,The Log,98.0,,,,9,False,False,0.0,0.0
+06510,Witch,104.0,Miner,66.0,Giant,36.0,The Log,98.0,Fisherman,32.0,1.0,6,True,True,3.0,3.0
+06525,Witch,104.0,Miner,66.0,Giant,36.0,The Log,98.0,,,,7,False,False,0.0,0.0
+06540,Witch,104.0,Miner,66.0,Giant,36.0,The Log,98.0,,,,7,False,False,0.0,0.0
+06555,Witch,104.0,Miner,66.0,Giant,36.0,The Log,98.0,,,,7,False,False,0.0,0.0
+06570,Witch,104.0,Miner,66.0,Giant,36.0,The Log,98.0,,,,8,False,False,0.0,0.0
+06585,Witch,104.0,Miner,66.0,Giant,36.0,The Log,98.0,,,,8,False,False,0.0,0.0
+06600,Witch,104.0,Miner,66.0,Giant,36.0,The Log,98.0,,,,8,False,False,0.0,0.0
+06615,Witch,104.0,Miner,66.0,Giant,36.0,Electro Wizard,24.0,The Log,98.0,4.0,7,True,True,1.0,2.0
+06630,Witch,104.0,Miner,66.0,Giant,36.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+06645,Witch,104.0,Miner,66.0,Giant,36.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+06660,Witch,104.0,Miner,66.0,Giant,36.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+06675,Witch,104.0,Miner,66.0,Giant,36.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+06690,Witch,104.0,Miner,66.0,Giant,36.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+06705,Witch,104.0,Miner,66.0,Giant,36.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+06720,Witch,104.0,Miner,66.0,Giant,36.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+06735,Witch,104.0,Miner,66.0,Giant,36.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+06750,Skeletons,94.0,Miner,66.0,Giant,36.0,Electro Wizard,24.0,Witch,104.0,1.0,6,True,True,3.0,5.0
+06765,Skeletons,94.0,Miner,66.0,Giant,36.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+06780,Skeletons,94.0,Miner,66.0,Giant,36.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+06795,Skeletons,94.0,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,Giant,36.0,3.0,2,True,True,4.0,5.0
+06810,Skeletons,94.0,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+06825,Skeletons,94.0,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+06840,Skeletons,94.0,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+06855,Skeletons,94.0,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+06870,Skeletons,94.0,Fisherman,32.0,Fireball,30.0,Electro Wizard,24.0,Miner,66.0,2.0,1,True,True,2.0,3.0
+06885,Skeletons,94.0,Fisherman,32.0,Fireball,30.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+06900,Skeletons,94.0,Fisherman,32.0,Fireball,30.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+06915,Skeletons,94.0,Fisherman,32.0,Fireball,30.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+06930,Skeletons,94.0,Fisherman,32.0,Fireball,30.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+06945,Skeletons,94.0,Fisherman,32.0,Fireball,30.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+06960,Skeletons,94.0,Fisherman,32.0,Fireball,30.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+06975,Skeletons,94.0,Fisherman,32.0,Fireball,30.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+06990,Skeletons,94.0,Fisherman,32.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+07005,Skeletons,94.0,Fisherman,32.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+07020,Skeletons,94.0,Fisherman,32.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+07035,Skeletons,94.0,Fisherman,32.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+07050,Skeletons,94.0,Fisherman,32.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+07065,Skeletons,94.0,Fisherman,32.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+07080,Skeletons,94.0,Fisherman,32.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+07095,Skeletons,94.0,Fisherman,32.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+07110,Skeletons,94.0,Fisherman,32.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+07125,Skeletons,94.0,Fisherman,32.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+07140,Skeletons,94.0,Fisherman,32.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+07155,Skeletons,94.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,Fisherman,32.0,2.0,4,True,True,3.0,3.0
+07170,Skeletons,94.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+07185,Skeletons,94.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+07200,Skeletons,94.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+07215,Skeletons,94.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+07230,Skeletons,94.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+07245,Skeletons,94.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+07260,Skeletons,94.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+07275,Skeletons,94.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+07290,Skeletons,94.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+07305,Skeletons,94.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+07320,Skeletons,94.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+07335,Skeletons,94.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+07350,Witch,104.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,Skeletons,94.0,1.0,8,True,True,1.0,1.0
+07365,Witch,104.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+07380,Witch,104.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+07395,Witch,104.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+07410,Witch,104.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+07425,Giant,36.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,Witch,104.0,1.0,6,True,True,4.0,5.0
+07440,Giant,36.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+07455,Giant,36.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+07470,Giant,36.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+07485,Giant,36.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+07500,Giant,36.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+07515,Giant,36.0,The Log,98.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,4.0,5,True,True,4.0,4.0
+07530,Giant,36.0,The Log,98.0,Fireball,30.0,Miner,66.0,,,,6,False,False,0.0,0.0
+07545,Giant,36.0,The Log,98.0,Fireball,30.0,Miner,66.0,,,,6,False,False,0.0,0.0
+07560,Giant,36.0,The Log,98.0,Fireball,30.0,Miner,66.0,,,,7,False,False,0.0,0.0
+07575,Giant,36.0,The Log,98.0,Fireball,30.0,Miner,66.0,,,,7,False,False,0.0,0.0
+07590,Giant,36.0,The Log,98.0,Fireball,30.0,Miner,66.0,,,,8,False,False,0.0,0.0
+07605,Giant,36.0,The Log,98.0,Fireball,30.0,Miner,66.0,,,,8,False,False,0.0,0.0
+07620,Giant,36.0,The Log,98.0,Fireball,30.0,Fisherman,32.0,Miner,66.0,4.0,6,True,True,2.0,3.0
+07635,Giant,36.0,The Log,98.0,Fireball,30.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+07650,Giant,36.0,The Log,98.0,Fireball,30.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+07665,Giant,36.0,The Log,98.0,Fireball,30.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+07680,Giant,36.0,The Log,98.0,Fireball,30.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+07695,Giant,36.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,Fisherman,32.0,4.0,6,True,True,2.0,3.0
+07710,Giant,36.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+07725,Giant,36.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+07740,Giant,36.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+07755,Giant,36.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+07770,Giant,36.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+07785,Giant,36.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+07800,Witch,104.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,Giant,36.0,1.0,4,True,True,5.0,5.0
+07815,Witch,104.0,The Log,98.0,Fireball,30.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+07830,Witch,104.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,Skeletons,94.0,4.0,4,True,True,1.0,1.0
+07845,Witch,104.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+07860,Witch,104.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+07875,Witch,104.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+07890,Witch,104.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+07905,Witch,104.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+07920,Witch,104.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+07935,Witch,104.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+07950,Witch,104.0,The Log,98.0,Fireball,30.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+07965,Witch,104.0,The Log,98.0,Miner,66.0,Electro Wizard,24.0,Fireball,30.0,3.0,5,True,True,4.0,4.0
+07980,Witch,104.0,The Log,98.0,Miner,66.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+07995,Witch,104.0,The Log,98.0,Miner,66.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+08010,Witch,104.0,The Log,98.0,Miner,66.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+08025,Witch,104.0,The Log,98.0,Miner,66.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+08040,Witch,104.0,The Log,98.0,Miner,66.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+08055,Witch,104.0,The Log,98.0,Miner,66.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+08070,Witch,104.0,The Log,98.0,Miner,66.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+08085,Witch,104.0,The Log,98.0,Miner,66.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+08100,Fisherman,32.0,The Log,98.0,Miner,66.0,Electro Wizard,24.0,Witch,104.0,1.0,6,True,True,4.0,5.0
+08115,Fisherman,32.0,The Log,98.0,Miner,66.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+08130,Fisherman,32.0,The Log,98.0,Miner,66.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+08145,Fisherman,32.0,The Log,98.0,Miner,66.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+08160,Fisherman,32.0,The Log,98.0,Miner,66.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+08175,Fisherman,32.0,The Log,98.0,Miner,66.0,Giant,36.0,Electro Wizard,24.0,4.0,5,True,True,3.0,4.0
+08190,Fisherman,32.0,The Log,98.0,Miner,66.0,Giant,36.0,,,,5,False,False,0.0,0.0
+08205,Fisherman,32.0,The Log,98.0,Miner,66.0,Giant,36.0,,,,6,False,False,0.0,0.0
+08220,Fisherman,32.0,The Log,98.0,Miner,66.0,Giant,36.0,,,,6,False,False,0.0,0.0
+08235,Fisherman,32.0,The Log,98.0,Miner,66.0,Giant,36.0,,,,7,False,False,0.0,0.0
+08250,Fisherman,32.0,The Log,98.0,Miner,66.0,Giant,36.0,,,,7,False,False,0.0,0.0
+08265,Fisherman,32.0,The Log,98.0,Miner,66.0,Giant,36.0,,,,8,False,False,0.0,0.0
+08280,Skeletons,94.0,The Log,98.0,Miner,66.0,Giant,36.0,Fisherman,32.0,1.0,5,True,True,3.0,3.0
+08295,Skeletons,94.0,The Log,98.0,Miner,66.0,Giant,36.0,,,,6,False,False,0.0,0.0
+08310,Skeletons,94.0,The Log,98.0,Miner,66.0,Giant,36.0,,,,6,False,False,0.0,0.0
+08325,Skeletons,94.0,The Log,98.0,Miner,66.0,Giant,36.0,,,,7,False,False,0.0,0.0
+08340,Skeletons,94.0,The Log,98.0,Miner,66.0,Giant,36.0,,,,7,False,False,0.0,0.0
+08355,Fireball,30.0,The Log,98.0,Miner,66.0,Giant,36.0,Skeletons,94.0,1.0,7,True,False,0.0,1.0
+08370,Fireball,30.0,The Log,98.0,Miner,66.0,Giant,36.0,,,,7,False,False,0.0,0.0
+08385,Fireball,30.0,The Log,98.0,Miner,66.0,Giant,36.0,,,,8,False,False,0.0,0.0
+08400,Fireball,30.0,The Log,98.0,Miner,66.0,Giant,36.0,,,,9,False,False,0.0,0.0
+08415,Fireball,30.0,The Log,98.0,Miner,66.0,Giant,36.0,,,,9,False,False,0.0,0.0
+08430,Fireball,30.0,Witch,104.0,Miner,66.0,Giant,36.0,The Log,98.0,2.0,8,True,True,1.0,2.0
+08445,Fireball,30.0,Witch,104.0,Miner,66.0,Giant,36.0,,,,8,False,False,0.0,0.0
+08460,Fireball,30.0,Witch,104.0,Miner,66.0,Electro Wizard,24.0,Giant,36.0,4.0,4,True,True,4.0,5.0
+08475,Fireball,30.0,Witch,104.0,Miner,66.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+08490,Fireball,30.0,Witch,104.0,Miner,66.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+08505,Fireball,30.0,Fisherman,32.0,Miner,66.0,Electro Wizard,24.0,Witch,104.0,2.0,1,True,True,4.0,5.0
+08520,Fireball,30.0,Fisherman,32.0,Miner,66.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+08535,Fireball,30.0,Fisherman,32.0,Miner,66.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+08550,Fireball,30.0,Fisherman,32.0,Miner,66.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+08565,Fireball,30.0,Fisherman,32.0,Miner,66.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+08580,Fireball,30.0,Fisherman,32.0,Skeletons,94.0,Electro Wizard,24.0,Miner,66.0,3.0,3,True,True,1.0,3.0
+08595,Fireball,30.0,Fisherman,32.0,Skeletons,94.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+08610,Fireball,30.0,Fisherman,32.0,Skeletons,94.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+08625,Fireball,30.0,Fisherman,32.0,Skeletons,94.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+08640,Fireball,30.0,Fisherman,32.0,Skeletons,94.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+08655,Fireball,30.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,Skeletons,94.0,3.0,3,True,False,0.0,1.0
+08670,Fireball,30.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+08685,Fireball,30.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+08700,Fireball,30.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+08715,Fireball,30.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,,,,3,False,True,1.0,0.0
+08730,Fireball,30.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+08745,Fireball,30.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+08760,Fireball,30.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+08775,Witch,104.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,Fireball,30.0,1.0,4,True,True,2.0,4.0
+08790,Witch,104.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+08805,Witch,104.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+08820,Witch,104.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+08835,Witch,104.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+08850,Witch,104.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+08865,Witch,104.0,Miner,66.0,The Log,98.0,Electro Wizard,24.0,Fisherman,32.0,2.0,1,True,True,3.0,3.0
+08880,Witch,104.0,Miner,66.0,The Log,98.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+08895,Witch,104.0,Miner,66.0,The Log,98.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+08910,Witch,104.0,Miner,66.0,The Log,98.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+08925,Witch,104.0,Miner,66.0,The Log,98.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+08940,Witch,104.0,Skeletons,94.0,The Log,98.0,Electro Wizard,24.0,Miner,66.0,2.0,3,True,True,2.0,3.0
+08955,Witch,104.0,Skeletons,94.0,The Log,98.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+08970,Witch,104.0,Skeletons,94.0,The Log,98.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+08985,Witch,104.0,Skeletons,94.0,The Log,98.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+09000,Witch,104.0,The Log,98.0,The Log,98.0,Electro Wizard,24.0,Skeletons,94.0,2.0,2,True,False,0.0,1.0
+09015,Witch,104.0,The Log,98.0,The Log,98.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+09030,Witch,104.0,The Log,98.0,The Log,98.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+09045,Witch,104.0,The Log,98.0,The Log,98.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09060,Witch,104.0,Fireball,30.0,The Log,98.0,Electro Wizard,24.0,The Log,98.0,2.0,2,True,True,2.0,2.0
+09075,Witch,104.0,Fireball,30.0,The Log,98.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+09090,Witch,104.0,Fireball,30.0,The Log,98.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+09105,Witch,104.0,Fireball,30.0,The Log,98.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09120,Witch,104.0,Fireball,30.0,The Log,98.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09135,Witch,104.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,Fireball,30.0,2.0,4,True,True,3.0,4.0
+09150,Witch,104.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+09165,Witch,104.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+09180,Witch,104.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+09195,Witch,104.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+09210,Witch,104.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09225,Witch,104.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09240,Witch,104.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09255,Witch,104.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09270,Witch,104.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09285,Witch,104.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09300,Witch,104.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09315,Witch,104.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09330,Witch,104.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09345,Witch,104.0,Fisherman,32.0,The Log,98.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0

@@ -1,0 +1,381 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Magic Archer,62.0,Zap,107.0,Battle Ram,11.0,Poison,78.0,,,,6,False,False,0.0,0.0
+00255,Magic Archer,62.0,Zap,107.0,Battle Ram,11.0,Poison,78.0,,,,6,False,False,0.0,0.0
+00270,Magic Archer,62.0,Zap,107.0,Battle Ram,11.0,Poison,78.0,,,,6,False,False,0.0,0.0
+00285,Magic Archer,62.0,Zap,107.0,Battle Ram,11.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00300,Magic Archer,62.0,Zap,107.0,Battle Ram,11.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00315,Magic Archer,62.0,Zap,107.0,Battle Ram,11.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00330,Magic Archer,62.0,Zap,107.0,Battle Ram,11.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00345,Magic Archer,62.0,Zap,107.0,Battle Ram,11.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00360,Magic Archer,62.0,Zap,107.0,Battle Ram,11.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00375,Magic Archer,62.0,Zap,107.0,Battle Ram,11.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00390,Magic Archer,62.0,Zap,107.0,Battle Ram,11.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00405,Magic Archer,62.0,Zap,107.0,Battle Ram,11.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00420,Magic Archer,62.0,Zap,107.0,Battle Ram,11.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00435,Magic Archer,62.0,Zap,107.0,Battle Ram,11.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00450,Magic Archer,62.0,Zap,107.0,Battle Ram,11.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00465,Magic Archer,62.0,Zap,107.0,Battle Ram,11.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00480,Magic Archer,62.0,Zap,107.0,Battle Ram,11.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00495,Magic Archer,62.0,Zap,107.0,Battle Ram,11.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00510,Magic Archer,62.0,Zap,107.0,Battle Ram,11.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00525,Magic Archer,62.0,Zap,107.0,Battle Ram,11.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00540,Magic Archer,62.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,Battle Ram,11.0,3.0,6,True,True,3.0,4.0
+00555,Magic Archer,62.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,6,False,False,0.0,0.0
+00570,Magic Archer,62.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,6,False,False,0.0,0.0
+00585,Magic Archer,62.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,6,False,False,0.0,0.0
+00600,Magic Archer,62.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,6,False,False,0.0,0.0
+00615,Magic Archer,62.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,6,False,False,0.0,0.0
+00630,Magic Archer,62.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00645,Magic Archer,62.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00660,Magic Archer,62.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00675,Magic Archer,62.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00690,Magic Archer,62.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00705,Magic Archer,62.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00720,Magic Archer,62.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00735,Magic Archer,62.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00750,Magic Archer,62.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00765,Magic Archer,62.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00780,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,Magic Archer,62.0,1.0,4,True,True,4.0,4.0
+00795,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,5,False,False,0.0,0.0
+00810,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,5,False,False,0.0,0.0
+00825,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,5,False,False,0.0,0.0
+00840,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,5,False,False,0.0,0.0
+00855,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,5,False,False,0.0,0.0
+00870,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,6,False,False,0.0,0.0
+00885,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,6,False,False,0.0,0.0
+00900,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,6,False,False,0.0,0.0
+00915,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,6,False,False,0.0,0.0
+00930,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,6,False,False,0.0,0.0
+00945,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,6,False,False,0.0,0.0
+00960,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00975,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00990,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01005,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01020,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01035,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01050,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01065,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01080,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01095,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01110,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01125,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,9,False,False,0.0,0.0
+01140,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,9,False,False,0.0,0.0
+01155,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,9,False,False,0.0,0.0
+01170,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,9,False,False,0.0,0.0
+01185,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,9,False,False,0.0,0.0
+01200,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,9,False,False,0.0,0.0
+01215,Bandit,5.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,10,False,False,0.0,0.0
+01230,Royal Ghost,86.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,Bandit,5.0,1.0,10,True,True,3.0,3.0
+01245,Royal Ghost,86.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01260,Royal Ghost,86.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01275,Royal Ghost,86.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01290,Royal Ghost,86.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01305,Royal Ghost,86.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01320,Royal Ghost,86.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01335,Royal Ghost,86.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01350,Royal Ghost,86.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01365,Royal Ghost,86.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01380,Royal Ghost,86.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01395,Royal Ghost,86.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,9,False,False,0.0,0.0
+01410,Royal Ghost,86.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,9,False,False,0.0,0.0
+01425,Royal Ghost,86.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,9,False,False,0.0,0.0
+01440,Electro Wizard,24.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,Royal Ghost,86.0,1.0,6,True,True,3.0,3.0
+01455,Electro Wizard,24.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01470,Electro Wizard,24.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01485,Electro Wizard,24.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01500,Electro Wizard,24.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01515,Electro Wizard,24.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01530,Electro Wizard,24.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01545,Electro Wizard,24.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01560,Electro Wizard,24.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01575,Electro Wizard,24.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01590,Electro Wizard,24.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01605,Electro Wizard,24.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01620,Electro Wizard,24.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01635,Electro Wizard,24.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01650,Electro Wizard,24.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,9,False,False,0.0,0.0
+01665,Electro Wizard,24.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,9,False,False,0.0,0.0
+01680,Electro Wizard,24.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,9,False,False,0.0,0.0
+01695,Electro Wizard,24.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,9,False,False,0.0,0.0
+01710,Electro Wizard,24.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,9,False,False,0.0,0.0
+01725,Electro Wizard,24.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,9,False,False,0.0,0.0
+01740,Battle Ram,11.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,Electro Wizard,24.0,1.0,6,True,True,3.0,4.0
+01755,Battle Ram,11.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01770,Battle Ram,11.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01785,Battle Ram,11.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01800,Battle Ram,11.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01815,Battle Ram,11.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01830,Battle Ram,11.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01845,Battle Ram,11.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01860,Battle Ram,11.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01875,Battle Ram,11.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01890,Battle Ram,11.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01905,Battle Ram,11.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01920,Battle Ram,11.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01935,Battle Ram,11.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01950,Battle Ram,11.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01965,Battle Ram,11.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01980,Battle Ram,11.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01995,Battle Ram,11.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02010,Battle Ram,11.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02025,Battle Ram,11.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02040,Battle Ram,11.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02055,Battle Ram,11.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02070,Battle Ram,11.0,Zap,107.0,P.E.K.K.A,76.0,Poison,78.0,,,,10,False,False,0.0,0.0
+02085,Battle Ram,11.0,Zap,107.0,Magic Archer,62.0,Poison,78.0,P.E.K.K.A,76.0,3.0,10,True,True,7.0,7.0
+02100,Battle Ram,11.0,Zap,107.0,Magic Archer,62.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02115,Battle Ram,11.0,Zap,107.0,Magic Archer,62.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02130,Battle Ram,11.0,Zap,107.0,Magic Archer,62.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02145,Battle Ram,11.0,Zap,107.0,Magic Archer,62.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02160,Battle Ram,11.0,Zap,107.0,Magic Archer,62.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02175,Battle Ram,11.0,Zap,107.0,Magic Archer,62.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02190,Battle Ram,11.0,Zap,107.0,Magic Archer,62.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02205,Battle Ram,11.0,Zap,107.0,Magic Archer,62.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02220,Battle Ram,11.0,Zap,107.0,Magic Archer,62.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02235,Battle Ram,11.0,Zap,107.0,Magic Archer,62.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02250,Battle Ram,11.0,Zap,107.0,Bandit,5.0,Poison,78.0,Magic Archer,62.0,3.0,1,True,True,3.0,4.0
+02265,Battle Ram,11.0,Zap,107.0,Bandit,5.0,Poison,78.0,,,,1,False,False,0.0,0.0
+02280,Battle Ram,11.0,Zap,107.0,Bandit,5.0,Poison,78.0,,,,1,False,False,0.0,0.0
+02295,Battle Ram,11.0,Zap,107.0,Bandit,5.0,Poison,78.0,,,,1,False,False,0.0,0.0
+02310,Battle Ram,11.0,Zap,107.0,Bandit,5.0,Poison,78.0,,,,1,False,False,0.0,0.0
+02325,Battle Ram,11.0,Zap,107.0,Bandit,5.0,Poison,78.0,,,,1,False,False,0.0,0.0
+02340,Battle Ram,11.0,Zap,107.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02355,Battle Ram,11.0,Zap,107.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02370,Battle Ram,11.0,Zap,107.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02385,Battle Ram,11.0,Zap,107.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02400,Battle Ram,11.0,Zap,107.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02415,Battle Ram,11.0,Zap,107.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02430,Battle Ram,11.0,Zap,107.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02445,Battle Ram,11.0,Zap,107.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02460,Battle Ram,11.0,Zap,107.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02475,Battle Ram,11.0,Zap,107.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02490,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,Zap,107.0,2.0,3,True,True,1.0,2.0
+02505,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02520,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02535,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02550,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02565,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02580,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02595,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02610,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02625,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02640,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02655,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02670,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02685,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02700,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02715,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02730,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02745,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02760,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,5,False,False,0.0,0.0
+02775,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,5,False,False,0.0,0.0
+02790,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,5,False,False,0.0,0.0
+02805,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,5,False,False,0.0,0.0
+02820,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,5,False,False,0.0,0.0
+02835,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02850,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02865,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02880,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02895,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02910,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02925,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02940,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02955,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02970,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02985,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03000,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,8,False,False,0.0,0.0
+03015,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,8,False,False,0.0,0.0
+03030,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,8,False,False,0.0,0.0
+03045,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,8,False,False,0.0,0.0
+03060,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,8,False,False,0.0,0.0
+03075,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,8,False,False,0.0,0.0
+03090,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,9,False,False,0.0,0.0
+03105,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,9,False,False,0.0,0.0
+03120,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,9,False,False,0.0,0.0
+03135,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,9,False,False,0.0,0.0
+03150,Battle Ram,11.0,Royal Ghost,86.0,Bandit,5.0,Poison,78.0,,,,9,False,False,0.0,0.0
+03165,Battle Ram,11.0,Electro Wizard,24.0,Bandit,5.0,Poison,78.0,Royal Ghost,86.0,2.0,6,True,True,3.0,3.0
+03180,Battle Ram,11.0,Electro Wizard,24.0,Bandit,5.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03195,Battle Ram,11.0,Electro Wizard,24.0,Bandit,5.0,Poison,78.0,,,,7,False,False,0.0,0.0
+03210,Battle Ram,11.0,P.E.K.K.A,76.0,Bandit,5.0,Poison,78.0,Electro Wizard,24.0,2.0,3,True,True,4.0,4.0
+03225,Battle Ram,11.0,P.E.K.K.A,76.0,Bandit,5.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03240,Battle Ram,11.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,Bandit,5.0,3.0,0,True,True,3.0,3.0
+03255,Battle Ram,11.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03270,Battle Ram,11.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03285,Battle Ram,11.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03300,Battle Ram,11.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03315,Battle Ram,11.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03330,Battle Ram,11.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03345,Battle Ram,11.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03360,Battle Ram,11.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03375,Battle Ram,11.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03390,Battle Ram,11.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03405,Battle Ram,11.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03420,Battle Ram,11.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03435,Battle Ram,11.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03450,Battle Ram,11.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03465,Battle Ram,11.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03480,Battle Ram,11.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03495,Battle Ram,11.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03510,Battle Ram,11.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,4,False,False,0.0,0.0
+03525,Battle Ram,11.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,4,False,False,0.0,0.0
+03540,Zap,107.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,Battle Ram,11.0,1.0,0,True,True,4.0,4.0
+03555,Zap,107.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,0,False,False,0.0,0.0
+03570,Zap,107.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,0,False,False,0.0,0.0
+03585,Zap,107.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,0,False,False,0.0,0.0
+03600,Zap,107.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03615,Zap,107.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03630,Zap,107.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03645,Zap,107.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03660,Zap,107.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03675,Zap,107.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03690,Zap,107.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03705,Zap,107.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03720,Zap,107.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03735,Zap,107.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03750,Zap,107.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03765,Zap,107.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03780,Royal Ghost,86.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,Zap,107.0,1.0,1,True,True,2.0,2.0
+03795,Royal Ghost,86.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,1,False,False,0.0,0.0
+03810,Royal Ghost,86.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03825,Royal Ghost,86.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03840,Royal Ghost,86.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03855,Royal Ghost,86.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03870,Royal Ghost,86.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,3,False,False,0.0,0.0
+03885,Royal Ghost,86.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,4,False,False,0.0,0.0
+03900,Royal Ghost,86.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,4,False,False,0.0,0.0
+03915,Royal Ghost,86.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,4,False,False,0.0,0.0
+03930,Royal Ghost,86.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,5,False,False,0.0,0.0
+03945,Royal Ghost,86.0,P.E.K.K.A,76.0,Magic Archer,62.0,Poison,78.0,,,,5,False,False,0.0,0.0
+03960,Royal Ghost,86.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,Magic Archer,62.0,3.0,2,True,True,3.0,4.0
+03975,Royal Ghost,86.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,2,False,False,0.0,0.0
+03990,Royal Ghost,86.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04005,Royal Ghost,86.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04020,Royal Ghost,86.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04035,Royal Ghost,86.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04050,Royal Ghost,86.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04065,Royal Ghost,86.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04080,Royal Ghost,86.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04095,Royal Ghost,86.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,5,False,False,0.0,0.0
+04110,Royal Ghost,86.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,5,False,False,0.0,0.0
+04125,Royal Ghost,86.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,5,False,False,0.0,0.0
+04140,Royal Ghost,86.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+04155,Royal Ghost,86.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+04170,Royal Ghost,86.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+04185,Royal Ghost,86.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+04200,Royal Ghost,86.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+04215,Royal Ghost,86.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+04230,Royal Ghost,86.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,8,False,False,0.0,0.0
+04245,Royal Ghost,86.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,8,False,False,0.0,0.0
+04260,Royal Ghost,86.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,9,False,False,0.0,0.0
+04275,Royal Ghost,86.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,9,False,False,0.0,0.0
+04290,Bandit,5.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,Royal Ghost,86.0,1.0,6,True,True,3.0,3.0
+04305,Bandit,5.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+04320,Bandit,5.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+04335,Bandit,5.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,7,False,False,0.0,0.0
+04350,Bandit,5.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,8,False,False,0.0,0.0
+04365,Bandit,5.0,P.E.K.K.A,76.0,Electro Wizard,24.0,Poison,78.0,,,,8,False,False,0.0,0.0
+04380,Bandit,5.0,Battle Ram,11.0,Electro Wizard,24.0,Poison,78.0,P.E.K.K.A,76.0,2.0,1,True,True,7.0,7.0
+04395,Bandit,5.0,Battle Ram,11.0,Electro Wizard,24.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04410,Bandit,5.0,Battle Ram,11.0,Electro Wizard,24.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04425,Bandit,5.0,Battle Ram,11.0,Electro Wizard,24.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04440,Bandit,5.0,Battle Ram,11.0,Electro Wizard,24.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04455,Bandit,5.0,Battle Ram,11.0,Electro Wizard,24.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04470,Bandit,5.0,Battle Ram,11.0,Electro Wizard,24.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04485,Bandit,5.0,Battle Ram,11.0,Electro Wizard,24.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04500,Bandit,5.0,Battle Ram,11.0,Electro Wizard,24.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04515,Bandit,5.0,Battle Ram,11.0,Electro Wizard,24.0,Poison,78.0,,,,5,False,False,0.0,0.0
+04530,Bandit,5.0,Battle Ram,11.0,Electro Wizard,24.0,Poison,78.0,,,,5,False,False,0.0,0.0
+04545,Bandit,5.0,Battle Ram,11.0,Electro Wizard,24.0,Poison,78.0,,,,5,False,False,0.0,0.0
+04560,Bandit,5.0,Battle Ram,11.0,Zap,107.0,Poison,78.0,Electro Wizard,24.0,3.0,2,True,True,3.0,4.0
+04575,Bandit,5.0,Battle Ram,11.0,Zap,107.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04590,Bandit,5.0,Battle Ram,11.0,Zap,107.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04605,Bandit,5.0,Battle Ram,11.0,Zap,107.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04620,Bandit,5.0,Battle Ram,11.0,Zap,107.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04635,Bandit,5.0,Battle Ram,11.0,Zap,107.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04650,Bandit,5.0,Battle Ram,11.0,Zap,107.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04665,Bandit,5.0,Battle Ram,11.0,Zap,107.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04680,Bandit,5.0,Battle Ram,11.0,Zap,107.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04695,Bandit,5.0,Battle Ram,11.0,Zap,107.0,Poison,78.0,,,,5,False,False,0.0,0.0
+04710,Bandit,5.0,Battle Ram,11.0,Zap,107.0,Poison,78.0,,,,5,False,False,0.0,0.0
+04725,Magic Archer,62.0,Battle Ram,11.0,Zap,107.0,Poison,78.0,Bandit,5.0,1.0,3,True,True,2.0,3.0
+04740,Magic Archer,62.0,Battle Ram,11.0,Zap,107.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04755,Magic Archer,62.0,Battle Ram,11.0,Zap,107.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04770,Magic Archer,62.0,Battle Ram,11.0,Zap,107.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04785,Magic Archer,62.0,Battle Ram,11.0,Zap,107.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04800,Magic Archer,62.0,Battle Ram,11.0,Zap,107.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04815,Magic Archer,62.0,Battle Ram,11.0,Zap,107.0,Poison,78.0,,,,5,False,False,0.0,0.0
+04830,Magic Archer,62.0,Battle Ram,11.0,Zap,107.0,Poison,78.0,,,,5,False,False,0.0,0.0
+04845,Magic Archer,62.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,Battle Ram,11.0,2.0,1,True,True,4.0,4.0
+04860,Magic Archer,62.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04875,Magic Archer,62.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04890,Magic Archer,62.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,2,False,False,0.0,0.0
+04905,Magic Archer,62.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04920,Magic Archer,62.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,3,False,False,0.0,0.0
+04935,Magic Archer,62.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04950,Magic Archer,62.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04965,Magic Archer,62.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,4,False,False,0.0,0.0
+04980,Magic Archer,62.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,5,False,False,0.0,0.0
+04995,Magic Archer,62.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,5,False,False,0.0,0.0
+05010,Magic Archer,62.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,5,False,False,0.0,0.0
+05025,Magic Archer,62.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,6,False,False,0.0,0.0
+05040,Magic Archer,62.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,6,False,False,0.0,0.0
+05055,Magic Archer,62.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,6,False,False,0.0,0.0
+05070,Magic Archer,62.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,7,False,False,0.0,0.0
+05085,Magic Archer,62.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,7,False,False,0.0,0.0
+05100,Magic Archer,62.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,8,False,False,0.0,0.0
+05115,Magic Archer,62.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,8,False,False,0.0,0.0
+05130,Magic Archer,62.0,P.E.K.K.A,76.0,Zap,107.0,Poison,78.0,Royal Ghost,86.0,2.0,5,True,True,3.0,3.0
+05145,Magic Archer,62.0,P.E.K.K.A,76.0,Zap,107.0,Poison,78.0,,,,6,False,False,0.0,0.0
+05160,Magic Archer,62.0,P.E.K.K.A,76.0,Zap,107.0,Poison,78.0,,,,6,False,False,0.0,0.0
+05175,Magic Archer,62.0,P.E.K.K.A,76.0,Zap,107.0,Poison,78.0,,,,6,False,False,0.0,0.0
+05190,Magic Archer,62.0,P.E.K.K.A,76.0,Zap,107.0,Poison,78.0,,,,7,False,False,0.0,0.0
+05205,Magic Archer,62.0,P.E.K.K.A,76.0,Zap,107.0,Poison,78.0,,,,7,False,False,0.0,0.0
+05220,Magic Archer,62.0,P.E.K.K.A,76.0,Zap,107.0,Poison,78.0,,,,7,False,False,0.0,0.0
+05235,Magic Archer,62.0,P.E.K.K.A,76.0,Zap,107.0,Poison,78.0,,,,8,False,False,0.0,0.0
+05250,Magic Archer,62.0,P.E.K.K.A,76.0,Zap,107.0,Poison,78.0,,,,8,False,False,0.0,0.0
+05265,Magic Archer,62.0,P.E.K.K.A,76.0,Zap,107.0,Poison,78.0,,,,8,False,False,0.0,0.0
+05280,Magic Archer,62.0,P.E.K.K.A,76.0,Zap,107.0,Poison,78.0,,,,9,False,False,0.0,0.0
+05295,Magic Archer,62.0,P.E.K.K.A,76.0,Zap,107.0,Poison,78.0,,,,9,False,False,0.0,0.0
+05310,Magic Archer,62.0,P.E.K.K.A,76.0,Zap,107.0,Poison,78.0,,,,10,False,False,0.0,0.0
+05325,Magic Archer,62.0,P.E.K.K.A,76.0,Zap,107.0,Poison,78.0,,,,10,False,False,0.0,0.0
+05340,Electro Wizard,24.0,P.E.K.K.A,76.0,Zap,107.0,Poison,78.0,Magic Archer,62.0,1.0,6,True,True,4.0,4.0
+05355,Electro Wizard,24.0,P.E.K.K.A,76.0,Zap,107.0,Poison,78.0,,,,6,False,False,0.0,0.0
+05370,Electro Wizard,24.0,P.E.K.K.A,76.0,Zap,107.0,Poison,78.0,,,,7,False,False,0.0,0.0
+05385,Electro Wizard,24.0,P.E.K.K.A,76.0,Zap,107.0,Poison,78.0,,,,7,False,False,0.0,0.0
+05400,Electro Wizard,24.0,P.E.K.K.A,76.0,Zap,107.0,Poison,78.0,,,,7,False,False,0.0,0.0
+05415,Electro Wizard,24.0,P.E.K.K.A,76.0,Zap,107.0,Poison,78.0,,,,8,False,False,0.0,0.0
+05430,Electro Wizard,24.0,P.E.K.K.A,76.0,Zap,107.0,Poison,78.0,,,,8,False,False,0.0,0.0
+05445,Electro Wizard,24.0,P.E.K.K.A,76.0,Zap,107.0,Poison,78.0,,,,8,False,False,0.0,0.0
+05460,Electro Wizard,24.0,P.E.K.K.A,76.0,Zap,107.0,Poison,78.0,,,,9,False,False,0.0,0.0
+05475,Electro Wizard,24.0,Bandit,5.0,Zap,107.0,Poison,78.0,P.E.K.K.A,76.0,2.0,2,True,True,7.0,7.0
+05490,Electro Wizard,24.0,Bandit,5.0,Zap,107.0,Poison,78.0,,,,2,False,False,0.0,0.0
+05505,Electro Wizard,24.0,Bandit,5.0,Zap,107.0,Poison,78.0,,,,3,False,False,0.0,0.0
+05520,Electro Wizard,24.0,Bandit,5.0,Zap,107.0,Poison,78.0,,,,3,False,False,0.0,0.0
+05535,Electro Wizard,24.0,Bandit,5.0,Zap,107.0,Poison,78.0,,,,4,False,False,0.0,0.0
+05550,Electro Wizard,24.0,Bandit,5.0,Zap,107.0,Poison,78.0,,,,4,False,False,0.0,0.0
+05565,Electro Wizard,24.0,Bandit,5.0,Zap,107.0,Poison,78.0,,,,4,False,False,0.0,0.0
+05580,Battle Ram,11.0,Bandit,5.0,Zap,107.0,Poison,78.0,Electro Wizard,24.0,1.0,1,True,True,3.0,4.0
+05595,Battle Ram,11.0,Bandit,5.0,Zap,107.0,Poison,78.0,,,,1,False,False,0.0,0.0
+05610,Battle Ram,11.0,Bandit,5.0,Zap,107.0,Poison,78.0,,,,1,False,False,0.0,0.0
+05625,Battle Ram,11.0,Bandit,5.0,Zap,107.0,Poison,78.0,,,,2,False,False,0.0,0.0
+05640,Battle Ram,11.0,Bandit,5.0,Zap,107.0,Poison,78.0,,,,2,False,False,0.0,0.0
+05655,Battle Ram,11.0,Bandit,5.0,Zap,107.0,Poison,78.0,,,,2,False,False,0.0,0.0
+05670,Battle Ram,11.0,Bandit,5.0,Zap,107.0,Poison,78.0,,,,3,False,False,0.0,0.0
+05685,Battle Ram,11.0,Bandit,5.0,Zap,107.0,Poison,78.0,,,,3,False,False,0.0,0.0
+05700,Battle Ram,11.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,Bandit,5.0,2.0,0,True,True,3.0,3.0
+05715,Battle Ram,11.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,1,False,False,0.0,0.0
+05730,Battle Ram,11.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,1,False,False,0.0,0.0
+05745,Battle Ram,11.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,1,False,False,0.0,0.0
+05760,Battle Ram,11.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,2,False,False,0.0,0.0
+05775,Battle Ram,11.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,2,False,False,0.0,0.0
+05790,Battle Ram,11.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,3,False,False,0.0,0.0
+05805,Battle Ram,11.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,3,False,False,0.0,0.0
+05820,Battle Ram,11.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,3,False,False,0.0,0.0
+05835,Battle Ram,11.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,4,False,False,0.0,0.0
+05850,Battle Ram,11.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,4,False,False,0.0,0.0
+05865,Battle Ram,11.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,4,False,False,0.0,0.0
+05880,Battle Ram,11.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,1,False,True,3.0,0.0
+05895,Battle Ram,11.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,1,False,False,0.0,0.0
+05910,Battle Ram,11.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,1,False,False,0.0,0.0
+05925,Battle Ram,11.0,Royal Ghost,86.0,Zap,107.0,Poison,78.0,,,,2,False,False,0.0,0.0

@@ -1,0 +1,608 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00225,Heal Spirit,50.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00240,Heal Spirit,50.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00255,Heal Spirit,50.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00270,Heal Spirit,50.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00285,Heal Spirit,50.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00300,Heal Spirit,50.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00315,Heal Spirit,50.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00330,Heal Spirit,50.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00345,Heal Spirit,50.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00360,Heal Spirit,50.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00375,Heal Spirit,50.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00390,Heal Spirit,50.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00405,Heal Spirit,50.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00420,Heal Spirit,50.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00435,Heal Spirit,50.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00450,Heal Spirit,50.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00465,Earthquake,20.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,Heal Spirit,50.0,1.0,8,True,True,1.0,1.0
+00480,Goblin Cage,40.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,Earthquake,20.0,1.0,8,True,False,0.0,3.0
+00495,Goblin Cage,40.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00510,Goblin Cage,40.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00525,Goblin Cage,40.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00540,Goblin Cage,40.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00555,Goblin Cage,40.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00570,Goblin Cage,40.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00585,Goblin Cage,40.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00600,Goblin Cage,40.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00615,Spear Goblins,96.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,Goblin Cage,40.0,1.0,6,True,True,3.0,4.0
+00630,Spear Goblins,96.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00645,Spear Goblins,96.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00660,Spear Goblins,96.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00675,Spear Goblins,96.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00690,Spear Goblins,96.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00705,Spear Goblins,96.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00720,Spear Goblins,96.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00735,Spear Goblins,96.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00750,Spear Goblins,96.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00765,Spear Goblins,96.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00780,Spear Goblins,96.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00795,Spear Goblins,96.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00810,Spear Goblins,96.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00825,Spear Goblins,96.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00840,Spear Goblins,96.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00855,Spear Goblins,96.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00870,Spear Goblins,96.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00885,Spear Goblins,96.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00900,Spear Goblins,96.0,Earthquake,20.0,Fisherman,32.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00915,Spear Goblins,96.0,Earthquake,20.0,Royal Delivery,85.0,Hunter,52.0,Fisherman,32.0,3.0,6,True,True,3.0,3.0
+00930,Spear Goblins,96.0,Earthquake,20.0,Royal Delivery,85.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00945,Spear Goblins,96.0,Earthquake,20.0,Royal Delivery,85.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00960,Spear Goblins,96.0,Earthquake,20.0,Royal Delivery,85.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00975,Spear Goblins,96.0,Earthquake,20.0,Royal Delivery,85.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00990,Spear Goblins,96.0,Earthquake,20.0,Royal Delivery,85.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01005,Spear Goblins,96.0,Earthquake,20.0,Royal Delivery,85.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01020,Spear Goblins,96.0,Earthquake,20.0,Royal Delivery,85.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01035,Spear Goblins,96.0,Earthquake,20.0,Royal Delivery,85.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01050,Spear Goblins,96.0,Earthquake,20.0,Royal Delivery,85.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01065,Spear Goblins,96.0,Earthquake,20.0,Royal Delivery,85.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01080,Spear Goblins,96.0,Earthquake,20.0,Royal Delivery,85.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01095,Spear Goblins,96.0,Earthquake,20.0,Royal Delivery,85.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01110,Spear Goblins,96.0,Royal Hogs,88.0,Royal Delivery,85.0,Hunter,52.0,Earthquake,20.0,2.0,5,True,True,3.0,3.0
+01125,Spear Goblins,96.0,Royal Hogs,88.0,Royal Delivery,85.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01140,Spear Goblins,96.0,Royal Hogs,88.0,Royal Delivery,85.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01155,Spear Goblins,96.0,Royal Hogs,88.0,Royal Delivery,85.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01170,Spear Goblins,96.0,Royal Hogs,88.0,Royal Delivery,85.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01185,Spear Goblins,96.0,Royal Hogs,88.0,Royal Delivery,85.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01200,Spear Goblins,96.0,Royal Hogs,88.0,Royal Delivery,85.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01215,Spear Goblins,96.0,Royal Hogs,88.0,Royal Delivery,85.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01230,Spear Goblins,96.0,Royal Hogs,88.0,Royal Delivery,85.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01245,Spear Goblins,96.0,Royal Hogs,88.0,Royal Delivery,85.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01260,Spear Goblins,96.0,Royal Hogs,88.0,Royal Delivery,85.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01275,Spear Goblins,96.0,Royal Hogs,88.0,Royal Delivery,85.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01290,Spear Goblins,96.0,Royal Hogs,88.0,Royal Delivery,85.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01305,Spear Goblins,96.0,Royal Hogs,88.0,Royal Delivery,85.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01320,Spear Goblins,96.0,Royal Hogs,88.0,Royal Delivery,85.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01335,Spear Goblins,96.0,Heal Spirit,50.0,Royal Delivery,85.0,Hunter,52.0,Royal Hogs,88.0,2.0,3,True,True,5.0,5.0
+01350,Spear Goblins,96.0,Heal Spirit,50.0,Royal Delivery,85.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+01365,Spear Goblins,96.0,Heal Spirit,50.0,Royal Delivery,85.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+01380,Spear Goblins,96.0,Heal Spirit,50.0,Royal Delivery,85.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+01395,Spear Goblins,96.0,Heal Spirit,50.0,Royal Delivery,85.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+01410,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,Heal Spirit,50.0,2.0,3,True,True,1.0,1.0
+01425,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+01440,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+01455,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+01470,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+01485,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+01500,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+01515,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+01530,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+01545,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+01560,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+01575,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+01590,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+01605,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+01620,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01635,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01650,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01665,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01680,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01695,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01710,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01725,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01740,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01755,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01770,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01785,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01800,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01815,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01830,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01845,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01860,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01875,Spear Goblins,96.0,Goblin Cage,40.0,Royal Delivery,85.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+01890,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Hunter,52.0,Goblin Cage,40.0,2.0,5,True,True,4.0,4.0
+01905,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+01920,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+01935,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+01950,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+01965,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01980,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,Hunter,52.0,4.0,2,True,True,4.0,4.0
+01995,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,2,False,False,0.0,0.0
+02010,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,2,False,False,0.0,0.0
+02025,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,2,False,False,0.0,0.0
+02040,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,3,False,False,0.0,0.0
+02055,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,3,False,False,0.0,0.0
+02070,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,3,False,False,0.0,0.0
+02085,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,Earthquake,20.0,4.0,0,True,True,3.0,3.0
+02100,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,0,False,False,0.0,0.0
+02115,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,0,False,False,0.0,0.0
+02130,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,1,False,False,0.0,0.0
+02145,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,1,False,False,0.0,0.0
+02160,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,1,False,False,0.0,0.0
+02175,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,1,False,False,0.0,0.0
+02190,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,1,False,False,0.0,0.0
+02205,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,1,False,False,0.0,0.0
+02220,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+02235,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+02250,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+02265,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+02280,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+02295,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+02310,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+02325,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+02340,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+02355,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+02370,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+02385,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+02400,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+02415,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+02430,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+02445,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+02460,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+02475,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+02490,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+02505,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+02520,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+02535,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+02550,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+02565,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+02580,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+02595,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+02610,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+02625,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+02640,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+02655,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+02670,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+02685,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+02700,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+02715,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,8,False,False,0.0,0.0
+02730,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,8,False,False,0.0,0.0
+02745,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,8,False,False,0.0,0.0
+02760,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,8,False,False,0.0,0.0
+02775,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,8,False,False,0.0,0.0
+02790,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,8,False,False,0.0,0.0
+02805,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,9,False,False,0.0,0.0
+02820,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,9,False,False,0.0,0.0
+02835,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,9,False,False,0.0,0.0
+02850,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,9,False,False,0.0,0.0
+02865,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Heal Spirit,50.0,Royal Hogs,88.0,4.0,4,True,True,5.0,5.0
+02880,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+02895,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+02910,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,Heal Spirit,50.0,4.0,4,True,True,1.0,1.0
+02925,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,4,False,False,0.0,0.0
+02940,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,4,False,False,0.0,0.0
+02955,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,4,False,False,0.0,0.0
+02970,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,5,False,False,0.0,0.0
+02985,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,5,False,False,0.0,0.0
+03000,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,5,False,False,0.0,0.0
+03015,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,5,False,False,0.0,0.0
+03030,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,5,False,False,0.0,0.0
+03045,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,5,False,False,0.0,0.0
+03060,Spear Goblins,96.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,6,False,False,0.0,0.0
+03075,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,Spear Goblins,96.0,1.0,4,True,True,2.0,2.0
+03090,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,4,False,False,0.0,0.0
+03105,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,4,False,False,0.0,0.0
+03120,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,4,False,False,0.0,0.0
+03135,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,5,False,False,0.0,0.0
+03150,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,5,False,False,0.0,0.0
+03165,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,5,False,False,0.0,0.0
+03180,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,5,False,False,0.0,0.0
+03195,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,5,False,False,0.0,0.0
+03210,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,5,False,False,0.0,0.0
+03225,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,6,False,False,0.0,0.0
+03240,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,6,False,False,0.0,0.0
+03255,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,6,False,False,0.0,0.0
+03270,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,6,False,False,0.0,0.0
+03285,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,6,False,False,0.0,0.0
+03300,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,7,False,False,0.0,0.0
+03315,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,7,False,False,0.0,0.0
+03330,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,7,False,False,0.0,0.0
+03345,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,7,False,False,0.0,0.0
+03360,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,7,False,False,0.0,0.0
+03375,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,7,False,False,0.0,0.0
+03390,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,8,False,False,0.0,0.0
+03405,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,8,False,False,0.0,0.0
+03420,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,8,False,False,0.0,0.0
+03435,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,8,False,False,0.0,0.0
+03450,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,8,False,False,0.0,0.0
+03465,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Goblin Cage,40.0,,,,8,False,False,0.0,0.0
+03480,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,Goblin Cage,40.0,4.0,5,True,True,3.0,4.0
+03495,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,5,False,False,0.0,0.0
+03510,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,5,False,False,0.0,0.0
+03525,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,5,False,False,0.0,0.0
+03540,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,5,False,False,0.0,0.0
+03555,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+03570,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+03585,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+03600,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+03615,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+03630,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+03645,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+03660,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+03675,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+03690,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+03705,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+03720,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,8,False,False,0.0,0.0
+03735,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,8,False,False,0.0,0.0
+03750,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,8,False,False,0.0,0.0
+03765,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,8,False,False,0.0,0.0
+03780,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,8,False,False,0.0,0.0
+03795,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,9,False,False,0.0,0.0
+03810,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,Fisherman,32.0,2.0,10,True,True,3.0,3.0
+03825,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,10,False,False,0.0,0.0
+03840,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+03855,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,8,False,False,0.0,0.0
+03870,Hunter,52.0,Heal Spirit,50.0,Royal Delivery,85.0,Earthquake,20.0,Royal Hogs,88.0,2.0,3,True,True,5.0,5.0
+03885,Hunter,52.0,Heal Spirit,50.0,Royal Delivery,85.0,Earthquake,20.0,,,,3,False,False,0.0,0.0
+03900,Hunter,52.0,Heal Spirit,50.0,Royal Delivery,85.0,Earthquake,20.0,,,,4,False,False,0.0,0.0
+03915,Hunter,52.0,Heal Spirit,50.0,Royal Delivery,85.0,Spear Goblins,96.0,Earthquake,20.0,4.0,1,True,True,3.0,3.0
+03930,Hunter,52.0,Heal Spirit,50.0,Royal Delivery,85.0,Spear Goblins,96.0,,,,2,False,False,0.0,0.0
+03945,Hunter,52.0,Heal Spirit,50.0,Royal Delivery,85.0,Spear Goblins,96.0,,,,2,False,False,0.0,0.0
+03960,Hunter,52.0,Heal Spirit,50.0,Royal Delivery,85.0,Spear Goblins,96.0,,,,2,False,False,0.0,0.0
+03975,Hunter,52.0,Heal Spirit,50.0,Royal Delivery,85.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+03990,Hunter,52.0,Heal Spirit,50.0,Royal Delivery,85.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+04005,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Spear Goblins,96.0,Heal Spirit,50.0,2.0,2,True,True,1.0,1.0
+04020,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+04035,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+04050,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+04065,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+04080,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+04095,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+04110,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+04125,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Fisherman,32.0,Spear Goblins,96.0,4.0,3,True,True,2.0,2.0
+04140,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+04155,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+04170,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+04185,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+04200,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+04215,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+04230,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+04245,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+04260,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+04275,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+04290,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+04305,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+04320,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+04335,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Fisherman,32.0,Goblin Cage,40.0,2.0,4,True,True,4.0,4.0
+04350,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+04365,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+04380,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+04395,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+04410,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+04425,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+04440,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+04455,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+04470,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+04485,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+04500,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+04515,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+04530,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+04545,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+04560,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+04575,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,Fisherman,32.0,4.0,7,True,True,2.0,3.0
+04590,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+04605,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,8,False,False,0.0,0.0
+04620,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,8,False,False,0.0,0.0
+04635,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,8,False,False,0.0,0.0
+04650,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,9,False,False,0.0,0.0
+04665,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,9,False,False,0.0,0.0
+04680,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,9,False,False,0.0,0.0
+04695,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,10,False,False,0.0,0.0
+04710,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,10,False,False,0.0,0.0
+04725,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,10,False,False,0.0,0.0
+04740,Heal Spirit,50.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,Hunter,52.0,1.0,6,True,True,4.0,4.0
+04755,Heal Spirit,50.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+04770,Heal Spirit,50.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+04785,Heal Spirit,50.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+04800,Heal Spirit,50.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+04815,Heal Spirit,50.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,8,False,False,0.0,0.0
+04830,Heal Spirit,50.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,8,False,False,0.0,0.0
+04845,Heal Spirit,50.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,8,False,False,0.0,0.0
+04860,Heal Spirit,50.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,9,False,False,0.0,0.0
+04875,Heal Spirit,50.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,9,False,False,0.0,0.0
+04890,Heal Spirit,50.0,Spear Goblins,96.0,Royal Delivery,85.0,Earthquake,20.0,Royal Hogs,88.0,2.0,4,True,True,5.0,5.0
+04905,Heal Spirit,50.0,Spear Goblins,96.0,Royal Delivery,85.0,Earthquake,20.0,,,,5,False,False,0.0,0.0
+04920,Heal Spirit,50.0,Spear Goblins,96.0,Royal Delivery,85.0,Earthquake,20.0,,,,5,False,False,0.0,0.0
+04935,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Earthquake,20.0,Heal Spirit,50.0,1.0,4,True,True,1.0,1.0
+04950,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Earthquake,20.0,,,,5,False,False,0.0,0.0
+04965,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Earthquake,20.0,,,,5,False,False,0.0,0.0
+04980,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Earthquake,20.0,,,,5,False,False,0.0,0.0
+04995,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+05010,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+05025,Goblin Cage,40.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,Spear Goblins,96.0,2.0,5,True,True,1.0,2.0
+05040,Goblin Cage,40.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,5,False,False,0.0,0.0
+05055,Goblin Cage,40.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,5,False,False,0.0,0.0
+05070,Goblin Cage,40.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+05085,Goblin Cage,40.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+05100,Goblin Cage,40.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+05115,Goblin Cage,40.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+05130,Goblin Cage,40.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+05145,Goblin Cage,40.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+05160,Goblin Cage,40.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,8,False,False,0.0,0.0
+05175,Goblin Cage,40.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,8,False,False,0.0,0.0
+05190,Goblin Cage,40.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,8,False,False,0.0,0.0
+05205,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Earthquake,20.0,Fisherman,32.0,2.0,6,True,True,2.0,3.0
+05220,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+05235,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+05250,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+05265,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+05280,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Earthquake,20.0,,,,8,False,False,0.0,0.0
+05295,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Earthquake,20.0,,,,8,False,False,0.0,0.0
+05310,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Earthquake,20.0,,,,8,False,False,0.0,0.0
+05325,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Earthquake,20.0,,,,9,False,False,0.0,0.0
+05340,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Earthquake,20.0,,,,9,False,False,0.0,0.0
+05355,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Earthquake,20.0,,,,9,False,False,0.0,0.0
+05370,Royal Hogs,88.0,Hunter,52.0,Royal Delivery,85.0,Earthquake,20.0,Goblin Cage,40.0,1.0,6,True,True,3.0,4.0
+05385,Royal Hogs,88.0,Hunter,52.0,Royal Delivery,85.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+05400,Royal Hogs,88.0,Hunter,52.0,Royal Delivery,85.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+05415,Royal Hogs,88.0,Hunter,52.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+05430,Royal Hogs,88.0,Hunter,52.0,Heal Spirit,50.0,Earthquake,20.0,Royal Delivery,85.0,3.0,4,True,True,3.0,3.0
+05445,Royal Hogs,88.0,Hunter,52.0,Heal Spirit,50.0,Earthquake,20.0,,,,5,False,False,0.0,0.0
+05460,Royal Hogs,88.0,Hunter,52.0,Heal Spirit,50.0,Earthquake,20.0,,,,5,False,False,0.0,0.0
+05475,Royal Hogs,88.0,Hunter,52.0,Heal Spirit,50.0,Earthquake,20.0,,,,5,False,False,0.0,0.0
+05490,Royal Hogs,88.0,Hunter,52.0,Heal Spirit,50.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+05505,Royal Hogs,88.0,Hunter,52.0,Heal Spirit,50.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+05520,Royal Hogs,88.0,Hunter,52.0,Heal Spirit,50.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+05535,Royal Hogs,88.0,Hunter,52.0,Heal Spirit,50.0,Spear Goblins,96.0,Earthquake,20.0,4.0,4,True,True,2.0,3.0
+05550,Royal Hogs,88.0,Hunter,52.0,Heal Spirit,50.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+05565,Royal Hogs,88.0,Hunter,52.0,Heal Spirit,50.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+05580,Royal Hogs,88.0,Hunter,52.0,Heal Spirit,50.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+05595,Royal Hogs,88.0,Hunter,52.0,Heal Spirit,50.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+05610,Royal Hogs,88.0,Hunter,52.0,Heal Spirit,50.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+05625,Royal Hogs,88.0,Hunter,52.0,Heal Spirit,50.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+05640,Royal Hogs,88.0,Hunter,52.0,Heal Spirit,50.0,Spear Goblins,96.0,,,,6,False,False,0.0,0.0
+05655,Royal Hogs,88.0,Hunter,52.0,Heal Spirit,50.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+05670,Royal Hogs,88.0,Hunter,52.0,Heal Spirit,50.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+05685,Royal Hogs,88.0,Hunter,52.0,Heal Spirit,50.0,Spear Goblins,96.0,,,,7,False,False,0.0,0.0
+05700,Royal Hogs,88.0,Hunter,52.0,Heal Spirit,50.0,Spear Goblins,96.0,,,,8,False,False,0.0,0.0
+05715,Fisherman,32.0,Hunter,52.0,Heal Spirit,50.0,Spear Goblins,96.0,Royal Hogs,88.0,1.0,3,True,True,5.0,5.0
+05730,Fisherman,32.0,Hunter,52.0,Heal Spirit,50.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+05745,Fisherman,32.0,Hunter,52.0,Heal Spirit,50.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+05760,Fisherman,32.0,Hunter,52.0,Heal Spirit,50.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+05775,Fisherman,32.0,Hunter,52.0,Heal Spirit,50.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+05790,Fisherman,32.0,Hunter,52.0,Heal Spirit,50.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+05805,Goblin Cage,40.0,Hunter,52.0,Heal Spirit,50.0,Spear Goblins,96.0,Fisherman,32.0,1.0,2,True,True,3.0,3.0
+05820,Goblin Cage,40.0,Hunter,52.0,Heal Spirit,50.0,Spear Goblins,96.0,,,,2,False,False,0.0,0.0
+05835,Goblin Cage,40.0,Hunter,52.0,Heal Spirit,50.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+05850,Goblin Cage,40.0,Hunter,52.0,Heal Spirit,50.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+05865,Goblin Cage,40.0,Hunter,52.0,Heal Spirit,50.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+05880,Goblin Cage,40.0,Hunter,52.0,Heal Spirit,50.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+05895,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Spear Goblins,96.0,Heal Spirit,50.0,3.0,3,True,True,1.0,1.0
+05910,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+05925,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Earthquake,20.0,Spear Goblins,96.0,4.0,2,True,True,2.0,2.0
+05940,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Earthquake,20.0,,,,2,False,False,0.0,0.0
+05955,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Earthquake,20.0,,,,3,False,False,0.0,0.0
+05970,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Earthquake,20.0,,,,3,False,False,0.0,0.0
+05985,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Earthquake,20.0,,,,3,False,False,0.0,0.0
+06000,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Royal Hogs,88.0,Earthquake,20.0,4.0,1,True,True,2.0,3.0
+06015,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,1,False,False,0.0,0.0
+06030,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,1,False,False,0.0,0.0
+06045,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+06060,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+06075,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+06090,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+06105,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+06120,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+06135,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+06150,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+06165,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+06180,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+06195,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+06210,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Fisherman,32.0,Royal Hogs,88.0,4.0,1,True,True,4.0,5.0
+06225,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Fisherman,32.0,,,,1,False,False,0.0,0.0
+06240,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Fisherman,32.0,,,,1,False,False,0.0,0.0
+06255,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+06270,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+06285,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+06300,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+06315,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+06330,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+06345,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+06360,Goblin Cage,40.0,Hunter,52.0,Royal Delivery,85.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+06375,Goblin Cage,40.0,Heal Spirit,50.0,Royal Delivery,85.0,Fisherman,32.0,Hunter,52.0,2.0,5,True,False,0.0,4.0
+06390,Goblin Cage,40.0,Heal Spirit,50.0,Royal Delivery,85.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+06405,Goblin Cage,40.0,Heal Spirit,50.0,Royal Delivery,85.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+06420,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Fisherman,32.0,Heal Spirit,50.0,2.0,5,True,True,4.0,1.0
+06435,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Fisherman,32.0,,,,1,False,False,0.0,0.0
+06450,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Fisherman,32.0,,,,1,False,False,0.0,0.0
+06465,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+06480,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+06495,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+06510,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+06525,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+06540,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+06555,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+06570,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+06585,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+06600,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+06615,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+06630,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+06645,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Earthquake,20.0,Fisherman,32.0,4.0,3,True,True,3.0,3.0
+06660,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Earthquake,20.0,,,,3,False,False,0.0,0.0
+06675,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Earthquake,20.0,,,,4,False,False,0.0,0.0
+06690,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Earthquake,20.0,,,,4,False,False,0.0,0.0
+06705,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Earthquake,20.0,,,,5,False,False,0.0,0.0
+06720,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Earthquake,20.0,,,,5,False,False,0.0,0.0
+06735,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Earthquake,20.0,,,,5,False,False,0.0,0.0
+06750,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+06765,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+06780,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+06795,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+06810,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+06825,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+06840,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Earthquake,20.0,,,,8,False,False,0.0,0.0
+06855,Goblin Cage,40.0,Spear Goblins,96.0,Royal Delivery,85.0,Earthquake,20.0,,,,8,False,False,0.0,0.0
+06870,Goblin Cage,40.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,Spear Goblins,96.0,2.0,6,True,True,2.0,2.0
+06885,Goblin Cage,40.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+06900,Goblin Cage,40.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+06915,Goblin Cage,40.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+06930,Goblin Cage,40.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,8,False,False,0.0,0.0
+06945,Goblin Cage,40.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,8,False,False,0.0,0.0
+06960,Goblin Cage,40.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,9,False,False,0.0,0.0
+06975,Goblin Cage,40.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,9,False,False,0.0,0.0
+06990,Goblin Cage,40.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,9,False,False,0.0,0.0
+07005,Goblin Cage,40.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,10,False,False,0.0,0.0
+07020,Goblin Cage,40.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,10,False,False,0.0,0.0
+07035,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,Goblin Cage,40.0,1.0,6,True,True,4.0,4.0
+07050,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+07065,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+07080,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+07095,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+07110,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,8,False,False,0.0,0.0
+07125,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,8,False,False,0.0,0.0
+07140,Hunter,52.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,8,False,False,0.0,0.0
+07155,Heal Spirit,50.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,Hunter,52.0,1.0,5,True,True,3.0,4.0
+07170,Heal Spirit,50.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,5,False,False,0.0,0.0
+07185,Heal Spirit,50.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,5,False,False,0.0,0.0
+07200,Heal Spirit,50.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+07215,Heal Spirit,50.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+07230,Heal Spirit,50.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+07245,Heal Spirit,50.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+07260,Heal Spirit,50.0,Royal Hogs,88.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+07275,Heal Spirit,50.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,Royal Hogs,88.0,2.0,3,True,True,4.0,5.0
+07290,Heal Spirit,50.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,3,False,False,0.0,0.0
+07305,Heal Spirit,50.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,3,False,False,0.0,0.0
+07320,Heal Spirit,50.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,4,False,False,0.0,0.0
+07335,Heal Spirit,50.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,4,False,False,0.0,0.0
+07350,Heal Spirit,50.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,4,False,False,0.0,0.0
+07365,Heal Spirit,50.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,5,False,False,0.0,0.0
+07380,Heal Spirit,50.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,5,False,False,0.0,0.0
+07395,Heal Spirit,50.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+07410,Heal Spirit,50.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,6,False,False,0.0,0.0
+07425,Heal Spirit,50.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,7,False,False,0.0,0.0
+07440,Heal Spirit,50.0,Fisherman,32.0,Royal Delivery,85.0,Spear Goblins,96.0,Earthquake,20.0,4.0,4,True,True,3.0,3.0
+07455,Heal Spirit,50.0,Fisherman,32.0,Royal Delivery,85.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+07470,Heal Spirit,50.0,Fisherman,32.0,Royal Delivery,85.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+07485,Heal Spirit,50.0,Goblin Cage,40.0,Royal Delivery,85.0,Spear Goblins,96.0,Fisherman,32.0,2.0,3,True,True,2.0,3.0
+07500,Heal Spirit,50.0,Goblin Cage,40.0,Royal Delivery,85.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+07515,Heal Spirit,50.0,Goblin Cage,40.0,Royal Delivery,85.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+07530,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Spear Goblins,96.0,Heal Spirit,50.0,1.0,4,True,False,0.0,1.0
+07545,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+07560,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+07575,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+07590,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Royal Hogs,88.0,Spear Goblins,96.0,4.0,4,True,True,1.0,2.0
+07605,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+07620,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+07635,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+07650,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+07665,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+07680,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Earthquake,20.0,Royal Hogs,88.0,4.0,2,True,True,4.0,5.0
+07695,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Earthquake,20.0,,,,3,False,False,0.0,0.0
+07710,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Earthquake,20.0,,,,3,False,False,0.0,0.0
+07725,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Earthquake,20.0,,,,4,False,False,0.0,0.0
+07740,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Earthquake,20.0,,,,4,False,False,0.0,0.0
+07755,Hunter,52.0,Goblin Cage,40.0,Royal Delivery,85.0,Earthquake,20.0,,,,5,False,False,0.0,0.0
+07770,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,Goblin Cage,40.0,2.0,1,True,True,4.0,4.0
+07785,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,2,False,False,0.0,0.0
+07800,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,2,False,False,0.0,0.0
+07815,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,3,False,False,0.0,0.0
+07830,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Earthquake,20.0,,,,3,False,False,0.0,0.0
+07845,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Heal Spirit,50.0,Earthquake,20.0,4.0,3,True,True,2.0,3.0
+07860,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Heal Spirit,50.0,,,,1,False,False,0.0,0.0
+07875,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+07890,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+07905,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+07920,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+07935,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+07950,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+07965,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+07980,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+07995,Hunter,52.0,Fisherman,32.0,Royal Delivery,85.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+08010,Hunter,52.0,Fisherman,32.0,Spear Goblins,96.0,Heal Spirit,50.0,Royal Delivery,85.0,3.0,4,True,True,2.0,3.0
+08025,Hunter,52.0,Fisherman,32.0,Spear Goblins,96.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+08040,Hunter,52.0,Fisherman,32.0,Spear Goblins,96.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+08055,Hunter,52.0,Fisherman,32.0,Spear Goblins,96.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+08070,Hunter,52.0,Fisherman,32.0,Spear Goblins,96.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+08085,Hunter,52.0,Fisherman,32.0,Royal Hogs,88.0,Heal Spirit,50.0,Spear Goblins,96.0,3.0,5,True,True,1.0,2.0
+08100,Hunter,52.0,Fisherman,32.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,5,False,False,0.0,0.0
+08115,Hunter,52.0,Fisherman,32.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+08130,Hunter,52.0,Fisherman,32.0,Royal Hogs,88.0,Heal Spirit,50.0,,,,6,False,False,0.0,0.0
+08145,Hunter,52.0,Fisherman,32.0,Goblin Cage,40.0,Heal Spirit,50.0,Royal Hogs,88.0,3.0,2,True,True,4.0,5.0
+08160,Hunter,52.0,Fisherman,32.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+08175,Hunter,52.0,Fisherman,32.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+08190,Hunter,52.0,Fisherman,32.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+08205,Hunter,52.0,Fisherman,32.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+08220,Hunter,52.0,Fisherman,32.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+08235,Hunter,52.0,Earthquake,20.0,Goblin Cage,40.0,Heal Spirit,50.0,Fisherman,32.0,2.0,2,True,True,2.0,3.0
+08250,Hunter,52.0,Earthquake,20.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+08265,Hunter,52.0,Earthquake,20.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+08280,Hunter,52.0,Earthquake,20.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+08295,Hunter,52.0,Earthquake,20.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+08310,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Heal Spirit,50.0,Earthquake,20.0,2.0,2,True,True,2.0,3.0
+08325,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+08340,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Spear Goblins,96.0,Heal Spirit,50.0,4.0,2,True,False,0.0,1.0
+08355,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Spear Goblins,96.0,,,,2,False,False,0.0,0.0
+08370,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+08385,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Spear Goblins,96.0,,,,3,False,False,0.0,0.0
+08400,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+08415,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+08430,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Royal Hogs,88.0,Spear Goblins,96.0,4.0,3,True,True,1.0,2.0
+08445,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+08460,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+08475,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+08490,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+08505,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+08520,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Fisherman,32.0,Royal Hogs,88.0,4.0,1,True,True,5.0,5.0
+08535,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+08550,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+08565,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+08580,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+08595,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+08610,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+08625,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Earthquake,20.0,Fisherman,32.0,4.0,2,True,True,2.0,3.0
+08640,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Earthquake,20.0,,,,2,False,False,0.0,0.0
+08655,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Earthquake,20.0,,,,3,False,False,0.0,0.0
+08670,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Earthquake,20.0,,,,3,False,False,0.0,0.0
+08685,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Heal Spirit,50.0,Earthquake,20.0,4.0,1,True,True,2.0,3.0
+08700,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+08715,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+08730,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+08745,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,3,False,False,0.0,0.0
+08760,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+08775,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Heal Spirit,50.0,,,,4,False,False,0.0,0.0
+08790,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Spear Goblins,96.0,Heal Spirit,50.0,4.0,4,True,False,0.0,1.0
+08805,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Spear Goblins,96.0,,,,4,False,False,0.0,0.0
+08820,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Spear Goblins,96.0,,,,5,False,False,0.0,0.0
+08835,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Royal Hogs,88.0,Spear Goblins,96.0,4.0,3,True,True,2.0,2.0
+08850,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+08865,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+08880,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+08895,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+08910,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+08925,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+08940,Hunter,52.0,Royal Delivery,85.0,Goblin Cage,40.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+08955,Hunter,52.0,Royal Delivery,85.0,Fisherman,32.0,Royal Hogs,88.0,Goblin Cage,40.0,3.0,4,True,True,3.0,4.0
+08970,Hunter,52.0,Royal Delivery,85.0,Fisherman,32.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+08985,Hunter,52.0,Royal Delivery,85.0,Fisherman,32.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+09000,Hunter,52.0,Earthquake,20.0,Fisherman,32.0,Royal Hogs,88.0,Royal Delivery,85.0,2.0,2,True,True,3.0,3.0
+09015,Hunter,52.0,Earthquake,20.0,Fisherman,32.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+09030,Hunter,52.0,Earthquake,20.0,Fisherman,32.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+09045,Hunter,52.0,Earthquake,20.0,Fisherman,32.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+09060,Hunter,52.0,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,Earthquake,20.0,2.0,1,True,True,3.0,3.0
+09075,Hunter,52.0,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+09090,Hunter,52.0,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+09105,Hunter,52.0,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+09120,Hunter,52.0,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+09135,Hunter,52.0,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+09150,Hunter,52.0,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+09165,Hunter,52.0,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+09180,Hunter,52.0,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+09195,Hunter,52.0,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+09210,Hunter,52.0,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+09225,Hunter,52.0,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+09240,Hunter,52.0,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+09255,Hunter,52.0,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+09270,Hunter,52.0,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+09285,Hunter,52.0,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+09300,Hunter,52.0,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+09315,Hunter,52.0,Heal Spirit,50.0,Fisherman,32.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0

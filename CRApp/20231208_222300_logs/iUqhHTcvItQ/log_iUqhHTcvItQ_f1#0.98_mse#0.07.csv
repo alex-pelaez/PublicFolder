@@ -1,0 +1,612 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00270,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00285,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00300,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00315,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00330,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00345,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00360,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00375,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00390,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00405,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00420,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00435,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00450,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00465,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00480,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+00495,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+00510,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+00525,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+00540,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+00555,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+00570,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+00585,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+00600,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+00615,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+00630,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+00645,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+00660,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+00675,Miner,66.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+00690,Valkyrie,102.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,Miner,66.0,1.0,10,True,True,3.0,3.0
+00705,Valkyrie,102.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+00720,Valkyrie,102.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00735,Valkyrie,102.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00750,Valkyrie,102.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+00765,Valkyrie,102.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00780,Valkyrie,102.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00795,Valkyrie,102.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00810,Valkyrie,102.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00825,Valkyrie,102.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00840,Valkyrie,102.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00855,Valkyrie,102.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+00870,Valkyrie,102.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+00885,Valkyrie,102.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+00900,Valkyrie,102.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+00915,Valkyrie,102.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+00930,Valkyrie,102.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+00945,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,Goblins,45.0,2.0,8,True,True,1.0,2.0
+00960,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00975,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+00990,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01005,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01020,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01035,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01050,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01065,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01080,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01095,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01110,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+01125,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,Valkyrie,102.0,1.0,6,True,True,4.0,4.0
+01140,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+01155,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+01170,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+01185,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+01200,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01215,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01230,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01245,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01260,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01275,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01290,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01305,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01320,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01335,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01350,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01365,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01380,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01395,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01410,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01425,Rocket,84.0,Wall Breakers,103.0,Tornado,101.0,Bomb Tower,12.0,Ice Wizard,55.0,2.0,6,True,True,3.0,3.0
+01440,Rocket,84.0,Wall Breakers,103.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+01455,Rocket,84.0,Wall Breakers,103.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01470,Rocket,84.0,Wall Breakers,103.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01485,Rocket,84.0,Wall Breakers,103.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01500,Rocket,84.0,Wall Breakers,103.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01515,Rocket,84.0,Wall Breakers,103.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01530,Rocket,84.0,Wall Breakers,103.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01545,Rocket,84.0,Wall Breakers,103.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01560,Rocket,84.0,Wall Breakers,103.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01575,Rocket,84.0,Wall Breakers,103.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01590,Rocket,84.0,Wall Breakers,103.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01605,Rocket,84.0,Wall Breakers,103.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01620,Rocket,84.0,Wall Breakers,103.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01635,Rocket,84.0,Wall Breakers,103.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01650,Rocket,84.0,Wall Breakers,103.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01665,Rocket,84.0,Wall Breakers,103.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01680,Rocket,84.0,Wall Breakers,103.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01695,Rocket,84.0,Miner,66.0,Tornado,101.0,Bomb Tower,12.0,Wall Breakers,103.0,2.0,7,True,True,2.0,2.0
+01710,Rocket,84.0,Miner,66.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01725,Rocket,84.0,Miner,66.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01740,Rocket,84.0,Miner,66.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01755,Rocket,84.0,Miner,66.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01770,Rocket,84.0,Miner,66.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01785,Rocket,84.0,Miner,66.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+01800,Rocket,84.0,Miner,66.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01815,Rocket,84.0,Miner,66.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01830,Rocket,84.0,Miner,66.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01845,Rocket,84.0,Miner,66.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01860,Rocket,84.0,Miner,66.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+01875,Rocket,84.0,Miner,66.0,Tornado,101.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+01890,Rocket,84.0,Miner,66.0,Tornado,101.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+01905,Rocket,84.0,Miner,66.0,Tornado,101.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+01920,Rocket,84.0,Miner,66.0,Tornado,101.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+01935,Rocket,84.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,Miner,66.0,2.0,7,True,True,3.0,3.0
+01950,Rocket,84.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01965,Rocket,84.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01980,Rocket,84.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01995,Rocket,84.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02010,Rocket,84.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02025,Rocket,84.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02040,Rocket,84.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02055,Rocket,84.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02070,Rocket,84.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02085,Rocket,84.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02100,Rocket,84.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02115,Rocket,84.0,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02130,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,Goblins,45.0,2.0,7,True,True,2.0,2.0
+02145,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02160,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02175,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02190,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02205,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02220,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02235,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02250,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02265,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02280,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02295,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02310,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02325,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02340,Rocket,84.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,3.0,6,True,True,3.0,3.0
+02355,Rocket,84.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02370,Rocket,84.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02385,Rocket,84.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02400,Rocket,84.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02415,Rocket,84.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02430,Rocket,84.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02445,Rocket,84.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02460,Rocket,84.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02475,Rocket,84.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02490,Rocket,84.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02505,Rocket,84.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02520,Rocket,84.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02535,Rocket,84.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02550,Rocket,84.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02565,Rocket,84.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02580,Rocket,84.0,Valkyrie,102.0,Wall Breakers,103.0,Bomb Tower,12.0,Ice Wizard,55.0,3.0,6,True,True,3.0,3.0
+02595,Rocket,84.0,Valkyrie,102.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02610,Rocket,84.0,Valkyrie,102.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02625,Rocket,84.0,Valkyrie,102.0,Miner,66.0,Bomb Tower,12.0,Wall Breakers,103.0,3.0,5,True,True,2.0,2.0
+02640,Rocket,84.0,Valkyrie,102.0,Miner,66.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+02655,Rocket,84.0,Valkyrie,102.0,Miner,66.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+02670,Rocket,84.0,Valkyrie,102.0,Miner,66.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+02685,Rocket,84.0,Valkyrie,102.0,Miner,66.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02700,Rocket,84.0,Valkyrie,102.0,Miner,66.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02715,Rocket,84.0,Valkyrie,102.0,Miner,66.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02730,Rocket,84.0,Valkyrie,102.0,Miner,66.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02745,Rocket,84.0,Valkyrie,102.0,Miner,66.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02760,Rocket,84.0,Valkyrie,102.0,Miner,66.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02775,Rocket,84.0,Valkyrie,102.0,Miner,66.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02790,Rocket,84.0,Valkyrie,102.0,Miner,66.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02805,Rocket,84.0,Valkyrie,102.0,Miner,66.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02820,Rocket,84.0,Valkyrie,102.0,Miner,66.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02835,Rocket,84.0,Valkyrie,102.0,Miner,66.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02850,Rocket,84.0,Valkyrie,102.0,Miner,66.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02865,Rocket,84.0,Valkyrie,102.0,Miner,66.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02880,Rocket,84.0,Valkyrie,102.0,Miner,66.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02895,Rocket,84.0,Valkyrie,102.0,Miner,66.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02910,Rocket,84.0,Valkyrie,102.0,Miner,66.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02925,Rocket,84.0,Valkyrie,102.0,Miner,66.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02940,Rocket,84.0,Valkyrie,102.0,Miner,66.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02955,Rocket,84.0,Valkyrie,102.0,Miner,66.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02970,Rocket,84.0,Valkyrie,102.0,Miner,66.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02985,Rocket,84.0,Valkyrie,102.0,Goblins,45.0,Bomb Tower,12.0,Miner,66.0,3.0,6,True,True,3.0,3.0
+03000,Rocket,84.0,Valkyrie,102.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+03015,Rocket,84.0,Valkyrie,102.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+03030,Rocket,84.0,Valkyrie,102.0,Goblins,45.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+03045,Rocket,84.0,Valkyrie,102.0,Goblins,45.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+03060,Rocket,84.0,Valkyrie,102.0,Goblins,45.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+03075,Rocket,84.0,Valkyrie,102.0,Goblins,45.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+03090,Rocket,84.0,Valkyrie,102.0,Goblins,45.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+03105,Rocket,84.0,Valkyrie,102.0,Goblins,45.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+03120,Rocket,84.0,Valkyrie,102.0,Goblins,45.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+03135,Rocket,84.0,Valkyrie,102.0,Goblins,45.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+03150,Rocket,84.0,Valkyrie,102.0,Goblins,45.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+03165,Rocket,84.0,Valkyrie,102.0,Goblins,45.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+03180,Rocket,84.0,Valkyrie,102.0,Goblins,45.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+03195,Rocket,84.0,Valkyrie,102.0,Goblins,45.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+03210,Rocket,84.0,Valkyrie,102.0,Goblins,45.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+03225,Rocket,84.0,Valkyrie,102.0,Goblins,45.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+03240,Rocket,84.0,Valkyrie,102.0,Goblins,45.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+03255,Rocket,84.0,Valkyrie,102.0,Goblins,45.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+03270,Rocket,84.0,Tornado,101.0,Goblins,45.0,Bomb Tower,12.0,Valkyrie,102.0,2.0,6,True,True,3.0,4.0
+03285,Rocket,84.0,Tornado,101.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+03300,Rocket,84.0,Tornado,101.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+03315,Rocket,84.0,Tornado,101.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+03330,Rocket,84.0,Tornado,101.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+03345,Rocket,84.0,Tornado,101.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+03360,Rocket,84.0,Tornado,101.0,Goblins,45.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+03375,Rocket,84.0,Tornado,101.0,Goblins,45.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+03390,Rocket,84.0,Tornado,101.0,Goblins,45.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+03405,Rocket,84.0,Tornado,101.0,Goblins,45.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+03420,Rocket,84.0,Tornado,101.0,Goblins,45.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+03435,Rocket,84.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,Goblins,45.0,3.0,6,True,True,1.0,2.0
+03450,Rocket,84.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+03465,Rocket,84.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+03480,Wall Breakers,103.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,Rocket,84.0,1.0,0,True,True,6.0,6.0
+03495,Wall Breakers,103.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,0,False,False,0.0,0.0
+03510,Wall Breakers,103.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,0,False,False,0.0,0.0
+03525,Wall Breakers,103.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+03540,Wall Breakers,103.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+03555,Wall Breakers,103.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+03570,Wall Breakers,103.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+03585,Wall Breakers,103.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+03600,Wall Breakers,103.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+03615,Wall Breakers,103.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+03630,Wall Breakers,103.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+03645,Wall Breakers,103.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+03660,Wall Breakers,103.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+03675,Wall Breakers,103.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+03690,Wall Breakers,103.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+03705,Wall Breakers,103.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+03720,Wall Breakers,103.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+03735,Wall Breakers,103.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+03750,Wall Breakers,103.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+03765,Wall Breakers,103.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+03780,Wall Breakers,103.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+03795,Wall Breakers,103.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+03810,Wall Breakers,103.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+03825,Wall Breakers,103.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+03840,Wall Breakers,103.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+03855,Wall Breakers,103.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+03870,Wall Breakers,103.0,Miner,66.0,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,2.0,3,True,True,2.0,3.0
+03885,Wall Breakers,103.0,Miner,66.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+03900,Wall Breakers,103.0,Miner,66.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+03915,Wall Breakers,103.0,Miner,66.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+03930,Wall Breakers,103.0,Miner,66.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+03945,Wall Breakers,103.0,Miner,66.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+03960,Wall Breakers,103.0,Miner,66.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+03975,Wall Breakers,103.0,Miner,66.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+03990,Wall Breakers,103.0,Miner,66.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+04005,Wall Breakers,103.0,Miner,66.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+04020,Wall Breakers,103.0,Miner,66.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+04035,Wall Breakers,103.0,Miner,66.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+04050,Wall Breakers,103.0,Miner,66.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+04065,Wall Breakers,103.0,Miner,66.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+04080,Wall Breakers,103.0,Miner,66.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+04095,Wall Breakers,103.0,Miner,66.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+04110,Wall Breakers,103.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,Miner,66.0,2.0,6,True,True,2.0,3.0
+04125,Wall Breakers,103.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+04140,Wall Breakers,103.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+04155,Goblins,45.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,Wall Breakers,103.0,1.0,5,True,True,1.0,2.0
+04170,Goblins,45.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+04185,Goblins,45.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+04200,Goblins,45.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+04215,Goblins,45.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+04230,Goblins,45.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+04245,Goblins,45.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,2.0,3,True,True,3.0,4.0
+04260,Goblins,45.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+04275,Goblins,45.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+04290,Goblins,45.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+04305,Goblins,45.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+04320,Goblins,45.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+04335,Goblins,45.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+04350,Goblins,45.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+04365,Goblins,45.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+04380,Goblins,45.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+04395,Goblins,45.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+04410,Goblins,45.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+04425,Goblins,45.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+04440,Goblins,45.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+04455,Goblins,45.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+04470,Goblins,45.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,Rocket,84.0,2.0,2,True,True,6.0,6.0
+04485,Goblins,45.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+04500,Goblins,45.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+04515,Miner,66.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,Goblins,45.0,1.0,1,True,True,2.0,2.0
+04530,Miner,66.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+04545,Miner,66.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+04560,Miner,66.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+04575,Miner,66.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+04590,Miner,66.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+04605,Miner,66.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+04620,Miner,66.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+04635,Miner,66.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+04650,Miner,66.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+04665,Miner,66.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+04680,Miner,66.0,Tornado,101.0,Ice Wizard,55.0,Wall Breakers,103.0,Bomb Tower,12.0,4.0,1,True,True,4.0,4.0
+04695,Miner,66.0,Tornado,101.0,Ice Wizard,55.0,Wall Breakers,103.0,,,,1,False,False,0.0,0.0
+04710,Miner,66.0,Tornado,101.0,Ice Wizard,55.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+04725,Miner,66.0,Tornado,101.0,Ice Wizard,55.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+04740,Miner,66.0,Tornado,101.0,Ice Wizard,55.0,Wall Breakers,103.0,,,,3,False,False,0.0,0.0
+04755,Miner,66.0,Tornado,101.0,Ice Wizard,55.0,Wall Breakers,103.0,,,,3,False,False,0.0,0.0
+04770,Miner,66.0,Tornado,101.0,Ice Wizard,55.0,Wall Breakers,103.0,,,,3,False,False,0.0,0.0
+04785,Miner,66.0,Tornado,101.0,Ice Wizard,55.0,Wall Breakers,103.0,,,,4,False,False,0.0,0.0
+04800,Miner,66.0,Tornado,101.0,Ice Wizard,55.0,Wall Breakers,103.0,,,,4,False,False,0.0,0.0
+04815,Miner,66.0,Tornado,101.0,Ice Wizard,55.0,Wall Breakers,103.0,,,,4,False,False,0.0,0.0
+04830,Miner,66.0,Tornado,101.0,Valkyrie,102.0,Wall Breakers,103.0,Ice Wizard,55.0,3.0,2,True,True,2.0,3.0
+04845,Miner,66.0,Tornado,101.0,Valkyrie,102.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+04860,Miner,66.0,Tornado,101.0,Valkyrie,102.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+04875,Miner,66.0,Tornado,101.0,Valkyrie,102.0,Wall Breakers,103.0,,,,3,False,False,0.0,0.0
+04890,Miner,66.0,Tornado,101.0,Valkyrie,102.0,Wall Breakers,103.0,,,,3,False,False,0.0,0.0
+04905,Miner,66.0,Tornado,101.0,Valkyrie,102.0,Wall Breakers,103.0,,,,3,False,False,0.0,0.0
+04920,Miner,66.0,Tornado,101.0,Valkyrie,102.0,Wall Breakers,103.0,,,,4,False,False,0.0,0.0
+04935,Miner,66.0,Tornado,101.0,Valkyrie,102.0,Wall Breakers,103.0,,,,4,False,False,0.0,0.0
+04950,Miner,66.0,Tornado,101.0,Valkyrie,102.0,Wall Breakers,103.0,,,,5,False,False,0.0,0.0
+04965,Miner,66.0,Tornado,101.0,Valkyrie,102.0,Wall Breakers,103.0,,,,5,False,False,0.0,0.0
+04980,Miner,66.0,Tornado,101.0,Valkyrie,102.0,Wall Breakers,103.0,,,,5,False,False,0.0,0.0
+04995,Miner,66.0,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,Valkyrie,102.0,3.0,2,True,True,3.0,4.0
+05010,Miner,66.0,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+05025,Miner,66.0,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+05040,Miner,66.0,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,,,,3,False,False,0.0,0.0
+05055,Miner,66.0,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,,,,3,False,False,0.0,0.0
+05070,Miner,66.0,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,,,,3,False,False,0.0,0.0
+05085,Miner,66.0,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,,,,4,False,False,0.0,0.0
+05100,Miner,66.0,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,,,,4,False,False,0.0,0.0
+05115,Miner,66.0,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,,,,4,False,False,0.0,0.0
+05130,Miner,66.0,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,,,,5,False,False,0.0,0.0
+05145,Miner,66.0,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,,,,5,False,False,0.0,0.0
+05160,Miner,66.0,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,,,,6,False,False,0.0,0.0
+05175,Miner,66.0,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,,,,6,False,False,0.0,0.0
+05190,Miner,66.0,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,,,,6,False,False,0.0,0.0
+05205,Goblins,45.0,Tornado,101.0,Rocket,84.0,Bomb Tower,12.0,Wall Breakers,103.0,4.0,2,True,True,4.0,2.0
+05220,Goblins,45.0,Tornado,101.0,Rocket,84.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+05235,Goblins,45.0,Tornado,101.0,Rocket,84.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+05250,Goblins,45.0,Tornado,101.0,Rocket,84.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+05265,Goblins,45.0,Tornado,101.0,Rocket,84.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+05280,Goblins,45.0,Tornado,101.0,Rocket,84.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+05295,Goblins,45.0,Tornado,101.0,Rocket,84.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+05310,Goblins,45.0,Tornado,101.0,Rocket,84.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+05325,Goblins,45.0,Tornado,101.0,Rocket,84.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+05340,Goblins,45.0,Tornado,101.0,Rocket,84.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+05355,Goblins,45.0,Tornado,101.0,Rocket,84.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+05370,Goblins,45.0,Tornado,101.0,Rocket,84.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+05385,Goblins,45.0,Tornado,101.0,Rocket,84.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+05400,Goblins,45.0,Tornado,101.0,Rocket,84.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+05415,Goblins,45.0,Tornado,101.0,Rocket,84.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+05430,Goblins,45.0,Tornado,101.0,Rocket,84.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+05445,Goblins,45.0,Tornado,101.0,Rocket,84.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+05460,Goblins,45.0,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,4.0,4,True,True,3.0,4.0
+05475,Goblins,45.0,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+05490,Goblins,45.0,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+05505,Goblins,45.0,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+05520,Goblins,45.0,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+05535,Goblins,45.0,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+05550,Goblins,45.0,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+05565,Goblins,45.0,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+05580,Goblins,45.0,Tornado,101.0,Valkyrie,102.0,Ice Wizard,55.0,Rocket,84.0,3.0,1,True,True,5.0,6.0
+05595,Goblins,45.0,Tornado,101.0,Valkyrie,102.0,Ice Wizard,55.0,,,,1,False,False,0.0,0.0
+05610,Goblins,45.0,Tornado,101.0,Valkyrie,102.0,Ice Wizard,55.0,,,,1,False,False,0.0,0.0
+05625,Goblins,45.0,Tornado,101.0,Valkyrie,102.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+05640,Goblins,45.0,Tornado,101.0,Valkyrie,102.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+05655,Goblins,45.0,Tornado,101.0,Valkyrie,102.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+05670,Goblins,45.0,Tornado,101.0,Valkyrie,102.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+05685,Goblins,45.0,Tornado,101.0,Valkyrie,102.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+05700,Goblins,45.0,Tornado,101.0,Valkyrie,102.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+05715,Goblins,45.0,Tornado,101.0,Valkyrie,102.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+05730,Goblins,45.0,Tornado,101.0,Valkyrie,102.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+05745,Goblins,45.0,Tornado,101.0,Valkyrie,102.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+05760,Goblins,45.0,Tornado,101.0,Valkyrie,102.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+05775,Goblins,45.0,Tornado,101.0,Valkyrie,102.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+05790,Goblins,45.0,Tornado,101.0,Valkyrie,102.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+05805,Goblins,45.0,Tornado,101.0,Valkyrie,102.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+05820,Goblins,45.0,Tornado,101.0,Valkyrie,102.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+05835,Goblins,45.0,Tornado,101.0,Valkyrie,102.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+05850,Goblins,45.0,Tornado,101.0,Valkyrie,102.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+05865,Goblins,45.0,Tornado,101.0,Valkyrie,102.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+05880,Goblins,45.0,Tornado,101.0,Valkyrie,102.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+05895,Goblins,45.0,Tornado,101.0,Valkyrie,102.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+05910,Goblins,45.0,Tornado,101.0,Valkyrie,102.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+05925,Goblins,45.0,Tornado,101.0,Miner,66.0,Ice Wizard,55.0,Valkyrie,102.0,3.0,5,True,True,3.0,4.0
+05940,Goblins,45.0,Tornado,101.0,Miner,66.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+05955,Goblins,45.0,Tornado,101.0,Miner,66.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+05970,Goblins,45.0,Tornado,101.0,Miner,66.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+05985,Goblins,45.0,Tornado,101.0,Miner,66.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+06000,Goblins,45.0,Tornado,101.0,Miner,66.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+06015,Goblins,45.0,Tornado,101.0,Miner,66.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+06030,Goblins,45.0,Tornado,101.0,Miner,66.0,Wall Breakers,103.0,Ice Wizard,55.0,4.0,4,True,True,3.0,3.0
+06045,Goblins,45.0,Tornado,101.0,Miner,66.0,Wall Breakers,103.0,,,,5,False,False,0.0,0.0
+06060,Goblins,45.0,Tornado,101.0,Miner,66.0,Wall Breakers,103.0,,,,5,False,False,0.0,0.0
+06075,Goblins,45.0,Tornado,101.0,Miner,66.0,Wall Breakers,103.0,,,,5,False,False,0.0,0.0
+06090,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,Wall Breakers,103.0,Miner,66.0,3.0,3,True,True,2.0,3.0
+06105,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,Wall Breakers,103.0,,,,3,False,False,0.0,0.0
+06120,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,Wall Breakers,103.0,,,,3,False,False,0.0,0.0
+06135,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,Wall Breakers,103.0,,,,4,False,False,0.0,0.0
+06150,Goblins,45.0,Tornado,101.0,Bomb Tower,12.0,Wall Breakers,103.0,,,,4,False,False,0.0,0.0
+06165,Goblins,45.0,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,Bomb Tower,12.0,3.0,0,True,True,4.0,4.0
+06180,Goblins,45.0,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,,,,1,False,False,0.0,0.0
+06195,Goblins,45.0,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,,,,1,False,False,0.0,0.0
+06210,Goblins,45.0,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+06225,Goblins,45.0,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+06240,Goblins,45.0,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,,,,2,False,False,0.0,0.0
+06255,Goblins,45.0,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,,,,3,False,False,0.0,0.0
+06270,Goblins,45.0,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,,,,3,False,False,0.0,0.0
+06285,Goblins,45.0,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,,,,3,False,False,0.0,0.0
+06300,Goblins,45.0,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,,,,4,False,False,0.0,0.0
+06315,Goblins,45.0,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,,,,4,False,False,0.0,0.0
+06330,Goblins,45.0,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,,,,4,False,False,0.0,0.0
+06345,Goblins,45.0,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,,,,5,False,False,0.0,0.0
+06360,Goblins,45.0,Tornado,101.0,Rocket,84.0,Valkyrie,102.0,Wall Breakers,103.0,4.0,3,True,True,2.0,2.0
+06375,Goblins,45.0,Tornado,101.0,Rocket,84.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+06390,Goblins,45.0,Tornado,101.0,Rocket,84.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+06405,Goblins,45.0,Tornado,101.0,Rocket,84.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+06420,Goblins,45.0,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,Valkyrie,102.0,4.0,0,True,True,4.0,4.0
+06435,Goblins,45.0,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,,,,1,False,False,0.0,0.0
+06450,Goblins,45.0,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,,,,1,False,False,0.0,0.0
+06465,Goblins,45.0,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+06480,Goblins,45.0,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+06495,Goblins,45.0,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+06510,Goblins,45.0,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+06525,Goblins,45.0,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+06540,Goblins,45.0,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+06555,Goblins,45.0,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+06570,Goblins,45.0,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+06585,Goblins,45.0,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+06600,Goblins,45.0,Miner,66.0,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,2.0,2,True,True,2.0,3.0
+06615,Goblins,45.0,Miner,66.0,Rocket,84.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+06630,Goblins,45.0,Miner,66.0,Rocket,84.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+06645,Goblins,45.0,Miner,66.0,Rocket,84.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+06660,Goblins,45.0,Miner,66.0,Rocket,84.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+06675,Goblins,45.0,Miner,66.0,Rocket,84.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+06690,Goblins,45.0,Miner,66.0,Rocket,84.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+06705,Goblins,45.0,Miner,66.0,Rocket,84.0,Bomb Tower,12.0,Ice Wizard,55.0,4.0,1,True,True,3.0,3.0
+06720,Goblins,45.0,Miner,66.0,Rocket,84.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+06735,Goblins,45.0,Miner,66.0,Rocket,84.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+06750,Goblins,45.0,Miner,66.0,Rocket,84.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+06765,Goblins,45.0,Miner,66.0,Rocket,84.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+06780,Goblins,45.0,Miner,66.0,Rocket,84.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+06795,Goblins,45.0,Miner,66.0,Rocket,84.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+06810,Goblins,45.0,Miner,66.0,Rocket,84.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+06825,Goblins,45.0,Miner,66.0,Rocket,84.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+06840,Goblins,45.0,Miner,66.0,Rocket,84.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+06855,Goblins,45.0,Miner,66.0,Rocket,84.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+06870,Goblins,45.0,Miner,66.0,Rocket,84.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+06885,Goblins,45.0,Miner,66.0,Rocket,84.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+06900,Goblins,45.0,Miner,66.0,Rocket,84.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+06915,Goblins,45.0,Miner,66.0,Rocket,84.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+06930,Goblins,45.0,Miner,66.0,Wall Breakers,103.0,Bomb Tower,12.0,Rocket,84.0,3.0,1,True,True,5.0,6.0
+06945,Goblins,45.0,Miner,66.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+06960,Goblins,45.0,Miner,66.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+06975,Goblins,45.0,Miner,66.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+06990,Goblins,45.0,Miner,66.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+07005,Goblins,45.0,Miner,66.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+07020,Goblins,45.0,Miner,66.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+07035,Goblins,45.0,Miner,66.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+07050,Goblins,45.0,Miner,66.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+07065,Goblins,45.0,Miner,66.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+07080,Goblins,45.0,Miner,66.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+07095,Goblins,45.0,Miner,66.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+07110,Goblins,45.0,Miner,66.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+07125,Goblins,45.0,Miner,66.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+07140,Goblins,45.0,Miner,66.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+07155,Goblins,45.0,Miner,66.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+07170,Goblins,45.0,Miner,66.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+07185,Goblins,45.0,Miner,66.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+07200,Goblins,45.0,Miner,66.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+07215,Goblins,45.0,Miner,66.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+07230,Goblins,45.0,Miner,66.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+07245,Goblins,45.0,Miner,66.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+07260,Goblins,45.0,Miner,66.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+07275,Goblins,45.0,Miner,66.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+07290,Goblins,45.0,Miner,66.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+07305,Goblins,45.0,Miner,66.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+07320,Goblins,45.0,Valkyrie,102.0,Wall Breakers,103.0,Bomb Tower,12.0,Miner,66.0,2.0,7,True,True,3.0,3.0
+07335,Goblins,45.0,Valkyrie,102.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+07350,Goblins,45.0,Valkyrie,102.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+07365,Goblins,45.0,Valkyrie,102.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+07380,Goblins,45.0,Valkyrie,102.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+07395,Goblins,45.0,Valkyrie,102.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+07410,Goblins,45.0,Valkyrie,102.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+07425,Goblins,45.0,Valkyrie,102.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+07440,Goblins,45.0,Valkyrie,102.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+07455,Goblins,45.0,Valkyrie,102.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+07470,Goblins,45.0,Tornado,101.0,Wall Breakers,103.0,Bomb Tower,12.0,Valkyrie,102.0,2.0,6,True,True,4.0,4.0
+07485,Goblins,45.0,Tornado,101.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+07500,Goblins,45.0,Tornado,101.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+07515,Ice Wizard,55.0,Tornado,101.0,Wall Breakers,103.0,Bomb Tower,12.0,Goblins,45.0,1.0,5,True,True,2.0,2.0
+07530,Ice Wizard,55.0,Tornado,101.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+07545,Ice Wizard,55.0,Tornado,101.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+07560,Ice Wizard,55.0,Tornado,101.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+07575,Rocket,84.0,Tornado,101.0,Wall Breakers,103.0,Bomb Tower,12.0,Ice Wizard,55.0,1.0,5,True,True,2.0,3.0
+07590,Rocket,84.0,Tornado,101.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+07605,Rocket,84.0,Tornado,101.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+07620,Rocket,84.0,Tornado,101.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+07635,Rocket,84.0,Tornado,101.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+07650,Miner,66.0,Tornado,101.0,Wall Breakers,103.0,Bomb Tower,12.0,Rocket,84.0,1.0,7,True,True,5.0,6.0
+07665,Miner,66.0,Tornado,101.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+07680,Miner,66.0,Tornado,101.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+07695,Miner,66.0,Tornado,101.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+07710,Miner,66.0,Tornado,101.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+07725,Miner,66.0,Tornado,101.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+07740,Miner,66.0,Tornado,101.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+07755,Miner,66.0,Tornado,101.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+07770,Miner,66.0,Tornado,101.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+07785,Miner,66.0,Valkyrie,102.0,Wall Breakers,103.0,Bomb Tower,12.0,Tornado,101.0,2.0,3,True,True,3.0,3.0
+07800,Miner,66.0,Valkyrie,102.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+07815,Goblins,45.0,Valkyrie,102.0,Wall Breakers,103.0,Bomb Tower,12.0,Miner,66.0,1.0,2,True,True,2.0,3.0
+07830,Goblins,45.0,Valkyrie,102.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+07845,Goblins,45.0,Valkyrie,102.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+07860,Goblins,45.0,Valkyrie,102.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+07875,Goblins,45.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,Wall Breakers,103.0,3.0,1,True,True,2.0,2.0
+07890,Goblins,45.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+07905,Goblins,45.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+07920,Goblins,45.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+07935,Goblins,45.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+07950,Goblins,45.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+07965,Goblins,45.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+07980,Goblins,45.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+07995,Goblins,45.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+08010,Goblins,45.0,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+08025,Goblins,45.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,2.0,3,True,True,3.0,4.0
+08040,Goblins,45.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08055,Goblins,45.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08070,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,Goblins,45.0,1.0,2,True,True,2.0,2.0
+08085,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08100,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08115,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08130,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08145,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+08160,Tornado,101.0,Rocket,84.0,Miner,66.0,Bomb Tower,12.0,Ice Wizard,55.0,3.0,3,True,True,2.0,3.0
+08175,Tornado,101.0,Rocket,84.0,Miner,66.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08190,Tornado,101.0,Rocket,84.0,Miner,66.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08205,Tornado,101.0,Rocket,84.0,Miner,66.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08220,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,Bomb Tower,12.0,Miner,66.0,3.0,2,True,True,2.0,3.0
+08235,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+08250,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08265,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08280,Tornado,101.0,Rocket,84.0,Valkyrie,102.0,Bomb Tower,12.0,Wall Breakers,103.0,3.0,2,True,True,1.0,2.0
+08295,Tornado,101.0,Rocket,84.0,Valkyrie,102.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+08310,Tornado,101.0,Rocket,84.0,Valkyrie,102.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08325,Tornado,101.0,Rocket,84.0,Valkyrie,102.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08340,Tornado,101.0,Rocket,84.0,Valkyrie,102.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08355,Tornado,101.0,Rocket,84.0,Valkyrie,102.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08370,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,Valkyrie,102.0,3.0,2,True,True,2.0,4.0
+08385,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+08400,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+08415,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08430,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08445,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08460,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08475,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+08490,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+08505,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+08520,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,Goblins,45.0,3.0,4,True,True,2.0,2.0
+08535,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+08550,Tornado,101.0,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+08565,Tornado,101.0,Rocket,84.0,Miner,66.0,Bomb Tower,12.0,Ice Wizard,55.0,3.0,3,True,True,2.0,3.0
+08580,Tornado,101.0,Rocket,84.0,Miner,66.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08595,Tornado,101.0,Rocket,84.0,Miner,66.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08610,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,Bomb Tower,12.0,Miner,66.0,3.0,2,True,True,2.0,3.0
+08625,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+08640,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08655,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08670,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,1,False,True,2.0,0.0
+08685,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,1,False,False,0.0,0.0
+08700,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+08715,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+08730,Tornado,101.0,Rocket,84.0,Wall Breakers,103.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08745,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,Wall Breakers,103.0,3.0,3,True,True,1.0,2.0
+08760,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,2,False,False,0.0,0.0
+08775,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08790,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08805,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08820,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08835,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08850,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,1,False,True,2.0,0.0
+08865,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08880,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+08895,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08910,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08925,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08940,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08955,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+08970,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+08985,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+09000,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+09015,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+09030,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+09045,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+09060,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+09075,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+09090,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+09105,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+09120,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+09135,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+09150,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+09165,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+09180,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+09195,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+09210,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+09225,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+09240,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+09255,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+09270,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+09285,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+09300,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+09315,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+09330,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+09345,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+09360,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+09375,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+09390,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+09405,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+09420,Tornado,101.0,Rocket,84.0,Goblins,45.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0

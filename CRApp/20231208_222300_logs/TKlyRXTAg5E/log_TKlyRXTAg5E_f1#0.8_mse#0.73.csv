@@ -1,0 +1,352 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00255,,,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+00270,,,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+00285,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,1.0,7,True,False,0.0,0.0
+00300,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+00315,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+00330,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+00345,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+00360,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+00375,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+00390,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+00405,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+00420,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+00435,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+00450,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,9,False,False,0.0,0.0
+00465,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,9,False,False,0.0,0.0
+00480,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,9,False,False,0.0,0.0
+00495,Golem,47.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,9,False,False,0.0,0.0
+00510,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,Golem,47.0,1.0,7,True,True,2.0,8.0
+00525,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,1,False,True,6.0,0.0
+00540,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+00555,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+00570,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+00585,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+00600,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+00615,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+00630,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+00645,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+00660,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+00675,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+00690,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+00705,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+00720,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+00735,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+00750,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+00765,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+00780,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+00795,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+00810,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+00825,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+00840,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+00855,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+00870,Lightning,60.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,Tornado,101.0,1.0,6,True,True,4.0,3.0
+00885,Lightning,60.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+00900,Lightning,60.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+00915,Lightning,60.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+00930,Lightning,60.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+00945,Lightning,60.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+00960,Lightning,60.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+00975,Lightning,60.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+00990,Lightning,60.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+01005,Lightning,60.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+01020,Lightning,60.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+01035,Lightning,60.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+01050,Lightning,60.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+01065,Lightning,60.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+01080,Lightning,60.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+01095,Lightning,60.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+01110,Lightning,60.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+01125,Lightning,60.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+01140,Lightning,60.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+01155,Lightning,60.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+01170,Lightning,60.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+01185,Lightning,60.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+01200,Lightning,60.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+01215,Lightning,60.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+01230,Lightning,60.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+01245,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,Lightning,60.0,1.0,7,True,False,0.0,6.0
+01260,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+01275,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+01290,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+01305,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,1,False,True,6.0,0.0
+01320,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,1,False,False,0.0,0.0
+01335,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,1,False,False,0.0,0.0
+01350,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,1,False,False,0.0,0.0
+01365,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,1,False,False,0.0,0.0
+01380,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+01395,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+01410,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+01425,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+01440,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+01455,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+01470,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+01485,Tornado,101.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+01500,Baby Dragon,3.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,Tornado,101.0,1.0,4,True,False,0.0,3.0
+01515,Baby Dragon,3.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+01530,Baby Dragon,3.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+01545,Baby Dragon,3.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+01560,Baby Dragon,3.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,1,False,True,3.0,0.0
+01575,Baby Dragon,3.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,1,False,False,0.0,0.0
+01590,Baby Dragon,3.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,1,False,False,0.0,0.0
+01605,Baby Dragon,3.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,1,False,False,0.0,0.0
+01620,Baby Dragon,3.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,1,False,False,0.0,0.0
+01635,Baby Dragon,3.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+01650,Baby Dragon,3.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+01665,Baby Dragon,3.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+01680,Baby Dragon,3.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+01695,Baby Dragon,3.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+01710,Baby Dragon,3.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+01725,Baby Dragon,3.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+01740,Baby Dragon,3.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+01755,Baby Dragon,3.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+01770,Baby Dragon,3.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+01785,Baby Dragon,3.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+01800,Baby Dragon,3.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+01815,Baby Dragon,3.0,Barbarian Barrel,6.0,Lumberjack,61.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+01830,Baby Dragon,3.0,Barbarian Barrel,6.0,Golem,47.0,Mega Minion,64.0,Lumberjack,61.0,3.0,0,True,True,4.0,4.0
+01845,Baby Dragon,3.0,Barbarian Barrel,6.0,Golem,47.0,Mega Minion,64.0,,,,0,False,False,0.0,0.0
+01860,Baby Dragon,3.0,Barbarian Barrel,6.0,Golem,47.0,Mega Minion,64.0,,,,0,False,False,0.0,0.0
+01875,Baby Dragon,3.0,Barbarian Barrel,6.0,Golem,47.0,Mega Minion,64.0,,,,0,False,False,0.0,0.0
+01890,Baby Dragon,3.0,Barbarian Barrel,6.0,Golem,47.0,Mega Minion,64.0,,,,1,False,False,0.0,0.0
+01905,Baby Dragon,3.0,Barbarian Barrel,6.0,Golem,47.0,Mega Minion,64.0,,,,1,False,False,0.0,0.0
+01920,Baby Dragon,3.0,Barbarian Barrel,6.0,Golem,47.0,Mega Minion,64.0,,,,1,False,False,0.0,0.0
+01935,Baby Dragon,3.0,Barbarian Barrel,6.0,Golem,47.0,Mega Minion,64.0,,,,1,False,False,0.0,0.0
+01950,Baby Dragon,3.0,Barbarian Barrel,6.0,Golem,47.0,Mega Minion,64.0,,,,1,False,False,0.0,0.0
+01965,Baby Dragon,3.0,Barbarian Barrel,6.0,Golem,47.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+01980,Baby Dragon,3.0,Barbarian Barrel,6.0,Golem,47.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+01995,Baby Dragon,3.0,Barbarian Barrel,6.0,Golem,47.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+02010,Baby Dragon,3.0,Barbarian Barrel,6.0,Golem,47.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+02025,Baby Dragon,3.0,Barbarian Barrel,6.0,Golem,47.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+02040,Baby Dragon,3.0,Barbarian Barrel,6.0,Golem,47.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+02055,Baby Dragon,3.0,Barbarian Barrel,6.0,Golem,47.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+02070,Baby Dragon,3.0,Barbarian Barrel,6.0,Golem,47.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+02085,Baby Dragon,3.0,Barbarian Barrel,6.0,Golem,47.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+02100,Baby Dragon,3.0,Barbarian Barrel,6.0,Golem,47.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+02115,Baby Dragon,3.0,Barbarian Barrel,6.0,Golem,47.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+02130,Baby Dragon,3.0,Barbarian Barrel,6.0,Golem,47.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+02145,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,Barbarian Barrel,6.0,2.0,2,True,True,2.0,2.0
+02160,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+02175,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+02190,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+02205,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,2,False,False,0.0,0.0
+02220,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+02235,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+02250,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+02265,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+02280,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,3,False,False,0.0,0.0
+02295,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+02310,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+02325,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+02340,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+02355,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+02370,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,4,False,False,0.0,0.0
+02385,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+02400,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+02415,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+02430,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+02445,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+02460,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,5,False,False,0.0,0.0
+02475,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+02490,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+02505,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+02520,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+02535,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,6,False,False,0.0,0.0
+02550,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+02565,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+02580,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+02595,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+02610,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+02625,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,7,False,False,0.0,0.0
+02640,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+02655,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+02670,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+02685,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+02700,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,8,False,False,0.0,0.0
+02715,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,9,False,False,0.0,0.0
+02730,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,9,False,False,0.0,0.0
+02745,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,9,False,False,0.0,0.0
+02760,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,9,False,False,0.0,0.0
+02775,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,9,False,False,0.0,0.0
+02790,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Mega Minion,64.0,,,,9,False,False,0.0,0.0
+02805,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Lightning,60.0,Mega Minion,64.0,4.0,10,True,True,3.0,3.0
+02820,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Lightning,60.0,,,,10,False,False,0.0,0.0
+02835,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+02850,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+02865,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+02880,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+02895,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+02910,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+02925,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+02940,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+02955,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+02970,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+02985,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+03000,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+03015,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+03030,Baby Dragon,3.0,Witch,104.0,Golem,47.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+03045,Baby Dragon,3.0,Tornado,101.0,Golem,47.0,Lightning,60.0,Witch,104.0,2.0,9,True,False,0.0,5.0
+03060,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,Golem,47.0,3.0,2,True,True,7.0,8.0
+03075,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+03090,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+03105,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+03120,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+03135,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+03150,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+03165,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+03180,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+03195,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+03210,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+03225,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+03240,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+03255,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+03270,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+03285,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+03300,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+03315,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+03330,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+03345,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+03360,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+03375,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+03390,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+03405,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+03420,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+03435,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+03450,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+03465,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+03480,Baby Dragon,3.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+03495,Baby Dragon,3.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,Tornado,101.0,2.0,3,True,True,4.0,3.0
+03510,Baby Dragon,3.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+03525,Baby Dragon,3.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+03540,Baby Dragon,3.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+03555,Baby Dragon,3.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+03570,Baby Dragon,3.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+03585,Baby Dragon,3.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+03600,Baby Dragon,3.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+03615,Baby Dragon,3.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+03630,Baby Dragon,3.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+03645,Baby Dragon,3.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+03660,Baby Dragon,3.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+03675,Barbarian Barrel,6.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,1.0,1,True,True,4.0,4.0
+03690,Barbarian Barrel,6.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,,,,1,False,False,0.0,0.0
+03705,Barbarian Barrel,6.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,,,,1,False,False,0.0,0.0
+03720,Barbarian Barrel,6.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,,,,1,False,False,0.0,0.0
+03735,Barbarian Barrel,6.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+03750,Barbarian Barrel,6.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+03765,Barbarian Barrel,6.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+03780,Barbarian Barrel,6.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+03795,Barbarian Barrel,6.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+03810,Barbarian Barrel,6.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+03825,Barbarian Barrel,6.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+03840,Barbarian Barrel,6.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+03855,Barbarian Barrel,6.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+03870,Mega Minion,64.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,Barbarian Barrel,6.0,1.0,3,True,True,2.0,2.0
+03885,Mega Minion,64.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+03900,Mega Minion,64.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+03915,Mega Minion,64.0,Lumberjack,61.0,Tornado,101.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+03930,Mega Minion,64.0,Golem,47.0,Tornado,101.0,Lightning,60.0,Lumberjack,61.0,2.0,0,True,True,4.0,4.0
+03945,Mega Minion,64.0,Golem,47.0,Tornado,101.0,Lightning,60.0,,,,1,False,False,0.0,0.0
+03960,Mega Minion,64.0,Golem,47.0,Tornado,101.0,Lightning,60.0,,,,1,False,False,0.0,0.0
+03975,Mega Minion,64.0,Golem,47.0,Tornado,101.0,Lightning,60.0,,,,1,False,False,0.0,0.0
+03990,Mega Minion,64.0,Golem,47.0,Tornado,101.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+04005,Mega Minion,64.0,Golem,47.0,Tornado,101.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+04020,Mega Minion,64.0,Golem,47.0,Tornado,101.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+04035,Mega Minion,64.0,Golem,47.0,Tornado,101.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+04050,Mega Minion,64.0,Golem,47.0,Tornado,101.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+04065,Mega Minion,64.0,Golem,47.0,Tornado,101.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+04080,Mega Minion,64.0,Golem,47.0,Tornado,101.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+04095,Mega Minion,64.0,Golem,47.0,Tornado,101.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+04110,Mega Minion,64.0,Golem,47.0,Tornado,101.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+04125,Mega Minion,64.0,Golem,47.0,Tornado,101.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+04140,Mega Minion,64.0,Golem,47.0,Tornado,101.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+04155,Mega Minion,64.0,Golem,47.0,Tornado,101.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+04170,Mega Minion,64.0,Golem,47.0,Tornado,101.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+04185,Mega Minion,64.0,Golem,47.0,Tornado,101.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+04200,Mega Minion,64.0,Golem,47.0,Tornado,101.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+04215,Mega Minion,64.0,Golem,47.0,Tornado,101.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+04230,Mega Minion,64.0,Golem,47.0,Tornado,101.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+04245,Mega Minion,64.0,Golem,47.0,Tornado,101.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+04260,Mega Minion,64.0,Golem,47.0,Tornado,101.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+04275,Mega Minion,64.0,Golem,47.0,Tornado,101.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+04290,Mega Minion,64.0,Golem,47.0,Tornado,101.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+04305,Mega Minion,64.0,Golem,47.0,Tornado,101.0,Lightning,60.0,,,,9,False,False,0.0,0.0
+04320,Mega Minion,64.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,Golem,47.0,2.0,2,True,True,7.0,8.0
+04335,Mega Minion,64.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+04350,Mega Minion,64.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+04365,Mega Minion,64.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+04380,Mega Minion,64.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+04395,Mega Minion,64.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+04410,Mega Minion,64.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+04425,Mega Minion,64.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+04440,Mega Minion,64.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+04455,Mega Minion,64.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+04470,Mega Minion,64.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+04485,Mega Minion,64.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+04500,Mega Minion,64.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+04515,Mega Minion,64.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+04530,Mega Minion,64.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+04545,Mega Minion,64.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+04560,Mega Minion,64.0,Tornado,101.0,Tornado,101.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+04575,Mega Minion,64.0,Baby Dragon,3.0,Tornado,101.0,Lightning,60.0,Tornado,101.0,2.0,8,True,True,4.0,3.0
+04590,Mega Minion,64.0,Baby Dragon,3.0,Tornado,101.0,Lightning,60.0,,,,8,False,False,0.0,0.0
+04605,Mega Minion,64.0,Baby Dragon,3.0,Tornado,101.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+04620,Mega Minion,64.0,Baby Dragon,3.0,Tornado,101.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+04635,Mega Minion,64.0,Baby Dragon,3.0,Tornado,101.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+04650,Mega Minion,64.0,Baby Dragon,3.0,Tornado,101.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+04665,Mega Minion,64.0,Baby Dragon,3.0,Tornado,101.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+04680,Mega Minion,64.0,Baby Dragon,3.0,Tornado,101.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+04695,Mega Minion,64.0,Barbarian Barrel,6.0,Tornado,101.0,Lightning,60.0,Baby Dragon,3.0,2.0,2,True,True,4.0,4.0
+04710,Mega Minion,64.0,Barbarian Barrel,6.0,Tornado,101.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+04725,Mega Minion,64.0,Barbarian Barrel,6.0,Tornado,101.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+04740,Mega Minion,64.0,Barbarian Barrel,6.0,Tornado,101.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+04755,Mega Minion,64.0,Barbarian Barrel,6.0,Tornado,101.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+04770,Mega Minion,64.0,Barbarian Barrel,6.0,Tornado,101.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+04785,Mega Minion,64.0,Barbarian Barrel,6.0,Tornado,101.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+04800,Mega Minion,64.0,Barbarian Barrel,6.0,Tornado,101.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+04815,Mega Minion,64.0,Barbarian Barrel,6.0,Tornado,101.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+04830,Mega Minion,64.0,Barbarian Barrel,6.0,Tornado,101.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+04845,Mega Minion,64.0,Barbarian Barrel,6.0,Tornado,101.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+04860,Mega Minion,64.0,Barbarian Barrel,6.0,Tornado,101.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+04875,Mega Minion,64.0,Barbarian Barrel,6.0,Tornado,101.0,Lightning,60.0,,,,7,False,False,0.0,0.0
+04890,Mega Minion,64.0,Barbarian Barrel,6.0,Lumberjack,61.0,Lightning,60.0,Tornado,101.0,3.0,4,True,True,3.0,3.0
+04905,Mega Minion,64.0,Barbarian Barrel,6.0,Lumberjack,61.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+04920,Mega Minion,64.0,Barbarian Barrel,6.0,Lumberjack,61.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+04935,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Lightning,60.0,Lumberjack,61.0,3.0,1,True,True,4.0,4.0
+04950,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+04965,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+04980,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Lightning,60.0,,,,2,False,False,0.0,0.0
+04995,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+05010,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+05025,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Lightning,60.0,,,,3,False,False,0.0,0.0
+05040,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+05055,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+05070,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Lightning,60.0,,,,4,False,False,0.0,0.0
+05085,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+05100,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+05115,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Lightning,60.0,,,,5,False,False,0.0,0.0
+05130,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+05145,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Lightning,60.0,,,,6,False,False,0.0,0.0
+05160,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Witch,104.0,Lightning,60.0,4.0,7,True,True,6.0,6.0
+05175,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Witch,104.0,,,,1,False,False,0.0,0.0
+05190,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Witch,104.0,,,,1,False,False,0.0,0.0
+05205,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Witch,104.0,,,,2,False,False,0.0,0.0
+05220,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Witch,104.0,,,,2,False,False,0.0,0.0
+05235,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Witch,104.0,,,,2,False,False,0.0,0.0
+05250,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Witch,104.0,,,,3,False,False,0.0,0.0
+05265,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Witch,104.0,,,,3,False,False,0.0,0.0
+05280,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Witch,104.0,,,,3,False,False,0.0,0.0
+05295,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Witch,104.0,,,,4,False,False,0.0,0.0
+05310,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Witch,104.0,,,,4,False,False,0.0,0.0
+05325,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Witch,104.0,,,,5,False,False,0.0,0.0
+05340,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Witch,104.0,,,,5,False,False,0.0,0.0
+05355,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Witch,104.0,,,,5,False,False,0.0,0.0
+05370,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Witch,104.0,,,,6,False,False,0.0,0.0
+05385,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Witch,104.0,,,,6,False,False,0.0,0.0
+05400,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Witch,104.0,,,,6,False,False,0.0,0.0
+05415,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Witch,104.0,,,,7,False,False,0.0,0.0
+05430,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Witch,104.0,,,,7,False,False,0.0,0.0
+05445,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Witch,104.0,,,,7,False,False,0.0,0.0
+05460,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Witch,104.0,,,,8,False,False,0.0,0.0
+05475,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Witch,104.0,,,,8,False,False,0.0,0.0
+05490,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Witch,104.0,,,,0,False,True,8.0,0.0
+05505,Mega Minion,64.0,Barbarian Barrel,6.0,Golem,47.0,Witch,104.0,,,,1,False,False,0.0,0.0

@@ -1,0 +1,1314 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00255,,,Freeze,34.0,,,,,,,,6,False,False,0.0,0.0
+00270,,,Freeze,34.0,,,,,,,,6,False,False,0.0,0.0
+00285,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,4.0,7,True,False,0.0,0.0
+00300,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+00315,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+00330,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+00345,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+00360,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+00375,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+00390,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+00405,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+00420,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+00435,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+00450,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+00465,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+00480,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+00495,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+00510,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+00525,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+00540,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,True,1.0,0.0
+00555,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+00570,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+00585,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+00600,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+00615,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+00630,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+00645,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+00660,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+00675,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+00690,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+00705,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,10,False,False,0.0,0.0
+00720,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,10,False,False,0.0,0.0
+00735,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,10,False,False,0.0,0.0
+00750,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,10,False,False,0.0,0.0
+00765,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,10,False,False,0.0,0.0
+00780,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,True,4.0,0.0
+00795,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+00810,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+00825,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+00840,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+00855,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+00870,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+00885,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+00900,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+00915,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+00930,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+00945,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+00960,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+00975,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,3,False,True,5.0,0.0
+00990,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,3,False,False,0.0,0.0
+01005,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,3,False,False,0.0,0.0
+01020,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,4,False,False,0.0,0.0
+01035,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,4,False,False,0.0,0.0
+01050,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,4,False,False,0.0,0.0
+01065,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,4,False,False,0.0,0.0
+01080,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,4,False,False,0.0,0.0
+01095,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,4,False,False,0.0,0.0
+01110,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,5,False,False,0.0,0.0
+01125,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,5,False,False,0.0,0.0
+01140,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,5,False,False,0.0,0.0
+01155,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,5,False,False,0.0,0.0
+01170,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,5,False,False,0.0,0.0
+01185,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+01200,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+01215,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+01230,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+01245,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+01260,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+01275,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+01290,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+01305,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+01320,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+01335,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+01350,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+01365,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+01380,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+01395,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+01410,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+01425,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+01440,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+01455,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+01470,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+01485,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+01500,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+01515,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+01530,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,True,2.0,0.0
+01545,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+01560,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+01575,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+01590,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+01605,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+01620,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+01635,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+01650,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+01665,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+01680,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+01695,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+01710,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+01725,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+01740,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+01755,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+01770,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+01785,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,10,False,False,0.0,0.0
+01800,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,10,False,False,0.0,0.0
+01815,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,10,False,False,0.0,0.0
+01830,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,10,False,False,0.0,0.0
+01845,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,True,3.0,0.0
+01860,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+01875,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+01890,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+01905,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+01920,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+01935,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+01950,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+01965,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+01980,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+01995,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+02010,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+02025,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+02040,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+02055,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,5,False,True,4.0,0.0
+02070,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+02085,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+02100,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+02115,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+02130,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+02145,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+02160,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+02175,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+02190,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+02205,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+02220,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+02235,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+02250,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+02265,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+02280,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,4,False,True,4.0,0.0
+02295,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,4,False,False,0.0,0.0
+02310,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,5,False,False,0.0,0.0
+02325,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,5,False,False,0.0,0.0
+02340,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,5,False,False,0.0,0.0
+02355,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,0,False,True,5.0,0.0
+02370,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,0,False,False,0.0,0.0
+02385,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,0,False,False,0.0,0.0
+02400,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,1,False,False,0.0,0.0
+02415,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,1,False,False,0.0,0.0
+02430,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,1,False,False,0.0,0.0
+02445,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,1,False,False,0.0,0.0
+02460,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,1,False,False,0.0,0.0
+02475,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,1,False,False,0.0,0.0
+02490,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,2,False,False,0.0,0.0
+02505,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,2,False,False,0.0,0.0
+02520,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,2,False,False,0.0,0.0
+02535,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,2,False,False,0.0,0.0
+02550,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,2,False,False,0.0,0.0
+02565,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,3,False,False,0.0,0.0
+02580,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,3,False,False,0.0,0.0
+02595,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,3,False,False,0.0,0.0
+02610,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,3,False,False,0.0,0.0
+02625,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,0,False,True,3.0,0.0
+02640,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,0,False,False,0.0,0.0
+02655,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,1,False,False,0.0,0.0
+02670,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,1,False,False,0.0,0.0
+02685,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,1,False,False,0.0,0.0
+02700,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,1,False,False,0.0,0.0
+02715,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,1,False,False,0.0,0.0
+02730,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,2,False,False,0.0,0.0
+02745,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,2,False,False,0.0,0.0
+02760,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,2,False,False,0.0,0.0
+02775,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,2,False,False,0.0,0.0
+02790,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,2,False,False,0.0,0.0
+02805,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,2,False,False,0.0,0.0
+02820,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,3,False,False,0.0,0.0
+02835,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,3,False,False,0.0,0.0
+02850,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,3,False,False,0.0,0.0
+02865,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,3,False,False,0.0,0.0
+02880,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,3,False,False,0.0,0.0
+02895,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,3,False,False,0.0,0.0
+02910,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,4,False,False,0.0,0.0
+02925,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,4,False,False,0.0,0.0
+02940,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,4,False,False,0.0,0.0
+02955,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,4,False,False,0.0,0.0
+02970,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,4,False,False,0.0,0.0
+02985,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,5,False,False,0.0,0.0
+03000,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,5,False,False,0.0,0.0
+03015,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,5,False,False,0.0,0.0
+03030,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,5,False,False,0.0,0.0
+03045,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,5,False,False,0.0,0.0
+03060,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,5,False,False,0.0,0.0
+03075,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+03090,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+03105,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+03120,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+03135,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+03150,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+03165,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+03180,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+03195,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+03210,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+03225,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+03240,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+03255,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+03270,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+03285,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+03300,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+03315,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+03330,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+03345,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+03360,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+03375,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+03390,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,5,False,True,4.0,0.0
+03405,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+03420,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+03435,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+03450,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+03465,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+03480,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+03495,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+03510,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+03525,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+03540,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+03555,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+03570,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+03585,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+03600,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+03615,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+03630,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+03645,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+03660,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+03675,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+03690,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+03705,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+03720,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,5,False,True,4.0,0.0
+03735,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,5,False,False,0.0,0.0
+03750,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+03765,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+03780,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+03795,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+03810,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+03825,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+03840,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+03855,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+03870,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+03885,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+03900,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+03915,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,10,False,False,0.0,0.0
+03930,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,10,False,False,0.0,0.0
+03945,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,10,False,False,0.0,0.0
+03960,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,10,False,False,0.0,0.0
+03975,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,True,3.0,0.0
+03990,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+04005,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+04020,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+04035,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+04050,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+04065,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+04080,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+04095,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+04110,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,10,False,False,0.0,0.0
+04125,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,10,False,False,0.0,0.0
+04140,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,10,False,False,0.0,0.0
+04155,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,True,4.0,0.0
+04170,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+04185,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+04200,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+04215,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+04230,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+04245,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+04260,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+04275,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+04290,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+04305,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+04320,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,10,False,False,0.0,0.0
+04335,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,10,False,False,0.0,0.0
+04350,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,10,False,False,0.0,0.0
+04365,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,10,False,False,0.0,0.0
+04380,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,10,False,False,0.0,0.0
+04395,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,True,2.0,0.0
+04410,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+04425,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+04440,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+04455,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,9,False,False,0.0,0.0
+04470,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,10,False,False,0.0,0.0
+04485,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,10,False,False,0.0,0.0
+04500,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,True,4.0,0.0
+04515,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+04530,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+04545,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+04560,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+04575,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,3,False,True,4.0,0.0
+04590,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,3,False,False,0.0,0.0
+04605,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,3,False,False,0.0,0.0
+04620,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,4,False,False,0.0,0.0
+04635,Ice Spirit,54.0,Freeze,34.0,Freeze,34.0,X,106.0,,,,4,False,False,0.0,0.0
+04650,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,Freeze,34.0,2.0,0,True,True,4.0,4.0
+04665,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,1,False,False,0.0,0.0
+04680,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,1,False,False,0.0,0.0
+04695,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,1,False,False,0.0,0.0
+04710,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,2,False,False,0.0,0.0
+04725,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,2,False,False,0.0,0.0
+04740,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,3,False,False,0.0,0.0
+04755,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,3,False,False,0.0,0.0
+04770,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,3,False,False,0.0,0.0
+04785,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,1,False,True,2.0,0.0
+04800,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,1,False,False,0.0,0.0
+04815,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,1,False,False,0.0,0.0
+04830,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,2,False,False,0.0,0.0
+04845,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,2,False,False,0.0,0.0
+04860,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,2,False,False,0.0,0.0
+04875,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,3,False,False,0.0,0.0
+04890,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,3,False,False,0.0,0.0
+04905,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,3,False,False,0.0,0.0
+04920,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,4,False,False,0.0,0.0
+04935,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,4,False,False,0.0,0.0
+04950,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,5,False,False,0.0,0.0
+04965,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,5,False,False,0.0,0.0
+04980,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,5,False,False,0.0,0.0
+04995,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+05010,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+05025,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,6,False,False,0.0,0.0
+05040,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+05055,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+05070,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,7,False,False,0.0,0.0
+05085,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,8,False,False,0.0,0.0
+05100,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,4,False,True,4.0,0.0
+05115,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,0,False,True,4.0,0.0
+05130,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,1,False,False,0.0,0.0
+05145,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,1,False,False,0.0,0.0
+05160,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,2,False,False,0.0,0.0
+05175,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,2,False,False,0.0,0.0
+05190,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,2,False,False,0.0,0.0
+05205,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,1,False,True,1.0,0.0
+05220,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,1,False,False,0.0,0.0
+05235,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,1,False,False,0.0,0.0
+05250,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,2,False,False,0.0,0.0
+05265,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,2,False,False,0.0,0.0
+05280,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,2,False,False,0.0,0.0
+05295,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,3,False,False,0.0,0.0
+05310,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,3,False,False,0.0,0.0
+05325,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,3,False,False,0.0,0.0
+05340,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,4,False,False,0.0,0.0
+05355,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,4,False,False,0.0,0.0
+05370,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,5,False,False,0.0,0.0
+05385,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,5,False,False,0.0,0.0
+05400,Ice Spirit,54.0,Tesla,97.0,Freeze,34.0,X,106.0,,,,5,False,False,0.0,0.0
+05415,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,Freeze,34.0,3.0,2,True,True,3.0,4.0
+05430,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,2,False,False,0.0,0.0
+05445,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,2,False,False,0.0,0.0
+05460,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,3,False,False,0.0,0.0
+05475,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,3,False,False,0.0,0.0
+05490,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,3,False,False,0.0,0.0
+05505,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,4,False,False,0.0,0.0
+05520,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,4,False,False,0.0,0.0
+05535,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,4,False,False,0.0,0.0
+05550,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,5,False,False,0.0,0.0
+05565,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,5,False,False,0.0,0.0
+05580,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,6,False,False,0.0,0.0
+05595,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,6,False,False,0.0,0.0
+05610,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,6,False,False,0.0,0.0
+05625,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,6,False,False,0.0,0.0
+05640,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,6,False,False,0.0,0.0
+05655,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,7,False,False,0.0,0.0
+05670,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,7,False,False,0.0,0.0
+05685,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,7,False,False,0.0,0.0
+05700,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,8,False,False,0.0,0.0
+05715,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,10,False,False,0.0,0.0
+05730,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,10,False,False,0.0,0.0
+05745,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,10,False,False,0.0,0.0
+05760,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,10,False,False,0.0,0.0
+05775,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,10,False,False,0.0,0.0
+05790,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,10,False,False,0.0,0.0
+05805,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,10,False,False,0.0,0.0
+05820,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,10,False,False,0.0,0.0
+05835,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,10,False,False,0.0,0.0
+05850,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,10,False,False,0.0,0.0
+05865,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,10,False,False,0.0,0.0
+05880,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,10,False,False,0.0,0.0
+05895,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,4,False,True,6.0,0.0
+05910,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,6,False,False,0.0,0.0
+05925,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,6,False,False,0.0,0.0
+05940,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,6,False,False,0.0,0.0
+05955,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,6,False,False,0.0,0.0
+05970,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,6,False,False,0.0,0.0
+05985,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,6,False,False,0.0,0.0
+06000,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,7,False,False,0.0,0.0
+06015,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,7,False,False,0.0,0.0
+06030,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,7,False,False,0.0,0.0
+06045,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,7,False,False,0.0,0.0
+06060,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,7,False,False,0.0,0.0
+06075,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,8,False,False,0.0,0.0
+06090,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,8,False,False,0.0,0.0
+06105,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,8,False,False,0.0,0.0
+06120,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,8,False,False,0.0,0.0
+06135,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,8,False,False,0.0,0.0
+06150,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,8,False,False,0.0,0.0
+06165,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,9,False,False,0.0,0.0
+06180,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,9,False,False,0.0,0.0
+06195,Ice Spirit,54.0,Tesla,97.0,Knight,58.0,X,106.0,,,,9,False,False,0.0,0.0
+06210,The Log,98.0,Tesla,97.0,Knight,58.0,X,106.0,Ice Spirit,54.0,1.0,8,True,True,1.0,1.0
+06225,The Log,98.0,Tesla,97.0,Knight,58.0,X,106.0,,,,8,False,False,0.0,0.0
+06240,The Log,98.0,Tesla,97.0,Knight,58.0,X,106.0,,,,9,False,False,0.0,0.0
+06255,The Log,98.0,Tesla,97.0,Knight,58.0,X,106.0,,,,9,False,False,0.0,0.0
+06270,The Log,98.0,Tesla,97.0,Knight,58.0,X,106.0,,,,9,False,False,0.0,0.0
+06285,The Log,98.0,Tesla,97.0,Knight,58.0,X,106.0,,,,9,False,False,0.0,0.0
+06300,The Log,98.0,Tesla,97.0,Knight,58.0,X,106.0,,,,9,False,False,0.0,0.0
+06315,The Log,98.0,Tesla,97.0,Knight,58.0,X,106.0,,,,9,False,False,0.0,0.0
+06330,The Log,98.0,Tesla,97.0,Knight,58.0,X,106.0,,,,10,False,False,0.0,0.0
+06345,The Log,98.0,Tesla,97.0,Knight,58.0,X,106.0,,,,9,False,True,1.0,0.0
+06360,The Log,98.0,Tesla,97.0,Knight,58.0,X,106.0,,,,9,False,False,0.0,0.0
+06375,The Log,98.0,Tesla,97.0,Knight,58.0,X,106.0,,,,9,False,False,0.0,0.0
+06390,The Log,98.0,Tesla,97.0,Knight,58.0,X,106.0,,,,9,False,False,0.0,0.0
+06405,The Log,98.0,Tesla,97.0,Knight,58.0,X,106.0,,,,9,False,False,0.0,0.0
+06420,The Log,98.0,Tesla,97.0,Knight,58.0,X,106.0,,,,9,False,False,0.0,0.0
+06435,The Log,98.0,Tesla,97.0,Knight,58.0,X,106.0,,,,10,False,False,0.0,0.0
+06450,The Log,98.0,Tesla,97.0,Knight,58.0,X,106.0,,,,10,False,False,0.0,0.0
+06465,The Log,98.0,Tesla,97.0,Knight,58.0,X,106.0,,,,10,False,False,0.0,0.0
+06480,The Log,98.0,Tesla,97.0,Knight,58.0,X,106.0,,,,10,False,False,0.0,0.0
+06495,Rocket,84.0,Tesla,97.0,Knight,58.0,X,106.0,The Log,98.0,1.0,8,True,True,2.0,2.0
+06510,Rocket,84.0,Tesla,97.0,Knight,58.0,X,106.0,,,,8,False,False,0.0,0.0
+06525,Rocket,84.0,Tesla,97.0,Knight,58.0,X,106.0,,,,8,False,False,0.0,0.0
+06540,Rocket,84.0,Tesla,97.0,Knight,58.0,X,106.0,,,,8,False,False,0.0,0.0
+06555,Rocket,84.0,Tesla,97.0,Knight,58.0,X,106.0,,,,8,False,False,0.0,0.0
+06570,Rocket,84.0,Tesla,97.0,Knight,58.0,X,106.0,,,,8,False,False,0.0,0.0
+06585,Rocket,84.0,Tesla,97.0,Knight,58.0,X,106.0,,,,9,False,False,0.0,0.0
+06600,Rocket,84.0,Tesla,97.0,Knight,58.0,X,106.0,,,,9,False,False,0.0,0.0
+06615,Rocket,84.0,Tesla,97.0,Knight,58.0,X,106.0,,,,9,False,False,0.0,0.0
+06630,Rocket,84.0,Tesla,97.0,Knight,58.0,X,106.0,,,,9,False,False,0.0,0.0
+06645,Rocket,84.0,Tesla,97.0,Musketeer,73.0,X,106.0,Knight,58.0,3.0,6,True,True,3.0,3.0
+06660,Rocket,84.0,Tesla,97.0,Musketeer,73.0,X,106.0,,,,7,False,False,0.0,0.0
+06675,Rocket,84.0,Tesla,97.0,Musketeer,73.0,X,106.0,,,,7,False,False,0.0,0.0
+06690,Rocket,84.0,Tesla,97.0,Musketeer,73.0,X,106.0,,,,7,False,False,0.0,0.0
+06705,Rocket,84.0,Tesla,97.0,Musketeer,73.0,X,106.0,,,,7,False,False,0.0,0.0
+06720,Rocket,84.0,Tesla,97.0,Musketeer,73.0,X,106.0,,,,7,False,False,0.0,0.0
+06735,Rocket,84.0,Tesla,97.0,Musketeer,73.0,X,106.0,,,,7,False,False,0.0,0.0
+06750,Rocket,84.0,Tesla,97.0,Musketeer,73.0,X,106.0,,,,8,False,False,0.0,0.0
+06765,Rocket,84.0,Tesla,97.0,Musketeer,73.0,X,106.0,,,,8,False,False,0.0,0.0
+06780,Rocket,84.0,Tesla,97.0,Musketeer,73.0,X,106.0,,,,8,False,False,0.0,0.0
+06795,Rocket,84.0,Tesla,97.0,Musketeer,73.0,X,106.0,,,,8,False,False,0.0,0.0
+06810,Rocket,84.0,Tesla,97.0,Musketeer,73.0,X,106.0,,,,8,False,False,0.0,0.0
+06825,Rocket,84.0,Tesla,97.0,Musketeer,73.0,X,106.0,,,,9,False,False,0.0,0.0
+06840,Rocket,84.0,Tesla,97.0,Musketeer,73.0,X,106.0,,,,9,False,False,0.0,0.0
+06855,Rocket,84.0,Tesla,97.0,Musketeer,73.0,X,106.0,,,,9,False,False,0.0,0.0
+06870,Rocket,84.0,Tesla,97.0,Musketeer,73.0,Ice Spirit,54.0,X,106.0,4.0,3,True,True,6.0,6.0
+06885,Rocket,84.0,Tesla,97.0,Musketeer,73.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+06900,Rocket,84.0,Tesla,97.0,Musketeer,73.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+06915,Rocket,84.0,Tesla,97.0,Musketeer,73.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+06930,Rocket,84.0,Tesla,97.0,Musketeer,73.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+06945,Rocket,84.0,Tesla,97.0,Musketeer,73.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+06960,Rocket,84.0,Tesla,97.0,Musketeer,73.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+06975,Rocket,84.0,Tesla,97.0,Musketeer,73.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+06990,Rocket,84.0,Tesla,97.0,Musketeer,73.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+07005,Rocket,84.0,Tesla,97.0,Musketeer,73.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+07020,Rocket,84.0,Tesla,97.0,Musketeer,73.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+07035,Rocket,84.0,Tesla,97.0,Musketeer,73.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+07050,Rocket,84.0,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,Musketeer,73.0,3.0,1,True,True,4.0,4.0
+07065,Rocket,84.0,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,,,,1,False,False,0.0,0.0
+07080,Rocket,84.0,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,,,,2,False,False,0.0,0.0
+07095,Rocket,84.0,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,,,,2,False,False,0.0,0.0
+07110,Rocket,84.0,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,,,,1,False,True,1.0,0.0
+07125,Rocket,84.0,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,,,,1,False,False,0.0,0.0
+07140,Rocket,84.0,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,,,,1,False,False,0.0,0.0
+07155,Rocket,84.0,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,,,,1,False,False,0.0,0.0
+07170,Rocket,84.0,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,,,,2,False,False,0.0,0.0
+07185,Rocket,84.0,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,,,,2,False,False,0.0,0.0
+07200,Rocket,84.0,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,,,,2,False,False,0.0,0.0
+07215,Rocket,84.0,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,,,,2,False,False,0.0,0.0
+07230,Rocket,84.0,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,,,,2,False,False,0.0,0.0
+07245,Rocket,84.0,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+07260,Rocket,84.0,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+07275,Rocket,84.0,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+07290,Rocket,84.0,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+07305,Rocket,84.0,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+07320,Rocket,84.0,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+07335,Rocket,84.0,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+07350,Rocket,84.0,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+07365,Rocket,84.0,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+07380,Rocket,84.0,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+07395,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,Tesla,97.0,2.0,0,True,True,4.0,4.0
+07410,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,0,False,False,0.0,0.0
+07425,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,1,False,False,0.0,0.0
+07440,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,1,False,False,0.0,0.0
+07455,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,1,False,False,0.0,0.0
+07470,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,1,False,False,0.0,0.0
+07485,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,1,False,False,0.0,0.0
+07500,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,2,False,False,0.0,0.0
+07515,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,2,False,False,0.0,0.0
+07530,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,2,False,False,0.0,0.0
+07545,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,2,False,False,0.0,0.0
+07560,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,2,False,False,0.0,0.0
+07575,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,2,False,False,0.0,0.0
+07590,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+07605,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+07620,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+07635,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+07650,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+07665,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+07680,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+07695,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+07710,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+07725,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+07740,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+07755,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+07770,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+07785,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+07800,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+07815,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+07830,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+07845,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+07860,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,The Log,98.0,3.0,4,True,True,2.0,2.0
+07875,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+07890,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+07905,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+07920,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+07935,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+07950,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+07965,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+07980,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+07995,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+08010,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+08025,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+08040,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+08055,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+08070,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+08085,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,7,False,False,0.0,0.0
+08100,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,7,False,False,0.0,0.0
+08115,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,7,False,False,0.0,0.0
+08130,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,7,False,False,0.0,0.0
+08145,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,7,False,False,0.0,0.0
+08160,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,7,False,False,0.0,0.0
+08175,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+08190,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+08205,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+08220,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+08235,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+08250,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+08265,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,9,False,False,0.0,0.0
+08280,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,9,False,False,0.0,0.0
+08295,Rocket,84.0,Knight,58.0,X,106.0,Ice Spirit,54.0,,,,9,False,False,0.0,0.0
+08310,Rocket,84.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,X,106.0,3.0,3,True,True,6.0,6.0
+08325,Rocket,84.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+08340,Rocket,84.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+08355,Rocket,84.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+08370,Rocket,84.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+08385,Rocket,84.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+08400,Rocket,84.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+08415,Rocket,84.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+08430,Rocket,84.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+08445,Rocket,84.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+08460,Rocket,84.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+08475,Rocket,84.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+08490,Rocket,84.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+08505,Rocket,84.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+08520,Rocket,84.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+08535,Rocket,84.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+08550,Rocket,84.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+08565,Rocket,84.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+08580,Rocket,84.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+08595,Rocket,84.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,,,,7,False,False,0.0,0.0
+08610,Rocket,84.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,,,,7,False,False,0.0,0.0
+08625,Rocket,84.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,,,,7,False,False,0.0,0.0
+08640,Rocket,84.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,,,,7,False,False,0.0,0.0
+08655,Rocket,84.0,Knight,58.0,Tesla,97.0,Ice Spirit,54.0,Musketeer,73.0,3.0,3,True,True,4.0,4.0
+08670,Rocket,84.0,Knight,58.0,Tesla,97.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+08685,Rocket,84.0,Knight,58.0,Tesla,97.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+08700,Rocket,84.0,Knight,58.0,Tesla,97.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+08715,Rocket,84.0,Knight,58.0,Tesla,97.0,Ice Spirit,54.0,,,,3,False,True,1.0,0.0
+08730,Rocket,84.0,Knight,58.0,Tesla,97.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+08745,Rocket,84.0,Knight,58.0,Tesla,97.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+08760,Rocket,84.0,Knight,58.0,Tesla,97.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+08775,Rocket,84.0,Knight,58.0,Tesla,97.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+08790,Rocket,84.0,Knight,58.0,Tesla,97.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+08805,Rocket,84.0,Knight,58.0,Tesla,97.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+08820,Rocket,84.0,Knight,58.0,Tesla,97.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+08835,Rocket,84.0,Knight,58.0,Tesla,97.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+08850,Rocket,84.0,Knight,58.0,Tesla,97.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+08865,Rocket,84.0,Knight,58.0,Tesla,97.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+08880,Rocket,84.0,Knight,58.0,Tesla,97.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+08895,Rocket,84.0,Knight,58.0,Tesla,97.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+08910,Rocket,84.0,Knight,58.0,Tesla,97.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+08925,Rocket,84.0,Knight,58.0,Tesla,97.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+08940,Rocket,84.0,Knight,58.0,Tesla,97.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+08955,Rocket,84.0,Knight,58.0,Tesla,97.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+08970,Rocket,84.0,Knight,58.0,Tesla,97.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+08985,Rocket,84.0,Knight,58.0,Tesla,97.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+09000,Rocket,84.0,Knight,58.0,Tesla,97.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+09015,Rocket,84.0,Knight,58.0,Tesla,97.0,Ice Spirit,54.0,,,,7,False,False,0.0,0.0
+09030,Rocket,84.0,Knight,58.0,Tesla,97.0,Ice Spirit,54.0,,,,7,False,False,0.0,0.0
+09045,Rocket,84.0,Knight,58.0,Tesla,97.0,Ice Spirit,54.0,,,,7,False,False,0.0,0.0
+09060,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,Tesla,97.0,3.0,3,True,True,4.0,4.0
+09075,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+09090,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+09105,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+09120,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+09135,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+09150,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+09165,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+09180,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+09195,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+09210,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+09225,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+09240,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+09255,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+09270,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+09285,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+09300,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+09315,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+09330,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+09345,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,7,False,False,0.0,0.0
+09360,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,7,False,False,0.0,0.0
+09375,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,7,False,False,0.0,0.0
+09390,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,7,False,False,0.0,0.0
+09405,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,7,False,False,0.0,0.0
+09420,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,7,False,False,0.0,0.0
+09435,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+09450,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+09465,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+09480,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+09495,Rocket,84.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+09510,X,106.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,Rocket,84.0,1.0,3,True,True,5.0,6.0
+09525,X,106.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+09540,X,106.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+09555,X,106.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+09570,X,106.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+09585,X,106.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+09600,X,106.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+09615,X,106.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,The Log,98.0,3.0,4,True,True,2.0,2.0
+09630,X,106.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+09645,X,106.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+09660,X,106.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+09675,X,106.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+09690,X,106.0,Knight,58.0,Musketeer,73.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+09705,X,106.0,The Log,98.0,Musketeer,73.0,Ice Spirit,54.0,Knight,58.0,2.0,3,True,True,3.0,3.0
+09720,X,106.0,The Log,98.0,Musketeer,73.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+09735,X,106.0,The Log,98.0,Musketeer,73.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+09750,X,106.0,The Log,98.0,Musketeer,73.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+09765,X,106.0,The Log,98.0,Tesla,97.0,Ice Spirit,54.0,Musketeer,73.0,3.0,1,True,True,3.0,4.0
+09780,X,106.0,The Log,98.0,Tesla,97.0,Ice Spirit,54.0,,,,1,False,False,0.0,0.0
+09795,X,106.0,The Log,98.0,Tesla,97.0,Ice Spirit,54.0,,,,1,False,False,0.0,0.0
+09810,X,106.0,The Log,98.0,Tesla,97.0,Ice Spirit,54.0,,,,2,False,False,0.0,0.0
+09825,X,106.0,The Log,98.0,Tesla,97.0,Ice Spirit,54.0,,,,2,False,False,0.0,0.0
+09840,X,106.0,The Log,98.0,Tesla,97.0,Rocket,84.0,Ice Spirit,54.0,4.0,3,True,True,2.0,1.0
+09855,X,106.0,The Log,98.0,Tesla,97.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+09870,X,106.0,The Log,98.0,Tesla,97.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+09885,X,106.0,The Log,98.0,Tesla,97.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+09900,X,106.0,The Log,98.0,Tesla,97.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+09915,X,106.0,The Log,98.0,Tesla,97.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+09930,X,106.0,The Log,98.0,Tesla,97.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+09945,X,106.0,Knight,58.0,Tesla,97.0,Rocket,84.0,The Log,98.0,2.0,1,True,True,1.0,2.0
+09960,X,106.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+09975,X,106.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+09990,X,106.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+10005,X,106.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+10020,X,106.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+10035,X,106.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+10050,X,106.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+10065,X,106.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+10080,X,106.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+10095,X,106.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+10110,X,106.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+10125,X,106.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+10140,X,106.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+10155,X,106.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+10170,X,106.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+10185,X,106.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+10200,X,106.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+10215,X,106.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+10230,X,106.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+10245,X,106.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+10260,X,106.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+10275,X,106.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+10290,Musketeer,73.0,Knight,58.0,Tesla,97.0,Rocket,84.0,X,106.0,1.0,3,True,True,6.0,6.0
+10305,Musketeer,73.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+10320,Musketeer,73.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+10335,Musketeer,73.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+10350,Musketeer,73.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+10365,Musketeer,73.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+10380,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,Knight,58.0,2.0,2,True,True,3.0,3.0
+10395,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+10410,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+10425,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+10440,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+10455,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+10470,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+10485,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+10500,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+10515,Knight,58.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,Musketeer,73.0,1.0,1,True,True,4.0,4.0
+10530,Knight,58.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+10545,Knight,58.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+10560,Knight,58.0,The Log,98.0,Tesla,97.0,Rocket,84.0,Ice Spirit,54.0,2.0,1,True,True,1.0,1.0
+10575,Knight,58.0,The Log,98.0,Tesla,97.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+10590,Knight,58.0,The Log,98.0,Tesla,97.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+10605,Knight,58.0,The Log,98.0,Tesla,97.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+10620,Knight,58.0,The Log,98.0,Tesla,97.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+10635,Knight,58.0,X,106.0,Tesla,97.0,Rocket,84.0,The Log,98.0,2.0,2,True,True,1.0,2.0
+10650,Knight,58.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+10665,Knight,58.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+10680,Knight,58.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+10695,Knight,58.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+10710,Knight,58.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+10725,Knight,58.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+10740,Knight,58.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+10755,Knight,58.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+10770,Knight,58.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+10785,Knight,58.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+10800,Knight,58.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+10815,Knight,58.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+10830,Knight,58.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+10845,Knight,58.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+10860,Knight,58.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+10875,Knight,58.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+10890,Knight,58.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+10905,Knight,58.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+10920,Knight,58.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,7,False,True,1.0,0.0
+10935,Knight,58.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+10950,Knight,58.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+10965,Knight,58.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+10980,Knight,58.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+10995,Musketeer,73.0,X,106.0,Tesla,97.0,Rocket,84.0,Knight,58.0,1.0,6,True,True,2.0,3.0
+11010,Musketeer,73.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+11025,Musketeer,73.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+11040,Musketeer,73.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+11055,Ice Spirit,54.0,X,106.0,Tesla,97.0,Rocket,84.0,Musketeer,73.0,1.0,3,True,True,4.0,4.0
+11070,Ice Spirit,54.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+11085,Ice Spirit,54.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+11100,Ice Spirit,54.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+11115,The Log,98.0,X,106.0,Tesla,97.0,Rocket,84.0,Ice Spirit,54.0,1.0,4,True,False,0.0,1.0
+11130,The Log,98.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+11145,The Log,98.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+11160,Musketeer,73.0,X,106.0,Tesla,97.0,Rocket,84.0,The Log,98.0,1.0,3,True,True,1.0,2.0
+11175,Musketeer,73.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+11190,Musketeer,73.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+11205,Musketeer,73.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+11220,Musketeer,73.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+11235,Musketeer,73.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+11250,Musketeer,73.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+11265,Musketeer,73.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+11280,Musketeer,73.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+11295,Musketeer,73.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+11310,Musketeer,73.0,X,106.0,Tesla,97.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+11325,Musketeer,73.0,Knight,58.0,Tesla,97.0,Rocket,84.0,X,106.0,2.0,1,True,True,5.0,6.0
+11340,Musketeer,73.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+11355,Musketeer,73.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+11370,Musketeer,73.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+11385,Musketeer,73.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+11400,Musketeer,73.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+11415,Musketeer,73.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+11430,Musketeer,73.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+11445,Musketeer,73.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+11460,Musketeer,73.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+11475,Musketeer,73.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+11490,Musketeer,73.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+11505,Musketeer,73.0,Knight,58.0,Tesla,97.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+11520,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,Knight,58.0,2.0,1,True,True,3.0,3.0
+11535,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+11550,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+11565,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+11580,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+11595,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+11610,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+11625,Musketeer,73.0,The Log,98.0,Tesla,97.0,Rocket,84.0,Ice Spirit,54.0,2.0,3,True,False,0.0,1.0
+11640,Musketeer,73.0,The Log,98.0,Tesla,97.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+11655,Musketeer,73.0,The Log,98.0,Tesla,97.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+11670,Musketeer,73.0,The Log,98.0,Tesla,97.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+11685,Musketeer,73.0,The Log,98.0,Tesla,97.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+11700,Musketeer,73.0,The Log,98.0,Tesla,97.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+11715,Musketeer,73.0,The Log,98.0,Tesla,97.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+11730,Musketeer,73.0,The Log,98.0,Tesla,97.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+11745,Musketeer,73.0,The Log,98.0,Tesla,97.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+11760,Musketeer,73.0,The Log,98.0,Tesla,97.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+11775,Musketeer,73.0,The Log,98.0,Tesla,97.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+11790,Musketeer,73.0,The Log,98.0,Tesla,97.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+11805,Musketeer,73.0,The Log,98.0,Tesla,97.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+11820,Musketeer,73.0,The Log,98.0,Tesla,97.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+11835,Musketeer,73.0,The Log,98.0,Tesla,97.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+11850,Musketeer,73.0,The Log,98.0,Tesla,97.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+11865,Musketeer,73.0,The Log,98.0,X,106.0,Rocket,84.0,Tesla,97.0,3.0,4,True,True,4.0,4.0
+11880,Musketeer,73.0,The Log,98.0,X,106.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+11895,Musketeer,73.0,The Log,98.0,X,106.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+11910,Musketeer,73.0,The Log,98.0,X,106.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+11925,Musketeer,73.0,The Log,98.0,X,106.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+11940,Musketeer,73.0,The Log,98.0,X,106.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+11955,Musketeer,73.0,The Log,98.0,Knight,58.0,Rocket,84.0,X,106.0,3.0,1,True,True,5.0,6.0
+11970,Musketeer,73.0,The Log,98.0,Knight,58.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+11985,Musketeer,73.0,The Log,98.0,Knight,58.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+12000,Musketeer,73.0,The Log,98.0,Knight,58.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+12015,Musketeer,73.0,The Log,98.0,Knight,58.0,Rocket,84.0,,,,1,False,True,1.0,0.0
+12030,Musketeer,73.0,The Log,98.0,Knight,58.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+12045,Musketeer,73.0,The Log,98.0,Knight,58.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+12060,Musketeer,73.0,The Log,98.0,Knight,58.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+12075,Musketeer,73.0,Ice Spirit,54.0,Knight,58.0,Rocket,84.0,The Log,98.0,2.0,0,True,True,2.0,2.0
+12090,Musketeer,73.0,Ice Spirit,54.0,Knight,58.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+12105,Musketeer,73.0,Ice Spirit,54.0,Knight,58.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+12120,Musketeer,73.0,Ice Spirit,54.0,Knight,58.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+12135,Musketeer,73.0,Ice Spirit,54.0,Knight,58.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+12150,Musketeer,73.0,Ice Spirit,54.0,Knight,58.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+12165,Musketeer,73.0,Ice Spirit,54.0,Knight,58.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+12180,Musketeer,73.0,Ice Spirit,54.0,Knight,58.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+12195,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,Knight,58.0,3.0,0,True,True,3.0,3.0
+12210,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+12225,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+12240,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,1,False,False,0.0,0.0
+12255,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+12270,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+12285,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+12300,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+12315,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+12330,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+12345,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+12360,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+12375,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+12390,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+12405,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+12420,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+12435,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+12450,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+12465,Musketeer,73.0,Ice Spirit,54.0,Tesla,97.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+12480,Musketeer,73.0,Ice Spirit,54.0,X,106.0,Rocket,84.0,Tesla,97.0,3.0,3,True,True,4.0,4.0
+12495,Musketeer,73.0,Ice Spirit,54.0,X,106.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+12510,Musketeer,73.0,Ice Spirit,54.0,X,106.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+12525,Musketeer,73.0,Ice Spirit,54.0,X,106.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+12540,Musketeer,73.0,Ice Spirit,54.0,X,106.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+12555,Musketeer,73.0,Ice Spirit,54.0,X,106.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+12570,Musketeer,73.0,Ice Spirit,54.0,X,106.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+12585,Musketeer,73.0,Ice Spirit,54.0,X,106.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+12600,Musketeer,73.0,Ice Spirit,54.0,X,106.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+12615,Musketeer,73.0,Ice Spirit,54.0,X,106.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+12630,Musketeer,73.0,Ice Spirit,54.0,X,106.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+12645,Musketeer,73.0,Ice Spirit,54.0,X,106.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+12660,Musketeer,73.0,Ice Spirit,54.0,X,106.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+12675,Musketeer,73.0,Ice Spirit,54.0,X,106.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+12690,Musketeer,73.0,Ice Spirit,54.0,X,106.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+12705,Musketeer,73.0,Ice Spirit,54.0,X,106.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+12720,Musketeer,73.0,Ice Spirit,54.0,X,106.0,Rocket,84.0,,,,3,False,True,5.0,0.0
+12735,Musketeer,73.0,The Log,98.0,X,106.0,Rocket,84.0,Ice Spirit,54.0,2.0,2,True,True,1.0,1.0
+12750,Musketeer,73.0,The Log,98.0,X,106.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+12765,Musketeer,73.0,The Log,98.0,X,106.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+12780,Musketeer,73.0,Knight,58.0,X,106.0,Rocket,84.0,The Log,98.0,2.0,3,True,True,1.0,2.0
+12795,Musketeer,73.0,Knight,58.0,X,106.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+12810,Musketeer,73.0,Knight,58.0,X,106.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+12825,Musketeer,73.0,Knight,58.0,X,106.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+12840,Musketeer,73.0,Knight,58.0,X,106.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+12855,Musketeer,73.0,Knight,58.0,X,106.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+12870,Musketeer,73.0,Tesla,97.0,X,106.0,Rocket,84.0,Knight,58.0,2.0,0,True,True,3.0,3.0
+12885,Musketeer,73.0,Tesla,97.0,X,106.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+12900,Musketeer,73.0,Tesla,97.0,X,106.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+12915,Musketeer,73.0,Tesla,97.0,X,106.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+12930,Musketeer,73.0,Tesla,97.0,X,106.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+12945,Musketeer,73.0,Tesla,97.0,X,106.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+12960,Musketeer,73.0,Tesla,97.0,X,106.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+12975,Musketeer,73.0,Tesla,97.0,X,106.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+12990,Musketeer,73.0,Tesla,97.0,X,106.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+13005,Musketeer,73.0,Tesla,97.0,X,106.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+13020,Musketeer,73.0,Tesla,97.0,X,106.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+13035,Musketeer,73.0,Tesla,97.0,X,106.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+13050,Musketeer,73.0,Tesla,97.0,X,106.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+13065,Musketeer,73.0,Tesla,97.0,X,106.0,Rocket,84.0,,,,4,False,True,1.0,0.0
+13080,Musketeer,73.0,Tesla,97.0,X,106.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+13095,Musketeer,73.0,Tesla,97.0,X,106.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+13110,Musketeer,73.0,Tesla,97.0,X,106.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+13125,Musketeer,73.0,Ice Spirit,54.0,X,106.0,Rocket,84.0,Tesla,97.0,2.0,2,True,True,3.0,4.0
+13140,Musketeer,73.0,Ice Spirit,54.0,X,106.0,Rocket,84.0,,,,2,False,False,0.0,0.0
+13155,Musketeer,73.0,Ice Spirit,54.0,X,106.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+13170,Musketeer,73.0,The Log,98.0,X,106.0,Rocket,84.0,Ice Spirit,54.0,2.0,3,True,False,0.0,1.0
+13185,Musketeer,73.0,The Log,98.0,X,106.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+13200,Musketeer,73.0,The Log,98.0,X,106.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+13215,Musketeer,73.0,The Log,98.0,X,106.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+13230,Musketeer,73.0,The Log,98.0,X,106.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+13245,Musketeer,73.0,The Log,98.0,X,106.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+13260,Musketeer,73.0,The Log,98.0,X,106.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+13275,Musketeer,73.0,The Log,98.0,X,106.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+13290,Musketeer,73.0,X,106.0,Rocket,84.0,Knight,58.0,Rocket,84.0,4.0,7,True,False,0.0,6.0
+13305,Musketeer,73.0,The Log,98.0,Rocket,84.0,Knight,58.0,X,106.0,2.0,1,True,True,6.0,6.0
+13320,Musketeer,73.0,The Log,98.0,Rocket,84.0,Knight,58.0,,,,2,False,False,0.0,0.0
+13335,Musketeer,73.0,The Log,98.0,Rocket,84.0,Knight,58.0,,,,2,False,False,0.0,0.0
+13350,Musketeer,73.0,The Log,98.0,Rocket,84.0,Knight,58.0,,,,3,False,False,0.0,0.0
+13365,Musketeer,73.0,The Log,98.0,Rocket,84.0,Knight,58.0,,,,4,False,False,0.0,0.0
+13380,Musketeer,73.0,The Log,98.0,Rocket,84.0,Knight,58.0,,,,4,False,False,0.0,0.0
+13395,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,Knight,58.0,4.0,4,True,False,0.0,3.0
+13410,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,4,False,False,0.0,0.0
+13425,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,4,False,False,0.0,0.0
+13440,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,5,False,False,0.0,0.0
+13455,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,5,False,False,0.0,0.0
+13470,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,5,False,False,0.0,0.0
+13485,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,5,False,False,0.0,0.0
+13500,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,5,False,False,0.0,0.0
+13515,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,5,False,False,0.0,0.0
+13530,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,5,False,False,0.0,0.0
+13545,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,5,False,False,0.0,0.0
+13560,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,5,False,False,0.0,0.0
+13575,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,5,False,False,0.0,0.0
+13590,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,5,False,False,0.0,0.0
+13605,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,5,False,False,0.0,0.0
+13620,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,5,False,False,0.0,0.0
+13635,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,5,False,False,0.0,0.0
+13650,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,5,False,False,0.0,0.0
+13665,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,5,False,False,0.0,0.0
+13680,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,5,False,False,0.0,0.0
+13695,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,6,False,False,0.0,0.0
+13710,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,6,False,False,0.0,0.0
+13725,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,6,False,False,0.0,0.0
+13740,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,6,False,False,0.0,0.0
+13755,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,6,False,False,0.0,0.0
+13770,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,6,False,False,0.0,0.0
+13785,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,7,False,False,0.0,0.0
+13800,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,7,False,False,0.0,0.0
+13815,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,7,False,False,0.0,0.0
+13830,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,7,False,False,0.0,0.0
+13845,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,7,False,False,0.0,0.0
+13860,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,7,False,False,0.0,0.0
+13875,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,8,False,False,0.0,0.0
+13890,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,8,False,False,0.0,0.0
+13905,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,8,False,False,0.0,0.0
+13920,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,8,False,False,0.0,0.0
+13935,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,8,False,False,0.0,0.0
+13950,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,9,False,False,0.0,0.0
+13965,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,9,False,False,0.0,0.0
+13980,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,9,False,False,0.0,0.0
+13995,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,9,False,False,0.0,0.0
+14010,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,9,False,False,0.0,0.0
+14025,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,Ice Spirit,54.0,2.0,8,True,True,1.0,1.0
+14040,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,9,False,False,0.0,0.0
+14055,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,9,False,False,0.0,0.0
+14070,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,9,False,False,0.0,0.0
+14085,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,9,False,False,0.0,0.0
+14100,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,8,False,True,1.0,0.0
+14115,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,8,False,False,0.0,0.0
+14130,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,9,False,False,0.0,0.0
+14145,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,9,False,False,0.0,0.0
+14160,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,9,False,False,0.0,0.0
+14175,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,9,False,False,0.0,0.0
+14190,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,9,False,False,0.0,0.0
+14205,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,10,False,False,0.0,0.0
+14220,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,10,False,False,0.0,0.0
+14235,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,10,False,False,0.0,0.0
+14250,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,10,False,False,0.0,0.0
+14265,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,10,False,False,0.0,0.0
+14280,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,10,False,False,0.0,0.0
+14295,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,10,False,False,0.0,0.0
+14310,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,10,False,False,0.0,0.0
+14325,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,10,False,False,0.0,0.0
+14340,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,10,False,False,0.0,0.0
+14355,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,10,False,False,0.0,0.0
+14370,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,10,False,False,0.0,0.0
+14385,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,10,False,False,0.0,0.0
+14400,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,10,False,False,0.0,0.0
+14415,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,10,False,False,0.0,0.0
+14430,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,10,False,False,0.0,0.0
+14445,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,10,False,False,0.0,0.0
+14460,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,10,False,False,0.0,0.0
+14475,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,10,False,False,0.0,0.0
+14490,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,10,False,False,0.0,0.0
+14505,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,10,False,False,0.0,0.0
+14520,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,10,False,False,0.0,0.0
+14535,X,106.0,Knight,58.0,Rocket,84.0,The Log,98.0,,,,10,False,False,0.0,0.0
+14550,X,106.0,Knight,58.0,Rocket,84.0,Tesla,97.0,The Log,98.0,4.0,8,True,True,2.0,2.0
+14565,X,106.0,Knight,58.0,Rocket,84.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+14580,X,106.0,Knight,58.0,Rocket,84.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+14595,X,106.0,Knight,58.0,Rocket,84.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+14610,X,106.0,Knight,58.0,Rocket,84.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+14625,X,106.0,Knight,58.0,Rocket,84.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+14640,X,106.0,Knight,58.0,Rocket,84.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+14655,X,106.0,Knight,58.0,Rocket,84.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+14670,X,106.0,Knight,58.0,Rocket,84.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+14685,X,106.0,Knight,58.0,Rocket,84.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+14700,X,106.0,Knight,58.0,Rocket,84.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+14715,X,106.0,Knight,58.0,Rocket,84.0,Tesla,97.0,,,,10,False,False,0.0,0.0
+14730,X,106.0,Musketeer,73.0,Rocket,84.0,Tesla,97.0,Knight,58.0,2.0,7,True,True,3.0,3.0
+14745,X,106.0,Musketeer,73.0,Rocket,84.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+14760,X,106.0,Musketeer,73.0,Rocket,84.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+14775,X,106.0,Musketeer,73.0,Rocket,84.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+14790,X,106.0,Musketeer,73.0,Rocket,84.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+14805,X,106.0,Musketeer,73.0,Rocket,84.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+14820,X,106.0,Musketeer,73.0,Rocket,84.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+14835,X,106.0,Musketeer,73.0,Rocket,84.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+14850,X,106.0,Musketeer,73.0,Rocket,84.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+14865,X,106.0,Musketeer,73.0,Rocket,84.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+14880,X,106.0,Musketeer,73.0,Rocket,84.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+14895,X,106.0,Musketeer,73.0,Rocket,84.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+14910,X,106.0,Musketeer,73.0,Rocket,84.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+14925,X,106.0,Musketeer,73.0,Rocket,84.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+14940,X,106.0,Musketeer,73.0,Rocket,84.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+14955,X,106.0,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,Musketeer,73.0,2.0,5,True,True,4.0,4.0
+14970,X,106.0,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+14985,X,106.0,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+15000,X,106.0,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+15015,X,106.0,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+15030,X,106.0,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+15045,X,106.0,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+15060,X,106.0,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+15075,X,106.0,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+15090,X,106.0,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+15105,X,106.0,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+15120,X,106.0,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+15135,X,106.0,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+15150,X,106.0,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+15165,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,Tesla,97.0,4.0,4,True,True,4.0,4.0
+15180,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,4,False,False,0.0,0.0
+15195,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,4,False,False,0.0,0.0
+15210,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,4,False,False,0.0,0.0
+15225,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,4,False,False,0.0,0.0
+15240,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,5,False,False,0.0,0.0
+15255,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,5,False,False,0.0,0.0
+15270,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,5,False,False,0.0,0.0
+15285,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,5,False,False,0.0,0.0
+15300,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,5,False,False,0.0,0.0
+15315,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,6,False,False,0.0,0.0
+15330,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,6,False,False,0.0,0.0
+15345,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,6,False,False,0.0,0.0
+15360,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,6,False,False,0.0,0.0
+15375,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,6,False,False,0.0,0.0
+15390,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,6,False,False,0.0,0.0
+15405,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,7,False,False,0.0,0.0
+15420,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,6,False,True,1.0,0.0
+15435,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,6,False,False,0.0,0.0
+15450,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,6,False,False,0.0,0.0
+15465,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,6,False,False,0.0,0.0
+15480,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,7,False,False,0.0,0.0
+15495,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,7,False,False,0.0,0.0
+15510,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,7,False,False,0.0,0.0
+15525,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,7,False,False,0.0,0.0
+15540,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,7,False,False,0.0,0.0
+15555,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,7,False,False,0.0,0.0
+15570,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,8,False,False,0.0,0.0
+15585,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,8,False,False,0.0,0.0
+15600,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,8,False,False,0.0,0.0
+15615,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,8,False,False,0.0,0.0
+15630,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,8,False,False,0.0,0.0
+15645,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,8,False,False,0.0,0.0
+15660,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,9,False,False,0.0,0.0
+15675,X,106.0,Ice Spirit,54.0,Rocket,84.0,The Log,98.0,,,,9,False,False,0.0,0.0
+15690,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,Rocket,84.0,3.0,3,True,True,6.0,6.0
+15705,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,3,False,False,0.0,0.0
+15720,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,3,False,False,0.0,0.0
+15735,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+15750,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+15765,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+15780,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+15795,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+15810,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+15825,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+15840,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+15855,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+15870,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+15885,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+15900,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+15915,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+15930,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+15945,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+15960,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+15975,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+15990,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,7,False,False,0.0,0.0
+16005,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,7,False,False,0.0,0.0
+16020,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,7,False,False,0.0,0.0
+16035,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,7,False,False,0.0,0.0
+16050,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,7,False,False,0.0,0.0
+16065,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,8,False,False,0.0,0.0
+16080,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,8,False,False,0.0,0.0
+16095,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,8,False,False,0.0,0.0
+16110,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,8,False,False,0.0,0.0
+16125,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,8,False,False,0.0,0.0
+16140,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,8,False,False,0.0,0.0
+16155,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,9,False,False,0.0,0.0
+16170,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,9,False,False,0.0,0.0
+16185,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,9,False,False,0.0,0.0
+16200,X,106.0,Ice Spirit,54.0,Knight,58.0,The Log,98.0,,,,9,False,False,0.0,0.0
+16215,X,106.0,Musketeer,73.0,Knight,58.0,The Log,98.0,Ice Spirit,54.0,2.0,8,True,True,1.0,1.0
+16230,X,106.0,Musketeer,73.0,Knight,58.0,The Log,98.0,,,,8,False,False,0.0,0.0
+16245,X,106.0,Musketeer,73.0,Knight,58.0,The Log,98.0,,,,9,False,False,0.0,0.0
+16260,X,106.0,Musketeer,73.0,Knight,58.0,The Log,98.0,,,,9,False,False,0.0,0.0
+16275,X,106.0,Musketeer,73.0,Knight,58.0,The Log,98.0,,,,9,False,False,0.0,0.0
+16290,X,106.0,Musketeer,73.0,Knight,58.0,The Log,98.0,,,,9,False,False,0.0,0.0
+16305,X,106.0,Musketeer,73.0,Knight,58.0,Tesla,97.0,The Log,98.0,4.0,7,True,True,2.0,2.0
+16320,X,106.0,Musketeer,73.0,Knight,58.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+16335,X,106.0,Musketeer,73.0,Knight,58.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+16350,X,106.0,Musketeer,73.0,Knight,58.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+16365,X,106.0,Musketeer,73.0,Knight,58.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+16380,X,106.0,Musketeer,73.0,Knight,58.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+16395,X,106.0,Musketeer,73.0,Knight,58.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+16410,X,106.0,Musketeer,73.0,Knight,58.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+16425,X,106.0,Musketeer,73.0,Knight,58.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+16440,X,106.0,Musketeer,73.0,Knight,58.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+16455,X,106.0,Musketeer,73.0,Knight,58.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+16470,X,106.0,Musketeer,73.0,Musketeer,73.0,Tesla,97.0,Knight,58.0,3.0,6,True,True,3.0,3.0
+16485,X,106.0,Musketeer,73.0,Musketeer,73.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+16500,X,106.0,Musketeer,73.0,Musketeer,73.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+16515,X,106.0,Musketeer,73.0,Musketeer,73.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+16530,X,106.0,Musketeer,73.0,Musketeer,73.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+16545,X,106.0,Musketeer,73.0,Musketeer,73.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+16560,X,106.0,Musketeer,73.0,Musketeer,73.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+16575,X,106.0,Musketeer,73.0,Musketeer,73.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+16590,X,106.0,Musketeer,73.0,Musketeer,73.0,Tesla,97.0,,,,8,False,True,1.0,0.0
+16605,X,106.0,Musketeer,73.0,Musketeer,73.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+16620,X,106.0,Musketeer,73.0,Musketeer,73.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+16635,X,106.0,Musketeer,73.0,Musketeer,73.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+16650,X,106.0,Musketeer,73.0,Musketeer,73.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+16665,X,106.0,Musketeer,73.0,Musketeer,73.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+16680,X,106.0,Musketeer,73.0,Musketeer,73.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+16695,X,106.0,Musketeer,73.0,Musketeer,73.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+16710,X,106.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,Musketeer,73.0,2.0,5,True,True,4.0,4.0
+16725,X,106.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+16740,X,106.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+16755,X,106.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+16770,X,106.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+16785,X,106.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+16800,X,106.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+16815,X,106.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+16830,X,106.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+16845,X,106.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+16860,X,106.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+16875,X,106.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+16890,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,X,106.0,1.0,1,True,True,6.0,6.0
+16905,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+16920,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+16935,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+16950,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+16965,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+16980,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+16995,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+17010,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+17025,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+17040,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+17055,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+17070,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+17085,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+17100,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+17115,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+17130,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+17145,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+17160,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+17175,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+17190,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+17205,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+17220,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+17235,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+17250,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+17265,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+17280,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+17295,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+17310,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+17325,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+17340,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+17355,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,Tesla,97.0,4.0,4,True,True,4.0,4.0
+17370,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,4,False,False,0.0,0.0
+17385,Ice Spirit,54.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,5,False,False,0.0,0.0
+17400,Knight,58.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,Ice Spirit,54.0,1.0,4,True,True,1.0,1.0
+17415,Knight,58.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,5,False,False,0.0,0.0
+17430,Knight,58.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,5,False,False,0.0,0.0
+17445,Knight,58.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,5,False,False,0.0,0.0
+17460,Knight,58.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,5,False,False,0.0,0.0
+17475,Knight,58.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,5,False,False,0.0,0.0
+17490,Knight,58.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,5,False,False,0.0,0.0
+17505,Knight,58.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,6,False,False,0.0,0.0
+17520,Knight,58.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,6,False,False,0.0,0.0
+17535,Knight,58.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,6,False,False,0.0,0.0
+17550,Knight,58.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,7,False,False,0.0,0.0
+17565,Knight,58.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,7,False,False,0.0,0.0
+17580,Knight,58.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,8,False,False,0.0,0.0
+17595,Knight,58.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,8,False,False,0.0,0.0
+17610,Knight,58.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,8,False,False,0.0,0.0
+17625,Knight,58.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,9,False,False,0.0,0.0
+17640,X,106.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,Knight,58.0,1.0,6,True,True,3.0,3.0
+17655,X,106.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,6,False,False,0.0,0.0
+17670,X,106.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,7,False,False,0.0,0.0
+17685,X,106.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,7,False,False,0.0,0.0
+17700,X,106.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,7,False,False,0.0,0.0
+17715,X,106.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,8,False,False,0.0,0.0
+17730,X,106.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,8,False,False,0.0,0.0
+17745,X,106.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,8,False,False,0.0,0.0
+17760,X,106.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,9,False,False,0.0,0.0
+17775,X,106.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,9,False,False,0.0,0.0
+17790,X,106.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,9,False,False,0.0,0.0
+17805,X,106.0,Rocket,84.0,Tesla,97.0,The Log,98.0,Musketeer,73.0,3.0,6,True,True,3.0,4.0
+17820,X,106.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+17835,X,106.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+17850,X,106.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+17865,X,106.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+17880,X,106.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+17895,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,The Log,98.0,X,106.0,1.0,2,True,True,6.0,6.0
+17910,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+17925,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+17940,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+17955,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+17970,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+17985,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18000,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18015,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18030,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18045,Musketeer,73.0,Rocket,84.0,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,1.0,5,True,False,0.0,1.0
+18060,Musketeer,73.0,Rocket,84.0,Knight,58.0,The Log,98.0,Tesla,97.0,3.0,1,True,True,4.0,4.0
+18075,Musketeer,73.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,1,False,False,0.0,0.0
+18090,Musketeer,73.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,2,False,False,0.0,0.0
+18105,Musketeer,73.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,2,False,False,0.0,0.0
+18120,Musketeer,73.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,2,False,False,0.0,0.0
+18135,Musketeer,73.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18150,Musketeer,73.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18165,Musketeer,73.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18180,Musketeer,73.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18195,Musketeer,73.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,3,False,True,1.0,0.0
+18210,Musketeer,73.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18225,Musketeer,73.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18240,Musketeer,73.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18255,Musketeer,73.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18270,Musketeer,73.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18285,Musketeer,73.0,Rocket,84.0,X,106.0,The Log,98.0,Knight,58.0,3.0,2,True,True,3.0,3.0
+18300,Musketeer,73.0,Rocket,84.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18315,Musketeer,73.0,Rocket,84.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18330,Musketeer,73.0,Rocket,84.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18345,Musketeer,73.0,Rocket,84.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18360,Musketeer,73.0,Rocket,84.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18375,Musketeer,73.0,Rocket,84.0,X,106.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18390,Musketeer,73.0,Rocket,84.0,X,106.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18405,Musketeer,73.0,Rocket,84.0,X,106.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18420,Musketeer,73.0,Rocket,84.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18435,Musketeer,73.0,Rocket,84.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18450,Musketeer,73.0,Rocket,84.0,X,106.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18465,Musketeer,73.0,Rocket,84.0,Ice Spirit,54.0,The Log,98.0,X,106.0,3.0,1,True,True,5.0,6.0
+18480,Musketeer,73.0,Rocket,84.0,Ice Spirit,54.0,The Log,98.0,,,,1,False,False,0.0,0.0
+18495,Musketeer,73.0,Rocket,84.0,Ice Spirit,54.0,The Log,98.0,,,,1,False,False,0.0,0.0
+18510,Musketeer,73.0,Rocket,84.0,Ice Spirit,54.0,The Log,98.0,,,,2,False,False,0.0,0.0
+18525,Musketeer,73.0,Rocket,84.0,Ice Spirit,54.0,The Log,98.0,,,,2,False,False,0.0,0.0
+18540,Musketeer,73.0,Rocket,84.0,Ice Spirit,54.0,The Log,98.0,,,,2,False,False,0.0,0.0
+18555,Musketeer,73.0,Rocket,84.0,Ice Spirit,54.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18570,Musketeer,73.0,Rocket,84.0,Ice Spirit,54.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18585,Musketeer,73.0,Rocket,84.0,Ice Spirit,54.0,The Log,98.0,,,,3,False,False,0.0,0.0
+18600,Musketeer,73.0,Rocket,84.0,Ice Spirit,54.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18615,Musketeer,73.0,Rocket,84.0,Ice Spirit,54.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18630,Musketeer,73.0,Rocket,84.0,Tesla,97.0,The Log,98.0,Ice Spirit,54.0,3.0,3,True,True,1.0,1.0
+18645,Musketeer,73.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18660,Musketeer,73.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+18675,Musketeer,73.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18690,Musketeer,73.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18705,Musketeer,73.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+18720,Musketeer,73.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18735,Musketeer,73.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18750,Musketeer,73.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18765,Musketeer,73.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+18780,Musketeer,73.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+18795,Musketeer,73.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+18810,Musketeer,73.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+18825,Musketeer,73.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+18840,Musketeer,73.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+18855,Musketeer,73.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,9,False,False,0.0,0.0
+18870,Knight,58.0,Rocket,84.0,Tesla,97.0,The Log,98.0,Musketeer,73.0,1.0,5,True,True,4.0,4.0
+18885,Knight,58.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18900,Knight,58.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18915,Knight,58.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18930,Knight,58.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18945,Knight,58.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18960,Knight,58.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+18975,Knight,58.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+18990,Knight,58.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19005,Knight,58.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19020,Knight,58.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+19035,Knight,58.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+19050,Knight,58.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+19065,Knight,58.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,9,False,False,0.0,0.0
+19080,X,106.0,Rocket,84.0,Tesla,97.0,The Log,98.0,Knight,58.0,1.0,6,True,True,3.0,3.0
+19095,X,106.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19110,X,106.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19125,X,106.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19140,X,106.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+19155,X,106.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+19170,X,106.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+19185,X,106.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,9,False,False,0.0,0.0
+19200,X,106.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,9,False,False,0.0,0.0
+19215,X,106.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,9,False,False,0.0,0.0
+19230,X,106.0,Rocket,84.0,Ice Spirit,54.0,The Log,98.0,Tesla,97.0,3.0,6,True,True,3.0,4.0
+19245,X,106.0,Rocket,84.0,Ice Spirit,54.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19260,X,106.0,Rocket,84.0,Ice Spirit,54.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19275,X,106.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,Ice Spirit,54.0,3.0,6,True,False,0.0,1.0
+19290,X,106.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19305,X,106.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19320,X,106.0,Rocket,84.0,Musketeer,73.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19335,X,106.0,Rocket,84.0,Knight,58.0,The Log,98.0,Musketeer,73.0,3.0,3,True,True,4.0,4.0
+19350,X,106.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19365,X,106.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19380,X,106.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19395,X,106.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+19410,X,106.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+19425,X,106.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,5,False,False,0.0,0.0
+19440,X,106.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19455,X,106.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19470,X,106.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19485,X,106.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19500,X,106.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19515,X,106.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19530,X,106.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19545,X,106.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19560,X,106.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,8,False,False,0.0,0.0
+19575,X,106.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,8,False,False,0.0,0.0
+19590,X,106.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,8,False,False,0.0,0.0
+19605,X,106.0,Rocket,84.0,Knight,58.0,The Log,98.0,,,,9,False,False,0.0,0.0
+19620,X,106.0,Rocket,84.0,Tesla,97.0,The Log,98.0,Knight,58.0,3.0,6,True,True,3.0,3.0
+19635,X,106.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19650,X,106.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19665,X,106.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19680,X,106.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+19695,X,106.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+19710,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,The Log,98.0,X,106.0,1.0,2,True,True,6.0,6.0
+19725,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19740,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19755,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+19770,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19785,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19800,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+19815,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+19830,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+19845,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+19860,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19875,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19890,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+19905,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,Rocket,84.0,The Log,98.0,4.0,1,True,True,5.0,2.0
+19920,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,The Log,98.0,Rocket,84.0,4.0,1,True,False,0.0,6.0
+19935,Ice Spirit,54.0,Rocket,84.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0

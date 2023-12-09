@@ -1,0 +1,495 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Magic Archer,62.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+00255,Magic Archer,62.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+00270,Magic Archer,62.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+00285,Magic Archer,62.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+00300,Magic Archer,62.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+00315,Magic Archer,62.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+00330,Magic Archer,62.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+00345,Magic Archer,62.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+00360,Magic Archer,62.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+00375,Magic Archer,62.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+00390,Magic Archer,62.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+00405,Magic Archer,62.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+00420,Magic Archer,62.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+00435,Magic Archer,62.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+00450,Magic Archer,62.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+00465,Magic Archer,62.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+00480,Magic Archer,62.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+00495,Magic Archer,62.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+00510,Magic Archer,62.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+00525,Magic Archer,62.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+00540,Magic Archer,62.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+00555,Magic Archer,62.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+00570,Magic Archer,62.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+00585,Magic Archer,62.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+00600,Magic Archer,62.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+00615,Royal Recruits,89.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,Magic Archer,62.0,1.0,6,True,True,4.0,4.0
+00630,Royal Recruits,89.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+00645,Royal Recruits,89.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+00660,Royal Recruits,89.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+00675,Royal Recruits,89.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+00690,Royal Recruits,89.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+00705,Royal Recruits,89.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+00720,Royal Recruits,89.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+00735,Royal Recruits,89.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+00750,Royal Recruits,89.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+00765,Royal Recruits,89.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+00780,Royal Recruits,89.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+00795,Royal Recruits,89.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+00810,Royal Recruits,89.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+00825,Royal Recruits,89.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+00840,Royal Recruits,89.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+00855,Royal Recruits,89.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+00870,Royal Recruits,89.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+00885,Heal Spirit,50.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,89.0,1.0,2,True,True,7.0,7.0
+00900,Heal Spirit,50.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+00915,Heal Spirit,50.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+00930,Heal Spirit,50.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+00945,Heal Spirit,50.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+00960,Heal Spirit,50.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+00975,Heal Spirit,50.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+00990,Heal Spirit,50.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+01005,Heal Spirit,50.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+01020,Heal Spirit,50.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+01035,Heal Spirit,50.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+01050,Heal Spirit,50.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+01065,Heal Spirit,50.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+01080,Heal Spirit,50.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+01095,Heal Spirit,50.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+01110,Heal Spirit,50.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+01125,Heal Spirit,50.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01140,Heal Spirit,50.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01155,Heal Spirit,50.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01170,Heal Spirit,50.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01185,Heal Spirit,50.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01200,Heal Spirit,50.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01215,Heal Spirit,50.0,Royal Hogs,88.0,Hunter,52.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01230,Heal Spirit,50.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,Royal Hogs,88.0,2.0,1,True,True,5.0,5.0
+01245,Heal Spirit,50.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+01260,Heal Spirit,50.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+01275,Heal Spirit,50.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+01290,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,Heal Spirit,50.0,1.0,1,True,False,0.0,1.0
+01305,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+01320,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+01335,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+01350,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+01365,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+01380,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+01395,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+01410,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+01425,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+01440,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+01455,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+01470,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+01485,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+01500,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+01515,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+01530,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+01545,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+01560,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+01575,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+01590,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+01605,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+01620,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01635,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01650,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01665,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01680,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01695,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01710,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01725,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01740,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01755,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01770,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01785,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01800,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01815,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01830,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01845,Fisherman,32.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01860,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,Fisherman,32.0,1.0,4,True,True,3.0,3.0
+01875,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01890,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01905,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01920,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01935,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01950,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01965,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01980,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01995,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+02010,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+02025,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+02040,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02055,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02070,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02085,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02100,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02115,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02130,Magic Archer,62.0,The Log,98.0,Cannon Cart,16.0,Royal Recruits,89.0,Cannon Cart,16.0,4.0,3,True,True,4.0,5.0
+02145,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,Cannon Cart,16.0,3.0,3,True,False,0.0,5.0
+02160,Magic Archer,62.0,The Log,98.0,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,3.0,3,True,False,0.0,4.0
+02175,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,Cannon Cart,16.0,3.0,3,True,False,0.0,5.0
+02190,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,,,,3,False,False,0.0,0.0
+02205,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,,,,4,False,False,0.0,0.0
+02220,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,,,,4,False,False,0.0,0.0
+02235,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,,,,4,False,False,0.0,0.0
+02250,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,,,,4,False,False,0.0,0.0
+02265,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,,,,4,False,False,0.0,0.0
+02280,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,,,,4,False,False,0.0,0.0
+02295,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,,,,5,False,False,0.0,0.0
+02310,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,,,,5,False,False,0.0,0.0
+02325,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,,,,5,False,False,0.0,0.0
+02340,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,,,,5,False,False,0.0,0.0
+02355,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,,,,5,False,False,0.0,0.0
+02370,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,,,,5,False,False,0.0,0.0
+02385,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,,,,6,False,False,0.0,0.0
+02400,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,,,,6,False,False,0.0,0.0
+02415,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,,,,6,False,False,0.0,0.0
+02430,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,,,,6,False,False,0.0,0.0
+02445,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,,,,6,False,False,0.0,0.0
+02460,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,,,,7,False,False,0.0,0.0
+02475,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,,,,7,False,False,0.0,0.0
+02490,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,,,,7,False,False,0.0,0.0
+02505,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,,,,7,False,False,0.0,0.0
+02520,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,,,,7,False,False,0.0,0.0
+02535,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,,,,7,False,False,0.0,0.0
+02550,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,,,,8,False,False,0.0,0.0
+02565,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,,,,8,False,False,0.0,0.0
+02580,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Recruits,89.0,,,,8,False,False,0.0,0.0
+02595,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,Royal Recruits,89.0,4.0,1,True,True,7.0,7.0
+02610,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,1,False,False,0.0,0.0
+02625,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+02640,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+02655,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+02670,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+02685,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+02700,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+02715,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+02730,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+02745,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+02760,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+02775,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+02790,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+02805,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+02820,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+02835,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+02850,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+02865,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+02880,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+02895,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+02910,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+02925,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+02940,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+02955,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+02970,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+02985,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+03000,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+03015,Magic Archer,62.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+03030,Heal Spirit,50.0,The Log,98.0,Cannon Cart,16.0,Royal Hogs,88.0,Hunter,52.0,3.0,2,True,True,4.0,4.0
+03045,Heal Spirit,50.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,Cannon Cart,16.0,3.0,3,True,False,0.0,5.0
+03060,Heal Spirit,50.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+03075,Heal Spirit,50.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+03090,Heal Spirit,50.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+03105,Heal Spirit,50.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+03120,Heal Spirit,50.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+03135,Heal Spirit,50.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+03150,Heal Spirit,50.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+03165,Heal Spirit,50.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+03180,Heal Spirit,50.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+03195,Heal Spirit,50.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+03210,Heal Spirit,50.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+03225,Heal Spirit,50.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+03240,Heal Spirit,50.0,The Log,98.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+03255,Heal Spirit,50.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,Royal Hogs,88.0,4.0,0,True,True,5.0,5.0
+03270,Heal Spirit,50.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,0,False,False,0.0,0.0
+03285,Heal Spirit,50.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,0,False,False,0.0,0.0
+03300,Heal Spirit,50.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,1,False,False,0.0,0.0
+03315,Heal Spirit,50.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,1,False,False,0.0,0.0
+03330,Cannon Cart,16.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,Heal Spirit,50.0,1.0,0,True,True,1.0,1.0
+03345,Cannon Cart,16.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,0,False,False,0.0,0.0
+03360,Cannon Cart,16.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,0,False,False,0.0,0.0
+03375,Cannon Cart,16.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,0,False,False,0.0,0.0
+03390,Cannon Cart,16.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,1,False,False,0.0,0.0
+03405,Cannon Cart,16.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,1,False,False,0.0,0.0
+03420,Cannon Cart,16.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,1,False,False,0.0,0.0
+03435,Cannon Cart,16.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,1,False,False,0.0,0.0
+03450,Cannon Cart,16.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,1,False,False,0.0,0.0
+03465,Cannon Cart,16.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+03480,Cannon Cart,16.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+03495,Cannon Cart,16.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+03510,Cannon Cart,16.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+03525,Cannon Cart,16.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+03540,Cannon Cart,16.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+03555,Cannon Cart,16.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+03570,Cannon Cart,16.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+03585,Cannon Cart,16.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+03600,Cannon Cart,16.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+03615,Cannon Cart,16.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+03630,Cannon Cart,16.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+03645,Cannon Cart,16.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+03660,Cannon Cart,16.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+03675,Cannon Cart,16.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+03690,Cannon Cart,16.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+03705,Cannon Cart,16.0,The Log,98.0,Hunter,52.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+03720,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,The Log,98.0,2.0,3,True,True,1.0,2.0
+03735,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+03750,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+03765,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+03780,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+03795,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+03810,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+03825,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+03840,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+03855,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+03870,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+03885,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+03900,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+03915,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+03930,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+03945,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+03960,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+03975,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+03990,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+04005,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+04020,Cannon Cart,16.0,Magic Archer,62.0,Hunter,52.0,Fisherman,32.0,Royal Recruits,89.0,2.0,3,True,True,6.0,7.0
+04035,Cannon Cart,16.0,Magic Archer,62.0,Hunter,52.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+04050,Cannon Cart,16.0,Magic Archer,62.0,Hunter,52.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+04065,Cannon Cart,16.0,Magic Archer,62.0,Hunter,52.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+04080,Cannon Cart,16.0,Magic Archer,62.0,Hunter,52.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+04095,Cannon Cart,16.0,Magic Archer,62.0,Hunter,52.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+04110,Cannon Cart,16.0,Magic Archer,62.0,Hunter,52.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+04125,Cannon Cart,16.0,Magic Archer,62.0,Hunter,52.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+04140,Cannon Cart,16.0,Magic Archer,62.0,Hunter,52.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+04155,Cannon Cart,16.0,Magic Archer,62.0,Hunter,52.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+04170,Cannon Cart,16.0,Magic Archer,62.0,Hunter,52.0,Royal Hogs,88.0,Fisherman,32.0,4.0,3,True,True,3.0,3.0
+04185,Cannon Cart,16.0,Magic Archer,62.0,Hunter,52.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+04200,Cannon Cart,16.0,Magic Archer,62.0,Hunter,52.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+04215,Cannon Cart,16.0,Magic Archer,62.0,Hunter,52.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+04230,Cannon Cart,16.0,Magic Archer,62.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+04245,Cannon Cart,16.0,Magic Archer,62.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+04260,Cannon Cart,16.0,Magic Archer,62.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+04275,Cannon Cart,16.0,Magic Archer,62.0,Hunter,52.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+04290,Cannon Cart,16.0,Magic Archer,62.0,Hunter,52.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+04305,Cannon Cart,16.0,Magic Archer,62.0,Hunter,52.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+04320,Cannon Cart,16.0,Magic Archer,62.0,Hunter,52.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+04335,Cannon Cart,16.0,Magic Archer,62.0,Hunter,52.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+04350,Cannon Cart,16.0,Magic Archer,62.0,Hunter,52.0,Royal Hogs,88.0,,,,8,False,False,0.0,0.0
+04365,Cannon Cart,16.0,Magic Archer,62.0,Hunter,52.0,Royal Hogs,88.0,,,,8,False,False,0.0,0.0
+04380,Cannon Cart,16.0,Magic Archer,62.0,Hunter,52.0,Royal Hogs,88.0,,,,8,False,False,0.0,0.0
+04395,Cannon Cart,16.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,Magic Archer,62.0,2.0,5,True,True,3.0,4.0
+04410,Cannon Cart,16.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+04425,Cannon Cart,16.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+04440,Cannon Cart,16.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+04455,Cannon Cart,16.0,Heal Spirit,50.0,Hunter,52.0,The Log,98.0,Royal Hogs,88.0,4.0,1,True,True,5.0,5.0
+04470,Cannon Cart,16.0,Heal Spirit,50.0,Hunter,52.0,The Log,98.0,,,,1,False,False,0.0,0.0
+04485,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,The Log,98.0,Heal Spirit,50.0,2.0,1,True,False,0.0,1.0
+04500,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,The Log,98.0,,,,1,False,False,0.0,0.0
+04515,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,The Log,98.0,,,,1,False,False,0.0,0.0
+04530,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,The Log,98.0,,,,2,False,False,0.0,0.0
+04545,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,The Log,98.0,,,,2,False,False,0.0,0.0
+04560,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,The Log,98.0,,,,3,False,False,0.0,0.0
+04575,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,The Log,98.0,,,,3,False,False,0.0,0.0
+04590,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,The Log,98.0,,,,3,False,False,0.0,0.0
+04605,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,The Log,98.0,,,,4,False,False,0.0,0.0
+04620,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,The Log,98.0,,,,4,False,False,0.0,0.0
+04635,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,The Log,98.0,,,,4,False,False,0.0,0.0
+04650,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,The Log,98.0,,,,5,False,False,0.0,0.0
+04665,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,The Log,98.0,,,,5,False,False,0.0,0.0
+04680,Cannon Cart,16.0,Royal Recruits,89.0,Hunter,52.0,The Log,98.0,,,,5,False,False,0.0,0.0
+04695,Fisherman,32.0,Royal Recruits,89.0,Hunter,52.0,The Log,98.0,Cannon Cart,16.0,1.0,1,True,True,4.0,5.0
+04710,Fisherman,32.0,Royal Recruits,89.0,Hunter,52.0,The Log,98.0,,,,1,False,False,0.0,0.0
+04725,Fisherman,32.0,Royal Recruits,89.0,Hunter,52.0,The Log,98.0,,,,1,False,False,0.0,0.0
+04740,Fisherman,32.0,Royal Recruits,89.0,Hunter,52.0,The Log,98.0,,,,2,False,False,0.0,0.0
+04755,Fisherman,32.0,Royal Recruits,89.0,Hunter,52.0,The Log,98.0,,,,2,False,False,0.0,0.0
+04770,Fisherman,32.0,Royal Recruits,89.0,Hunter,52.0,The Log,98.0,,,,3,False,False,0.0,0.0
+04785,Fisherman,32.0,Royal Recruits,89.0,Hunter,52.0,The Log,98.0,,,,3,False,False,0.0,0.0
+04800,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,The Log,98.0,Fisherman,32.0,1.0,0,True,True,3.0,3.0
+04815,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,The Log,98.0,,,,1,False,False,0.0,0.0
+04830,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,The Log,98.0,,,,1,False,False,0.0,0.0
+04845,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,The Log,98.0,,,,1,False,False,0.0,0.0
+04860,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,The Log,98.0,,,,2,False,False,0.0,0.0
+04875,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,The Log,98.0,,,,2,False,False,0.0,0.0
+04890,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,The Log,98.0,4.0,0,True,True,2.0,2.0
+04905,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,1,False,False,0.0,0.0
+04920,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,1,False,False,0.0,0.0
+04935,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+04950,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+04965,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+04980,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+04995,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+05010,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+05025,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+05040,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+05055,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+05070,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+05085,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+05100,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+05115,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+05130,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+05145,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+05160,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+05175,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+05190,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,8,False,False,0.0,0.0
+05205,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,8,False,False,0.0,0.0
+05220,Magic Archer,62.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,8,False,False,0.0,0.0
+05235,Magic Archer,62.0,Heal Spirit,50.0,Cannon Cart,16.0,Royal Hogs,88.0,Hunter,52.0,3.0,2,True,True,6.0,4.0
+05250,Magic Archer,62.0,Heal Spirit,50.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+05265,Magic Archer,62.0,Heal Spirit,50.0,Cannon Cart,16.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+05280,Magic Archer,62.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,Cannon Cart,16.0,3.0,3,True,False,0.0,5.0
+05295,Magic Archer,62.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+05310,Magic Archer,62.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+05325,Magic Archer,62.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+05340,Magic Archer,62.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+05355,Magic Archer,62.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+05370,Magic Archer,62.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+05385,Magic Archer,62.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+05400,Magic Archer,62.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+05415,Magic Archer,62.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+05430,Magic Archer,62.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+05445,Magic Archer,62.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+05460,Magic Archer,62.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+05475,Magic Archer,62.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+05490,Magic Archer,62.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,,,,8,False,False,0.0,0.0
+05505,Magic Archer,62.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,,,,8,False,False,0.0,0.0
+05520,Magic Archer,62.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,,,,8,False,False,0.0,0.0
+05535,Magic Archer,62.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,,,,9,False,False,0.0,0.0
+05550,Cannon Cart,16.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,Magic Archer,62.0,1.0,5,True,True,4.0,4.0
+05565,Cannon Cart,16.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+05580,Cannon Cart,16.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+05595,Cannon Cart,16.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+05610,Cannon Cart,16.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+05625,Cannon Cart,16.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+05640,Cannon Cart,16.0,Heal Spirit,50.0,Hunter,52.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+05655,Cannon Cart,16.0,Heal Spirit,50.0,Hunter,52.0,Fisherman,32.0,Royal Hogs,88.0,4.0,3,True,True,4.0,5.0
+05670,Cannon Cart,16.0,Heal Spirit,50.0,Hunter,52.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+05685,Cannon Cart,16.0,Heal Spirit,50.0,Hunter,52.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+05700,Cannon Cart,16.0,Heal Spirit,50.0,Hunter,52.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+05715,Cannon Cart,16.0,Heal Spirit,50.0,Hunter,52.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+05730,Cannon Cart,16.0,Heal Spirit,50.0,Hunter,52.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+05745,Cannon Cart,16.0,Heal Spirit,50.0,Hunter,52.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+05760,Cannon Cart,16.0,Heal Spirit,50.0,Hunter,52.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+05775,The Log,98.0,Heal Spirit,50.0,Hunter,52.0,Fisherman,32.0,Cannon Cart,16.0,1.0,0,True,True,5.0,5.0
+05790,The Log,98.0,Heal Spirit,50.0,Hunter,52.0,Fisherman,32.0,,,,1,False,False,0.0,0.0
+05805,The Log,98.0,Heal Spirit,50.0,Hunter,52.0,Fisherman,32.0,,,,1,False,False,0.0,0.0
+05820,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,Heal Spirit,50.0,2.0,1,True,False,0.0,1.0
+05835,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,1,False,False,0.0,0.0
+05850,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,1,False,False,0.0,0.0
+05865,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+05880,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+05895,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+05910,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+05925,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+05940,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+05955,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+05970,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+05985,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+06000,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+06015,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+06030,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+06045,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+06060,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+06075,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+06090,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+06105,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+06120,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+06135,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Magic Archer,62.0,Fisherman,32.0,4.0,5,True,True,3.0,3.0
+06150,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+06165,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+06180,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+06195,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+06210,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+06225,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+06240,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+06255,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+06270,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+06285,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,Magic Archer,62.0,4.0,5,True,True,3.0,4.0
+06300,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+06315,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+06330,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+06345,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+06360,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+06375,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+06390,The Log,98.0,Royal Recruits,89.0,Hunter,52.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+06405,The Log,98.0,Cannon Cart,16.0,Hunter,52.0,Royal Hogs,88.0,Royal Recruits,89.0,2.0,7,True,True,6.0,7.0
+06420,The Log,98.0,Cannon Cart,16.0,Hunter,52.0,Royal Hogs,88.0,,,,1,False,False,0.0,0.0
+06435,The Log,98.0,Cannon Cart,16.0,Hunter,52.0,Royal Hogs,88.0,,,,1,False,False,0.0,0.0
+06450,The Log,98.0,Cannon Cart,16.0,Hunter,52.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+06465,The Log,98.0,Cannon Cart,16.0,Hunter,52.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+06480,The Log,98.0,Cannon Cart,16.0,Hunter,52.0,Royal Hogs,88.0,,,,2,False,False,0.0,0.0
+06495,The Log,98.0,Cannon Cart,16.0,Hunter,52.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+06510,The Log,98.0,Cannon Cart,16.0,Hunter,52.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+06525,The Log,98.0,Cannon Cart,16.0,Hunter,52.0,Royal Hogs,88.0,,,,3,False,False,0.0,0.0
+06540,The Log,98.0,Cannon Cart,16.0,Hunter,52.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+06555,The Log,98.0,Cannon Cart,16.0,Hunter,52.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+06570,The Log,98.0,Cannon Cart,16.0,Hunter,52.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+06585,The Log,98.0,Cannon Cart,16.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+06600,The Log,98.0,Cannon Cart,16.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+06615,The Log,98.0,Cannon Cart,16.0,Hunter,52.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+06630,The Log,98.0,Cannon Cart,16.0,Hunter,52.0,Heal Spirit,50.0,Royal Hogs,88.0,4.0,1,True,True,4.0,5.0
+06645,The Log,98.0,Cannon Cart,16.0,Hunter,52.0,Heal Spirit,50.0,,,,1,False,False,0.0,0.0
+06660,The Log,98.0,Cannon Cart,16.0,Hunter,52.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+06675,The Log,98.0,Cannon Cart,16.0,Hunter,52.0,Heal Spirit,50.0,,,,2,False,False,0.0,0.0
+06690,Fisherman,32.0,Cannon Cart,16.0,Hunter,52.0,Heal Spirit,50.0,The Log,98.0,1.0,0,True,True,2.0,2.0
+06705,Fisherman,32.0,Cannon Cart,16.0,Hunter,52.0,Heal Spirit,50.0,,,,1,False,False,0.0,0.0
+06720,Fisherman,32.0,Cannon Cart,16.0,Hunter,52.0,Heal Spirit,50.0,,,,1,False,False,0.0,0.0
+06735,Fisherman,32.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,Heal Spirit,50.0,4.0,0,True,True,1.0,1.0
+06750,Fisherman,32.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,1,False,False,0.0,0.0
+06765,Fisherman,32.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,1,False,False,0.0,0.0
+06780,Fisherman,32.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,1,False,False,0.0,0.0
+06795,Fisherman,32.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+06810,Fisherman,32.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+06825,Fisherman,32.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+06840,Fisherman,32.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+06855,Fisherman,32.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+06870,Fisherman,32.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+06885,Fisherman,32.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+06900,Fisherman,32.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+06915,Fisherman,32.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+06930,Fisherman,32.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+06945,Fisherman,32.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+06960,Fisherman,32.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+06975,Fisherman,32.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+06990,Fisherman,32.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+07005,Fisherman,32.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+07020,Royal Recruits,89.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,Fisherman,32.0,1.0,4,True,True,3.0,3.0
+07035,Royal Recruits,89.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07050,Royal Recruits,89.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07065,Royal Recruits,89.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07080,Royal Recruits,89.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+07095,Royal Recruits,89.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+07110,Royal Recruits,89.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+07125,Royal Recruits,89.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+07140,Royal Recruits,89.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+07155,Royal Recruits,89.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+07170,Royal Recruits,89.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+07185,Royal Recruits,89.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+07200,Royal Recruits,89.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+07215,Royal Recruits,89.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+07230,Royal Recruits,89.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+07245,Royal Hogs,88.0,Cannon Cart,16.0,Cannon Cart,16.0,Magic Archer,62.0,Hunter,52.0,3.0,2,True,True,7.0,4.0
+07260,Royal Hogs,88.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,Cannon Cart,16.0,3.0,3,True,False,0.0,5.0
+07275,Royal Hogs,88.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07290,Royal Hogs,88.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07305,Royal Hogs,88.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07320,Royal Hogs,88.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07335,Royal Hogs,88.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07350,Royal Hogs,88.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07365,Royal Hogs,88.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07380,Royal Hogs,88.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+07395,Royal Hogs,88.0,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+07410,Royal Hogs,88.0,The Log,98.0,Cannon Cart,16.0,Magic Archer,62.0,Hunter,52.0,3.0,2,True,True,4.0,4.0
+07425,Royal Hogs,88.0,The Log,98.0,Cannon Cart,16.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+07440,Royal Hogs,88.0,The Log,98.0,Hunter,52.0,Magic Archer,62.0,Cannon Cart,16.0,3.0,3,True,False,0.0,5.0
+07455,Royal Hogs,88.0,The Log,98.0,Hunter,52.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07470,Royal Hogs,88.0,The Log,98.0,Hunter,52.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07485,Royal Hogs,88.0,The Log,98.0,Hunter,52.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07500,Royal Hogs,88.0,The Log,98.0,Hunter,52.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07515,Royal Hogs,88.0,The Log,98.0,Hunter,52.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+07530,Royal Hogs,88.0,The Log,98.0,Hunter,52.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+07545,Royal Hogs,88.0,The Log,98.0,Hunter,52.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07560,Royal Hogs,88.0,Heal Spirit,50.0,Hunter,52.0,Magic Archer,62.0,The Log,98.0,2.0,5,True,True,3.0,2.0
+07575,Royal Hogs,88.0,Heal Spirit,50.0,Hunter,52.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+07590,Royal Hogs,88.0,Heal Spirit,50.0,Hunter,52.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+07605,Royal Hogs,88.0,Heal Spirit,50.0,Hunter,52.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+07620,Royal Hogs,88.0,Heal Spirit,50.0,Hunter,52.0,Fisherman,32.0,Magic Archer,62.0,4.0,3,True,True,4.0,4.0
+07635,Royal Hogs,88.0,Heal Spirit,50.0,Hunter,52.0,Fisherman,32.0,,,,4,False,False,0.0,0.0

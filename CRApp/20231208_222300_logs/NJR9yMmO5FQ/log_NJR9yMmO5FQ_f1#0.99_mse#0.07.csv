@@ -1,0 +1,608 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00255,Witch,104.0,Fireball,30.0,Miner,66.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+00270,Witch,104.0,Fireball,30.0,Miner,66.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+00285,Witch,104.0,Fireball,30.0,Miner,66.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+00300,Witch,104.0,Fireball,30.0,Miner,66.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00315,Witch,104.0,Fireball,30.0,Miner,66.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00330,Witch,104.0,Fireball,30.0,Miner,66.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00345,Witch,104.0,Fireball,30.0,Miner,66.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00360,Witch,104.0,Fireball,30.0,Miner,66.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00375,Witch,104.0,Fireball,30.0,Miner,66.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00390,Witch,104.0,Fireball,30.0,Miner,66.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00405,Witch,104.0,Fireball,30.0,Miner,66.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00420,Witch,104.0,Fireball,30.0,Miner,66.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00435,Witch,104.0,Fireball,30.0,Miner,66.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00450,Witch,104.0,Fireball,30.0,Miner,66.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00465,Witch,104.0,Fireball,30.0,Miner,66.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00480,Witch,104.0,Fireball,30.0,Miner,66.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00495,Witch,104.0,Fireball,30.0,Miner,66.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00510,Witch,104.0,Fireball,30.0,Miner,66.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00525,Witch,104.0,Fireball,30.0,Miner,66.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00540,Witch,104.0,Fireball,30.0,Miner,66.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00555,Witch,104.0,Fireball,30.0,Miner,66.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00570,Witch,104.0,Fireball,30.0,Miner,66.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00585,Witch,104.0,Fireball,30.0,Miner,66.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00600,Witch,104.0,Fireball,30.0,Miner,66.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00615,Witch,104.0,Fireball,30.0,Miner,66.0,Fisherman,32.0,Barbarian Barrel,6.0,4.0,8,True,True,2.0,2.0
+00630,Witch,104.0,Fireball,30.0,Miner,66.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+00645,Witch,104.0,Fireball,30.0,Miner,66.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+00660,Witch,104.0,Fireball,30.0,Miner,66.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+00675,Witch,104.0,Fireball,30.0,Miner,66.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+00690,Witch,104.0,Fireball,30.0,Miner,66.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+00705,Witch,104.0,Fireball,30.0,Miner,66.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+00720,Witch,104.0,Fireball,30.0,Miner,66.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+00735,Witch,104.0,Fireball,30.0,Miner,66.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+00750,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,Fisherman,32.0,4.0,6,True,True,3.0,3.0
+00765,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+00780,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+00795,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+00810,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+00825,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+00840,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+00855,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+00870,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+00885,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+00900,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+00915,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+00930,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+00945,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+00960,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+00975,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+00990,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+01005,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+01020,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+01035,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,Magic Archer,62.0,4.0,6,True,True,3.0,4.0
+01050,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01065,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01080,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01095,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01110,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01125,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01140,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01155,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01170,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01185,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01200,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01215,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01230,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01245,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01260,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01275,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01290,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+01305,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+01320,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+01335,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+01350,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+01365,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+01380,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+01395,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+01410,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,Witch,104.0,1.0,6,True,True,4.0,5.0
+01425,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01440,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01455,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01470,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01485,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01500,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01515,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01530,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01545,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01560,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01575,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01590,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01605,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01620,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01635,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01650,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01665,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+01680,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+01695,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+01710,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+01725,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+01740,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+01755,Ram Rider,82.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Miner,66.0,3.0,10,True,True,3.0,3.0
+01770,Ram Rider,82.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+01785,Ram Rider,82.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01800,Ram Rider,82.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01815,Ram Rider,82.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01830,Ram Rider,82.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01845,Ram Rider,82.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01860,Ram Rider,82.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01875,Ram Rider,82.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01890,Ram Rider,82.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01905,Ram Rider,82.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01920,Ram Rider,82.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+01935,Ram Rider,82.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+01950,Ram Rider,82.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+01965,Ram Rider,82.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+01980,Ram Rider,82.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+01995,Ram Rider,82.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+02010,Ram Rider,82.0,Fireball,30.0,Barbarian Barrel,6.0,Fisherman,32.0,Electro Wizard,24.0,4.0,6,True,True,4.0,4.0
+02025,Ram Rider,82.0,Fireball,30.0,Barbarian Barrel,6.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+02040,Ram Rider,82.0,Fireball,30.0,Barbarian Barrel,6.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+02055,Ram Rider,82.0,Fireball,30.0,Barbarian Barrel,6.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+02070,Ram Rider,82.0,Magic Archer,62.0,Barbarian Barrel,6.0,Fisherman,32.0,Fireball,30.0,2.0,2,True,True,4.0,4.0
+02085,Ram Rider,82.0,Magic Archer,62.0,Barbarian Barrel,6.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+02100,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Fisherman,32.0,Barbarian Barrel,6.0,3.0,1,True,True,2.0,2.0
+02115,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Fisherman,32.0,,,,1,False,False,0.0,0.0
+02130,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Fisherman,32.0,,,,1,False,False,0.0,0.0
+02145,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Fisherman,32.0,,,,1,False,False,0.0,0.0
+02160,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Fisherman,32.0,,,,1,False,False,0.0,0.0
+02175,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+02190,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+02205,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+02220,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+02235,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+02250,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+02265,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+02280,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Miner,66.0,Fisherman,32.0,4.0,0,True,True,3.0,3.0
+02295,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Miner,66.0,,,,0,False,False,0.0,0.0
+02310,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Miner,66.0,,,,0,False,False,0.0,0.0
+02325,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Miner,66.0,,,,0,False,False,0.0,0.0
+02340,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Miner,66.0,,,,1,False,False,0.0,0.0
+02355,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Miner,66.0,,,,1,False,False,0.0,0.0
+02370,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Miner,66.0,,,,1,False,False,0.0,0.0
+02385,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Miner,66.0,,,,1,False,False,0.0,0.0
+02400,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Miner,66.0,,,,1,False,False,0.0,0.0
+02415,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Miner,66.0,,,,2,False,False,0.0,0.0
+02430,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Miner,66.0,,,,2,False,False,0.0,0.0
+02445,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Miner,66.0,,,,2,False,False,0.0,0.0
+02460,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Miner,66.0,,,,2,False,False,0.0,0.0
+02475,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Miner,66.0,,,,2,False,False,0.0,0.0
+02490,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Miner,66.0,,,,2,False,False,0.0,0.0
+02505,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Miner,66.0,,,,3,False,False,0.0,0.0
+02520,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Miner,66.0,,,,3,False,False,0.0,0.0
+02535,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Miner,66.0,,,,3,False,False,0.0,0.0
+02550,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Miner,66.0,,,,3,False,False,0.0,0.0
+02565,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Miner,66.0,,,,3,False,False,0.0,0.0
+02580,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Miner,66.0,,,,4,False,False,0.0,0.0
+02595,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Miner,66.0,,,,4,False,False,0.0,0.0
+02610,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Miner,66.0,,,,4,False,False,0.0,0.0
+02625,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Miner,66.0,,,,4,False,False,0.0,0.0
+02640,Ram Rider,82.0,Magic Archer,62.0,Witch,104.0,Miner,66.0,,,,4,False,False,0.0,0.0
+02655,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,Magic Archer,62.0,2.0,5,True,True,4.0,4.0
+02670,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,5,False,False,0.0,0.0
+02685,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,1,False,False,0.0,0.0
+02700,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,1,False,False,0.0,0.0
+02715,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,1,False,False,0.0,0.0
+02730,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,1,False,False,0.0,0.0
+02745,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,1,False,False,0.0,0.0
+02760,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,2,False,False,0.0,0.0
+02775,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,2,False,False,0.0,0.0
+02790,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,2,False,False,0.0,0.0
+02805,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,2,False,False,0.0,0.0
+02820,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,2,False,False,0.0,0.0
+02835,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,3,False,False,0.0,0.0
+02850,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,3,False,False,0.0,0.0
+02865,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,3,False,False,0.0,0.0
+02880,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,3,False,False,0.0,0.0
+02895,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,3,False,False,0.0,0.0
+02910,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,3,False,False,0.0,0.0
+02925,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,4,False,False,0.0,0.0
+02940,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,4,False,False,0.0,0.0
+02955,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,4,False,False,0.0,0.0
+02970,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,4,False,False,0.0,0.0
+02985,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,4,False,False,0.0,0.0
+03000,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03015,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03030,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03045,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03060,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03075,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03090,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,6,False,False,0.0,0.0
+03105,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,6,False,False,0.0,0.0
+03120,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,6,False,False,0.0,0.0
+03135,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,6,False,False,0.0,0.0
+03150,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,6,False,False,0.0,0.0
+03165,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,6,False,False,0.0,0.0
+03180,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,7,False,False,0.0,0.0
+03195,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,7,False,False,0.0,0.0
+03210,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,7,False,False,0.0,0.0
+03225,Ram Rider,82.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,7,False,False,0.0,0.0
+03240,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,Witch,104.0,3.0,3,True,True,4.0,5.0
+03255,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,,,,4,False,False,0.0,0.0
+03270,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,,,,4,False,False,0.0,0.0
+03285,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,,,,4,False,False,0.0,0.0
+03300,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,,,,4,False,False,0.0,0.0
+03315,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,,,,4,False,False,0.0,0.0
+03330,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,,,,4,False,False,0.0,0.0
+03345,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03360,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03375,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03390,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03405,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03420,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,,,,6,False,False,0.0,0.0
+03435,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,,,,6,False,False,0.0,0.0
+03450,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,,,,6,False,False,0.0,0.0
+03465,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,,,,6,False,False,0.0,0.0
+03480,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,,,,6,False,False,0.0,0.0
+03495,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,,,,6,False,False,0.0,0.0
+03510,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,,,,7,False,False,0.0,0.0
+03525,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,,,,7,False,False,0.0,0.0
+03540,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,,,,7,False,False,0.0,0.0
+03555,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,,,,7,False,False,0.0,0.0
+03570,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,,,,7,False,False,0.0,0.0
+03585,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,,,,7,False,False,0.0,0.0
+03600,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,,,,8,False,False,0.0,0.0
+03615,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,,,,8,False,False,0.0,0.0
+03630,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,,,,8,False,False,0.0,0.0
+03645,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,Miner,66.0,4.0,5,True,True,3.0,3.0
+03660,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+03675,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+03690,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+03705,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+03720,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+03735,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+03750,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+03765,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03780,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03795,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03810,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03825,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03840,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03855,Ram Rider,82.0,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03870,Fisherman,32.0,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,Ram Rider,82.0,1.0,4,True,True,5.0,5.0
+03885,Fisherman,32.0,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+03900,Fisherman,32.0,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+03915,Fisherman,32.0,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+03930,Fisherman,32.0,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+03945,Fisherman,32.0,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+03960,Magic Archer,62.0,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,Fisherman,32.0,1.0,3,True,True,3.0,3.0
+03975,Magic Archer,62.0,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+03990,Magic Archer,62.0,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+04005,Magic Archer,62.0,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+04020,Magic Archer,62.0,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+04035,Magic Archer,62.0,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+04050,Magic Archer,62.0,Electro Wizard,24.0,Witch,104.0,Barbarian Barrel,6.0,Fireball,30.0,3.0,1,True,True,4.0,4.0
+04065,Magic Archer,62.0,Electro Wizard,24.0,Witch,104.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+04080,Magic Archer,62.0,Electro Wizard,24.0,Witch,104.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+04095,Magic Archer,62.0,Electro Wizard,24.0,Witch,104.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+04110,Magic Archer,62.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,Barbarian Barrel,6.0,4.0,1,True,True,2.0,2.0
+04125,Magic Archer,62.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,1,False,False,0.0,0.0
+04140,Magic Archer,62.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,2,False,False,0.0,0.0
+04155,Magic Archer,62.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,2,False,False,0.0,0.0
+04170,Magic Archer,62.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,2,False,False,0.0,0.0
+04185,Magic Archer,62.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,3,False,False,0.0,0.0
+04200,Magic Archer,62.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,3,False,False,0.0,0.0
+04215,Magic Archer,62.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,3,False,False,0.0,0.0
+04230,Magic Archer,62.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,4,False,False,0.0,0.0
+04245,Magic Archer,62.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,4,False,False,0.0,0.0
+04260,Magic Archer,62.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,4,False,False,0.0,0.0
+04275,Magic Archer,62.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,5,False,False,0.0,0.0
+04290,Magic Archer,62.0,Electro Wizard,24.0,Witch,104.0,Miner,66.0,,,,5,False,False,0.0,0.0
+04305,Magic Archer,62.0,Ram Rider,82.0,Witch,104.0,Miner,66.0,Electro Wizard,24.0,2.0,2,True,True,3.0,4.0
+04320,Magic Archer,62.0,Ram Rider,82.0,Witch,104.0,Miner,66.0,,,,2,False,False,0.0,0.0
+04335,Magic Archer,62.0,Ram Rider,82.0,Witch,104.0,Miner,66.0,,,,2,False,False,0.0,0.0
+04350,Magic Archer,62.0,Ram Rider,82.0,Witch,104.0,Miner,66.0,,,,3,False,False,0.0,0.0
+04365,Magic Archer,62.0,Ram Rider,82.0,Witch,104.0,Miner,66.0,,,,3,False,False,0.0,0.0
+04380,Magic Archer,62.0,Ram Rider,82.0,Witch,104.0,Miner,66.0,,,,3,False,False,0.0,0.0
+04395,Magic Archer,62.0,Ram Rider,82.0,Witch,104.0,Miner,66.0,,,,4,False,False,0.0,0.0
+04410,Magic Archer,62.0,Ram Rider,82.0,Witch,104.0,Miner,66.0,,,,4,False,False,0.0,0.0
+04425,Magic Archer,62.0,Ram Rider,82.0,Witch,104.0,Miner,66.0,,,,4,False,False,0.0,0.0
+04440,Magic Archer,62.0,Ram Rider,82.0,Witch,104.0,Miner,66.0,,,,5,False,False,0.0,0.0
+04455,Magic Archer,62.0,Ram Rider,82.0,Witch,104.0,Miner,66.0,,,,5,False,False,0.0,0.0
+04470,Magic Archer,62.0,Ram Rider,82.0,Witch,104.0,Miner,66.0,,,,5,False,False,0.0,0.0
+04485,Magic Archer,62.0,Ram Rider,82.0,Witch,104.0,Miner,66.0,,,,6,False,False,0.0,0.0
+04500,Magic Archer,62.0,Ram Rider,82.0,Witch,104.0,Miner,66.0,,,,6,False,False,0.0,0.0
+04515,Magic Archer,62.0,Ram Rider,82.0,Witch,104.0,Miner,66.0,,,,7,False,False,0.0,0.0
+04530,Magic Archer,62.0,Ram Rider,82.0,Witch,104.0,Miner,66.0,,,,7,False,False,0.0,0.0
+04545,Magic Archer,62.0,Ram Rider,82.0,Witch,104.0,Miner,66.0,,,,7,False,False,0.0,0.0
+04560,Magic Archer,62.0,Ram Rider,82.0,Witch,104.0,Miner,66.0,,,,8,False,False,0.0,0.0
+04575,Magic Archer,62.0,Ram Rider,82.0,Witch,104.0,Miner,66.0,,,,8,False,False,0.0,0.0
+04590,Magic Archer,62.0,Ram Rider,82.0,Witch,104.0,Miner,66.0,,,,8,False,False,0.0,0.0
+04605,Magic Archer,62.0,Ram Rider,82.0,Witch,104.0,Miner,66.0,,,,9,False,False,0.0,0.0
+04620,Magic Archer,62.0,Ram Rider,82.0,Fisherman,32.0,Miner,66.0,Witch,104.0,3.0,5,True,True,4.0,5.0
+04635,Magic Archer,62.0,Ram Rider,82.0,Fisherman,32.0,Miner,66.0,,,,5,False,False,0.0,0.0
+04650,Magic Archer,62.0,Ram Rider,82.0,Fisherman,32.0,Miner,66.0,,,,6,False,False,0.0,0.0
+04665,Magic Archer,62.0,Ram Rider,82.0,Fisherman,32.0,Miner,66.0,,,,6,False,False,0.0,0.0
+04680,Magic Archer,62.0,Ram Rider,82.0,Fisherman,32.0,Miner,66.0,,,,6,False,False,0.0,0.0
+04695,Magic Archer,62.0,Ram Rider,82.0,Fisherman,32.0,Miner,66.0,,,,7,False,False,0.0,0.0
+04710,Magic Archer,62.0,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Fisherman,32.0,3.0,4,True,True,3.0,3.0
+04725,Magic Archer,62.0,Ram Rider,82.0,Fireball,30.0,Miner,66.0,,,,5,False,False,0.0,0.0
+04740,Magic Archer,62.0,Ram Rider,82.0,Fireball,30.0,Miner,66.0,,,,5,False,False,0.0,0.0
+04755,Magic Archer,62.0,Ram Rider,82.0,Fireball,30.0,Miner,66.0,,,,5,False,False,0.0,0.0
+04770,Magic Archer,62.0,Ram Rider,82.0,Fireball,30.0,Miner,66.0,,,,6,False,False,0.0,0.0
+04785,Magic Archer,62.0,Ram Rider,82.0,Fireball,30.0,Miner,66.0,,,,6,False,False,0.0,0.0
+04800,Magic Archer,62.0,Ram Rider,82.0,Fireball,30.0,Miner,66.0,,,,6,False,False,0.0,0.0
+04815,Magic Archer,62.0,Ram Rider,82.0,Barbarian Barrel,6.0,Miner,66.0,Fireball,30.0,3.0,3,True,True,3.0,4.0
+04830,Magic Archer,62.0,Ram Rider,82.0,Barbarian Barrel,6.0,Miner,66.0,,,,3,False,False,0.0,0.0
+04845,Magic Archer,62.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Miner,66.0,4.0,0,True,True,3.0,3.0
+04860,Magic Archer,62.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+04875,Magic Archer,62.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+04890,Magic Archer,62.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+04905,Magic Archer,62.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+04920,Magic Archer,62.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+04935,Magic Archer,62.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+04950,Magic Archer,62.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+04965,Magic Archer,62.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+04980,Magic Archer,62.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04995,Magic Archer,62.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05010,Magic Archer,62.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05025,Magic Archer,62.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05040,Magic Archer,62.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05055,Magic Archer,62.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05070,Magic Archer,62.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05085,Magic Archer,62.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05100,Magic Archer,62.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05115,Magic Archer,62.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+05130,Magic Archer,62.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+05145,Magic Archer,62.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+05160,Magic Archer,62.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+05175,Magic Archer,62.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+05190,Magic Archer,62.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+05205,Witch,104.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Magic Archer,62.0,1.0,5,True,True,4.0,4.0
+05220,Witch,104.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05235,Witch,104.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05250,Witch,104.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05265,Witch,104.0,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05280,Witch,104.0,Fisherman,32.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Ram Rider,82.0,2.0,2,True,True,4.0,5.0
+05295,Witch,104.0,Fisherman,32.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+05310,Witch,104.0,Fisherman,32.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+05325,Witch,104.0,Fisherman,32.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+05340,Witch,104.0,Fisherman,32.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+05355,Witch,104.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Fisherman,32.0,2.0,3,True,True,2.0,3.0
+05370,Witch,104.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+05385,Witch,104.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+05400,Witch,104.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+05415,Witch,104.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+05430,Witch,104.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+05445,Witch,104.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+05460,Witch,104.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+05475,Witch,104.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+05490,Witch,104.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05505,Witch,104.0,Fireball,30.0,Barbarian Barrel,6.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05520,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,Barbarian Barrel,6.0,3.0,2,True,True,2.0,2.0
+05535,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+05550,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+05565,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+05580,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05595,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05610,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05625,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05640,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05655,Witch,104.0,Fireball,30.0,Miner,66.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05670,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,Electro Wizard,24.0,4.0,2,True,True,4.0,4.0
+05685,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+05700,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+05715,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+05730,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+05745,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+05760,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+05775,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+05790,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+05805,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+05820,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+05835,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+05850,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+05865,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+05880,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+05895,Witch,104.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+05910,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,Witch,104.0,1.0,4,True,True,3.0,5.0
+05925,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+05940,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+05955,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+05970,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+05985,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+06000,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+06015,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+06030,Ram Rider,82.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+06045,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,Magic Archer,62.0,Miner,66.0,3.0,4,True,True,3.0,3.0
+06060,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+06075,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+06090,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+06105,Ram Rider,82.0,Barbarian Barrel,6.0,Fisherman,32.0,Magic Archer,62.0,Fireball,30.0,2.0,1,True,True,4.0,4.0
+06120,Ram Rider,82.0,Barbarian Barrel,6.0,Fisherman,32.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+06135,Ram Rider,82.0,Barbarian Barrel,6.0,Fisherman,32.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+06150,Ram Rider,82.0,Barbarian Barrel,6.0,Fisherman,32.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+06165,Ram Rider,82.0,Barbarian Barrel,6.0,Fisherman,32.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+06180,Ram Rider,82.0,Barbarian Barrel,6.0,Fisherman,32.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+06195,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Magic Archer,62.0,Fisherman,32.0,3.0,0,True,True,3.0,3.0
+06210,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Magic Archer,62.0,,,,1,False,False,0.0,0.0
+06225,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Magic Archer,62.0,,,,1,False,False,0.0,0.0
+06240,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+06255,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+06270,Ram Rider,82.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+06285,Ram Rider,82.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,Barbarian Barrel,6.0,2.0,2,True,True,1.0,2.0
+06300,Ram Rider,82.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,,,,1,False,False,0.0,0.0
+06315,Ram Rider,82.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,,,,1,False,False,0.0,0.0
+06330,Ram Rider,82.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+06345,Ram Rider,82.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+06360,Ram Rider,82.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+06375,Ram Rider,82.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+06390,Ram Rider,82.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+06405,Ram Rider,82.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+06420,Ram Rider,82.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+06435,Ram Rider,82.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+06450,Ram Rider,82.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+06465,Ram Rider,82.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+06480,Ram Rider,82.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+06495,Ram Rider,82.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+06510,Ram Rider,82.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+06525,Ram Rider,82.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+06540,Ram Rider,82.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+06555,Ram Rider,82.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+06570,Ram Rider,82.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+06585,Ram Rider,82.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+06600,Ram Rider,82.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+06615,Ram Rider,82.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+06630,Ram Rider,82.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+06645,Ram Rider,82.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+06660,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,Magic Archer,62.0,Witch,104.0,2.0,5,True,True,4.0,5.0
+06675,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+06690,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+06705,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+06720,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+06735,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+06750,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+06765,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+06780,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,Magic Archer,62.0,,,,3,False,True,4.0,0.0
+06795,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+06810,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+06825,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+06840,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+06855,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+06870,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+06885,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+06900,Miner,66.0,Fireball,30.0,Electro Wizard,24.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+06915,Miner,66.0,Fireball,30.0,Fisherman,32.0,Magic Archer,62.0,Electro Wizard,24.0,3.0,3,True,True,3.0,4.0
+06930,Miner,66.0,Fireball,30.0,Fisherman,32.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+06945,Barbarian Barrel,6.0,Fireball,30.0,Fisherman,32.0,Magic Archer,62.0,Miner,66.0,1.0,0,True,True,3.0,3.0
+06960,Barbarian Barrel,6.0,Fireball,30.0,Fisherman,32.0,Magic Archer,62.0,,,,1,False,False,0.0,0.0
+06975,Barbarian Barrel,6.0,Fireball,30.0,Fisherman,32.0,Magic Archer,62.0,,,,1,False,False,0.0,0.0
+06990,Barbarian Barrel,6.0,Fireball,30.0,Fisherman,32.0,Magic Archer,62.0,,,,1,False,False,0.0,0.0
+07005,Barbarian Barrel,6.0,Fireball,30.0,Fisherman,32.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+07020,Barbarian Barrel,6.0,Fireball,30.0,Fisherman,32.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+07035,Barbarian Barrel,6.0,Fireball,30.0,Fisherman,32.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+07050,Barbarian Barrel,6.0,Fireball,30.0,Fisherman,32.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07065,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,Magic Archer,62.0,Barbarian Barrel,6.0,1.0,1,True,True,2.0,2.0
+07080,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+07095,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+07110,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+07125,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07140,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07155,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07170,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07185,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07200,Ram Rider,82.0,Fireball,30.0,Witch,104.0,Magic Archer,62.0,Fisherman,32.0,3.0,1,True,True,3.0,3.0
+07215,Ram Rider,82.0,Fireball,30.0,Witch,104.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+07230,Ram Rider,82.0,Fireball,30.0,Witch,104.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+07245,Ram Rider,82.0,Fireball,30.0,Witch,104.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07260,Ram Rider,82.0,Fireball,30.0,Witch,104.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07275,Ram Rider,82.0,Fireball,30.0,Witch,104.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07290,Ram Rider,82.0,Fireball,30.0,Witch,104.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07305,Ram Rider,82.0,Fireball,30.0,Witch,104.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07320,Ram Rider,82.0,Fireball,30.0,Witch,104.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07335,Ram Rider,82.0,Fireball,30.0,Witch,104.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07350,Ram Rider,82.0,Fireball,30.0,Witch,104.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07365,Ram Rider,82.0,Fireball,30.0,Witch,104.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07380,Ram Rider,82.0,Fireball,30.0,Witch,104.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+07395,Ram Rider,82.0,Fireball,30.0,Witch,104.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+07410,Ram Rider,82.0,Fireball,30.0,Witch,104.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+07425,Ram Rider,82.0,Fireball,30.0,Witch,104.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+07440,Ram Rider,82.0,Fireball,30.0,Witch,104.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+07455,Ram Rider,82.0,Fireball,30.0,Witch,104.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+07470,Ram Rider,82.0,Fireball,30.0,Witch,104.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+07485,Electro Wizard,24.0,Fireball,30.0,Witch,104.0,Magic Archer,62.0,Ram Rider,82.0,1.0,4,True,True,5.0,5.0
+07500,Electro Wizard,24.0,Fireball,30.0,Witch,104.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07515,Electro Wizard,24.0,Fireball,30.0,Witch,104.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07530,Electro Wizard,24.0,Fireball,30.0,Witch,104.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+07545,Electro Wizard,24.0,Fireball,30.0,Witch,104.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+07560,Electro Wizard,24.0,Fireball,30.0,Witch,104.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+07575,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,Witch,104.0,3.0,3,True,True,4.0,5.0
+07590,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07605,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07620,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07635,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07650,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+07665,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+07680,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+07695,Electro Wizard,24.0,Fireball,30.0,Miner,66.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+07710,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,Magic Archer,62.0,Miner,66.0,3.0,5,True,True,3.0,3.0
+07725,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+07740,Electro Wizard,24.0,Fireball,30.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+07755,Electro Wizard,24.0,Fisherman,32.0,Barbarian Barrel,6.0,Magic Archer,62.0,Fireball,30.0,2.0,3,True,True,3.0,4.0
+07770,Electro Wizard,24.0,Fisherman,32.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07785,Electro Wizard,24.0,Fisherman,32.0,Ram Rider,82.0,Magic Archer,62.0,Barbarian Barrel,6.0,3.0,2,True,True,1.0,2.0
+07800,Electro Wizard,24.0,Fisherman,32.0,Ram Rider,82.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+07815,Electro Wizard,24.0,Fisherman,32.0,Ram Rider,82.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07830,Electro Wizard,24.0,Fisherman,32.0,Ram Rider,82.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07845,Electro Wizard,24.0,Fisherman,32.0,Ram Rider,82.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07860,Electro Wizard,24.0,Fisherman,32.0,Ram Rider,82.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07875,Electro Wizard,24.0,Fisherman,32.0,Ram Rider,82.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07890,Electro Wizard,24.0,Fisherman,32.0,Ram Rider,82.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+07905,Electro Wizard,24.0,Fisherman,32.0,Ram Rider,82.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+07920,Electro Wizard,24.0,Fisherman,32.0,Ram Rider,82.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+07935,Electro Wizard,24.0,Fisherman,32.0,Ram Rider,82.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+07950,Electro Wizard,24.0,Fisherman,32.0,Ram Rider,82.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+07965,Electro Wizard,24.0,Fisherman,32.0,Ram Rider,82.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+07980,Electro Wizard,24.0,Fisherman,32.0,Ram Rider,82.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+07995,Electro Wizard,24.0,Fisherman,32.0,Ram Rider,82.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+08010,Electro Wizard,24.0,Fisherman,32.0,Ram Rider,82.0,Magic Archer,62.0,,,,10,False,False,0.0,0.0
+08025,Electro Wizard,24.0,Fisherman,32.0,Ram Rider,82.0,Magic Archer,62.0,,,,10,False,False,0.0,0.0
+08040,Electro Wizard,24.0,Fisherman,32.0,Ram Rider,82.0,Magic Archer,62.0,,,,10,False,False,0.0,0.0
+08055,Electro Wizard,24.0,Witch,104.0,Ram Rider,82.0,Magic Archer,62.0,Fisherman,32.0,2.0,7,True,True,3.0,3.0
+08070,Electro Wizard,24.0,Witch,104.0,Miner,66.0,Magic Archer,62.0,Ram Rider,82.0,3.0,2,True,True,5.0,5.0
+08085,Electro Wizard,24.0,Witch,104.0,Miner,66.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+08100,Electro Wizard,24.0,Witch,104.0,Miner,66.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+08115,Electro Wizard,24.0,Witch,104.0,Miner,66.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+08130,Electro Wizard,24.0,Witch,104.0,Miner,66.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+08145,Electro Wizard,24.0,Witch,104.0,Miner,66.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+08160,Electro Wizard,24.0,Witch,104.0,Miner,66.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+08175,Electro Wizard,24.0,Witch,104.0,Fireball,30.0,Magic Archer,62.0,Miner,66.0,3.0,3,True,True,3.0,3.0
+08190,Electro Wizard,24.0,Witch,104.0,Fireball,30.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+08205,Electro Wizard,24.0,Witch,104.0,Fireball,30.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+08220,Barbarian Barrel,6.0,Witch,104.0,Fireball,30.0,Magic Archer,62.0,Electro Wizard,24.0,1.0,4,True,True,3.0,4.0
+08235,Barbarian Barrel,6.0,Witch,104.0,Fireball,30.0,Magic Archer,62.0,,,,1,False,False,0.0,0.0
+08250,Barbarian Barrel,6.0,Witch,104.0,Fireball,30.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+08265,Barbarian Barrel,6.0,Witch,104.0,Fireball,30.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+08280,Barbarian Barrel,6.0,Witch,104.0,Fireball,30.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+08295,Barbarian Barrel,6.0,Witch,104.0,Fireball,30.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+08310,Barbarian Barrel,6.0,Witch,104.0,Fireball,30.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+08325,Barbarian Barrel,6.0,Witch,104.0,Fireball,30.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+08340,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Magic Archer,62.0,Fireball,30.0,3.0,1,True,True,4.0,4.0
+08355,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+08370,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+08385,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+08400,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+08415,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+08430,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+08445,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+08460,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+08475,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Ram Rider,82.0,Magic Archer,62.0,4.0,2,True,True,3.0,4.0
+08490,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Ram Rider,82.0,,,,3,False,False,0.0,0.0
+08505,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Ram Rider,82.0,,,,3,False,False,0.0,0.0
+08520,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Ram Rider,82.0,,,,4,False,False,0.0,0.0
+08535,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Ram Rider,82.0,,,,4,False,False,0.0,0.0
+08550,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Ram Rider,82.0,,,,5,False,False,0.0,0.0
+08565,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Ram Rider,82.0,,,,5,False,False,0.0,0.0
+08580,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Ram Rider,82.0,,,,6,False,False,0.0,0.0
+08595,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Ram Rider,82.0,,,,6,False,False,0.0,0.0
+08610,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Ram Rider,82.0,,,,7,False,False,0.0,0.0
+08625,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Ram Rider,82.0,,,,7,False,False,0.0,0.0
+08640,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Miner,66.0,Ram Rider,82.0,4.0,3,True,True,4.0,5.0
+08655,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Miner,66.0,,,,3,False,False,0.0,0.0
+08670,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Miner,66.0,,,,4,False,False,0.0,0.0
+08685,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Miner,66.0,,,,5,False,False,0.0,0.0
+08700,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Miner,66.0,,,,5,False,False,0.0,0.0
+08715,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Miner,66.0,,,,6,False,False,0.0,0.0
+08730,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Miner,66.0,,,,6,False,False,0.0,0.0
+08745,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Miner,66.0,,,,7,False,False,0.0,0.0
+08760,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Miner,66.0,,,,7,False,False,0.0,0.0
+08775,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Miner,66.0,,,,8,False,False,0.0,0.0
+08790,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Miner,66.0,,,,8,False,False,0.0,0.0
+08805,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Miner,66.0,,,,9,False,False,0.0,0.0
+08820,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Miner,66.0,,,,9,False,False,0.0,0.0
+08835,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Miner,66.0,,,,10,False,False,0.0,0.0
+08850,Barbarian Barrel,6.0,Witch,104.0,Fisherman,32.0,Miner,66.0,,,,10,False,False,0.0,0.0
+08865,Barbarian Barrel,6.0,Witch,104.0,Electro Wizard,24.0,Miner,66.0,Fisherman,32.0,3.0,7,True,True,3.0,3.0
+08880,Barbarian Barrel,6.0,Witch,104.0,Electro Wizard,24.0,Miner,66.0,,,,7,False,False,0.0,0.0
+08895,Barbarian Barrel,6.0,Witch,104.0,Electro Wizard,24.0,Miner,66.0,,,,8,False,False,0.0,0.0
+08910,Barbarian Barrel,6.0,Witch,104.0,Electro Wizard,24.0,Miner,66.0,,,,8,False,False,0.0,0.0
+08925,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Miner,66.0,Barbarian Barrel,6.0,1.0,7,True,True,1.0,2.0
+08940,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,Miner,66.0,4.0,5,True,True,2.0,3.0
+08955,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+08970,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+08985,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+09000,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Ram Rider,82.0,Magic Archer,62.0,4.0,3,True,True,3.0,4.0
+09015,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Ram Rider,82.0,,,,3,False,False,0.0,0.0
+09030,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Ram Rider,82.0,,,,4,False,False,0.0,0.0
+09045,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Ram Rider,82.0,,,,4,False,False,0.0,0.0
+09060,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Ram Rider,82.0,,,,5,False,False,0.0,0.0
+09075,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Ram Rider,82.0,,,,5,False,False,0.0,0.0
+09090,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Fisherman,32.0,Ram Rider,82.0,4.0,1,True,True,4.0,5.0
+09105,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Fisherman,32.0,,,,1,False,False,0.0,0.0
+09120,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+09135,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+09150,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+09165,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+09180,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Barbarian Barrel,6.0,Fisherman,32.0,4.0,1,True,True,3.0,3.0
+09195,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+09210,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+09225,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+09240,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+09255,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+09270,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+09285,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+09300,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+09315,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+09330,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+09345,Fireball,30.0,Witch,104.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0

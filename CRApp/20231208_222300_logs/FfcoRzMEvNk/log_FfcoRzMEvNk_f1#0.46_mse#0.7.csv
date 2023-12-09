@@ -1,0 +1,1703 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+00255,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+00270,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+00285,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+00300,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+00315,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+00330,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+00345,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+00360,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+00375,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+00390,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+00405,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+00420,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+00435,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+00450,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+00465,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+00480,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+00495,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+00510,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+00525,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+00540,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Arrows,2.0,,,,10,False,False,0.0,0.0
+00555,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Arrows,2.0,,,,10,False,False,0.0,0.0
+00570,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Arrows,2.0,,,,10,False,False,0.0,0.0
+00585,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Arrows,2.0,,,,10,False,False,0.0,0.0
+00600,Hunter,52.0,Fireball,30.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,3.0,6,True,True,4.0,4.0
+00615,Hunter,52.0,Fireball,30.0,Cannon Cart,16.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+00630,Hunter,52.0,Fireball,30.0,Cannon Cart,16.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+00645,Hunter,52.0,Fireball,30.0,Cannon Cart,16.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+00660,Hunter,52.0,Fireball,30.0,Cannon Cart,16.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+00675,Hunter,52.0,Fireball,30.0,Cannon Cart,16.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+00690,Hunter,52.0,Fireball,30.0,Cannon Cart,16.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+00705,Hunter,52.0,Fireball,30.0,Cannon Cart,16.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+00720,Hunter,52.0,Fireball,30.0,Cannon Cart,16.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+00735,Hunter,52.0,Fireball,30.0,Cannon Cart,16.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+00750,Hunter,52.0,Fireball,30.0,Cannon Cart,16.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+00765,Hunter,52.0,Fireball,30.0,Cannon Cart,16.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+00780,Hunter,52.0,Fireball,30.0,Cannon Cart,16.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+00795,Hunter,52.0,Fireball,30.0,Cannon Cart,16.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+00810,Hunter,52.0,Fireball,30.0,Cannon Cart,16.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+00825,Hunter,52.0,Fireball,30.0,Cannon Cart,16.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+00840,Hunter,52.0,Fireball,30.0,Cannon Cart,16.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+00855,Hunter,52.0,Fireball,30.0,Cannon Cart,16.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+00870,Hunter,52.0,Fireball,30.0,Cannon Cart,16.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+00885,Hunter,52.0,Fireball,30.0,Cannon Cart,16.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+00900,Hunter,52.0,Fireball,30.0,Cannon Cart,16.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+00915,Hunter,52.0,Fireball,30.0,Cannon Cart,16.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+00930,Hunter,52.0,Fireball,30.0,Cannon Cart,16.0,Arrows,2.0,,,,10,False,False,0.0,0.0
+00945,Cannon Cart,16.0,Fireball,30.0,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,1.0,6,True,True,4.0,4.0
+00960,Cannon Cart,16.0,Fireball,30.0,Cannon Cart,16.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+00975,Cannon Cart,16.0,Fireball,30.0,Cannon Cart,16.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+00990,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Arrows,2.0,Cannon Cart,16.0,3.0,6,True,False,0.0,5.0
+01005,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+01020,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+01035,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+01050,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+01065,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+01080,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+01095,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+01110,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01125,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Arrows,2.0,,,,2,False,True,6.0,0.0
+01140,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+01155,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+01170,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+01185,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+01200,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+01215,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+01230,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Arrows,2.0,,,,2,False,True,1.0,0.0
+01245,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+01260,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+01275,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+01290,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+01305,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,Arrows,2.0,4.0,0,True,True,3.0,3.0
+01320,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,0,False,False,0.0,0.0
+01335,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,0,False,False,0.0,0.0
+01350,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,0,False,False,0.0,0.0
+01365,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+01380,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+01395,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+01410,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+01425,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+01440,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+01455,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+01470,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+01485,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+01500,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+01515,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+01530,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+01545,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+01560,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+01575,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+01590,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+01605,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+01620,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+01635,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+01650,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+01665,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+01680,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+01695,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01710,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01725,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01740,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01755,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01770,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+01785,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01800,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01815,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01830,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01845,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+01860,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01875,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01890,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01905,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01920,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01935,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+01950,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01965,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01980,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+01995,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02010,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02025,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,6,False,True,2.0,0.0
+02040,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,2,False,True,4.0,0.0
+02055,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+02070,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+02085,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+02100,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+02115,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+02130,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+02145,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+02160,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+02175,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+02190,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+02205,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+02220,Cannon Cart,16.0,Fireball,30.0,Hunter,52.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+02235,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,Fireball,30.0,2.0,0,True,True,4.0,4.0
+02250,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,0,False,False,0.0,0.0
+02265,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,0,False,False,0.0,0.0
+02280,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+02295,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+02310,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+02325,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+02340,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+02355,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+02370,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+02385,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+02400,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+02415,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+02430,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+02445,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+02460,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+02475,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+02490,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+02505,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+02520,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+02535,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+02550,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+02565,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+02580,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+02595,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+02610,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+02625,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+02640,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+02655,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+02670,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+02685,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+02700,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02715,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02730,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02745,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02760,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02775,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02790,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02805,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02820,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02835,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02850,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02865,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02880,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,7,False,True,1.0,0.0
+02895,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02910,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02925,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02940,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02955,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02970,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02985,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03000,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03015,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03030,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03045,Cannon Cart,16.0,Arrows,2.0,Hunter,52.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03060,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,Hunter,52.0,3.0,5,True,True,4.0,4.0
+03075,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03090,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03105,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03120,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03135,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03150,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03165,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03180,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03195,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03210,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03225,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03240,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03255,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03270,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03285,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03300,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03315,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03330,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03345,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03360,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03375,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03390,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,True,3.0,0.0
+03405,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03420,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03435,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03450,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03465,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03480,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03495,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03510,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03525,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03540,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03555,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03570,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03585,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03600,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03615,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03630,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03645,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03660,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03675,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03690,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03705,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,True,3.0,0.0
+03720,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03735,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03750,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,Cannon Cart,16.0,1.0,6,True,False,0.0,5.0
+03765,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03780,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03795,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03810,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03825,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03840,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03855,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03870,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03885,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,3,False,True,5.0,0.0
+03900,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03915,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03930,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+03945,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+03960,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03975,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03990,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,True,1.0,0.0
+04005,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04020,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04035,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04050,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04065,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04080,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04095,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04110,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04125,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,Arrows,2.0,2.0,4,True,True,3.0,3.0
+04140,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04155,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04170,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04185,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04200,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04215,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04230,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,True,3.0,0.0
+04245,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04260,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04275,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04290,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04305,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04320,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04335,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04350,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04365,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04380,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+04395,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+04410,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+04425,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+04440,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,True,4.0,0.0
+04455,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04470,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04485,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04500,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04515,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04530,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04545,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04560,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+04575,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+04590,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+04605,Hunter,52.0,Cannon Cart,16.0,Fireball,30.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+04620,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,Cannon Cart,16.0,2.0,3,True,True,6.0,5.0
+04635,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04650,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04665,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04680,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04695,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,True,1.0,0.0
+04710,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04725,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04740,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04755,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04770,Hunter,52.0,Arrows,2.0,Arrows,2.0,Electro Wizard,24.0,Fireball,30.0,3.0,2,True,True,3.0,4.0
+04785,Hunter,52.0,Arrows,2.0,Arrows,2.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+04800,Hunter,52.0,Arrows,2.0,Arrows,2.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+04815,Hunter,52.0,Arrows,2.0,Arrows,2.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+04830,Hunter,52.0,Arrows,2.0,Arrows,2.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+04845,Hunter,52.0,Arrows,2.0,Arrows,2.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04860,Hunter,52.0,Arrows,2.0,Arrows,2.0,Electro Wizard,24.0,,,,1,False,True,3.0,0.0
+04875,Hunter,52.0,Arrows,2.0,Arrows,2.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+04890,Hunter,52.0,Arrows,2.0,Arrows,2.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+04905,Hunter,52.0,Arrows,2.0,Arrows,2.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+04920,Hunter,52.0,Arrows,2.0,Arrows,2.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+04935,Hunter,52.0,Arrows,2.0,Arrows,2.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+04950,Hunter,52.0,Arrows,2.0,Arrows,2.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+04965,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,Arrows,2.0,2.0,0,True,True,3.0,3.0
+04980,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+04995,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+05010,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+05025,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+05040,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+05055,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+05070,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+05085,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+05100,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05115,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05130,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05145,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05160,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05175,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05190,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05205,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05220,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+05235,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+05250,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+05265,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+05280,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+05295,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+05310,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+05325,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+05340,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+05355,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,6,False,True,3.0,0.0
+05370,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05385,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05400,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+05415,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+05430,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+05445,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+05460,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+05475,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+05490,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+05505,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+05520,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+05535,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,Cannon Cart,16.0,2.0,4,True,True,6.0,5.0
+05550,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05565,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05580,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05595,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05610,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05625,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05640,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,2,False,True,3.0,0.0
+05655,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+05670,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+05685,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+05700,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05715,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05730,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05745,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05760,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,Fireball,30.0,2.0,1,True,True,4.0,4.0
+05775,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+05790,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+05805,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+05820,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+05835,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+05850,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+05865,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05880,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05895,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+05910,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05925,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05940,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+05955,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05970,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+05985,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+06000,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+06015,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+06030,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+06045,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+06060,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+06075,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+06090,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+06105,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+06120,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+06135,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,6,False,True,4.0,0.0
+06150,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+06165,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+06180,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+06195,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+06210,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+06225,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+06240,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+06255,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+06270,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+06285,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+06300,Hunter,52.0,Cannon Cart,16.0,Arrows,2.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+06315,Hunter,52.0,Arrows,2.0,Arrows,2.0,Electro Wizard,24.0,Cannon Cart,16.0,2.0,4,True,True,6.0,5.0
+06330,Hunter,52.0,Arrows,2.0,Arrows,2.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06345,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,Arrows,2.0,3.0,2,True,True,2.0,3.0
+06360,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+06375,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+06390,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+06405,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+06420,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+06435,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06450,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06465,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06480,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,2,False,True,2.0,0.0
+06495,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+06510,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+06525,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+06540,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+06555,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06570,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06585,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,3,False,True,1.0,0.0
+06600,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06615,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06630,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06645,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+06660,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+06675,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+06690,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+06705,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,Hunter,52.0,1.0,2,True,True,4.0,4.0
+06720,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+06735,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+06750,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+06765,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06780,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06795,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06810,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+06825,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+06840,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+06855,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+06870,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+06885,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+06900,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+06915,Cannon Cart,16.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+06930,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,Cannon Cart,16.0,1.0,8,True,True,4.0,5.0
+06945,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06960,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06975,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+06990,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+07005,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+07020,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+07035,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+07050,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+07065,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,1,False,True,5.0,0.0
+07080,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+07095,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+07110,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+07125,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+07140,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+07155,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+07170,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+07185,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,1,False,True,2.0,0.0
+07200,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+07215,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+07230,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+07245,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,1,False,True,1.0,0.0
+07260,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+07275,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+07290,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+07305,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+07320,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+07335,Hunter,52.0,Arrows,2.0,Fireball,30.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+07350,Hunter,52.0,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Arrows,2.0,2.0,1,True,True,2.0,3.0
+07365,Hunter,52.0,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+07380,Hunter,52.0,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+07395,Hunter,52.0,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+07410,Hunter,52.0,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+07425,Hunter,52.0,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+07440,Hunter,52.0,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+07455,Hunter,52.0,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+07470,Hunter,52.0,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+07485,Hunter,52.0,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,Fireball,30.0,3.0,1,True,True,3.0,4.0
+07500,Hunter,52.0,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+07515,Hunter,52.0,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+07530,Hunter,52.0,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+07545,Hunter,52.0,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+07560,Hunter,52.0,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+07575,Hunter,52.0,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+07590,Hunter,52.0,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+07605,Hunter,52.0,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+07620,Hunter,52.0,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+07635,Hunter,52.0,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+07650,Hunter,52.0,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+07665,Hunter,52.0,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+07680,Hunter,52.0,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+07695,Hunter,52.0,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+07710,Hunter,52.0,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+07725,Hunter,52.0,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+07740,Hunter,52.0,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+07755,Hunter,52.0,Arrows,2.0,Cannon Cart,16.0,Electro Wizard,24.0,Hunter,52.0,2.0,6,True,True,3.0,4.0
+07770,Hunter,52.0,Arrows,2.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+07785,Hunter,52.0,Arrows,2.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+07800,Hunter,52.0,Arrows,2.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+07815,Hunter,52.0,Arrows,2.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+07830,Hunter,52.0,Arrows,2.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+07845,Hunter,52.0,Arrows,2.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+07860,Hunter,52.0,Arrows,2.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,7,False,True,2.0,0.0
+07875,Hunter,52.0,Arrows,2.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+07890,Hunter,52.0,Arrows,2.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+07905,Hunter,52.0,Arrows,2.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+07920,Hunter,52.0,Arrows,2.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+07935,Hunter,52.0,Arrows,2.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+07950,Hunter,52.0,Arrows,2.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+07965,Hunter,52.0,Arrows,2.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+07980,Hunter,52.0,Arrows,2.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+07995,Hunter,52.0,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Arrows,2.0,2.0,10,True,False,0.0,3.0
+08010,Hunter,52.0,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+08025,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,Cannon Cart,16.0,3.0,8,True,True,2.0,5.0
+08040,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+08055,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+08070,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+08085,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,4,False,True,5.0,0.0
+08100,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+08115,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+08130,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,1,False,True,4.0,0.0
+08145,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+08160,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+08175,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+08190,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+08205,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,1,False,True,3.0,0.0
+08220,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+08235,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+08250,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+08265,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+08280,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+08295,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+08310,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,1,False,True,2.0,0.0
+08325,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+08340,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+08355,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+08370,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+08385,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+08400,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+08415,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+08430,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+08445,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+08460,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+08475,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,2,False,True,4.0,0.0
+08490,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,1,False,True,1.0,0.0
+08505,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+08520,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+08535,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+08550,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+08565,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+08580,Hunter,52.0,Fireball,30.0,Arrows,2.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+08595,Hunter,52.0,Fireball,30.0,Arrows,2.0,Cannon Cart,16.0,Electro Wizard,24.0,4.0,1,True,True,4.0,4.0
+08610,Hunter,52.0,Fireball,30.0,Arrows,2.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+08625,Hunter,52.0,Fireball,30.0,Arrows,2.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+08640,Hunter,52.0,Fireball,30.0,Arrows,2.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+08655,Hunter,52.0,Fireball,30.0,Arrows,2.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+08670,Hunter,52.0,Fireball,30.0,Arrows,2.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+08685,Hunter,52.0,Fireball,30.0,Arrows,2.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+08700,Hunter,52.0,Fireball,30.0,Arrows,2.0,Cannon Cart,16.0,,,,1,False,True,3.0,0.0
+08715,Hunter,52.0,Fireball,30.0,Arrows,2.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+08730,Hunter,52.0,Fireball,30.0,Arrows,2.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+08745,Hunter,52.0,Fireball,30.0,Arrows,2.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+08760,Hunter,52.0,Fireball,30.0,Arrows,2.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+08775,Hunter,52.0,Fireball,30.0,Arrows,2.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+08790,Hunter,52.0,Fireball,30.0,Arrows,2.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+08805,Hunter,52.0,Fireball,30.0,Arrows,2.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+08820,Hunter,52.0,Fireball,30.0,Arrows,2.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+08835,Hunter,52.0,Fireball,30.0,Arrows,2.0,Cannon Cart,16.0,,,,2,False,True,2.0,0.0
+08850,Hunter,52.0,Fireball,30.0,Arrows,2.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+08865,Hunter,52.0,Fireball,30.0,Arrows,2.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+08880,Hunter,52.0,Fireball,30.0,Arrows,2.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+08895,Hunter,52.0,Fireball,30.0,Arrows,2.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+08910,Hunter,52.0,Fireball,30.0,Arrows,2.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+08925,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Cannon Cart,16.0,Arrows,2.0,3.0,2,True,True,2.0,3.0
+08940,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+08955,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+08970,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+08985,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+09000,Hunter,52.0,Fireball,30.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+09015,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,Cannon Cart,16.0,Fireball,30.0,2.0,7,True,True,5.0,4.0
+09030,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+09045,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+09060,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+09075,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+09090,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+09105,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+09120,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+09135,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+09150,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+09165,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+09180,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,Cannon Cart,16.0,4.0,3,True,True,4.0,5.0
+09195,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09210,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09225,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09240,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09255,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09270,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09285,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09300,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09315,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09330,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09345,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09360,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09375,Hunter,52.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09390,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,Hunter,52.0,1.0,4,True,False,0.0,4.0
+09405,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09420,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09435,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+09450,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+09465,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+09480,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+09495,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+09510,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+09525,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+09540,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+09555,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+09570,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+09585,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+09600,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+09615,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+09630,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+09645,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+09660,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+09675,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,4,False,True,1.0,0.0
+09690,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09705,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+09720,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+09735,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+09750,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+09765,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+09780,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+09795,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+09810,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+09825,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+09840,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+09855,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+09870,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+09885,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+09900,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+09915,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+09930,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+09945,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+09960,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+09975,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+09990,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+10005,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+10020,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+10035,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10050,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10065,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10080,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10095,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10110,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10125,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10140,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10155,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10170,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10185,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10200,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10215,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10230,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10245,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10260,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10275,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,6,False,True,4.0,0.0
+10290,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+10305,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+10320,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+10335,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+10350,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+10365,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+10380,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+10395,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+10410,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+10425,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+10440,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+10455,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+10470,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+10485,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+10500,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+10515,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+10530,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+10545,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+10560,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+10575,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+10590,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+10605,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10620,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10635,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10650,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,8,False,True,2.0,0.0
+10665,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+10680,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+10695,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+10710,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+10725,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+10740,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+10755,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+10770,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+10785,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+10800,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+10815,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10830,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10845,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10860,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10875,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10890,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10905,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10920,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10935,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10950,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10965,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10980,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+10995,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+11010,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+11025,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,Electro Wizard,24.0,4.0,6,True,True,4.0,4.0
+11040,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+11055,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+11070,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+11085,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+11100,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+11115,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+11130,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+11145,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+11160,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+11175,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+11190,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+11205,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+11220,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+11235,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+11250,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+11265,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+11280,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+11295,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+11310,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+11325,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+11340,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+11355,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,True,4.0,0.0
+11370,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+11385,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+11400,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+11415,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+11430,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+11445,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+11460,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+11475,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+11490,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+11505,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+11520,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+11535,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+11550,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+11565,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+11580,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+11595,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+11610,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+11625,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+11640,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+11655,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+11670,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+11685,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+11700,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+11715,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+11730,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+11745,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,True,3.0,0.0
+11760,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+11775,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+11790,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+11805,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+11820,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+11835,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+11850,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+11865,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+11880,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+11895,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+11910,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+11925,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+11940,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+11955,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+11970,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+11985,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+12000,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+12015,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+12030,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,True,3.0,0.0
+12045,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+12060,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+12075,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,1,False,True,5.0,0.0
+12090,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,1,False,False,0.0,0.0
+12105,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,1,False,False,0.0,0.0
+12120,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+12135,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+12150,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+12165,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+12180,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+12195,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+12210,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+12225,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+12240,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+12255,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+12270,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+12285,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+12300,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+12315,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+12330,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+12345,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+12360,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+12375,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+12390,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+12405,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+12420,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+12435,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+12450,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+12465,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+12480,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+12495,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+12510,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+12525,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,True,2.0,0.0
+12540,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+12555,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+12570,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+12585,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+12600,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+12615,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+12630,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+12645,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+12660,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+12675,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+12690,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+12705,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+12720,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+12735,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+12750,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+12765,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+12780,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+12795,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+12810,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,Cannon Cart,16.0,2.0,3,True,True,5.0,5.0
+12825,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+12840,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+12855,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+12870,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+12885,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+12900,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+12915,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+12930,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+12945,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+12960,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+12975,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+12990,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+13005,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+13020,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+13035,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+13050,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,True,3.0,0.0
+13065,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+13080,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+13095,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+13110,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+13125,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+13140,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+13155,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+13170,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+13185,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+13200,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+13215,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+13230,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+13245,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+13260,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+13275,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+13290,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+13305,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+13320,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+13335,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+13350,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+13365,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+13380,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+13395,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+13410,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+13425,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+13440,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,True,4.0,0.0
+13455,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+13470,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+13485,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+13500,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+13515,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+13530,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+13545,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+13560,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+13575,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+13590,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+13605,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+13620,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,10,False,False,0.0,0.0
+13635,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,10,False,False,0.0,0.0
+13650,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,10,False,False,0.0,0.0
+13665,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,True,5.0,0.0
+13680,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+13695,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+13710,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+13725,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+13740,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+13755,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+13770,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+13785,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+13800,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+13815,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+13830,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+13845,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+13860,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,Battle Healer,10.0,4.0,5,True,True,4.0,4.0
+13875,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+13890,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+13905,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,Cannon Cart,16.0,4.0,1,True,True,5.0,5.0
+13920,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+13935,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+13950,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+13965,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+13980,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+13995,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+14010,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+14025,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+14040,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+14055,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+14070,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+14085,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+14100,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+14115,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+14130,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,True,2.0,0.0
+14145,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+14160,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+14175,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,1,False,True,4.0,0.0
+14190,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,1,False,False,0.0,0.0
+14205,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+14220,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+14235,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+14250,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+14265,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+14280,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+14295,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+14310,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+14325,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+14340,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+14355,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+14370,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+14385,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+14400,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,1,False,True,5.0,0.0
+14415,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+14430,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+14445,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+14460,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+14475,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+14490,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+14505,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+14520,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+14535,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+14550,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+14565,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+14580,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+14595,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+14610,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+14625,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+14640,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+14655,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+14670,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+14685,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+14700,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+14715,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+14730,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+14745,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,Battle Healer,10.0,4.0,5,True,True,4.0,4.0
+14760,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+14775,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+14790,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+14805,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+14820,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+14835,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+14850,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+14865,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+14880,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+14895,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,4,False,True,5.0,0.0
+14910,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+14925,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+14940,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+14955,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+14970,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+14985,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+15000,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+15015,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+15030,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+15045,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+15060,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+15075,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,5,False,True,3.0,0.0
+15090,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+15105,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+15120,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+15135,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+15150,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,3,False,True,4.0,0.0
+15165,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+15180,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,2,False,True,1.0,0.0
+15195,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+15210,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+15225,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+15240,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+15255,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+15270,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+15285,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+15300,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+15315,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+15330,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+15345,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+15360,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+15375,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+15390,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+15405,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+15420,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+15435,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+15450,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+15465,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+15480,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+15495,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,4,False,True,5.0,0.0
+15510,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+15525,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+15540,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+15555,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+15570,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+15585,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+15600,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+15615,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+15630,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+15645,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+15660,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+15675,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+15690,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+15705,Fireball,30.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+15720,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Cannon Cart,16.0,Battle Healer,10.0,2.0,6,True,True,3.0,4.0
+15735,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+15750,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+15765,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+15780,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,Cannon Cart,16.0,4.0,2,True,True,5.0,5.0
+15795,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+15810,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+15825,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+15840,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+15855,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+15870,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+15885,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+15900,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+15915,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+15930,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+15945,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+15960,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,True,3.0,0.0
+15975,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+15990,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+16005,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+16020,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+16035,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+16050,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+16065,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+16080,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+16095,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+16110,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+16125,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,True,4.0,0.0
+16140,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+16155,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+16170,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+16185,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+16200,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+16215,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+16230,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+16245,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+16260,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,2,False,True,4.0,0.0
+16275,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+16290,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+16305,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+16320,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+16335,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+16350,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,2,False,True,1.0,0.0
+16365,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+16380,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+16395,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+16410,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+16425,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+16440,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+16455,Fireball,30.0,Cannon Cart,16.0,Electro Wizard,24.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+16470,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,3.0,1,True,True,3.0,4.0
+16485,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,1,False,False,0.0,0.0
+16500,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,1,False,False,0.0,0.0
+16515,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+16530,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+16545,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,2,False,False,0.0,0.0
+16560,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+16575,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+16590,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,3,False,False,0.0,0.0
+16605,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+16620,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+16635,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,4,False,False,0.0,0.0
+16650,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+16665,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+16680,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+16695,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+16710,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+16725,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+16740,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+16755,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+16770,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+16785,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+16800,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+16815,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+16830,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,6,False,True,3.0,0.0
+16845,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+16860,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+16875,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+16890,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+16905,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+16920,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+16935,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,4,False,True,5.0,0.0
+16950,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+16965,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,5,False,False,0.0,0.0
+16980,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+16995,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+17010,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+17025,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,7,False,False,0.0,0.0
+17040,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+17055,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,8,False,False,0.0,0.0
+17070,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,9,False,False,0.0,0.0
+17085,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,10,False,False,0.0,0.0
+17100,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,10,False,False,0.0,0.0
+17115,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,5,False,True,5.0,0.0
+17130,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+17145,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Battle Healer,10.0,,,,6,False,False,0.0,0.0
+17160,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,4.0,3,True,True,3.0,4.0
+17175,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+17190,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+17205,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+17220,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+17235,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+17250,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+17265,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,4,False,True,2.0,0.0
+17280,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+17295,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+17310,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+17325,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,4,False,True,2.0,0.0
+17340,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+17355,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+17370,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+17385,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+17400,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,Cannon Cart,16.0,2.0,1,True,True,5.0,5.0
+17415,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+17430,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+17445,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+17460,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+17475,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+17490,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+17505,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+17520,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+17535,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,1,False,True,5.0,0.0
+17550,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+17565,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+17580,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+17595,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+17610,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+17625,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+17640,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+17655,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+17670,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+17685,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,3,False,True,3.0,0.0
+17700,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+17715,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+17730,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+17745,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+17760,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+17775,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+17790,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+17805,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+17820,Fireball,30.0,Battle Healer,10.0,Battle Healer,10.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+17835,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,Battle Healer,10.0,2.0,4,True,True,3.0,4.0
+17850,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+17865,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+17880,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+17895,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+17910,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+17925,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+17940,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,5,False,True,2.0,0.0
+17955,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+17970,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+17985,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+18000,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+18015,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+18030,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+18045,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+18060,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+18075,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+18090,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,5,False,True,5.0,0.0
+18105,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+18120,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+18135,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+18150,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,2,False,True,4.0,0.0
+18165,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+18180,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,1,False,True,1.0,0.0
+18195,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+18210,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+18225,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+18240,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+18255,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+18270,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+18285,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+18300,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+18315,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+18330,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+18345,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+18360,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+18375,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+18390,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+18405,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+18420,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+18435,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+18450,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+18465,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+18480,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+18495,Fireball,30.0,Cannon Cart,16.0,Battle Healer,10.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+18510,Fireball,30.0,Cannon Cart,16.0,Tesla,97.0,Electro Wizard,24.0,Battle Healer,10.0,3.0,6,True,True,4.0,4.0
+18525,Fireball,30.0,Cannon Cart,16.0,Tesla,97.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+18540,Fireball,30.0,Cannon Cart,16.0,Tesla,97.0,Electro Wizard,24.0,,,,3,False,True,3.0,0.0
+18555,Fireball,30.0,Cannon Cart,16.0,Tesla,97.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+18570,Fireball,30.0,Cannon Cart,16.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+18585,Fireball,30.0,Cannon Cart,16.0,Tesla,97.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+18600,Knight,58.0,Tesla,97.0,Tesla,97.0,Electro Wizard,24.0,Cannon Cart,16.0,2.0,1,True,True,4.0,5.0
+18615,Knight,58.0,Tesla,97.0,Tesla,97.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+18630,Knight,58.0,Tesla,97.0,Tesla,97.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+18645,Knight,58.0,Tesla,97.0,Tesla,97.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+18660,Knight,58.0,Tesla,97.0,Tesla,97.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+18675,Knight,58.0,Tesla,97.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+18690,Knight,58.0,Tesla,97.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+18705,Knight,58.0,Tesla,97.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+18720,Knight,58.0,Tesla,97.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+18735,Knight,58.0,Tesla,97.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+18750,Knight,58.0,Tesla,97.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+18765,Knight,58.0,Tesla,97.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+18780,Knight,58.0,Tesla,97.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+18795,Knight,58.0,Tesla,97.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+18810,Knight,58.0,Tesla,97.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+18825,Knight,58.0,Tesla,97.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+18840,Knight,58.0,Tesla,97.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+18855,Knight,58.0,Tesla,97.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+18870,Knight,58.0,Tesla,97.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+18885,Knight,58.0,Tesla,97.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+18900,Knight,58.0,Tesla,97.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+18915,Knight,58.0,Tesla,97.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+18930,Knight,58.0,Tesla,97.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+18945,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,Electro Wizard,24.0,4.0,4,True,False,0.0,4.0
+18960,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+18975,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+18990,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+19005,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+19020,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+19035,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+19050,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+19065,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+19080,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+19095,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+19110,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+19125,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+19140,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+19155,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+19170,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+19185,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+19200,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+19215,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+19230,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+19245,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,4,False,True,2.0,0.0
+19260,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+19275,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+19290,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+19305,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+19320,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+19335,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+19350,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+19365,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+19380,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+19395,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+19410,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+19425,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+19440,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+19455,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+19470,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+19485,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+19500,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+19515,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+19530,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+19545,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+19560,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+19575,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+19590,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+19605,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+19620,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+19635,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+19650,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+19665,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+19680,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+19695,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+19710,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+19725,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+19740,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,9,False,True,1.0,0.0
+19755,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+19770,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+19785,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+19800,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+19815,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+19830,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+19845,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+19860,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+19875,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,Tesla,97.0,2.0,6,True,True,4.0,4.0
+19890,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+19905,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+19920,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+19935,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+19950,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+19965,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+19980,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+19995,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+20010,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+20025,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+20040,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+20055,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+20070,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+20085,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+20100,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+20115,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+20130,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+20145,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+20160,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+20175,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+20190,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+20205,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,True,2.0,0.0
+20220,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+20235,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+20250,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+20265,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+20280,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+20295,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+20310,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+20325,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+20340,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+20355,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+20370,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+20385,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+20400,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+20415,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+20430,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+20445,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+20460,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+20475,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+20490,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+20505,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+20520,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+20535,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+20550,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+20565,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,True,6.0,0.0
+20580,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+20595,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+20610,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+20625,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+20640,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+20655,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+20670,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+20685,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,2,False,True,3.0,0.0
+20700,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+20715,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+20730,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+20745,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+20760,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+20775,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+20790,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+20805,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+20820,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+20835,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+20850,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+20865,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,2,False,True,1.0,0.0
+20880,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+20895,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+20910,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+20925,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+20940,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+20955,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+20970,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+20985,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+21000,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,1,False,True,3.0,0.0
+21015,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+21030,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+21045,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+21060,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+21075,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+21090,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+21105,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,0,False,True,2.0,0.0
+21120,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,0,False,False,0.0,0.0
+21135,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,0,False,False,0.0,0.0
+21150,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+21165,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+21180,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+21195,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+21210,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+21225,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+21240,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+21255,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+21270,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+21285,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+21300,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+21315,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+21330,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+21345,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+21360,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+21375,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+21390,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+21405,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+21420,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+21435,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+21450,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+21465,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+21480,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+21495,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+21510,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+21525,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+21540,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+21555,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+21570,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+21585,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+21600,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+21615,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+21630,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+21645,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+21660,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+21675,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+21690,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+21705,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+21720,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+21735,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+21750,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+21765,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+21780,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+21795,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+21810,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+21825,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+21840,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+21855,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+21870,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+21885,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+21900,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+21915,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,True,5.0,0.0
+21930,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+21945,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+21960,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+21975,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,1,False,True,3.0,0.0
+21990,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+22005,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+22020,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+22035,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+22050,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+22065,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+22080,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+22095,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+22110,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+22125,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+22140,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+22155,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+22170,Knight,58.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+22185,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,Fireball,30.0,2.0,5,True,False,0.0,4.0
+22200,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+22215,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+22230,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+22245,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+22260,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,1,False,True,4.0,0.0
+22275,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+22290,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+22305,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+22320,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+22335,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+22350,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+22365,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,1,False,True,1.0,0.0
+22380,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+22395,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+22410,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+22425,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+22440,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,0,False,True,2.0,0.0
+22455,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,0,False,False,0.0,0.0
+22470,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,0,False,False,0.0,0.0
+22485,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,0,False,False,0.0,0.0
+22500,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+22515,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+22530,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+22545,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+22560,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+22575,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+22590,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+22605,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+22620,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+22635,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+22650,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+22665,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+22680,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+22695,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+22710,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+22725,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+22740,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+22755,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+22770,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+22785,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+22800,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+22815,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+22830,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+22845,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+22860,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,4,False,True,1.0,0.0
+22875,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+22890,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+22905,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+22920,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+22935,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+22950,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+22965,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+22980,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+22995,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+23010,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+23025,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+23040,Knight,58.0,Arrows,2.0,Fireball,30.0,Knight,58.0,Tesla,97.0,3.0,5,True,True,3.0,4.0
+23055,Knight,58.0,Arrows,2.0,Fireball,30.0,Knight,58.0,,,,5,False,False,0.0,0.0
+23070,Knight,58.0,Arrows,2.0,Fireball,30.0,Knight,58.0,,,,5,False,False,0.0,0.0
+23085,Knight,58.0,Arrows,2.0,Fireball,30.0,Knight,58.0,,,,6,False,False,0.0,0.0
+23100,Knight,58.0,Arrows,2.0,Tesla,97.0,Knight,58.0,Fireball,30.0,3.0,8,True,False,0.0,4.0
+23115,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,Arrows,2.0,2.0,2,True,True,6.0,3.0
+23130,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+23145,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+23160,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+23175,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+23190,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,3,False,True,1.0,0.0
+23205,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+23220,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+23235,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+23250,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,3,False,True,1.0,0.0
+23265,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+23280,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+23295,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+23310,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+23325,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+23340,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+23355,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+23370,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+23385,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+23400,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+23415,Knight,58.0,Tesla,97.0,Tesla,97.0,Fireball,30.0,Knight,58.0,4.0,3,True,True,2.0,3.0
+23430,Knight,58.0,Tesla,97.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+23445,Knight,58.0,Tesla,97.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+23460,Knight,58.0,Tesla,97.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+23475,Knight,58.0,Tesla,97.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+23490,Knight,58.0,Tesla,97.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+23505,Knight,58.0,Tesla,97.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+23520,Knight,58.0,Tesla,97.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+23535,Knight,58.0,Tesla,97.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+23550,Knight,58.0,Tesla,97.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+23565,Knight,58.0,Tesla,97.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+23580,Knight,58.0,Tesla,97.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+23595,Knight,58.0,Tesla,97.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+23610,Knight,58.0,Tesla,97.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+23625,Knight,58.0,Tesla,97.0,Tesla,97.0,Fireball,30.0,,,,2,False,True,5.0,0.0
+23640,Knight,58.0,Tesla,97.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+23655,Knight,58.0,Tesla,97.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+23670,Knight,58.0,Tesla,97.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+23685,Knight,58.0,Tesla,97.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+23700,Knight,58.0,Tesla,97.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+23715,Knight,58.0,Tesla,97.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+23730,Knight,58.0,Tesla,97.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+23745,Knight,58.0,Tesla,97.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+23760,Knight,58.0,Tesla,97.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+23775,Knight,58.0,Tesla,97.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+23790,Knight,58.0,Tesla,97.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+23805,Knight,58.0,Tesla,97.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+23820,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,Fireball,30.0,4.0,2,True,True,4.0,4.0
+23835,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+23850,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+23865,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+23880,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+23895,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+23910,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+23925,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+23940,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,4,False,True,1.0,0.0
+23955,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+23970,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+23985,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+24000,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+24015,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+24030,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,5,False,True,1.0,0.0
+24045,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+24060,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+24075,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+24090,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+24105,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+24120,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+24135,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+24150,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+24165,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+24180,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+24195,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,6,False,True,3.0,0.0
+24210,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+24225,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+24240,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+24255,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+24270,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+24285,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+24300,Knight,58.0,Tesla,97.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+24315,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,Tesla,97.0,3.0,5,True,True,4.0,4.0
+24330,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,5,False,False,0.0,0.0
+24345,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,6,False,False,0.0,0.0
+24360,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,6,False,False,0.0,0.0
+24375,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,6,False,False,0.0,0.0
+24390,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,7,False,False,0.0,0.0
+24405,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,7,False,False,0.0,0.0
+24420,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,7,False,False,0.0,0.0
+24435,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,8,False,False,0.0,0.0
+24450,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,2,False,True,6.0,0.0
+24465,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,2,False,False,0.0,0.0
+24480,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,3,False,False,0.0,0.0
+24495,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,3,False,False,0.0,0.0
+24510,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,4,False,False,0.0,0.0
+24525,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,4,False,False,0.0,0.0
+24540,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,4,False,False,0.0,0.0
+24555,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,5,False,False,0.0,0.0
+24570,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,3,False,True,2.0,0.0
+24585,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,1,False,True,2.0,0.0
+24600,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,2,False,False,0.0,0.0
+24615,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,1,False,True,1.0,0.0
+24630,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,1,False,False,0.0,0.0
+24645,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,2,False,False,0.0,0.0
+24660,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,1,False,True,1.0,0.0
+24675,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,1,False,False,0.0,0.0
+24690,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,2,False,False,0.0,0.0
+24705,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,2,False,False,0.0,0.0
+24720,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,3,False,False,0.0,0.0
+24735,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,3,False,False,0.0,0.0
+24750,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,3,False,False,0.0,0.0
+24765,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,4,False,False,0.0,0.0
+24780,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,4,False,False,0.0,0.0
+24795,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,4,False,False,0.0,0.0
+24810,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,5,False,False,0.0,0.0
+24825,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,5,False,False,0.0,0.0
+24840,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,5,False,False,0.0,0.0
+24855,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,6,False,False,0.0,0.0
+24870,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,6,False,False,0.0,0.0
+24885,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,7,False,False,0.0,0.0
+24900,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,7,False,False,0.0,0.0
+24915,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,7,False,False,0.0,0.0
+24930,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,8,False,False,0.0,0.0
+24945,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,8,False,False,0.0,0.0
+24960,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,8,False,False,0.0,0.0
+24975,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,9,False,False,0.0,0.0
+24990,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,9,False,False,0.0,0.0
+25005,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,6,False,True,3.0,0.0
+25020,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,7,False,False,0.0,0.0
+25035,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,7,False,False,0.0,0.0
+25050,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,7,False,False,0.0,0.0
+25065,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,7,False,False,0.0,0.0
+25080,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,8,False,False,0.0,0.0
+25095,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,8,False,False,0.0,0.0
+25110,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,9,False,False,0.0,0.0
+25125,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,9,False,False,0.0,0.0
+25140,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,10,False,False,0.0,0.0
+25155,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,4,False,True,6.0,0.0
+25170,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,4,False,False,0.0,0.0
+25185,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,5,False,False,0.0,0.0
+25200,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,2,False,True,3.0,0.0
+25215,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,2,False,False,0.0,0.0
+25230,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,3,False,False,0.0,0.0
+25245,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,3,False,False,0.0,0.0
+25260,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,3,False,False,0.0,0.0
+25275,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,4,False,False,0.0,0.0
+25290,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,4,False,False,0.0,0.0
+25305,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,4,False,False,0.0,0.0
+25320,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,5,False,False,0.0,0.0
+25335,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,5,False,False,0.0,0.0
+25350,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,6,False,False,0.0,0.0
+25365,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,6,False,False,0.0,0.0
+25380,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,6,False,False,0.0,0.0
+25395,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,3,False,True,3.0,0.0
+25410,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,2,False,True,1.0,0.0
+25425,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,2,False,False,0.0,0.0
+25440,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,3,False,False,0.0,0.0
+25455,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,3,False,False,0.0,0.0
+25470,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,3,False,False,0.0,0.0
+25485,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,4,False,False,0.0,0.0
+25500,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,4,False,False,0.0,0.0
+25515,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,4,False,False,0.0,0.0
+25530,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,4,False,False,0.0,0.0
+25545,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,4,False,False,0.0,0.0
+25560,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,2,False,True,2.0,0.0
+25575,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,3,False,False,0.0,0.0
+25590,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,3,False,False,0.0,0.0
+25605,Knight,58.0,Tesla,97.0,Fireball,30.0,Knight,58.0,,,,4,False,False,0.0,0.0
+25620,Knight,58.0,Tesla,97.0,Fireball,30.0,Fireball,30.0,Knight,58.0,4.0,1,True,True,3.0,3.0
+25635,Knight,58.0,Tesla,97.0,Fireball,30.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+25650,Knight,58.0,Tesla,97.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+25665,Knight,58.0,Tesla,97.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+25680,Knight,58.0,Tesla,97.0,Fireball,30.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+25695,Knight,58.0,Tesla,97.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+25710,Knight,58.0,Tesla,97.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+25725,Knight,58.0,Tesla,97.0,Fireball,30.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+25740,Knight,58.0,Tesla,97.0,Fireball,30.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+25755,Knight,58.0,Tesla,97.0,Fireball,30.0,Fireball,30.0,,,,4,False,False,0.0,0.0

@@ -1,0 +1,270 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00225,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,6,False,False,0.0,0.0
+00240,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,6,False,False,0.0,0.0
+00255,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,6,False,False,0.0,0.0
+00270,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00285,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00300,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00315,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00330,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00345,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00360,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00375,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00390,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00405,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00420,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00435,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00450,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00465,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00480,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00495,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00510,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00525,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,10,False,False,0.0,0.0
+00540,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,10,False,False,0.0,0.0
+00555,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,10,False,False,0.0,0.0
+00570,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,10,False,False,0.0,0.0
+00585,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,10,False,False,0.0,0.0
+00600,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Ice Wizard,55.0,Poison,78.0,4.0,6,True,True,4.0,4.0
+00615,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+00630,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+00645,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,Ice Wizard,55.0,4.0,3,True,True,3.0,3.0
+00660,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,3,False,False,0.0,0.0
+00675,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,4,False,False,0.0,0.0
+00690,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,4,False,False,0.0,0.0
+00705,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,Knight,58.0,4.0,1,True,True,3.0,3.0
+00720,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+00735,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+00750,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+00765,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+00780,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+00795,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+00810,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+00825,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+00840,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+00855,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,3,False,False,0.0,0.0
+00870,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,3,False,False,0.0,0.0
+00885,Graveyard,48.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tombstone,100.0,Tornado,101.0,3.0,0,True,True,3.0,3.0
+00900,Graveyard,48.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tombstone,100.0,,,,0,False,False,0.0,0.0
+00915,Graveyard,48.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tombstone,100.0,,,,0,False,False,0.0,0.0
+00930,Graveyard,48.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+00945,Graveyard,48.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+00960,Graveyard,48.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+00975,Graveyard,48.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+00990,Graveyard,48.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+01005,Graveyard,48.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+01020,Graveyard,48.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+01035,Graveyard,48.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+01050,Graveyard,48.0,Baby Dragon,3.0,Barbarian Barrel,6.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+01065,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,Barbarian Barrel,6.0,3.0,0,True,True,2.0,2.0
+01080,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,0,False,False,0.0,0.0
+01095,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+01110,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+01125,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+01140,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+01155,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+01170,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+01185,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+01200,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+01215,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+01230,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+01245,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+01260,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+01275,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,3,False,False,0.0,0.0
+01290,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,3,False,False,0.0,0.0
+01305,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,3,False,False,0.0,0.0
+01320,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,3,False,False,0.0,0.0
+01335,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,3,False,False,0.0,0.0
+01350,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+01365,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+01380,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+01395,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+01410,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+01425,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+01440,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,5,False,False,0.0,0.0
+01455,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,5,False,False,0.0,0.0
+01470,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,5,False,False,0.0,0.0
+01485,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,5,False,False,0.0,0.0
+01500,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,5,False,False,0.0,0.0
+01515,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,6,False,False,0.0,0.0
+01530,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,6,False,False,0.0,0.0
+01545,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,6,False,False,0.0,0.0
+01560,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,6,False,False,0.0,0.0
+01575,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,6,False,False,0.0,0.0
+01590,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,6,False,False,0.0,0.0
+01605,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,7,False,False,0.0,0.0
+01620,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,7,False,False,0.0,0.0
+01635,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,7,False,False,0.0,0.0
+01650,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,7,False,False,0.0,0.0
+01665,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,7,False,False,0.0,0.0
+01680,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,7,False,False,0.0,0.0
+01695,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,8,False,False,0.0,0.0
+01710,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,8,False,False,0.0,0.0
+01725,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,8,False,False,0.0,0.0
+01740,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,8,False,False,0.0,0.0
+01755,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,8,False,False,0.0,0.0
+01770,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,9,False,False,0.0,0.0
+01785,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,9,False,False,0.0,0.0
+01800,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Tombstone,100.0,,,,9,False,False,0.0,0.0
+01815,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Ice Wizard,55.0,Tombstone,100.0,4.0,6,True,True,3.0,3.0
+01830,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+01845,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+01860,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+01875,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+01890,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+01905,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+01920,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+01935,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+01950,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+01965,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+01980,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+01995,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+02010,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+02025,Graveyard,48.0,Baby Dragon,3.0,Poison,78.0,Ice Wizard,55.0,,,,9,False,False,0.0,0.0
+02040,Graveyard,48.0,Baby Dragon,3.0,Knight,58.0,Ice Wizard,55.0,Poison,78.0,3.0,5,True,True,4.0,4.0
+02055,Graveyard,48.0,Baby Dragon,3.0,Knight,58.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+02070,Graveyard,48.0,Baby Dragon,3.0,Knight,58.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+02085,Graveyard,48.0,Baby Dragon,3.0,Knight,58.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+02100,Graveyard,48.0,Baby Dragon,3.0,Knight,58.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+02115,Graveyard,48.0,Baby Dragon,3.0,Knight,58.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+02130,Graveyard,48.0,Baby Dragon,3.0,Knight,58.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+02145,Graveyard,48.0,Baby Dragon,3.0,Knight,58.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+02160,Graveyard,48.0,Baby Dragon,3.0,Knight,58.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+02175,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Ice Wizard,55.0,Knight,58.0,3.0,3,True,True,3.0,3.0
+02190,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+02205,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+02220,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+02235,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+02250,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+02265,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+02280,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+02295,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+02310,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Barbarian Barrel,6.0,Ice Wizard,55.0,4.0,2,True,True,3.0,3.0
+02325,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+02340,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+02355,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,Barbarian Barrel,6.0,4.0,1,True,True,1.0,2.0
+02370,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+02385,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+02400,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+02415,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+02430,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,1,False,False,0.0,0.0
+02445,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+02460,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+02475,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+02490,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+02505,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+02520,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,2,False,False,0.0,0.0
+02535,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,3,False,False,0.0,0.0
+02550,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,3,False,False,0.0,0.0
+02565,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,3,False,False,0.0,0.0
+02580,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,3,False,False,0.0,0.0
+02595,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,3,False,False,0.0,0.0
+02610,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+02625,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+02640,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+02655,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+02670,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,,,,4,False,False,0.0,0.0
+02685,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,Tombstone,100.0,4.0,1,True,True,3.0,3.0
+02700,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02715,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02730,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02745,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02760,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,2,False,False,0.0,0.0
+02775,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02790,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02805,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02820,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02835,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02850,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,3,False,False,0.0,0.0
+02865,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02880,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02895,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02910,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02925,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02940,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,4,False,False,0.0,0.0
+02955,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,5,False,False,0.0,0.0
+02970,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,5,False,False,0.0,0.0
+02985,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,5,False,False,0.0,0.0
+03000,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,5,False,False,0.0,0.0
+03015,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,5,False,False,0.0,0.0
+03030,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03045,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03060,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Poison,78.0,,,,6,False,False,0.0,0.0
+03075,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,Poison,78.0,4.0,2,True,True,4.0,4.0
+03090,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,2,False,False,0.0,0.0
+03105,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,2,False,False,0.0,0.0
+03120,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,3,False,False,0.0,0.0
+03135,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,3,False,False,0.0,0.0
+03150,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,3,False,False,0.0,0.0
+03165,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,3,False,False,0.0,0.0
+03180,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,3,False,False,0.0,0.0
+03195,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,4,False,False,0.0,0.0
+03210,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,4,False,False,0.0,0.0
+03225,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,4,False,False,0.0,0.0
+03240,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,4,False,False,0.0,0.0
+03255,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,4,False,False,0.0,0.0
+03270,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,4,False,False,0.0,0.0
+03285,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,5,False,False,0.0,0.0
+03300,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,5,False,False,0.0,0.0
+03315,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,5,False,False,0.0,0.0
+03330,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,5,False,False,0.0,0.0
+03345,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,5,False,False,0.0,0.0
+03360,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,5,False,False,0.0,0.0
+03375,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,6,False,False,0.0,0.0
+03390,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,6,False,False,0.0,0.0
+03405,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,6,False,False,0.0,0.0
+03420,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,6,False,False,0.0,0.0
+03435,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,6,False,False,0.0,0.0
+03450,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,7,False,False,0.0,0.0
+03465,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,7,False,False,0.0,0.0
+03480,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,7,False,False,0.0,0.0
+03495,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,7,False,False,0.0,0.0
+03510,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,7,False,False,0.0,0.0
+03525,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,7,False,False,0.0,0.0
+03540,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,8,False,False,0.0,0.0
+03555,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,8,False,False,0.0,0.0
+03570,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,8,False,False,0.0,0.0
+03585,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,8,False,False,0.0,0.0
+03600,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,8,False,False,0.0,0.0
+03615,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,9,False,False,0.0,0.0
+03630,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,9,False,False,0.0,0.0
+03645,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,9,False,False,0.0,0.0
+03660,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,9,False,False,0.0,0.0
+03675,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,9,False,False,0.0,0.0
+03690,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,9,False,False,0.0,0.0
+03705,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+03720,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+03735,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+03750,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+03765,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+03780,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+03795,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+03810,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+03825,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+03840,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+03855,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+03870,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+03885,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+03900,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+03915,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+03930,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+03945,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+03960,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+03975,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+03990,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+04005,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+04020,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+04035,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+04050,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+04065,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+04080,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+04095,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+04110,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+04125,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+04140,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+04155,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+04170,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+04185,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+04200,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+04215,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+04230,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0
+04245,Graveyard,48.0,Baby Dragon,3.0,Tornado,101.0,Knight,58.0,,,,10,False,False,0.0,0.0

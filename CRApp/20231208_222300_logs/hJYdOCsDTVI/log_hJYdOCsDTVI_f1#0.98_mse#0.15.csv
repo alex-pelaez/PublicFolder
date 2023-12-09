@@ -1,0 +1,431 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00225,Bats,9.0,Royal Delivery,85.0,Giant Snowball,38.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+00240,Bats,9.0,Royal Delivery,85.0,Giant Snowball,38.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+00255,Bats,9.0,Royal Delivery,85.0,Giant Snowball,38.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+00270,Bats,9.0,Royal Delivery,85.0,Giant Snowball,38.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+00285,Bats,9.0,Royal Delivery,85.0,Giant Snowball,38.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+00300,Bats,9.0,Royal Delivery,85.0,Giant Snowball,38.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+00315,Bats,9.0,Royal Delivery,85.0,Giant Snowball,38.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+00330,Bats,9.0,Royal Delivery,85.0,Giant Snowball,38.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+00345,Bats,9.0,Royal Delivery,85.0,Giant Snowball,38.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+00360,Bats,9.0,Royal Delivery,85.0,Giant Snowball,38.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+00375,Bats,9.0,Royal Delivery,85.0,Giant Snowball,38.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+00390,Bats,9.0,Royal Delivery,85.0,Giant Snowball,38.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+00405,Bats,9.0,Royal Delivery,85.0,Giant Snowball,38.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+00420,Bats,9.0,Royal Delivery,85.0,Giant Snowball,38.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+00435,Bats,9.0,Royal Delivery,85.0,Giant Snowball,38.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+00450,Bats,9.0,Royal Delivery,85.0,Giant Snowball,38.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+00465,Bats,9.0,Royal Delivery,85.0,Giant Snowball,38.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+00480,Bats,9.0,Royal Delivery,85.0,Giant Snowball,38.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+00495,Bats,9.0,Royal Delivery,85.0,Giant Snowball,38.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+00510,Bats,9.0,Royal Delivery,85.0,Giant Snowball,38.0,Hunter,52.0,Skeletons,94.0,4.0,8,True,True,1.0,1.0
+00525,Bats,9.0,Royal Delivery,85.0,Giant Snowball,38.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00540,Bats,9.0,Royal Delivery,85.0,Giant Snowball,38.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00555,Bats,9.0,Royal Delivery,85.0,Giant Snowball,38.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00570,Bats,9.0,Royal Delivery,85.0,Giant Snowball,38.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00585,Bats,9.0,Royal Delivery,85.0,Giant Snowball,38.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00600,Bats,9.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,Giant Snowball,38.0,3.0,7,True,True,2.0,2.0
+00615,Bats,9.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00630,Bats,9.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00645,Bats,9.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00660,Bats,9.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00675,Bats,9.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00690,Bats,9.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00705,Bats,9.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00720,Bats,9.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00735,Miner,66.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,Bats,9.0,1.0,7,True,True,2.0,2.0
+00750,Miner,66.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00765,Miner,66.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00780,Miner,66.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00795,Miner,66.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00810,Miner,66.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00825,Miner,66.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00840,Miner,66.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00855,Miner,66.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00870,Miner,66.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00885,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,Miner,66.0,1.0,6,True,True,3.0,3.0
+00900,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00915,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00930,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00945,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00960,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00975,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00990,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01005,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01020,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01035,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01050,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01065,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01080,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01095,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01110,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+01125,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+01140,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+01155,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+01170,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+01185,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+01200,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,10,False,False,0.0,0.0
+01215,Balloon,4.0,Skeletons,94.0,Ice Golem,53.0,Hunter,52.0,Royal Delivery,85.0,2.0,7,True,True,3.0,3.0
+01230,Balloon,4.0,Skeletons,94.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01245,Balloon,4.0,Skeletons,94.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01260,Balloon,4.0,Skeletons,94.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01275,Balloon,4.0,Skeletons,94.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01290,Balloon,4.0,Skeletons,94.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01305,Balloon,4.0,Skeletons,94.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01320,Balloon,4.0,Skeletons,94.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01335,Balloon,4.0,Skeletons,94.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01350,Balloon,4.0,Skeletons,94.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01365,Balloon,4.0,Skeletons,94.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01380,Balloon,4.0,Skeletons,94.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+01395,Balloon,4.0,Skeletons,94.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+01410,Balloon,4.0,Giant Snowball,38.0,Ice Golem,53.0,Hunter,52.0,Skeletons,94.0,2.0,8,True,True,1.0,1.0
+01425,Balloon,4.0,Giant Snowball,38.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01440,Balloon,4.0,Giant Snowball,38.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01455,Balloon,4.0,Giant Snowball,38.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01470,Balloon,4.0,Giant Snowball,38.0,Ice Golem,53.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+01485,Balloon,4.0,Bats,9.0,Ice Golem,53.0,Hunter,52.0,Giant Snowball,38.0,2.0,7,True,True,2.0,2.0
+01500,Balloon,4.0,Bats,9.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01515,Balloon,4.0,Bats,9.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01530,Balloon,4.0,Bats,9.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01545,Balloon,4.0,Bats,9.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01560,Balloon,4.0,Bats,9.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01575,Balloon,4.0,Miner,66.0,Ice Golem,53.0,Hunter,52.0,Bats,9.0,2.0,6,True,True,2.0,2.0
+01590,Balloon,4.0,Miner,66.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01605,Balloon,4.0,Miner,66.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01620,Balloon,4.0,Miner,66.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01635,Balloon,4.0,Miner,66.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01650,Balloon,4.0,Miner,66.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01665,Balloon,4.0,Miner,66.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01680,Balloon,4.0,Miner,66.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01695,Balloon,4.0,Miner,66.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01710,Balloon,4.0,Miner,66.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01725,Balloon,4.0,Miner,66.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01740,Balloon,4.0,Miner,66.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+01755,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,Miner,66.0,2.0,5,True,True,3.0,3.0
+01770,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+01785,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+01800,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01815,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01830,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01845,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01860,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01875,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+01890,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01905,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01920,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+01935,Balloon,4.0,Royal Delivery,85.0,Skeletons,94.0,Hunter,52.0,Ice Golem,53.0,3.0,5,True,True,2.0,2.0
+01950,Giant Snowball,38.0,Royal Delivery,85.0,Skeletons,94.0,Hunter,52.0,Balloon,4.0,1.0,0,True,True,5.0,5.0
+01965,Giant Snowball,38.0,Royal Delivery,85.0,Skeletons,94.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+01980,Giant Snowball,38.0,Royal Delivery,85.0,Skeletons,94.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+01995,Giant Snowball,38.0,Royal Delivery,85.0,Skeletons,94.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+02010,Giant Snowball,38.0,Royal Delivery,85.0,Skeletons,94.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+02025,Giant Snowball,38.0,Royal Delivery,85.0,Skeletons,94.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+02040,Giant Snowball,38.0,Royal Delivery,85.0,Skeletons,94.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+02055,Giant Snowball,38.0,Royal Delivery,85.0,Skeletons,94.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+02070,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,Skeletons,94.0,3.0,2,True,True,1.0,1.0
+02085,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+02100,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+02115,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+02130,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+02145,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+02160,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+02175,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+02190,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+02205,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+02220,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+02235,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+02250,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+02265,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+02280,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+02295,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+02310,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+02325,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+02340,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+02355,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+02370,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+02385,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+02400,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+02415,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+02430,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+02445,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+02460,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+02475,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+02490,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+02505,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+02520,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+02535,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+02550,Giant Snowball,38.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+02565,Giant Snowball,38.0,Royal Delivery,85.0,Miner,66.0,Hunter,52.0,Bats,9.0,3.0,5,True,True,2.0,2.0
+02580,Giant Snowball,38.0,Royal Delivery,85.0,Miner,66.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+02595,Giant Snowball,38.0,Royal Delivery,85.0,Miner,66.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+02610,Giant Snowball,38.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,Miner,66.0,3.0,2,True,True,3.0,3.0
+02625,Giant Snowball,38.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+02640,Giant Snowball,38.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+02655,Giant Snowball,38.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+02670,Giant Snowball,38.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+02685,Giant Snowball,38.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+02700,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Skeletons,94.0,Hunter,52.0,4.0,1,True,True,2.0,4.0
+02715,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,Skeletons,94.0,4.0,1,True,False,0.0,1.0
+02730,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+02745,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+02760,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+02775,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+02790,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+02805,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+02820,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+02835,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+02850,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+02865,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+02880,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+02895,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+02910,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+02925,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+02940,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+02955,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+02970,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+02985,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03000,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03015,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03030,Balloon,4.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03045,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,Balloon,4.0,1.0,0,True,True,5.0,5.0
+03060,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+03075,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+03090,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+03105,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+03120,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+03135,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,1,False,False,0.0,0.0
+03150,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+03165,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+03180,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+03195,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+03210,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,2,False,False,0.0,0.0
+03225,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03240,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03255,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03270,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03285,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03300,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03315,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03330,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03345,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03360,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03375,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03390,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03405,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03420,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03435,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03450,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03465,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03480,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+03495,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+03510,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+03525,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+03540,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+03555,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+03570,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+03585,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+03600,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+03615,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+03630,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+03645,Skeletons,94.0,Royal Delivery,85.0,Ice Golem,53.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+03660,Skeletons,94.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,Ice Golem,53.0,3.0,6,True,True,2.0,2.0
+03675,Skeletons,94.0,Royal Delivery,85.0,Bats,9.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+03690,Skeletons,94.0,Royal Delivery,85.0,Bats,9.0,Miner,66.0,Hunter,52.0,4.0,2,True,True,4.0,4.0
+03705,Skeletons,94.0,Royal Delivery,85.0,Bats,9.0,Miner,66.0,,,,2,False,False,0.0,0.0
+03720,Skeletons,94.0,Royal Delivery,85.0,Bats,9.0,Miner,66.0,,,,2,False,False,0.0,0.0
+03735,Skeletons,94.0,Royal Delivery,85.0,Bats,9.0,Miner,66.0,,,,3,False,False,0.0,0.0
+03750,Skeletons,94.0,Royal Delivery,85.0,Bats,9.0,Miner,66.0,,,,3,False,False,0.0,0.0
+03765,Skeletons,94.0,Royal Delivery,85.0,Bats,9.0,Giant Snowball,38.0,Miner,66.0,4.0,0,True,True,3.0,3.0
+03780,Skeletons,94.0,Royal Delivery,85.0,Bats,9.0,Giant Snowball,38.0,,,,0,False,False,0.0,0.0
+03795,Skeletons,94.0,Royal Delivery,85.0,Bats,9.0,Giant Snowball,38.0,,,,1,False,False,0.0,0.0
+03810,Skeletons,94.0,Royal Delivery,85.0,Bats,9.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03825,Skeletons,94.0,Royal Delivery,85.0,Bats,9.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03840,Skeletons,94.0,Royal Delivery,85.0,Bats,9.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03855,Skeletons,94.0,Royal Delivery,85.0,Bats,9.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+03870,Skeletons,94.0,Royal Delivery,85.0,Bats,9.0,Balloon,4.0,Giant Snowball,38.0,4.0,1,True,True,2.0,2.0
+03885,Skeletons,94.0,Royal Delivery,85.0,Bats,9.0,Balloon,4.0,,,,1,False,False,0.0,0.0
+03900,Skeletons,94.0,Royal Delivery,85.0,Bats,9.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+03915,Skeletons,94.0,Royal Delivery,85.0,Bats,9.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+03930,Skeletons,94.0,Royal Delivery,85.0,Bats,9.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+03945,Skeletons,94.0,Royal Delivery,85.0,Bats,9.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+03960,Skeletons,94.0,Royal Delivery,85.0,Bats,9.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+03975,Ice Golem,53.0,Royal Delivery,85.0,Bats,9.0,Balloon,4.0,Skeletons,94.0,1.0,2,True,True,1.0,1.0
+03990,Ice Golem,53.0,Royal Delivery,85.0,Bats,9.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+04005,Ice Golem,53.0,Royal Delivery,85.0,Bats,9.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+04020,Hunter,52.0,Royal Delivery,85.0,Bats,9.0,Balloon,4.0,Ice Golem,53.0,1.0,2,True,True,1.0,2.0
+04035,Hunter,52.0,Royal Delivery,85.0,Bats,9.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+04050,Hunter,52.0,Royal Delivery,85.0,Bats,9.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+04065,Hunter,52.0,Royal Delivery,85.0,Miner,66.0,Balloon,4.0,Bats,9.0,3.0,1,True,True,1.0,2.0
+04080,Hunter,52.0,Royal Delivery,85.0,Miner,66.0,Balloon,4.0,,,,1,False,False,0.0,0.0
+04095,Hunter,52.0,Royal Delivery,85.0,Miner,66.0,Balloon,4.0,,,,1,False,False,0.0,0.0
+04110,Hunter,52.0,Royal Delivery,85.0,Miner,66.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+04125,Hunter,52.0,Royal Delivery,85.0,Miner,66.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+04140,Hunter,52.0,Royal Delivery,85.0,Miner,66.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+04155,Hunter,52.0,Royal Delivery,85.0,Miner,66.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+04170,Hunter,52.0,Royal Delivery,85.0,Miner,66.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+04185,Hunter,52.0,Royal Delivery,85.0,Miner,66.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+04200,Hunter,52.0,Royal Delivery,85.0,Miner,66.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+04215,Hunter,52.0,Royal Delivery,85.0,Miner,66.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+04230,Giant Snowball,38.0,Royal Delivery,85.0,Miner,66.0,Balloon,4.0,Hunter,52.0,1.0,1,True,True,3.0,4.0
+04245,Giant Snowball,38.0,Royal Delivery,85.0,Miner,66.0,Balloon,4.0,,,,1,False,False,0.0,0.0
+04260,Giant Snowball,38.0,Royal Delivery,85.0,Miner,66.0,Balloon,4.0,,,,1,False,False,0.0,0.0
+04275,Giant Snowball,38.0,Royal Delivery,85.0,Miner,66.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+04290,Giant Snowball,38.0,Royal Delivery,85.0,Miner,66.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+04305,Giant Snowball,38.0,Royal Delivery,85.0,Miner,66.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+04320,Giant Snowball,38.0,Royal Delivery,85.0,Miner,66.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+04335,Giant Snowball,38.0,Royal Delivery,85.0,Miner,66.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+04350,Giant Snowball,38.0,Royal Delivery,85.0,Miner,66.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+04365,Giant Snowball,38.0,Royal Delivery,85.0,Miner,66.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+04380,Giant Snowball,38.0,Royal Delivery,85.0,Miner,66.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+04395,Giant Snowball,38.0,Royal Delivery,85.0,Miner,66.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+04410,Giant Snowball,38.0,Royal Delivery,85.0,Skeletons,94.0,Balloon,4.0,Miner,66.0,3.0,2,True,True,2.0,3.0
+04425,Giant Snowball,38.0,Royal Delivery,85.0,Skeletons,94.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+04440,Giant Snowball,38.0,Royal Delivery,85.0,Skeletons,94.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+04455,Giant Snowball,38.0,Royal Delivery,85.0,Skeletons,94.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+04470,Giant Snowball,38.0,Royal Delivery,85.0,Skeletons,94.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+04485,Giant Snowball,38.0,Royal Delivery,85.0,Skeletons,94.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+04500,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Balloon,4.0,Giant Snowball,38.0,1.0,2,True,True,2.0,2.0
+04515,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+04530,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+04545,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+04560,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Balloon,4.0,,,,3,False,False,0.0,0.0
+04575,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+04590,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+04605,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Balloon,4.0,,,,4,False,False,0.0,0.0
+04620,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+04635,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+04650,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+04665,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+04680,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+04695,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+04710,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+04725,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+04740,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+04755,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+04770,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+04785,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+04800,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Balloon,4.0,,,,9,False,False,0.0,0.0
+04815,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Bats,9.0,Balloon,4.0,4.0,4,True,True,5.0,5.0
+04830,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Bats,9.0,,,,5,False,False,0.0,0.0
+04845,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Bats,9.0,,,,5,False,False,0.0,0.0
+04860,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Bats,9.0,,,,6,False,False,0.0,0.0
+04875,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Bats,9.0,,,,6,False,False,0.0,0.0
+04890,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Bats,9.0,,,,6,False,False,0.0,0.0
+04905,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Bats,9.0,,,,7,False,False,0.0,0.0
+04920,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Bats,9.0,,,,7,False,False,0.0,0.0
+04935,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Bats,9.0,,,,7,False,False,0.0,0.0
+04950,Ice Golem,53.0,Royal Delivery,85.0,Skeletons,94.0,Bats,9.0,,,,8,False,False,0.0,0.0
+04965,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,Skeletons,94.0,3.0,7,True,True,1.0,1.0
+04980,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,7,False,False,0.0,0.0
+04995,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,8,False,False,0.0,0.0
+05010,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,8,False,False,0.0,0.0
+05025,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,8,False,False,0.0,0.0
+05040,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Miner,66.0,Bats,9.0,4.0,7,True,True,1.0,2.0
+05055,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Miner,66.0,,,,7,False,False,0.0,0.0
+05070,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Miner,66.0,,,,7,False,False,0.0,0.0
+05085,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Miner,66.0,,,,8,False,False,0.0,0.0
+05100,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Miner,66.0,,,,8,False,False,0.0,0.0
+05115,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Miner,66.0,Ice Golem,53.0,1.0,7,True,True,1.0,2.0
+05130,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Miner,66.0,,,,7,False,False,0.0,0.0
+05145,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Miner,66.0,,,,7,False,False,0.0,0.0
+05160,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Miner,66.0,,,,8,False,False,0.0,0.0
+05175,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Miner,66.0,,,,8,False,False,0.0,0.0
+05190,Balloon,4.0,Royal Delivery,85.0,Hunter,52.0,Miner,66.0,Giant Snowball,38.0,1.0,6,True,True,2.0,2.0
+05205,Balloon,4.0,Royal Delivery,85.0,Hunter,52.0,Miner,66.0,,,,7,False,False,0.0,0.0
+05220,Balloon,4.0,Royal Delivery,85.0,Hunter,52.0,Miner,66.0,,,,7,False,False,0.0,0.0
+05235,Balloon,4.0,Royal Delivery,85.0,Hunter,52.0,Miner,66.0,,,,7,False,False,0.0,0.0
+05250,Balloon,4.0,Royal Delivery,85.0,Hunter,52.0,Miner,66.0,,,,8,False,False,0.0,0.0
+05265,Balloon,4.0,Royal Delivery,85.0,Hunter,52.0,Miner,66.0,,,,8,False,False,0.0,0.0
+05280,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Miner,66.0,Balloon,4.0,1.0,9,True,False,0.0,5.0
+05295,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,Miner,66.0,4.0,9,True,True,8.0,3.0
+05310,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,1,False,False,0.0,0.0
+05325,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,2,False,False,0.0,0.0
+05340,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,2,False,False,0.0,0.0
+05355,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,2,False,False,0.0,0.0
+05370,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,3,False,False,0.0,0.0
+05385,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,3,False,False,0.0,0.0
+05400,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,3,False,False,0.0,0.0
+05415,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,4,False,False,0.0,0.0
+05430,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Ice Golem,53.0,Bats,9.0,4.0,2,True,True,2.0,2.0
+05445,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+05460,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+05475,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+05490,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+05505,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+05520,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Ice Golem,53.0,Skeletons,94.0,1.0,3,True,True,1.0,1.0
+05535,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+05550,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+05565,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+05580,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+05595,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+05610,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+05625,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+05640,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+05655,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Balloon,4.0,Ice Golem,53.0,4.0,4,True,True,2.0,2.0
+05670,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+05685,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+05700,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Balloon,4.0,,,,5,False,False,0.0,0.0
+05715,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+05730,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+05745,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Miner,66.0,Balloon,4.0,4.0,2,True,True,4.0,5.0
+05760,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Miner,66.0,,,,2,False,False,0.0,0.0
+05775,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Miner,66.0,,,,2,False,False,0.0,0.0
+05790,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Miner,66.0,,,,3,False,False,0.0,0.0
+05805,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Miner,66.0,,,,3,False,False,0.0,0.0
+05820,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,Miner,66.0,4.0,0,True,True,3.0,3.0
+05835,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,1,False,False,0.0,0.0
+05850,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,1,False,False,0.0,0.0
+05865,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,1,False,False,0.0,0.0
+05880,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,2,False,False,0.0,0.0
+05895,Giant Snowball,38.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,2,False,False,0.0,0.0
+05910,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,Giant Snowball,38.0,1.0,1,True,True,1.0,2.0
+05925,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,1,False,False,0.0,0.0
+05940,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,1,False,False,0.0,0.0
+05955,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,2,False,False,0.0,0.0
+05970,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,2,False,False,0.0,0.0
+05985,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,Skeletons,94.0,1.0,1,True,True,1.0,1.0
+06000,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,2,False,False,0.0,0.0
+06015,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,2,False,False,0.0,0.0
+06030,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,2,False,False,0.0,0.0
+06045,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,3,False,False,0.0,0.0
+06060,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,3,False,False,0.0,0.0
+06075,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,3,False,False,0.0,0.0
+06090,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,4,False,False,0.0,0.0
+06105,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,4,False,False,0.0,0.0
+06120,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,4,False,False,0.0,0.0
+06135,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,5,False,False,0.0,0.0
+06150,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,5,False,False,0.0,0.0
+06165,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,6,False,False,0.0,0.0
+06180,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,6,False,False,0.0,0.0
+06195,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,6,False,False,0.0,0.0
+06210,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,7,False,False,0.0,0.0
+06225,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,7,False,False,0.0,0.0
+06240,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,7,False,False,0.0,0.0
+06255,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,8,False,False,0.0,0.0
+06270,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Balloon,4.0,Bats,9.0,4.0,6,True,True,2.0,2.0
+06285,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Balloon,4.0,,,,6,False,False,0.0,0.0
+06300,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+06315,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+06330,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Balloon,4.0,,,,7,False,False,0.0,0.0
+06345,Ice Golem,53.0,Royal Delivery,85.0,Hunter,52.0,Balloon,4.0,,,,8,False,False,0.0,0.0
+06360,Miner,66.0,Royal Delivery,85.0,Hunter,52.0,Balloon,4.0,Ice Golem,53.0,1.0,6,True,True,2.0,2.0
+06375,Miner,66.0,Royal Delivery,85.0,Hunter,52.0,Balloon,4.0,,,,2,False,False,0.0,0.0
+06390,Miner,66.0,Royal Delivery,85.0,Hunter,52.0,Giant Snowball,38.0,Balloon,4.0,4.0,2,True,True,4.0,5.0
+06405,Miner,66.0,Royal Delivery,85.0,Hunter,52.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+06420,Miner,66.0,Royal Delivery,85.0,Hunter,52.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+06435,Miner,66.0,Royal Delivery,85.0,Hunter,52.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+06450,Miner,66.0,Royal Delivery,85.0,Hunter,52.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+06465,Miner,66.0,Royal Delivery,85.0,Hunter,52.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+06480,Miner,66.0,Royal Delivery,85.0,Hunter,52.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+06495,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Giant Snowball,38.0,Miner,66.0,1.0,4,True,True,2.0,3.0
+06510,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+06525,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+06540,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,Giant Snowball,38.0,4.0,0,True,True,2.0,2.0
+06555,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,1,False,False,0.0,0.0
+06570,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,1,False,False,0.0,0.0
+06585,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,2,False,False,0.0,0.0
+06600,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,2,False,False,0.0,0.0
+06615,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,2,False,False,0.0,0.0
+06630,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,3,False,False,0.0,0.0
+06645,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,3,False,False,0.0,0.0
+06660,Skeletons,94.0,Royal Delivery,85.0,Hunter,52.0,Bats,9.0,,,,3,False,False,0.0,0.0

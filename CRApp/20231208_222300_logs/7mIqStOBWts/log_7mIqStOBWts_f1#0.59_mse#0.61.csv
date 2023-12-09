@@ -1,0 +1,1580 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,X,106.0,,,The Log,98.0,Archers,1.0,,,,6,False,False,0.0,0.0
+00255,X,106.0,,,The Log,98.0,Archers,1.0,,,,6,False,False,0.0,0.0
+00270,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,2.0,6,True,False,0.0,0.0
+00285,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,7,False,False,0.0,0.0
+00300,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,7,False,False,0.0,0.0
+00315,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,7,False,False,0.0,0.0
+00330,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,7,False,False,0.0,0.0
+00345,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,7,False,False,0.0,0.0
+00360,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,7,False,False,0.0,0.0
+00375,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00390,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00405,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00420,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00435,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00450,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,9,False,False,0.0,0.0
+00465,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,9,False,False,0.0,0.0
+00480,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,8,False,True,1.0,0.0
+00495,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00510,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00525,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00540,X,106.0,Fireball,30.0,The Log,98.0,Archers,1.0,,,,9,False,False,0.0,0.0
+00555,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,The Log,98.0,3.0,7,True,True,2.0,2.0
+00570,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,7,False,False,0.0,0.0
+00585,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,7,False,False,0.0,0.0
+00600,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,7,False,False,0.0,0.0
+00615,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00630,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00645,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00660,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00675,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00690,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,8,False,False,0.0,0.0
+00705,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,9,False,False,0.0,0.0
+00720,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,9,False,False,0.0,0.0
+00735,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,9,False,False,0.0,0.0
+00750,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,9,False,False,0.0,0.0
+00765,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,9,False,False,0.0,0.0
+00780,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,Archers,1.0,4.0,6,True,True,3.0,3.0
+00795,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+00810,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+00825,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+00840,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+00855,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+00870,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+00885,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+00900,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+00915,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+00930,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+00945,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+00960,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+00975,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+00990,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,True,1.0,0.0
+01005,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+01020,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+01035,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+01050,The Log,98.0,Fireball,30.0,Tesla,97.0,Knight,58.0,X,106.0,1.0,3,True,True,6.0,6.0
+01065,The Log,98.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+01080,The Log,98.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+01095,The Log,98.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+01110,The Log,98.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+01125,The Log,98.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+01140,The Log,98.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+01155,The Log,98.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+01170,The Log,98.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+01185,The Log,98.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+01200,The Log,98.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+01215,The Log,98.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+01230,The Log,98.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+01245,The Log,98.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+01260,The Log,98.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+01275,The Log,98.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+01290,The Log,98.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+01305,The Log,98.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+01320,The Log,98.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+01335,The Log,98.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+01350,The Log,98.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+01365,The Log,98.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+01380,The Log,98.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+01395,The Log,98.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,6,False,True,1.0,0.0
+01410,The Log,98.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+01425,The Log,98.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+01440,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,The Log,98.0,1.0,4,True,True,2.0,2.0
+01455,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+01470,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+01485,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,Knight,58.0,4.0,2,True,True,3.0,3.0
+01500,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+01515,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+01530,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+01545,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+01560,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+01575,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+01590,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+01605,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+01620,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+01635,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+01650,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+01665,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+01680,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+01695,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+01710,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+01725,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+01740,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+01755,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,4,False,True,1.0,0.0
+01770,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+01785,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+01800,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+01815,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+01830,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+01845,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+01860,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+01875,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+01890,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+01905,Archers,1.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+01920,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,X,106.0,4.0,7,True,False,0.0,6.0
+01935,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+01950,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+01965,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+01980,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,1,False,True,6.0,0.0
+01995,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,1,False,False,0.0,0.0
+02010,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,1,False,False,0.0,0.0
+02025,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,0,False,True,1.0,0.0
+02040,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,0,False,False,0.0,0.0
+02055,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,1,False,False,0.0,0.0
+02070,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,1,False,False,0.0,0.0
+02085,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,1,False,False,0.0,0.0
+02100,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,1,False,False,0.0,0.0
+02115,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,1,False,False,0.0,0.0
+02130,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+02145,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+02160,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+02175,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,The Log,98.0,4.0,0,True,True,2.0,2.0
+02190,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,0,False,False,0.0,0.0
+02205,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,0,False,False,0.0,0.0
+02220,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+02235,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+02250,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+02265,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+02280,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+02295,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+02310,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+02325,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+02340,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+02355,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+02370,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+02385,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+02400,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+02415,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+02430,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+02445,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+02460,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+02475,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+02490,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+02505,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+02520,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+02535,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+02550,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+02565,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+02580,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+02595,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+02610,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+02625,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+02640,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+02655,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+02670,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+02685,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+02700,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+02715,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+02730,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+02745,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+02760,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+02775,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+02790,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+02805,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+02820,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+02835,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+02850,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+02865,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+02880,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+02895,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+02910,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+02925,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+02940,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+02955,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+02970,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,Archers,1.0,1.0,7,True,True,2.0,3.0
+02985,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+03000,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+03015,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,6,False,True,1.0,0.0
+03030,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+03045,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+03060,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+03075,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+03090,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+03105,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+03120,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+03135,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+03150,X,106.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+03165,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,X,106.0,1.0,2,True,True,6.0,6.0
+03180,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+03195,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+03210,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+03225,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+03240,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+03255,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+03270,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+03285,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+03300,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+03315,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+03330,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+03345,Archers,1.0,Fireball,30.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+03360,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,Fireball,30.0,2.0,0,True,True,4.0,4.0
+03375,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,0,False,False,0.0,0.0
+03390,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+03405,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+03420,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+03435,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+03450,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+03465,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+03480,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+03495,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+03510,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+03525,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+03540,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,1,False,True,1.0,0.0
+03555,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+03570,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+03585,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+03600,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+03615,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+03630,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+03645,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+03660,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+03675,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+03690,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+03705,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+03720,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+03735,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+03750,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+03765,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+03780,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+03795,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+03810,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+03825,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+03840,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+03855,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+03870,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+03885,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+03900,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+03915,Archers,1.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+03930,Archers,1.0,The Log,98.0,X,106.0,Knight,58.0,Tesla,97.0,3.0,4,True,True,4.0,4.0
+03945,Archers,1.0,The Log,98.0,X,106.0,Knight,58.0,,,,5,False,False,0.0,0.0
+03960,Archers,1.0,The Log,98.0,X,106.0,Knight,58.0,,,,5,False,False,0.0,0.0
+03975,Archers,1.0,The Log,98.0,X,106.0,Knight,58.0,,,,6,False,False,0.0,0.0
+03990,Archers,1.0,The Log,98.0,X,106.0,Knight,58.0,,,,5,False,True,1.0,0.0
+04005,Archers,1.0,The Log,98.0,X,106.0,Knight,58.0,,,,5,False,False,0.0,0.0
+04020,Archers,1.0,The Log,98.0,X,106.0,Knight,58.0,,,,6,False,False,0.0,0.0
+04035,Archers,1.0,The Log,98.0,X,106.0,Knight,58.0,,,,6,False,False,0.0,0.0
+04050,Archers,1.0,The Log,98.0,X,106.0,Knight,58.0,,,,6,False,False,0.0,0.0
+04065,Archers,1.0,The Log,98.0,X,106.0,Knight,58.0,,,,7,False,False,0.0,0.0
+04080,Archers,1.0,The Log,98.0,X,106.0,Knight,58.0,,,,7,False,False,0.0,0.0
+04095,Archers,1.0,The Log,98.0,X,106.0,Knight,58.0,,,,7,False,False,0.0,0.0
+04110,Archers,1.0,The Log,98.0,X,106.0,Knight,58.0,,,,8,False,False,0.0,0.0
+04125,Archers,1.0,The Log,98.0,X,106.0,Knight,58.0,,,,8,False,False,0.0,0.0
+04140,Archers,1.0,The Log,98.0,X,106.0,Knight,58.0,,,,8,False,False,0.0,0.0
+04155,Archers,1.0,The Log,98.0,X,106.0,Knight,58.0,,,,9,False,False,0.0,0.0
+04170,Archers,1.0,The Log,98.0,X,106.0,Knight,58.0,,,,9,False,False,0.0,0.0
+04185,Archers,1.0,The Log,98.0,X,106.0,Fireball,30.0,Knight,58.0,4.0,6,True,True,3.0,3.0
+04200,Archers,1.0,The Log,98.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04215,Archers,1.0,The Log,98.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04230,Archers,1.0,The Log,98.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+04245,Archers,1.0,The Log,98.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+04260,Archers,1.0,The Log,98.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+04275,Archers,1.0,The Log,98.0,X,106.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+04290,Archers,1.0,The Log,98.0,X,106.0,Fireball,30.0,,,,5,False,True,4.0,0.0
+04305,Archers,1.0,The Log,98.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04320,Archers,1.0,The Log,98.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04335,Archers,1.0,The Log,98.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04350,Archers,1.0,The Log,98.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04365,Archers,1.0,The Log,98.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04380,Archers,1.0,The Log,98.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04395,Archers,1.0,The Log,98.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04410,Archers,1.0,The Log,98.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04425,Archers,1.0,The Log,98.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+04440,Tesla,97.0,The Log,98.0,X,106.0,Fireball,30.0,Archers,1.0,1.0,6,True,True,2.0,3.0
+04455,Tesla,97.0,The Log,98.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04470,Tesla,97.0,The Log,98.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04485,Tesla,97.0,The Log,98.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04500,Tesla,97.0,The Log,98.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04515,Tesla,97.0,The Log,98.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04530,Tesla,97.0,The Log,98.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+04545,Tesla,97.0,The Log,98.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+04560,Tesla,97.0,The Log,98.0,X,106.0,Fireball,30.0,,,,6,False,True,2.0,0.0
+04575,Tesla,97.0,The Log,98.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04590,Tesla,97.0,The Log,98.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04605,Knight,58.0,The Log,98.0,X,106.0,Fireball,30.0,Tesla,97.0,1.0,3,True,True,4.0,4.0
+04620,Knight,58.0,The Log,98.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04635,Knight,58.0,The Log,98.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04650,Knight,58.0,The Log,98.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04665,Knight,58.0,The Log,98.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04680,Knight,58.0,The Log,98.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04695,Knight,58.0,The Log,98.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04710,Knight,58.0,The Log,98.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04725,Knight,58.0,The Log,98.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04740,Knight,58.0,The Log,98.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04755,Knight,58.0,The Log,98.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04770,Knight,58.0,The Log,98.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04785,Knight,58.0,The Log,98.0,Archers,1.0,Fireball,30.0,X,106.0,3.0,1,True,True,5.0,6.0
+04800,Knight,58.0,The Log,98.0,Archers,1.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+04815,Knight,58.0,The Log,98.0,Archers,1.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+04830,Knight,58.0,The Log,98.0,Archers,1.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04845,Knight,58.0,The Log,98.0,Archers,1.0,Fireball,30.0,,,,1,False,True,1.0,0.0
+04860,Knight,58.0,The Log,98.0,Archers,1.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04875,Knight,58.0,The Log,98.0,Archers,1.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04890,Knight,58.0,The Log,98.0,Archers,1.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04905,Knight,58.0,The Log,98.0,Archers,1.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04920,Knight,58.0,The Log,98.0,Archers,1.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04935,Knight,58.0,The Log,98.0,Archers,1.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04950,Knight,58.0,X,106.0,Tesla,97.0,Fireball,30.0,Archers,1.0,3.0,1,True,True,2.0,3.0
+04965,Knight,58.0,The Log,98.0,Tesla,97.0,Fireball,30.0,X,106.0,2.0,1,True,False,0.0,6.0
+04980,Knight,58.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+04995,Knight,58.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05010,Knight,58.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05025,Knight,58.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05040,Knight,58.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05055,Knight,58.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05070,Knight,58.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05085,Knight,58.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05100,Knight,58.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05115,Knight,58.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05130,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,Knight,58.0,1.0,2,True,True,3.0,3.0
+05145,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05160,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05175,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05190,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05205,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05220,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05235,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05250,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05265,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05280,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05295,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,5,False,True,1.0,0.0
+05310,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05325,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05340,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05355,X,106.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05370,Knight,58.0,The Log,98.0,Tesla,97.0,Fireball,30.0,X,106.0,1.0,1,True,True,5.0,6.0
+05385,Knight,58.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+05400,Knight,58.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+05415,Knight,58.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05430,Knight,58.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05445,Knight,58.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05460,Knight,58.0,The Log,98.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05475,Knight,58.0,Archers,1.0,Tesla,97.0,Fireball,30.0,The Log,98.0,2.0,1,True,True,2.0,2.0
+05490,Knight,58.0,Archers,1.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05505,Knight,58.0,Archers,1.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05520,Knight,58.0,Archers,1.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05535,Knight,58.0,Archers,1.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05550,Knight,58.0,Archers,1.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05565,Knight,58.0,Archers,1.0,Tesla,97.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05580,Knight,58.0,Archers,1.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05595,Knight,58.0,Archers,1.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05610,Knight,58.0,Archers,1.0,Tesla,97.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05625,Knight,58.0,Archers,1.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05640,Knight,58.0,Archers,1.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05655,Knight,58.0,Archers,1.0,Tesla,97.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05670,Knight,58.0,Archers,1.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05685,Knight,58.0,Archers,1.0,Tesla,97.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05700,Knight,58.0,Archers,1.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05715,Knight,58.0,Archers,1.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05730,Knight,58.0,Archers,1.0,Tesla,97.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05745,Knight,58.0,Archers,1.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+05760,Knight,58.0,Archers,1.0,Tesla,97.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+05775,Knight,58.0,Fireball,30.0,Tesla,97.0,Fireball,30.0,Archers,1.0,2.0,8,True,False,0.0,3.0
+05790,Knight,58.0,Fireball,30.0,Tesla,97.0,X,106.0,Fireball,30.0,4.0,8,True,True,7.0,4.0
+05805,Knight,58.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,1,False,False,0.0,0.0
+05820,Knight,58.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,1,False,False,0.0,0.0
+05835,Knight,58.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+05850,Knight,58.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+05865,Knight,58.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+05880,Knight,58.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+05895,Knight,58.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+05910,Knight,58.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+05925,Knight,58.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+05940,Knight,58.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+05955,Knight,58.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+05970,Knight,58.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+05985,Knight,58.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+06000,Knight,58.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+06015,Knight,58.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+06030,Knight,58.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+06045,Knight,58.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+06060,Knight,58.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+06075,Knight,58.0,Fireball,30.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+06090,Knight,58.0,Fireball,30.0,Tesla,97.0,The Log,98.0,X,106.0,4.0,2,True,True,5.0,6.0
+06105,Knight,58.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+06120,Knight,58.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+06135,Knight,58.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+06150,Knight,58.0,Fireball,30.0,Tesla,97.0,Archers,1.0,The Log,98.0,4.0,3,True,True,1.0,2.0
+06165,Knight,58.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+06180,Knight,58.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+06195,Knight,58.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+06210,Knight,58.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,3,False,False,0.0,0.0
+06225,Knight,58.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,2,False,True,1.0,0.0
+06240,Knight,58.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+06255,Knight,58.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,3,False,False,0.0,0.0
+06270,Knight,58.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,3,False,False,0.0,0.0
+06285,Knight,58.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,2,False,True,1.0,0.0
+06300,Knight,58.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,3,False,False,0.0,0.0
+06315,Knight,58.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,3,False,False,0.0,0.0
+06330,Knight,58.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,4,False,False,0.0,0.0
+06345,Knight,58.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,4,False,False,0.0,0.0
+06360,Knight,58.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,4,False,False,0.0,0.0
+06375,Knight,58.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,5,False,False,0.0,0.0
+06390,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,Knight,58.0,1.0,2,True,True,3.0,3.0
+06405,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+06420,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,3,False,False,0.0,0.0
+06435,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,3,False,False,0.0,0.0
+06450,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,3,False,False,0.0,0.0
+06465,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,4,False,False,0.0,0.0
+06480,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,4,False,False,0.0,0.0
+06495,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,4,False,False,0.0,0.0
+06510,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,5,False,False,0.0,0.0
+06525,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,5,False,False,0.0,0.0
+06540,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,6,False,False,0.0,0.0
+06555,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,6,False,False,0.0,0.0
+06570,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,6,False,False,0.0,0.0
+06585,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,X,106.0,1.0,1,True,True,5.0,6.0
+06600,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,1,False,False,0.0,0.0
+06615,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,1,False,False,0.0,0.0
+06630,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+06645,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+06660,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+06675,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,3,False,False,0.0,0.0
+06690,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,3,False,False,0.0,0.0
+06705,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,3,False,False,0.0,0.0
+06720,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,4,False,False,0.0,0.0
+06735,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,4,False,False,0.0,0.0
+06750,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,5,False,False,0.0,0.0
+06765,The Log,98.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,Archers,1.0,4.0,1,True,True,4.0,3.0
+06780,The Log,98.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+06795,The Log,98.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+06810,The Log,98.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+06825,The Log,98.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,1,False,True,1.0,0.0
+06840,The Log,98.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+06855,The Log,98.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+06870,The Log,98.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+06885,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,The Log,98.0,1.0,1,True,True,1.0,2.0
+06900,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+06915,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+06930,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+06945,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+06960,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+06975,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+06990,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+07005,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+07020,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+07035,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+07050,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+07065,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+07080,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+07095,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+07110,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+07125,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+07140,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+07155,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+07170,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+07185,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+07200,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,5,False,True,1.0,0.0
+07215,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+07230,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+07245,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+07260,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,4,False,True,3.0,0.0
+07275,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+07290,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+07305,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+07320,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+07335,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+07350,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+07365,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+07380,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+07395,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+07410,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+07425,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+07440,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+07455,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+07470,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+07485,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+07500,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+07515,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+07530,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+07545,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+07560,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+07575,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+07590,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+07605,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,10,False,False,0.0,0.0
+07620,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,10,False,False,0.0,0.0
+07635,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,6,False,True,4.0,0.0
+07650,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+07665,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+07680,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+07695,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+07710,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+07725,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+07740,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,Inferno Dragon,56.0,3.0,3,True,True,4.0,4.0
+07755,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+07770,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+07785,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+07800,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+07815,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+07830,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+07845,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+07860,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+07875,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+07890,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+07905,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,True,3.0,0.0
+07920,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+07935,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+07950,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+07965,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,True,1.0,0.0
+07980,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+07995,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+08010,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+08025,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+08040,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+08055,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+08070,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+08085,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+08100,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+08115,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+08130,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+08145,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+08160,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+08175,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+08190,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+08205,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+08220,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+08235,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+08250,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+08265,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+08280,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+08295,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+08310,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+08325,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+08340,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+08355,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+08370,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+08385,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+08400,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+08415,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+08430,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+08445,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,True,2.0,0.0
+08460,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+08475,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+08490,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+08505,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+08520,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+08535,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+08550,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+08565,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+08580,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+08595,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+08610,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+08625,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+08640,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+08655,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+08670,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+08685,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+08700,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+08715,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+08730,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+08745,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+08760,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+08775,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+08790,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+08805,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+08820,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+08835,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+08850,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+08865,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+08880,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+08895,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,10,False,False,0.0,0.0
+08910,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,10,False,False,0.0,0.0
+08925,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,True,4.0,0.0
+08940,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+08955,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+08970,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+08985,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+09000,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+09015,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+09030,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+09045,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,True,3.0,0.0
+09060,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+09075,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+09090,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+09105,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+09120,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+09135,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+09150,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+09165,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+09180,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+09195,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+09210,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+09225,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+09240,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+09255,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+09270,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+09285,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+09300,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+09315,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+09330,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+09345,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+09360,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+09375,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+09390,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+09405,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+09420,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+09435,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+09450,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+09465,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+09480,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+09495,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,True,2.0,0.0
+09510,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+09525,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+09540,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+09555,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+09570,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+09585,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+09600,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+09615,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+09630,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+09645,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+09660,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+09675,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+09690,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+09705,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+09720,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+09735,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+09750,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,True,3.0,0.0
+09765,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+09780,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+09795,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+09810,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+09825,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+09840,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+09855,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+09870,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+09885,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+09900,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+09915,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+09930,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,True,7.0,0.0
+09945,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+09960,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+09975,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+09990,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+10005,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+10020,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+10035,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,0,False,True,2.0,0.0
+10050,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,0,False,False,0.0,0.0
+10065,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,0,False,False,0.0,0.0
+10080,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+10095,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+10110,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+10125,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+10140,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+10155,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+10170,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+10185,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+10200,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+10215,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+10230,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+10245,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+10260,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+10275,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+10290,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,0,False,True,3.0,0.0
+10305,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,0,False,False,0.0,0.0
+10320,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,0,False,False,0.0,0.0
+10335,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+10350,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+10365,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+10380,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+10395,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+10410,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+10425,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+10440,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+10455,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,0,False,True,2.0,0.0
+10470,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,0,False,False,0.0,0.0
+10485,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,0,False,False,0.0,0.0
+10500,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+10515,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+10530,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+10545,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+10560,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+10575,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+10590,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+10605,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+10620,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+10635,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+10650,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+10665,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+10680,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+10695,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+10710,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+10725,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+10740,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+10755,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+10770,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+10785,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+10800,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+10815,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+10830,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+10845,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+10860,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+10875,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+10890,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+10905,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+10920,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+10935,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+10950,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+10965,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+10980,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+10995,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+11010,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+11025,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+11040,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+11055,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,True,3.0,0.0
+11070,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+11085,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+11100,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+11115,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+11130,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+11145,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,True,6.0,0.0
+11160,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+11175,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+11190,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+11205,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+11220,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+11235,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+11250,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+11265,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+11280,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+11295,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+11310,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+11325,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+11340,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+11355,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+11370,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+11385,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+11400,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,True,3.0,0.0
+11415,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+11430,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+11445,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+11460,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+11475,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+11490,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+11505,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+11520,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+11535,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+11550,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+11565,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+11580,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+11595,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+11610,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+11625,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+11640,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,10,False,False,0.0,0.0
+11655,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,True,5.0,0.0
+11670,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+11685,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+11700,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+11715,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+11730,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+11745,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+11760,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+11775,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+11790,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+11805,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,True,3.0,0.0
+11820,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+11835,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+11850,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+11865,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,True,3.0,0.0
+11880,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+11895,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+11910,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+11925,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+11940,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+11955,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+11970,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+11985,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+12000,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+12015,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+12030,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+12045,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+12060,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+12075,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,True,6.0,0.0
+12090,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+12105,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+12120,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+12135,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+12150,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,0,False,True,2.0,0.0
+12165,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+12180,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+12195,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+12210,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+12225,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+12240,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+12255,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+12270,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+12285,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+12300,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+12315,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+12330,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+12345,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+12360,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+12375,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+12390,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+12405,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+12420,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+12435,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,True,5.0,0.0
+12450,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+12465,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+12480,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+12495,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+12510,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+12525,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+12540,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+12555,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,True,3.0,0.0
+12570,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+12585,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+12600,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+12615,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+12630,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,True,2.0,0.0
+12645,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,1,False,False,0.0,0.0
+12660,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+12675,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+12690,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+12705,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+12720,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+12735,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+12750,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,True,1.0,0.0
+12765,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+12780,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,False,0.0,0.0
+12795,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+12810,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+12825,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+12840,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+12855,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+12870,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+12885,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+12900,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+12915,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+12930,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+12945,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+12960,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+12975,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+12990,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+13005,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+13020,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,True,4.0,0.0
+13035,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+13050,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+13065,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,5,False,False,0.0,0.0
+13080,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+13095,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+13110,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,6,False,False,0.0,0.0
+13125,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+13140,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+13155,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,7,False,False,0.0,0.0
+13170,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+13185,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+13200,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,8,False,False,0.0,0.0
+13215,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,9,False,False,0.0,0.0
+13230,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,2,False,True,7.0,0.0
+13245,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+13260,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+13275,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,3,False,False,0.0,0.0
+13290,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+13305,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+13320,Prince,79.0,The Log,98.0,Prince,79.0,Inferno Dragon,56.0,,,,4,False,False,0.0,0.0
+13335,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,Inferno Dragon,56.0,4.0,1,True,True,3.0,4.0
+13350,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,1,False,False,0.0,0.0
+13365,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,1,False,False,0.0,0.0
+13380,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,2,False,False,0.0,0.0
+13395,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,2,False,False,0.0,0.0
+13410,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,2,False,False,0.0,0.0
+13425,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,3,False,False,0.0,0.0
+13440,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,3,False,False,0.0,0.0
+13455,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,4,False,False,0.0,0.0
+13470,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,4,False,False,0.0,0.0
+13485,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,4,False,False,0.0,0.0
+13500,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,5,False,False,0.0,0.0
+13515,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,5,False,False,0.0,0.0
+13530,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,5,False,False,0.0,0.0
+13545,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,6,False,False,0.0,0.0
+13560,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,3,False,True,3.0,0.0
+13575,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,3,False,False,0.0,0.0
+13590,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,4,False,False,0.0,0.0
+13605,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,4,False,False,0.0,0.0
+13620,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,4,False,False,0.0,0.0
+13635,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,5,False,False,0.0,0.0
+13650,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,5,False,False,0.0,0.0
+13665,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,5,False,False,0.0,0.0
+13680,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,6,False,False,0.0,0.0
+13695,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,6,False,False,0.0,0.0
+13710,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,7,False,False,0.0,0.0
+13725,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,7,False,False,0.0,0.0
+13740,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,7,False,False,0.0,0.0
+13755,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,8,False,False,0.0,0.0
+13770,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,8,False,False,0.0,0.0
+13785,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,6,False,True,2.0,0.0
+13800,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,7,False,False,0.0,0.0
+13815,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,7,False,False,0.0,0.0
+13830,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,7,False,False,0.0,0.0
+13845,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,8,False,False,0.0,0.0
+13860,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,8,False,False,0.0,0.0
+13875,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,9,False,False,0.0,0.0
+13890,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,9,False,False,0.0,0.0
+13905,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,9,False,False,0.0,0.0
+13920,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,Prince,79.0,3.0,5,True,True,4.0,5.0
+13935,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,5,False,False,0.0,0.0
+13950,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,5,False,False,0.0,0.0
+13965,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,6,False,False,0.0,0.0
+13980,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,6,False,False,0.0,0.0
+13995,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,6,False,False,0.0,0.0
+14010,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,7,False,False,0.0,0.0
+14025,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,7,False,False,0.0,0.0
+14040,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,0,False,True,7.0,0.0
+14055,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,1,False,False,0.0,0.0
+14070,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,1,False,False,0.0,0.0
+14085,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,2,False,False,0.0,0.0
+14100,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,2,False,False,0.0,0.0
+14115,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,2,False,False,0.0,0.0
+14130,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,3,False,False,0.0,0.0
+14145,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,3,False,False,0.0,0.0
+14160,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,3,False,False,0.0,0.0
+14175,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,4,False,False,0.0,0.0
+14190,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,4,False,False,0.0,0.0
+14205,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,4,False,False,0.0,0.0
+14220,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,Inferno Dragon,56.0,3.0,4,True,True,3.0,4.0
+14235,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,1,False,False,0.0,0.0
+14250,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,1,False,False,0.0,0.0
+14265,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,2,False,False,0.0,0.0
+14280,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,2,False,False,0.0,0.0
+14295,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,3,False,False,0.0,0.0
+14310,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,3,False,False,0.0,0.0
+14325,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,3,False,False,0.0,0.0
+14340,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,4,False,False,0.0,0.0
+14355,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,4,False,False,0.0,0.0
+14370,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,1,False,True,3.0,0.0
+14385,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,2,False,False,0.0,0.0
+14400,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,2,False,False,0.0,0.0
+14415,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,2,False,False,0.0,0.0
+14430,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,3,False,False,0.0,0.0
+14445,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,3,False,False,0.0,0.0
+14460,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,0,False,True,3.0,0.0
+14475,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,1,False,False,0.0,0.0
+14490,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,1,False,False,0.0,0.0
+14505,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,2,False,False,0.0,0.0
+14520,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,2,False,False,0.0,0.0
+14535,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,1,False,True,1.0,0.0
+14550,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,2,False,False,0.0,0.0
+14565,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,2,False,False,0.0,0.0
+14580,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,3,False,False,0.0,0.0
+14595,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,3,False,False,0.0,0.0
+14610,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,4,False,False,0.0,0.0
+14625,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,4,False,False,0.0,0.0
+14640,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,5,False,False,0.0,0.0
+14655,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,5,False,False,0.0,0.0
+14670,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,6,False,False,0.0,0.0
+14685,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,6,False,False,0.0,0.0
+14700,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,7,False,False,0.0,0.0
+14715,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,8,False,False,0.0,0.0
+14730,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,8,False,False,0.0,0.0
+14745,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,9,False,False,0.0,0.0
+14760,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,9,False,False,0.0,0.0
+14775,Prince,79.0,The Log,98.0,Prince,79.0,Prince,79.0,,,,10,False,False,0.0,0.0
+14790,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,Prince,79.0,3.0,5,True,True,5.0,5.0
+14805,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,6,False,False,0.0,0.0
+14820,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,6,False,False,0.0,0.0
+14835,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,7,False,False,0.0,0.0
+14850,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,7,False,False,0.0,0.0
+14865,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,8,False,False,0.0,0.0
+14880,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,1,False,True,7.0,0.0
+14895,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,2,False,False,0.0,0.0
+14910,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,2,False,False,0.0,0.0
+14925,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,3,False,False,0.0,0.0
+14940,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,3,False,False,0.0,0.0
+14955,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,4,False,False,0.0,0.0
+14970,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,4,False,False,0.0,0.0
+14985,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,5,False,False,0.0,0.0
+15000,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,6,False,False,0.0,0.0
+15015,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,8,False,False,0.0,0.0
+15030,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,3,False,True,5.0,0.0
+15045,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,3,False,False,0.0,0.0
+15060,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,4,False,False,0.0,0.0
+15075,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,4,False,False,0.0,0.0
+15090,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,4,False,False,0.0,0.0
+15105,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,4,False,False,0.0,0.0
+15120,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,3,False,True,1.0,0.0
+15135,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,3,False,False,0.0,0.0
+15150,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,1,False,True,2.0,0.0
+15165,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,1,False,False,0.0,0.0
+15180,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,2,False,False,0.0,0.0
+15195,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,3,False,False,0.0,0.0
+15210,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,3,False,False,0.0,0.0
+15225,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,2,False,True,1.0,0.0
+15240,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,2,False,False,0.0,0.0
+15255,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,3,False,False,0.0,0.0
+15270,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,1,False,True,2.0,0.0
+15285,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,2,False,False,0.0,0.0
+15300,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,2,False,False,0.0,0.0
+15315,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,3,False,False,0.0,0.0
+15330,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,3,False,False,0.0,0.0
+15345,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,4,False,False,0.0,0.0
+15360,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,4,False,False,0.0,0.0
+15375,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,5,False,False,0.0,0.0
+15390,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,6,False,False,0.0,0.0
+15405,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,6,False,False,0.0,0.0
+15420,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,7,False,False,0.0,0.0
+15435,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,7,False,False,0.0,0.0
+15450,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,8,False,False,0.0,0.0
+15465,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,8,False,False,0.0,0.0
+15480,Prince,79.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,9,False,False,0.0,0.0
+15495,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,Prince,79.0,1.0,4,True,True,5.0,5.0
+15510,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,5,False,False,0.0,0.0
+15525,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,5,False,False,0.0,0.0
+15540,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,6,False,False,0.0,0.0
+15555,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,7,False,False,0.0,0.0
+15570,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,7,False,False,0.0,0.0
+15585,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,8,False,False,0.0,0.0
+15600,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,1,False,True,7.0,0.0
+15615,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,2,False,False,0.0,0.0
+15630,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,2,False,False,0.0,0.0
+15645,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,3,False,False,0.0,0.0
+15660,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,3,False,False,0.0,0.0
+15675,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,4,False,False,0.0,0.0
+15690,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,4,False,False,0.0,0.0
+15705,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,5,False,False,0.0,0.0
+15720,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,5,False,False,0.0,0.0
+15735,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,2,False,True,3.0,0.0
+15750,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,3,False,False,0.0,0.0
+15765,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,3,False,False,0.0,0.0
+15780,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,4,False,False,0.0,0.0
+15795,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,4,False,False,0.0,0.0
+15810,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,5,False,False,0.0,0.0
+15825,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,3,False,True,2.0,0.0
+15840,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,4,False,False,0.0,0.0
+15855,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,4,False,False,0.0,0.0
+15870,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,2,False,True,2.0,0.0
+15885,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,2,False,False,0.0,0.0
+15900,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,3,False,False,0.0,0.0
+15915,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,3,False,False,0.0,0.0
+15930,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,1,False,True,2.0,0.0
+15945,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,1,False,False,0.0,0.0
+15960,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,2,False,False,0.0,0.0
+15975,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,3,False,False,0.0,0.0
+15990,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,3,False,False,0.0,0.0
+16005,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,4,False,False,0.0,0.0
+16020,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,2,False,True,2.0,0.0
+16035,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,3,False,False,0.0,0.0
+16050,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,3,False,False,0.0,0.0
+16065,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,4,False,False,0.0,0.0
+16080,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,4,False,False,0.0,0.0
+16095,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,5,False,False,0.0,0.0
+16110,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,5,False,False,0.0,0.0
+16125,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,6,False,False,0.0,0.0
+16140,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,Prince,79.0,,,,6,False,False,0.0,0.0
+16155,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,X,106.0,Prince,79.0,4.0,2,True,True,4.0,5.0
+16170,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,X,106.0,,,,3,False,False,0.0,0.0
+16185,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,X,106.0,,,,3,False,False,0.0,0.0
+16200,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,X,106.0,,,,4,False,False,0.0,0.0
+16215,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,X,106.0,,,,4,False,False,0.0,0.0
+16230,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,X,106.0,,,,3,False,True,1.0,0.0
+16245,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,X,106.0,,,,3,False,False,0.0,0.0
+16260,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,X,106.0,,,,4,False,False,0.0,0.0
+16275,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,X,106.0,,,,4,False,False,0.0,0.0
+16290,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,X,106.0,,,,4,False,False,0.0,0.0
+16305,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,X,106.0,,,,4,False,False,0.0,0.0
+16320,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,X,106.0,,,,4,False,False,0.0,0.0
+16335,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,X,106.0,,,,4,False,False,0.0,0.0
+16350,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,X,106.0,,,,4,False,False,0.0,0.0
+16365,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,X,106.0,,,,4,False,False,0.0,0.0
+16380,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,X,106.0,,,,4,False,False,0.0,0.0
+16395,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,X,106.0,,,,4,False,False,0.0,0.0
+16410,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,X,106.0,,,,4,False,False,0.0,0.0
+16425,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,X,106.0,,,,4,False,False,0.0,0.0
+16440,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,X,106.0,,,,4,False,False,0.0,0.0
+16455,Archers,1.0,The Log,98.0,Inferno Dragon,56.0,X,106.0,,,,4,False,False,0.0,0.0
+16470,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,Inferno Dragon,56.0,3.0,4,True,False,0.0,4.0
+16485,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+16500,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+16515,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+16530,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+16545,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+16560,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+16575,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+16590,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+16605,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+16620,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+16635,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+16650,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+16665,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,9,False,False,0.0,0.0
+16680,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,9,False,False,0.0,0.0
+16695,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,7,False,True,2.0,0.0
+16710,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,2,False,True,5.0,0.0
+16725,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+16740,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+16755,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+16770,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+16785,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+16800,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+16815,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+16830,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+16845,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+16860,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+16875,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+16890,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+16905,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+16920,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+16935,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+16950,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+16965,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+16980,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+16995,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+17010,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,9,False,False,0.0,0.0
+17025,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,9,False,False,0.0,0.0
+17040,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,8,False,True,1.0,0.0
+17055,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+17070,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+17085,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+17100,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,9,False,False,0.0,0.0
+17115,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,9,False,False,0.0,0.0
+17130,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,8,False,True,1.0,0.0
+17145,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+17160,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+17175,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,9,False,False,0.0,0.0
+17190,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,9,False,False,0.0,0.0
+17205,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,9,False,False,0.0,0.0
+17220,Archers,1.0,The Log,98.0,Tesla,97.0,X,106.0,,,,9,False,False,0.0,0.0
+17235,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,Archers,1.0,1.0,6,True,True,3.0,3.0
+17250,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+17265,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+17280,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+17295,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+17310,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+17325,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+17340,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+17355,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+17370,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+17385,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+17400,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+17415,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+17430,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,9,False,False,0.0,0.0
+17445,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,9,False,False,0.0,0.0
+17460,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,9,False,False,0.0,0.0
+17475,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,9,False,False,0.0,0.0
+17490,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,9,False,False,0.0,0.0
+17505,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,9,False,False,0.0,0.0
+17520,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,10,False,False,0.0,0.0
+17535,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,X,106.0,4.0,4,True,True,6.0,6.0
+17550,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+17565,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+17580,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+17595,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,Knight,58.0,4.0,1,True,True,3.0,3.0
+17610,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+17625,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+17640,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+17655,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+17670,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+17685,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+17700,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+17715,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+17730,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+17745,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+17760,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+17775,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+17790,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+17805,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,3,False,True,1.0,0.0
+17820,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+17835,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,The Log,98.0,2.0,1,True,True,2.0,2.0
+17850,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,1,False,False,0.0,0.0
+17865,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+17880,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,1,False,True,1.0,0.0
+17895,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,1,False,False,0.0,0.0
+17910,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,1,False,False,0.0,0.0
+17925,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,1,False,False,0.0,0.0
+17940,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+17955,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+17970,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+17985,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+18000,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+18015,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+18030,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+18045,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+18060,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+18075,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+18090,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+18105,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+18120,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+18135,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+18150,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+18165,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+18180,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+18195,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+18210,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+18225,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+18240,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+18255,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+18270,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+18285,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+18300,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+18315,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+18330,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+18345,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+18360,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+18375,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+18390,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+18405,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+18420,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+18435,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+18450,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+18465,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+18480,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+18495,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+18510,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+18525,Fireball,30.0,Archers,1.0,Tesla,97.0,Knight,58.0,X,106.0,4.0,2,True,True,6.0,6.0
+18540,Fireball,30.0,Archers,1.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+18555,Fireball,30.0,Archers,1.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+18570,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,Knight,58.0,4.0,0,True,True,3.0,3.0
+18585,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,0,False,False,0.0,0.0
+18600,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,0,False,False,0.0,0.0
+18615,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,1,False,False,0.0,0.0
+18630,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,1,False,False,0.0,0.0
+18645,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,1,False,False,0.0,0.0
+18660,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,1,False,False,0.0,0.0
+18675,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,1,False,False,0.0,0.0
+18690,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,1,False,False,0.0,0.0
+18705,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+18720,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+18735,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+18750,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+18765,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+18780,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+18795,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+18810,Fireball,30.0,Archers,1.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+18825,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,Archers,1.0,2.0,0,True,True,3.0,3.0
+18840,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,0,False,False,0.0,0.0
+18855,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,0,False,False,0.0,0.0
+18870,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,1,False,False,0.0,0.0
+18885,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,1,False,False,0.0,0.0
+18900,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,1,False,False,0.0,0.0
+18915,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,1,False,False,0.0,0.0
+18930,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,1,False,False,0.0,0.0
+18945,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,1,False,False,0.0,0.0
+18960,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,1,False,False,0.0,0.0
+18975,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,1,False,False,0.0,0.0
+18990,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,1,False,False,0.0,0.0
+19005,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,1,False,False,0.0,0.0
+19020,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,1,False,False,0.0,0.0
+19035,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+19050,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+19065,Fireball,30.0,X,106.0,Tesla,97.0,X,106.0,The Log,98.0,2.0,1,True,True,1.0,2.0
+19080,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,X,106.0,2.0,1,True,False,0.0,6.0
+19095,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,1,False,False,0.0,0.0
+19110,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,1,False,False,0.0,0.0
+19125,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+19140,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+19155,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+19170,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+19185,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+19200,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,2,False,False,0.0,0.0
+19215,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+19230,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+19245,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+19260,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+19275,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,3,False,False,0.0,0.0
+19290,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+19305,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+19320,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+19335,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+19350,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+19365,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,4,False,False,0.0,0.0
+19380,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+19395,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+19410,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+19425,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+19440,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,5,False,False,0.0,0.0
+19455,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+19470,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+19485,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+19500,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+19515,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+19530,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,6,False,False,0.0,0.0
+19545,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+19560,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+19575,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+19590,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+19605,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,7,False,False,0.0,0.0
+19620,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+19635,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+19650,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+19665,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+19680,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+19695,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,8,False,False,0.0,0.0
+19710,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,9,False,False,0.0,0.0
+19725,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,9,False,False,0.0,0.0
+19740,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,9,False,False,0.0,0.0
+19755,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,9,False,False,0.0,0.0
+19770,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,9,False,False,0.0,0.0
+19785,Fireball,30.0,The Log,98.0,Tesla,97.0,X,106.0,,,,9,False,False,0.0,0.0
+19800,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,X,106.0,4.0,4,True,True,5.0,6.0
+19815,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+19830,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+19845,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+19860,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+19875,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+19890,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+19905,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+19920,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+19935,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+19950,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+19965,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+19980,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+19995,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+20010,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+20025,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+20040,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+20055,Fireball,30.0,The Log,98.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+20070,Fireball,30.0,Archers,1.0,Tesla,97.0,Knight,58.0,The Log,98.0,2.0,5,True,True,2.0,2.0
+20085,Fireball,30.0,Archers,1.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+20100,Fireball,30.0,Archers,1.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+20115,Fireball,30.0,Archers,1.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+20130,Fireball,30.0,Archers,1.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+20145,Fireball,30.0,Archers,1.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+20160,Fireball,30.0,Archers,1.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+20175,Fireball,30.0,Archers,1.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+20190,Fireball,30.0,Archers,1.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+20205,Fireball,30.0,Archers,1.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+20220,Fireball,30.0,Archers,1.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+20235,Fireball,30.0,Archers,1.0,Tesla,97.0,Knight,58.0,,,,3,False,True,4.0,0.0
+20250,Fireball,30.0,Archers,1.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+20265,Fireball,30.0,Archers,1.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+20280,Fireball,30.0,Archers,1.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+20295,Fireball,30.0,Archers,1.0,Tesla,97.0,Archers,1.0,Knight,58.0,4.0,5,True,False,0.0,3.0
+20310,Fireball,30.0,Archers,1.0,Tesla,97.0,Archers,1.0,,,,5,False,False,0.0,0.0
+20325,Fireball,30.0,Archers,1.0,Tesla,97.0,Archers,1.0,,,,5,False,False,0.0,0.0
+20340,Fireball,30.0,Archers,1.0,Tesla,97.0,Archers,1.0,,,,4,False,True,1.0,0.0
+20355,Fireball,30.0,Archers,1.0,Tesla,97.0,Archers,1.0,,,,4,False,False,0.0,0.0
+20370,Fireball,30.0,Archers,1.0,Tesla,97.0,Archers,1.0,,,,5,False,False,0.0,0.0
+20385,Fireball,30.0,Archers,1.0,Tesla,97.0,Archers,1.0,,,,6,False,False,0.0,0.0
+20400,Fireball,30.0,Archers,1.0,Tesla,97.0,Archers,1.0,,,,6,False,False,0.0,0.0
+20415,Fireball,30.0,Archers,1.0,Tesla,97.0,Archers,1.0,,,,6,False,False,0.0,0.0
+20430,Fireball,30.0,Archers,1.0,Tesla,97.0,Archers,1.0,,,,7,False,False,0.0,0.0
+20445,Fireball,30.0,Archers,1.0,Tesla,97.0,Archers,1.0,,,,7,False,False,0.0,0.0
+20460,Fireball,30.0,Archers,1.0,Tesla,97.0,Archers,1.0,,,,7,False,False,0.0,0.0
+20475,Fireball,30.0,Archers,1.0,Tesla,97.0,Archers,1.0,,,,8,False,False,0.0,0.0
+20490,Fireball,30.0,X,106.0,Tesla,97.0,Archers,1.0,Archers,1.0,2.0,5,True,True,3.0,3.0
+20505,Fireball,30.0,X,106.0,Tesla,97.0,Archers,1.0,,,,6,False,False,0.0,0.0
+20520,Fireball,30.0,X,106.0,Tesla,97.0,Archers,1.0,,,,6,False,False,0.0,0.0
+20535,Fireball,30.0,X,106.0,Tesla,97.0,Archers,1.0,,,,6,False,False,0.0,0.0
+20550,Fireball,30.0,X,106.0,Tesla,97.0,Archers,1.0,,,,7,False,False,0.0,0.0
+20565,Fireball,30.0,X,106.0,Tesla,97.0,Archers,1.0,,,,7,False,False,0.0,0.0
+20580,Fireball,30.0,X,106.0,Tesla,97.0,Archers,1.0,,,,7,False,False,0.0,0.0
+20595,Fireball,30.0,X,106.0,Tesla,97.0,Archers,1.0,,,,8,False,False,0.0,0.0
+20610,Fireball,30.0,X,106.0,Tesla,97.0,Archers,1.0,,,,8,False,False,0.0,0.0
+20625,Fireball,30.0,X,106.0,Tesla,97.0,Archers,1.0,,,,8,False,False,0.0,0.0
+20640,Fireball,30.0,X,106.0,Tesla,97.0,Archers,1.0,,,,9,False,False,0.0,0.0
+20655,Fireball,30.0,The Log,98.0,Tesla,97.0,Archers,1.0,X,106.0,2.0,3,True,True,6.0,6.0
+20670,Fireball,30.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,3,False,False,0.0,0.0
+20685,Fireball,30.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,4,False,False,0.0,0.0
+20700,Fireball,30.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,4,False,False,0.0,0.0
+20715,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,Fireball,30.0,1.0,1,True,True,3.0,4.0
+20730,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,1,False,False,0.0,0.0
+20745,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,1,False,False,0.0,0.0
+20760,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+20775,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+20790,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+20805,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+20820,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+20835,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+20850,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,3,False,False,0.0,0.0
+20865,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,2,False,True,1.0,0.0
+20880,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+20895,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,3,False,False,0.0,0.0
+20910,Knight,58.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,3,False,False,0.0,0.0
+20925,X,106.0,X,106.0,Tesla,97.0,Archers,1.0,The Log,98.0,2.0,1,True,True,2.0,2.0
+20940,X,106.0,The Log,98.0,Tesla,97.0,Archers,1.0,X,106.0,2.0,1,True,False,0.0,6.0
+20955,X,106.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,1,False,False,0.0,0.0
+20970,X,106.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+20985,X,106.0,The Log,98.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+21000,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,The Log,98.0,2.0,0,True,True,2.0,2.0
+21015,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,1,False,False,0.0,0.0
+21030,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,1,False,False,0.0,0.0
+21045,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,1,False,False,0.0,0.0
+21060,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+21075,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+21090,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,2,False,False,0.0,0.0
+21105,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,3,False,False,0.0,0.0
+21120,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,3,False,False,0.0,0.0
+21135,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,4,False,False,0.0,0.0
+21150,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,4,False,False,0.0,0.0
+21165,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,4,False,False,0.0,0.0
+21180,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,5,False,False,0.0,0.0
+21195,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,5,False,False,0.0,0.0
+21210,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,5,False,False,0.0,0.0
+21225,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,6,False,False,0.0,0.0
+21240,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,6,False,False,0.0,0.0
+21255,X,106.0,Fireball,30.0,Tesla,97.0,Archers,1.0,,,,6,False,False,0.0,0.0
+21270,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,Archers,1.0,4.0,4,True,True,2.0,3.0
+21285,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+21300,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+21315,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+21330,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+21345,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+21360,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+21375,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+21390,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+21405,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+21420,X,106.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+21435,Knight,58.0,Fireball,30.0,Tesla,97.0,The Log,98.0,X,106.0,1.0,2,True,True,5.0,6.0
+21450,Knight,58.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+21465,Knight,58.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+21480,Knight,58.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+21495,Knight,58.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+21510,Knight,58.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+21525,Knight,58.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+21540,Knight,58.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,3,False,True,1.0,0.0
+21555,Knight,58.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+21570,Knight,58.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+21585,Knight,58.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+21600,Knight,58.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+21615,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,Knight,58.0,1.0,1,True,True,3.0,3.0
+21630,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,1,False,False,0.0,0.0
+21645,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+21660,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+21675,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+21690,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+21705,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+21720,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+21735,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+21750,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+21765,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+21780,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+21795,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+21810,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+21825,Archers,1.0,Fireball,30.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+21840,Archers,1.0,Fireball,30.0,X,106.0,The Log,98.0,Tesla,97.0,3.0,2,True,True,4.0,4.0
+21855,Archers,1.0,Fireball,30.0,X,106.0,The Log,98.0,,,,3,False,False,0.0,0.0
+21870,Archers,1.0,Fireball,30.0,X,106.0,Knight,58.0,The Log,98.0,4.0,1,True,True,2.0,2.0
+21885,Archers,1.0,Fireball,30.0,X,106.0,Knight,58.0,,,,1,False,False,0.0,0.0
+21900,Archers,1.0,Fireball,30.0,X,106.0,Knight,58.0,,,,2,False,False,0.0,0.0
+21915,Archers,1.0,Fireball,30.0,X,106.0,Knight,58.0,,,,2,False,False,0.0,0.0
+21930,Archers,1.0,Fireball,30.0,X,106.0,Knight,58.0,,,,1,False,True,1.0,0.0
+21945,Archers,1.0,Fireball,30.0,X,106.0,Knight,58.0,,,,2,False,False,0.0,0.0
+21960,Archers,1.0,Fireball,30.0,X,106.0,Knight,58.0,,,,2,False,False,0.0,0.0
+21975,Archers,1.0,Fireball,30.0,X,106.0,Knight,58.0,,,,3,False,False,0.0,0.0
+21990,Archers,1.0,Fireball,30.0,X,106.0,Knight,58.0,,,,3,False,False,0.0,0.0
+22005,Archers,1.0,Fireball,30.0,X,106.0,Knight,58.0,,,,3,False,False,0.0,0.0
+22020,Archers,1.0,Fireball,30.0,X,106.0,Knight,58.0,,,,3,False,False,0.0,0.0
+22035,Archers,1.0,Fireball,30.0,X,106.0,Knight,58.0,,,,3,False,False,0.0,0.0
+22050,Archers,1.0,Fireball,30.0,X,106.0,Knight,58.0,,,,3,False,False,0.0,0.0
+22065,Archers,1.0,Fireball,30.0,X,106.0,Tesla,97.0,Knight,58.0,4.0,1,True,True,2.0,3.0
+22080,Archers,1.0,Fireball,30.0,X,106.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+22095,Archers,1.0,Fireball,30.0,X,106.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+22110,Archers,1.0,Fireball,30.0,X,106.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+22125,Archers,1.0,Fireball,30.0,X,106.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+22140,Archers,1.0,Fireball,30.0,X,106.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+22155,Archers,1.0,Fireball,30.0,X,106.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+22170,Archers,1.0,Fireball,30.0,X,106.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+22185,Archers,1.0,Fireball,30.0,X,106.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+22200,Archers,1.0,Fireball,30.0,X,106.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+22215,Archers,1.0,Fireball,30.0,X,106.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+22230,Archers,1.0,The Log,98.0,X,106.0,Tesla,97.0,Fireball,30.0,2.0,1,True,True,3.0,4.0
+22245,Archers,1.0,The Log,98.0,X,106.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+22260,Archers,1.0,The Log,98.0,X,106.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+22275,Archers,1.0,The Log,98.0,X,106.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+22290,Archers,1.0,The Log,98.0,X,106.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+22305,Archers,1.0,The Log,98.0,X,106.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+22320,Archers,1.0,The Log,98.0,X,106.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+22335,Archers,1.0,The Log,98.0,X,106.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+22350,Archers,1.0,The Log,98.0,X,106.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+22365,Archers,1.0,The Log,98.0,X,106.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+22380,Archers,1.0,The Log,98.0,X,106.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+22395,Archers,1.0,The Log,98.0,X,106.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+22410,Archers,1.0,The Log,98.0,X,106.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+22425,Archers,1.0,The Log,98.0,X,106.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+22440,Archers,1.0,The Log,98.0,X,106.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+22455,Archers,1.0,The Log,98.0,X,106.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+22470,Archers,1.0,The Log,98.0,X,106.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+22485,Archers,1.0,The Log,98.0,X,106.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+22500,Archers,1.0,The Log,98.0,X,106.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+22515,Archers,1.0,The Log,98.0,X,106.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+22530,Archers,1.0,The Log,98.0,Fireball,30.0,Tesla,97.0,X,106.0,3.0,2,True,True,5.0,6.0
+22545,Archers,1.0,The Log,98.0,Fireball,30.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+22560,Archers,1.0,The Log,98.0,Fireball,30.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+22575,Archers,1.0,The Log,98.0,Fireball,30.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+22590,Archers,1.0,The Log,98.0,Fireball,30.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+22605,Archers,1.0,The Log,98.0,Fireball,30.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+22620,Archers,1.0,The Log,98.0,Fireball,30.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+22635,Archers,1.0,The Log,98.0,Fireball,30.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+22650,Archers,1.0,The Log,98.0,Fireball,30.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+22665,Archers,1.0,The Log,98.0,Fireball,30.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+22680,Archers,1.0,The Log,98.0,Fireball,30.0,Tesla,97.0,,,,4,False,True,1.0,0.0
+22695,Archers,1.0,The Log,98.0,Fireball,30.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+22710,Archers,1.0,The Log,98.0,Fireball,30.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+22725,Archers,1.0,The Log,98.0,Fireball,30.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+22740,Archers,1.0,The Log,98.0,Fireball,30.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+22755,Knight,58.0,The Log,98.0,Fireball,30.0,Tesla,97.0,Archers,1.0,1.0,3,True,True,3.0,3.0
+22770,Knight,58.0,The Log,98.0,Fireball,30.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+22785,Knight,58.0,The Log,98.0,Fireball,30.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+22800,Knight,58.0,The Log,98.0,Fireball,30.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+22815,Knight,58.0,The Log,98.0,Fireball,30.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+22830,Knight,58.0,The Log,98.0,Fireball,30.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+22845,X,106.0,The Log,98.0,Fireball,30.0,Tesla,97.0,Knight,58.0,1.0,1,True,True,3.0,3.0
+22860,X,106.0,The Log,98.0,Fireball,30.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+22875,X,106.0,The Log,98.0,Fireball,30.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+22890,X,106.0,Knight,58.0,Fireball,30.0,Tesla,97.0,The Log,98.0,2.0,3,True,True,2.0,2.0
+22905,X,106.0,Knight,58.0,Fireball,30.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+22920,X,106.0,Knight,58.0,Fireball,30.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+22935,X,106.0,Knight,58.0,Fireball,30.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+22950,X,106.0,Knight,58.0,Fireball,30.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+22965,X,106.0,Knight,58.0,Fireball,30.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+22980,X,106.0,Knight,58.0,Fireball,30.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+22995,X,106.0,Knight,58.0,Fireball,30.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+23010,X,106.0,Knight,58.0,Fireball,30.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+23025,X,106.0,Knight,58.0,Fireball,30.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+23040,X,106.0,Knight,58.0,Fireball,30.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+23055,X,106.0,Knight,58.0,Fireball,30.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+23070,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,Fireball,30.0,3.0,1,True,True,3.0,4.0
+23085,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+23100,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+23115,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+23130,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+23145,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+23160,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+23175,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+23190,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,1,False,True,1.0,0.0
+23205,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+23220,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+23235,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+23250,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+23265,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+23280,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+23295,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+23310,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+23325,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+23340,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+23355,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+23370,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+23385,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+23400,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+23415,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+23430,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+23445,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+23460,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+23475,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+23490,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+23505,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+23520,X,106.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+23535,The Log,98.0,Knight,58.0,Archers,1.0,Tesla,97.0,X,106.0,1.0,4,True,True,5.0,6.0
+23550,The Log,98.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+23565,The Log,98.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+23580,The Log,98.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+23595,The Log,98.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+23610,The Log,98.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+23625,The Log,98.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+23640,The Log,98.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+23655,The Log,98.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+23670,The Log,98.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+23685,The Log,98.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+23700,The Log,98.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+23715,The Log,98.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+23730,The Log,98.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+23745,The Log,98.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+23760,The Log,98.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+23775,The Log,98.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+23790,Fireball,30.0,Knight,58.0,Archers,1.0,Tesla,97.0,The Log,98.0,1.0,8,True,True,1.0,2.0
+23805,Fireball,30.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+23820,Fireball,30.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+23835,Fireball,30.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+23850,Fireball,30.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,6,False,True,3.0,0.0
+23865,Fireball,30.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+23880,Fireball,30.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+23895,Fireball,30.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+23910,Fireball,30.0,Knight,58.0,Archers,1.0,Tesla,97.0,,,,7,False,False,0.0,0.0

@@ -1,0 +1,608 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Dart Goblin,19.0,,,Witch,104.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+00255,Dart Goblin,19.0,,,Witch,104.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+00270,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,2.0,6,True,False,0.0,0.0
+00285,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00300,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00315,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00330,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00345,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+00360,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00375,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00390,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00405,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00420,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00435,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+00450,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00465,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00480,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00495,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00510,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+00525,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00540,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00555,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00570,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00585,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00600,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00615,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00630,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00645,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00660,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00675,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00690,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00705,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00720,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00735,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00750,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00765,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00780,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00795,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00810,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00825,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00840,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00855,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00870,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00885,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00900,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00915,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00930,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00945,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00960,Dart Goblin,19.0,Golem,47.0,Witch,104.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+00975,Dart Goblin,19.0,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,Golem,47.0,2.0,2,True,True,8.0,8.0
+00990,Dart Goblin,19.0,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01005,Dart Goblin,19.0,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01020,Dart Goblin,19.0,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01035,Dart Goblin,19.0,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01050,Dart Goblin,19.0,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01065,Dart Goblin,19.0,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01080,Dart Goblin,19.0,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01095,Dart Goblin,19.0,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01110,Dart Goblin,19.0,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01125,Dart Goblin,19.0,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01140,Dart Goblin,19.0,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01155,Dart Goblin,19.0,Skeleton Army,90.0,Witch,104.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01170,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,Witch,104.0,3.0,0,True,True,4.0,5.0
+01185,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,0,False,False,0.0,0.0
+01200,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,0,False,False,0.0,0.0
+01215,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,0,False,False,0.0,0.0
+01230,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01245,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01260,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01275,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01290,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01305,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+01320,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01335,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01350,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01365,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01380,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+01395,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01410,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01425,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01440,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01455,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01470,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+01485,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01500,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01515,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01530,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01545,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+01560,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01575,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01590,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01605,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01620,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01635,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01650,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01665,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01680,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01695,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01710,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01725,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01740,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01755,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01770,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,Tornado,101.0,4.0,4,True,True,3.0,3.0
+01785,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,4,False,False,0.0,0.0
+01800,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,4,False,False,0.0,0.0
+01815,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,5,False,False,0.0,0.0
+01830,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,5,False,False,0.0,0.0
+01845,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,5,False,False,0.0,0.0
+01860,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,5,False,False,0.0,0.0
+01875,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,5,False,False,0.0,0.0
+01890,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,5,False,False,0.0,0.0
+01905,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,6,False,False,0.0,0.0
+01920,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,6,False,False,0.0,0.0
+01935,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,6,False,False,0.0,0.0
+01950,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,6,False,False,0.0,0.0
+01965,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,6,False,False,0.0,0.0
+01980,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,7,False,False,0.0,0.0
+01995,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,7,False,False,0.0,0.0
+02010,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,7,False,False,0.0,0.0
+02025,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,7,False,False,0.0,0.0
+02040,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,7,False,False,0.0,0.0
+02055,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,7,False,False,0.0,0.0
+02070,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,8,False,False,0.0,0.0
+02085,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,8,False,False,0.0,0.0
+02100,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,8,False,False,0.0,0.0
+02115,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,8,False,False,0.0,0.0
+02130,Dart Goblin,19.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,8,False,False,0.0,0.0
+02145,Executioner,28.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,Dart Goblin,19.0,1.0,6,True,True,2.0,3.0
+02160,Executioner,28.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,6,False,False,0.0,0.0
+02175,Executioner,28.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,6,False,False,0.0,0.0
+02190,Executioner,28.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,6,False,False,0.0,0.0
+02205,Executioner,28.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,6,False,False,0.0,0.0
+02220,Executioner,28.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,6,False,False,0.0,0.0
+02235,Executioner,28.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,7,False,False,0.0,0.0
+02250,Executioner,28.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,7,False,False,0.0,0.0
+02265,Golem,47.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,Executioner,28.0,1.0,2,True,True,5.0,5.0
+02280,Golem,47.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,2,False,False,0.0,0.0
+02295,Golem,47.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,2,False,False,0.0,0.0
+02310,Golem,47.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,2,False,False,0.0,0.0
+02325,Golem,47.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,3,False,False,0.0,0.0
+02340,Golem,47.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,3,False,False,0.0,0.0
+02355,Golem,47.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,3,False,False,0.0,0.0
+02370,Golem,47.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,3,False,False,0.0,0.0
+02385,Golem,47.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,3,False,False,0.0,0.0
+02400,Golem,47.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,4,False,False,0.0,0.0
+02415,Golem,47.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,4,False,False,0.0,0.0
+02430,Golem,47.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,4,False,False,0.0,0.0
+02445,Golem,47.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,4,False,False,0.0,0.0
+02460,Golem,47.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,4,False,False,0.0,0.0
+02475,Golem,47.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,4,False,False,0.0,0.0
+02490,Golem,47.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,5,False,False,0.0,0.0
+02505,Golem,47.0,Skeleton Army,90.0,Minion Horde,68.0,Zap,107.0,,,,5,False,False,0.0,0.0
+02520,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,Minion Horde,68.0,3.0,0,True,True,5.0,5.0
+02535,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,0,False,False,0.0,0.0
+02550,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,0,False,False,0.0,0.0
+02565,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,1,False,False,0.0,0.0
+02580,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,1,False,False,0.0,0.0
+02595,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,1,False,False,0.0,0.0
+02610,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,1,False,False,0.0,0.0
+02625,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,1,False,False,0.0,0.0
+02640,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,1,False,False,0.0,0.0
+02655,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,2,False,False,0.0,0.0
+02670,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,2,False,False,0.0,0.0
+02685,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,2,False,False,0.0,0.0
+02700,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,2,False,False,0.0,0.0
+02715,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,2,False,False,0.0,0.0
+02730,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,2,False,False,0.0,0.0
+02745,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,3,False,False,0.0,0.0
+02760,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,3,False,False,0.0,0.0
+02775,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,3,False,False,0.0,0.0
+02790,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,3,False,False,0.0,0.0
+02805,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,3,False,False,0.0,0.0
+02820,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,4,False,False,0.0,0.0
+02835,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,4,False,False,0.0,0.0
+02850,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,4,False,False,0.0,0.0
+02865,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,4,False,False,0.0,0.0
+02880,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,4,False,False,0.0,0.0
+02895,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,4,False,False,0.0,0.0
+02910,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,5,False,False,0.0,0.0
+02925,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,5,False,False,0.0,0.0
+02940,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,5,False,False,0.0,0.0
+02955,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,5,False,False,0.0,0.0
+02970,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,5,False,False,0.0,0.0
+02985,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,6,False,False,0.0,0.0
+03000,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,6,False,False,0.0,0.0
+03015,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,6,False,False,0.0,0.0
+03030,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,6,False,False,0.0,0.0
+03045,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,6,False,False,0.0,0.0
+03060,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,6,False,False,0.0,0.0
+03075,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,7,False,False,0.0,0.0
+03090,Golem,47.0,Skeleton Army,90.0,Witch,104.0,Zap,107.0,,,,7,False,False,0.0,0.0
+03105,Golem,47.0,Tornado,101.0,Witch,104.0,Zap,107.0,Skeleton Army,90.0,2.0,4,True,True,3.0,3.0
+03120,Golem,47.0,Tornado,101.0,Witch,104.0,Zap,107.0,,,,4,False,False,0.0,0.0
+03135,Golem,47.0,Tornado,101.0,Witch,104.0,Zap,107.0,,,,4,False,False,0.0,0.0
+03150,Golem,47.0,Tornado,101.0,Witch,104.0,Zap,107.0,,,,4,False,False,0.0,0.0
+03165,Golem,47.0,Tornado,101.0,Witch,104.0,Zap,107.0,,,,5,False,False,0.0,0.0
+03180,Golem,47.0,Tornado,101.0,Witch,104.0,Zap,107.0,,,,5,False,False,0.0,0.0
+03195,Golem,47.0,Tornado,101.0,Witch,104.0,Zap,107.0,,,,5,False,False,0.0,0.0
+03210,Golem,47.0,Tornado,101.0,Witch,104.0,Zap,107.0,,,,5,False,False,0.0,0.0
+03225,Golem,47.0,Tornado,101.0,Witch,104.0,Zap,107.0,,,,5,False,False,0.0,0.0
+03240,Golem,47.0,Tornado,101.0,Witch,104.0,Zap,107.0,,,,6,False,False,0.0,0.0
+03255,Golem,47.0,Tornado,101.0,Witch,104.0,Zap,107.0,,,,6,False,False,0.0,0.0
+03270,Golem,47.0,Tornado,101.0,Witch,104.0,Zap,107.0,,,,6,False,False,0.0,0.0
+03285,Golem,47.0,Tornado,101.0,Witch,104.0,Zap,107.0,,,,6,False,False,0.0,0.0
+03300,Golem,47.0,Tornado,101.0,Witch,104.0,Zap,107.0,,,,6,False,False,0.0,0.0
+03315,Golem,47.0,Tornado,101.0,Witch,104.0,Zap,107.0,,,,6,False,False,0.0,0.0
+03330,Golem,47.0,Tornado,101.0,Witch,104.0,Zap,107.0,,,,7,False,False,0.0,0.0
+03345,Golem,47.0,Tornado,101.0,Witch,104.0,Zap,107.0,,,,7,False,False,0.0,0.0
+03360,Golem,47.0,Tornado,101.0,Witch,104.0,Zap,107.0,,,,7,False,False,0.0,0.0
+03375,Golem,47.0,Tornado,101.0,Witch,104.0,Zap,107.0,,,,7,False,False,0.0,0.0
+03390,Golem,47.0,Tornado,101.0,Witch,104.0,Zap,107.0,,,,7,False,False,0.0,0.0
+03405,Golem,47.0,Tornado,101.0,Witch,104.0,Zap,107.0,,,,8,False,False,0.0,0.0
+03420,Golem,47.0,Tornado,101.0,Witch,104.0,Zap,107.0,,,,8,False,False,0.0,0.0
+03435,Golem,47.0,Tornado,101.0,Witch,104.0,Zap,107.0,,,,8,False,False,0.0,0.0
+03450,Golem,47.0,Tornado,101.0,Witch,104.0,Zap,107.0,,,,8,False,False,0.0,0.0
+03465,Golem,47.0,Tornado,101.0,Witch,104.0,Zap,107.0,,,,8,False,False,0.0,0.0
+03480,Golem,47.0,Tornado,101.0,Witch,104.0,Zap,107.0,,,,8,False,False,0.0,0.0
+03495,Golem,47.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,Witch,104.0,3.0,5,True,True,3.0,5.0
+03510,Golem,47.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,5,False,False,0.0,0.0
+03525,Golem,47.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,5,False,False,0.0,0.0
+03540,Golem,47.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,5,False,False,0.0,0.0
+03555,Golem,47.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,5,False,False,0.0,0.0
+03570,Golem,47.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,5,False,False,0.0,0.0
+03585,Golem,47.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,6,False,False,0.0,0.0
+03600,Golem,47.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,6,False,False,0.0,0.0
+03615,Golem,47.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,6,False,False,0.0,0.0
+03630,Golem,47.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,6,False,False,0.0,0.0
+03645,Golem,47.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,6,False,False,0.0,0.0
+03660,Golem,47.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,7,False,False,0.0,0.0
+03675,Golem,47.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,7,False,False,0.0,0.0
+03690,Golem,47.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,7,False,False,0.0,0.0
+03705,Golem,47.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,7,False,False,0.0,0.0
+03720,Golem,47.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,7,False,False,0.0,0.0
+03735,Golem,47.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,7,False,False,0.0,0.0
+03750,Golem,47.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,8,False,False,0.0,0.0
+03765,Golem,47.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,8,False,False,0.0,0.0
+03780,Golem,47.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,8,False,False,0.0,0.0
+03795,Golem,47.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,9,False,False,0.0,0.0
+03810,Golem,47.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,9,False,False,0.0,0.0
+03825,Golem,47.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,10,False,False,0.0,0.0
+03840,Golem,47.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,10,False,False,0.0,0.0
+03855,Executioner,28.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,Golem,47.0,1.0,2,True,True,8.0,8.0
+03870,Executioner,28.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,2,False,False,0.0,0.0
+03885,Executioner,28.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,2,False,False,0.0,0.0
+03900,Executioner,28.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,3,False,False,0.0,0.0
+03915,Executioner,28.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,3,False,False,0.0,0.0
+03930,Executioner,28.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,4,False,False,0.0,0.0
+03945,Executioner,28.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,4,False,False,0.0,0.0
+03960,Executioner,28.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,4,False,False,0.0,0.0
+03975,Executioner,28.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,5,False,False,0.0,0.0
+03990,Executioner,28.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04005,Executioner,28.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04020,Executioner,28.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04035,Executioner,28.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04050,Minion Horde,68.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,Executioner,28.0,1.0,1,True,True,5.0,5.0
+04065,Minion Horde,68.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,2,False,False,0.0,0.0
+04080,Minion Horde,68.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,2,False,False,0.0,0.0
+04095,Minion Horde,68.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,2,False,False,0.0,0.0
+04110,Minion Horde,68.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04125,Minion Horde,68.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04140,Minion Horde,68.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04155,Minion Horde,68.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04170,Minion Horde,68.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04185,Minion Horde,68.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04200,Minion Horde,68.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04215,Minion Horde,68.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04230,Minion Horde,68.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04245,Minion Horde,68.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04260,Minion Horde,68.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04275,Minion Horde,68.0,Tornado,101.0,Dart Goblin,19.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04290,Minion Horde,68.0,Skeleton Army,90.0,Dart Goblin,19.0,Zap,107.0,Tornado,101.0,2.0,4,True,True,3.0,3.0
+04305,Minion Horde,68.0,Skeleton Army,90.0,Dart Goblin,19.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04320,Minion Horde,68.0,Skeleton Army,90.0,Dart Goblin,19.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04335,Minion Horde,68.0,Skeleton Army,90.0,Dart Goblin,19.0,Witch,104.0,Zap,107.0,4.0,3,True,True,2.0,2.0
+04350,Minion Horde,68.0,Skeleton Army,90.0,Dart Goblin,19.0,Witch,104.0,,,,4,False,False,0.0,0.0
+04365,Minion Horde,68.0,Skeleton Army,90.0,Dart Goblin,19.0,Witch,104.0,,,,4,False,False,0.0,0.0
+04380,Minion Horde,68.0,Skeleton Army,90.0,Dart Goblin,19.0,Witch,104.0,,,,4,False,False,0.0,0.0
+04395,Minion Horde,68.0,Skeleton Army,90.0,Dart Goblin,19.0,Witch,104.0,,,,5,False,False,0.0,0.0
+04410,Minion Horde,68.0,Skeleton Army,90.0,Golem,47.0,Witch,104.0,Dart Goblin,19.0,3.0,2,True,True,3.0,3.0
+04425,Minion Horde,68.0,Skeleton Army,90.0,Golem,47.0,Witch,104.0,,,,2,False,False,0.0,0.0
+04440,Minion Horde,68.0,Skeleton Army,90.0,Golem,47.0,Witch,104.0,,,,3,False,False,0.0,0.0
+04455,Minion Horde,68.0,Skeleton Army,90.0,Golem,47.0,Witch,104.0,,,,3,False,False,0.0,0.0
+04470,Minion Horde,68.0,Skeleton Army,90.0,Golem,47.0,Witch,104.0,,,,3,False,False,0.0,0.0
+04485,Minion Horde,68.0,Skeleton Army,90.0,Golem,47.0,Witch,104.0,,,,4,False,False,0.0,0.0
+04500,Minion Horde,68.0,Skeleton Army,90.0,Golem,47.0,Witch,104.0,,,,4,False,False,0.0,0.0
+04515,Minion Horde,68.0,Skeleton Army,90.0,Golem,47.0,Witch,104.0,,,,4,False,False,0.0,0.0
+04530,Minion Horde,68.0,Skeleton Army,90.0,Golem,47.0,Witch,104.0,,,,5,False,False,0.0,0.0
+04545,Minion Horde,68.0,Skeleton Army,90.0,Golem,47.0,Witch,104.0,,,,5,False,False,0.0,0.0
+04560,Minion Horde,68.0,Skeleton Army,90.0,Golem,47.0,Witch,104.0,,,,6,False,False,0.0,0.0
+04575,Minion Horde,68.0,Skeleton Army,90.0,Golem,47.0,Witch,104.0,,,,6,False,False,0.0,0.0
+04590,Minion Horde,68.0,Skeleton Army,90.0,Golem,47.0,Witch,104.0,,,,6,False,False,0.0,0.0
+04605,Minion Horde,68.0,Skeleton Army,90.0,Golem,47.0,Witch,104.0,,,,7,False,False,0.0,0.0
+04620,Minion Horde,68.0,Skeleton Army,90.0,Golem,47.0,Witch,104.0,,,,7,False,False,0.0,0.0
+04635,Minion Horde,68.0,Skeleton Army,90.0,Golem,47.0,Witch,104.0,,,,7,False,False,0.0,0.0
+04650,Minion Horde,68.0,Skeleton Army,90.0,Golem,47.0,Witch,104.0,,,,8,False,False,0.0,0.0
+04665,Minion Horde,68.0,Skeleton Army,90.0,Golem,47.0,Witch,104.0,,,,8,False,False,0.0,0.0
+04680,Minion Horde,68.0,Skeleton Army,90.0,Executioner,28.0,Witch,104.0,Golem,47.0,3.0,0,True,True,8.0,8.0
+04695,Minion Horde,68.0,Skeleton Army,90.0,Executioner,28.0,Witch,104.0,,,,1,False,False,0.0,0.0
+04710,Minion Horde,68.0,Skeleton Army,90.0,Executioner,28.0,Witch,104.0,,,,1,False,False,0.0,0.0
+04725,Minion Horde,68.0,Skeleton Army,90.0,Executioner,28.0,Witch,104.0,,,,2,False,False,0.0,0.0
+04740,Minion Horde,68.0,Skeleton Army,90.0,Executioner,28.0,Witch,104.0,,,,2,False,False,0.0,0.0
+04755,Minion Horde,68.0,Skeleton Army,90.0,Executioner,28.0,Witch,104.0,,,,2,False,False,0.0,0.0
+04770,Minion Horde,68.0,Skeleton Army,90.0,Executioner,28.0,Witch,104.0,,,,3,False,False,0.0,0.0
+04785,Minion Horde,68.0,Skeleton Army,90.0,Executioner,28.0,Witch,104.0,,,,3,False,False,0.0,0.0
+04800,Minion Horde,68.0,Skeleton Army,90.0,Executioner,28.0,Witch,104.0,,,,3,False,False,0.0,0.0
+04815,Minion Horde,68.0,Skeleton Army,90.0,Executioner,28.0,Witch,104.0,,,,4,False,False,0.0,0.0
+04830,Minion Horde,68.0,Skeleton Army,90.0,Executioner,28.0,Witch,104.0,,,,4,False,False,0.0,0.0
+04845,Minion Horde,68.0,Skeleton Army,90.0,Executioner,28.0,Witch,104.0,,,,4,False,False,0.0,0.0
+04860,Minion Horde,68.0,Skeleton Army,90.0,Executioner,28.0,Witch,104.0,,,,5,False,False,0.0,0.0
+04875,Minion Horde,68.0,Skeleton Army,90.0,Executioner,28.0,Witch,104.0,,,,5,False,False,0.0,0.0
+04890,Minion Horde,68.0,Skeleton Army,90.0,Tornado,101.0,Witch,104.0,Executioner,28.0,3.0,0,True,True,5.0,5.0
+04905,Minion Horde,68.0,Skeleton Army,90.0,Tornado,101.0,Witch,104.0,,,,1,False,False,0.0,0.0
+04920,Minion Horde,68.0,Skeleton Army,90.0,Tornado,101.0,Witch,104.0,,,,1,False,False,0.0,0.0
+04935,Minion Horde,68.0,Skeleton Army,90.0,Tornado,101.0,Witch,104.0,,,,1,False,False,0.0,0.0
+04950,Minion Horde,68.0,Skeleton Army,90.0,Tornado,101.0,Witch,104.0,,,,2,False,False,0.0,0.0
+04965,Minion Horde,68.0,Skeleton Army,90.0,Tornado,101.0,Witch,104.0,,,,2,False,False,0.0,0.0
+04980,Minion Horde,68.0,Skeleton Army,90.0,Tornado,101.0,Witch,104.0,,,,3,False,False,0.0,0.0
+04995,Minion Horde,68.0,Skeleton Army,90.0,Tornado,101.0,Witch,104.0,,,,3,False,False,0.0,0.0
+05010,Minion Horde,68.0,Skeleton Army,90.0,Tornado,101.0,Witch,104.0,,,,3,False,False,0.0,0.0
+05025,Minion Horde,68.0,Skeleton Army,90.0,Tornado,101.0,Witch,104.0,,,,4,False,False,0.0,0.0
+05040,Minion Horde,68.0,Skeleton Army,90.0,Tornado,101.0,Witch,104.0,,,,4,False,False,0.0,0.0
+05055,Minion Horde,68.0,Skeleton Army,90.0,Tornado,101.0,Zap,107.0,Witch,104.0,4.0,0,True,True,4.0,5.0
+05070,Minion Horde,68.0,Skeleton Army,90.0,Tornado,101.0,Zap,107.0,,,,1,False,False,0.0,0.0
+05085,Minion Horde,68.0,Skeleton Army,90.0,Tornado,101.0,Zap,107.0,,,,1,False,False,0.0,0.0
+05100,Minion Horde,68.0,Skeleton Army,90.0,Tornado,101.0,Zap,107.0,,,,1,False,False,0.0,0.0
+05115,Minion Horde,68.0,Skeleton Army,90.0,Tornado,101.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05130,Minion Horde,68.0,Skeleton Army,90.0,Tornado,101.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05145,Minion Horde,68.0,Skeleton Army,90.0,Tornado,101.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05160,Minion Horde,68.0,Skeleton Army,90.0,Tornado,101.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05175,Minion Horde,68.0,Skeleton Army,90.0,Tornado,101.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05190,Minion Horde,68.0,Skeleton Army,90.0,Tornado,101.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05205,Minion Horde,68.0,Skeleton Army,90.0,Tornado,101.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05220,Minion Horde,68.0,Skeleton Army,90.0,Tornado,101.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05235,Minion Horde,68.0,Skeleton Army,90.0,Tornado,101.0,Zap,107.0,,,,5,False,False,0.0,0.0
+05250,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,Skeleton Army,90.0,2.0,2,True,True,3.0,3.0
+05265,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05280,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05295,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05310,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05325,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05340,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05355,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05370,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,5,False,False,0.0,0.0
+05385,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,5,False,False,0.0,0.0
+05400,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,6,False,False,0.0,0.0
+05415,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,6,False,False,0.0,0.0
+05430,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,6,False,False,0.0,0.0
+05445,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,7,False,False,0.0,0.0
+05460,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,7,False,False,0.0,0.0
+05475,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,7,False,False,0.0,0.0
+05490,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,8,False,False,0.0,0.0
+05505,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,8,False,False,0.0,0.0
+05520,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,8,False,False,0.0,0.0
+05535,Golem,47.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,Minion Horde,68.0,1.0,4,True,True,4.0,5.0
+05550,Golem,47.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05565,Golem,47.0,Executioner,28.0,Tornado,101.0,Zap,107.0,Dart Goblin,19.0,2.0,1,True,True,3.0,3.0
+05580,Golem,47.0,Executioner,28.0,Tornado,101.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05595,Golem,47.0,Executioner,28.0,Tornado,101.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05610,Golem,47.0,Executioner,28.0,Tornado,101.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05625,Golem,47.0,Executioner,28.0,Tornado,101.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05640,Golem,47.0,Executioner,28.0,Tornado,101.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05655,Golem,47.0,Executioner,28.0,Tornado,101.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05670,Golem,47.0,Executioner,28.0,Tornado,101.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05685,Golem,47.0,Executioner,28.0,Tornado,101.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05700,Golem,47.0,Executioner,28.0,Tornado,101.0,Witch,104.0,Zap,107.0,4.0,3,True,True,1.0,2.0
+05715,Golem,47.0,Executioner,28.0,Tornado,101.0,Witch,104.0,,,,3,False,False,0.0,0.0
+05730,Golem,47.0,Executioner,28.0,Tornado,101.0,Witch,104.0,,,,3,False,False,0.0,0.0
+05745,Golem,47.0,Executioner,28.0,Tornado,101.0,Witch,104.0,,,,4,False,False,0.0,0.0
+05760,Golem,47.0,Executioner,28.0,Tornado,101.0,Witch,104.0,,,,4,False,False,0.0,0.0
+05775,Golem,47.0,Executioner,28.0,Tornado,101.0,Witch,104.0,,,,4,False,False,0.0,0.0
+05790,Golem,47.0,Executioner,28.0,Tornado,101.0,Witch,104.0,,,,5,False,False,0.0,0.0
+05805,Golem,47.0,Executioner,28.0,Tornado,101.0,Witch,104.0,,,,5,False,False,0.0,0.0
+05820,Golem,47.0,Executioner,28.0,Tornado,101.0,Witch,104.0,,,,6,False,False,0.0,0.0
+05835,Golem,47.0,Executioner,28.0,Tornado,101.0,Witch,104.0,,,,6,False,False,0.0,0.0
+05850,Golem,47.0,Executioner,28.0,Tornado,101.0,Witch,104.0,,,,6,False,False,0.0,0.0
+05865,Golem,47.0,Executioner,28.0,Tornado,101.0,Witch,104.0,,,,7,False,False,0.0,0.0
+05880,Golem,47.0,Executioner,28.0,Tornado,101.0,Witch,104.0,,,,7,False,False,0.0,0.0
+05895,Golem,47.0,Executioner,28.0,Tornado,101.0,Witch,104.0,,,,7,False,False,0.0,0.0
+05910,Golem,47.0,Executioner,28.0,Tornado,101.0,Witch,104.0,,,,8,False,False,0.0,0.0
+05925,Golem,47.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,Witch,104.0,4.0,8,True,False,0.0,5.0
+05940,Golem,47.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,8,False,False,0.0,0.0
+05955,Golem,47.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,9,False,False,0.0,0.0
+05970,Golem,47.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,9,False,False,0.0,0.0
+05985,Golem,47.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,5,False,True,4.0,0.0
+06000,Golem,47.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+06015,Golem,47.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+06030,Golem,47.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,7,False,False,0.0,0.0
+06045,Golem,47.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,8,False,False,0.0,0.0
+06060,Golem,47.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,8,False,False,0.0,0.0
+06075,Golem,47.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,8,False,False,0.0,0.0
+06090,Golem,47.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,8,False,False,0.0,0.0
+06105,Golem,47.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,8,False,False,0.0,0.0
+06120,Golem,47.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,9,False,False,0.0,0.0
+06135,Golem,47.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,9,False,False,0.0,0.0
+06150,Minion Horde,68.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,Golem,47.0,1.0,1,True,True,8.0,8.0
+06165,Minion Horde,68.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+06180,Minion Horde,68.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+06195,Minion Horde,68.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+06210,Minion Horde,68.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+06225,Minion Horde,68.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+06240,Minion Horde,68.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+06255,Minion Horde,68.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+06270,Minion Horde,68.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+06285,Minion Horde,68.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+06300,Minion Horde,68.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+06315,Minion Horde,68.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+06330,Minion Horde,68.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+06345,Minion Horde,68.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+06360,Minion Horde,68.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,6,False,False,0.0,0.0
+06375,Minion Horde,68.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,7,False,False,0.0,0.0
+06390,Minion Horde,68.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,7,False,False,0.0,0.0
+06405,Minion Horde,68.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,7,False,False,0.0,0.0
+06420,Minion Horde,68.0,Executioner,28.0,Tornado,101.0,Skeleton Army,90.0,,,,8,False,False,0.0,0.0
+06435,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Skeleton Army,90.0,Executioner,28.0,2.0,3,True,True,5.0,5.0
+06450,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+06465,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+06480,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,Skeleton Army,90.0,4.0,1,True,True,3.0,3.0
+06495,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,2,False,False,0.0,0.0
+06510,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,2,False,False,0.0,0.0
+06525,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,2,False,False,0.0,0.0
+06540,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,3,False,False,0.0,0.0
+06555,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,3,False,False,0.0,0.0
+06570,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,3,False,False,0.0,0.0
+06585,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,4,False,False,0.0,0.0
+06600,Minion Horde,68.0,Witch,104.0,Tornado,101.0,Zap,107.0,Dart Goblin,19.0,2.0,4,True,True,3.0,3.0
+06615,Minion Horde,68.0,Witch,104.0,Tornado,101.0,Zap,107.0,,,,1,False,False,0.0,0.0
+06630,Minion Horde,68.0,Witch,104.0,Tornado,101.0,Zap,107.0,,,,2,False,False,0.0,0.0
+06645,Minion Horde,68.0,Witch,104.0,Tornado,101.0,Zap,107.0,,,,2,False,False,0.0,0.0
+06660,Minion Horde,68.0,Witch,104.0,Tornado,101.0,Zap,107.0,,,,3,False,False,0.0,0.0
+06675,Minion Horde,68.0,Witch,104.0,Tornado,101.0,Zap,107.0,,,,3,False,False,0.0,0.0
+06690,Minion Horde,68.0,Witch,104.0,Tornado,101.0,Zap,107.0,,,,3,False,False,0.0,0.0
+06705,Minion Horde,68.0,Witch,104.0,Tornado,101.0,Zap,107.0,,,,4,False,False,0.0,0.0
+06720,Minion Horde,68.0,Witch,104.0,Golem,47.0,Zap,107.0,Tornado,101.0,3.0,1,True,True,3.0,3.0
+06735,Minion Horde,68.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,1,False,False,0.0,0.0
+06750,Minion Horde,68.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,2,False,False,0.0,0.0
+06765,Minion Horde,68.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,2,False,False,0.0,0.0
+06780,Minion Horde,68.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,2,False,False,0.0,0.0
+06795,Minion Horde,68.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,3,False,False,0.0,0.0
+06810,Minion Horde,68.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,3,False,False,0.0,0.0
+06825,Minion Horde,68.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,3,False,False,0.0,0.0
+06840,Minion Horde,68.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,4,False,False,0.0,0.0
+06855,Minion Horde,68.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,4,False,False,0.0,0.0
+06870,Minion Horde,68.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,5,False,False,0.0,0.0
+06885,Minion Horde,68.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,5,False,False,0.0,0.0
+06900,Minion Horde,68.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,5,False,False,0.0,0.0
+06915,Minion Horde,68.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,6,False,False,0.0,0.0
+06930,Minion Horde,68.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,6,False,False,0.0,0.0
+06945,Minion Horde,68.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,6,False,False,0.0,0.0
+06960,Minion Horde,68.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,7,False,False,0.0,0.0
+06975,Minion Horde,68.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,7,False,False,0.0,0.0
+06990,Minion Horde,68.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,7,False,False,0.0,0.0
+07005,Minion Horde,68.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,8,False,False,0.0,0.0
+07020,Minion Horde,68.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,8,False,False,0.0,0.0
+07035,Minion Horde,68.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,9,False,False,0.0,0.0
+07050,Minion Horde,68.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,9,False,False,0.0,0.0
+07065,Minion Horde,68.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,9,False,False,0.0,0.0
+07080,Minion Horde,68.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,10,False,False,0.0,0.0
+07095,Minion Horde,68.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,10,False,False,0.0,0.0
+07110,Executioner,28.0,Witch,104.0,Golem,47.0,Zap,107.0,Minion Horde,68.0,1.0,5,True,True,5.0,5.0
+07125,Executioner,28.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,5,False,False,0.0,0.0
+07140,Executioner,28.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,6,False,False,0.0,0.0
+07155,Executioner,28.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,6,False,False,0.0,0.0
+07170,Executioner,28.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,6,False,False,0.0,0.0
+07185,Executioner,28.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,7,False,False,0.0,0.0
+07200,Executioner,28.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,7,False,False,0.0,0.0
+07215,Executioner,28.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,7,False,False,0.0,0.0
+07230,Executioner,28.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,8,False,False,0.0,0.0
+07245,Executioner,28.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,8,False,False,0.0,0.0
+07260,Executioner,28.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,8,False,False,0.0,0.0
+07275,Executioner,28.0,Witch,104.0,Golem,47.0,Zap,107.0,,,,9,False,False,0.0,0.0
+07290,Executioner,28.0,Witch,104.0,Skeleton Army,90.0,Zap,107.0,Golem,47.0,3.0,1,True,True,8.0,8.0
+07305,Executioner,28.0,Witch,104.0,Skeleton Army,90.0,Zap,107.0,,,,2,False,False,0.0,0.0
+07320,Executioner,28.0,Witch,104.0,Skeleton Army,90.0,Zap,107.0,,,,2,False,False,0.0,0.0
+07335,Executioner,28.0,Witch,104.0,Skeleton Army,90.0,Zap,107.0,,,,2,False,False,0.0,0.0
+07350,Executioner,28.0,Witch,104.0,Skeleton Army,90.0,Zap,107.0,,,,3,False,False,0.0,0.0
+07365,Executioner,28.0,Witch,104.0,Skeleton Army,90.0,Zap,107.0,,,,3,False,False,0.0,0.0
+07380,Executioner,28.0,Witch,104.0,Skeleton Army,90.0,Zap,107.0,,,,3,False,False,0.0,0.0
+07395,Executioner,28.0,Witch,104.0,Skeleton Army,90.0,Zap,107.0,,,,4,False,False,0.0,0.0
+07410,Executioner,28.0,Witch,104.0,Skeleton Army,90.0,Zap,107.0,,,,4,False,False,0.0,0.0
+07425,Executioner,28.0,Witch,104.0,Skeleton Army,90.0,Zap,107.0,,,,5,False,False,0.0,0.0
+07440,Executioner,28.0,Witch,104.0,Skeleton Army,90.0,Zap,107.0,,,,5,False,False,0.0,0.0
+07455,Executioner,28.0,Witch,104.0,Skeleton Army,90.0,Zap,107.0,,,,6,False,False,0.0,0.0
+07470,Executioner,28.0,Witch,104.0,Skeleton Army,90.0,Zap,107.0,,,,6,False,False,0.0,0.0
+07485,Executioner,28.0,Witch,104.0,Skeleton Army,90.0,Zap,107.0,,,,7,False,False,0.0,0.0
+07500,Executioner,28.0,Witch,104.0,Skeleton Army,90.0,Zap,107.0,,,,8,False,False,0.0,0.0
+07515,Executioner,28.0,Dart Goblin,19.0,Skeleton Army,90.0,Zap,107.0,Witch,104.0,2.0,4,True,True,4.0,5.0
+07530,Executioner,28.0,Dart Goblin,19.0,Skeleton Army,90.0,Zap,107.0,,,,5,False,False,0.0,0.0
+07545,Executioner,28.0,Dart Goblin,19.0,Skeleton Army,90.0,Zap,107.0,,,,5,False,False,0.0,0.0
+07560,Executioner,28.0,Dart Goblin,19.0,Skeleton Army,90.0,Zap,107.0,,,,6,False,False,0.0,0.0
+07575,Tornado,101.0,Dart Goblin,19.0,Skeleton Army,90.0,Zap,107.0,Executioner,28.0,1.0,1,True,True,5.0,5.0
+07590,Tornado,101.0,Dart Goblin,19.0,Skeleton Army,90.0,Zap,107.0,,,,2,False,False,0.0,0.0
+07605,Tornado,101.0,Dart Goblin,19.0,Skeleton Army,90.0,Zap,107.0,,,,2,False,False,0.0,0.0
+07620,Tornado,101.0,Dart Goblin,19.0,Skeleton Army,90.0,Zap,107.0,,,,3,False,False,0.0,0.0
+07635,Tornado,101.0,Dart Goblin,19.0,Skeleton Army,90.0,Zap,107.0,,,,3,False,False,0.0,0.0
+07650,Tornado,101.0,Dart Goblin,19.0,Skeleton Army,90.0,Zap,107.0,,,,4,False,False,0.0,0.0
+07665,Tornado,101.0,Dart Goblin,19.0,Skeleton Army,90.0,Zap,107.0,,,,4,False,False,0.0,0.0
+07680,Tornado,101.0,Dart Goblin,19.0,Skeleton Army,90.0,Zap,107.0,,,,5,False,False,0.0,0.0
+07695,Tornado,101.0,Dart Goblin,19.0,Skeleton Army,90.0,Zap,107.0,,,,6,False,False,0.0,0.0
+07710,Tornado,101.0,Dart Goblin,19.0,Skeleton Army,90.0,Zap,107.0,,,,6,False,False,0.0,0.0
+07725,Tornado,101.0,Dart Goblin,19.0,Skeleton Army,90.0,Zap,107.0,,,,2,False,True,4.0,0.0
+07740,Tornado,101.0,Dart Goblin,19.0,Skeleton Army,90.0,Zap,107.0,,,,3,False,False,0.0,0.0
+07755,Tornado,101.0,Dart Goblin,19.0,Skeleton Army,90.0,Zap,107.0,,,,3,False,False,0.0,0.0
+07770,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Zap,107.0,Tornado,101.0,1.0,5,True,False,0.0,3.0
+07785,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Zap,107.0,,,,6,False,False,0.0,0.0
+07800,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Zap,107.0,,,,6,False,False,0.0,0.0
+07815,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Golem,47.0,Zap,107.0,4.0,5,True,True,1.0,2.0
+07830,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Golem,47.0,,,,5,False,False,0.0,0.0
+07845,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Golem,47.0,,,,6,False,False,0.0,0.0
+07860,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Golem,47.0,,,,6,False,False,0.0,0.0
+07875,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Golem,47.0,,,,7,False,False,0.0,0.0
+07890,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Golem,47.0,,,,7,False,False,0.0,0.0
+07905,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Golem,47.0,,,,8,False,False,0.0,0.0
+07920,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Golem,47.0,,,,9,False,False,0.0,0.0
+07935,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Golem,47.0,,,,9,False,False,0.0,0.0
+07950,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Witch,104.0,Golem,47.0,4.0,2,True,True,7.0,8.0
+07965,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Witch,104.0,,,,2,False,False,0.0,0.0
+07980,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Witch,104.0,,,,3,False,False,0.0,0.0
+07995,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Witch,104.0,,,,3,False,False,0.0,0.0
+08010,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Witch,104.0,,,,4,False,False,0.0,0.0
+08025,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Witch,104.0,,,,4,False,False,0.0,0.0
+08040,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Witch,104.0,,,,5,False,False,0.0,0.0
+08055,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Witch,104.0,,,,5,False,False,0.0,0.0
+08070,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Witch,104.0,,,,6,False,False,0.0,0.0
+08085,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Witch,104.0,,,,6,False,False,0.0,0.0
+08100,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Witch,104.0,,,,7,False,False,0.0,0.0
+08115,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Witch,104.0,,,,8,False,False,0.0,0.0
+08130,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Executioner,28.0,Witch,104.0,4.0,8,True,True,3.0,5.0
+08145,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Executioner,28.0,,,,5,False,False,0.0,0.0
+08160,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Executioner,28.0,,,,5,False,False,0.0,0.0
+08175,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Executioner,28.0,,,,6,False,False,0.0,0.0
+08190,Minion Horde,68.0,Dart Goblin,19.0,Skeleton Army,90.0,Executioner,28.0,,,,6,False,False,0.0,0.0
+08205,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Executioner,28.0,Skeleton Army,90.0,3.0,4,True,True,2.0,3.0
+08220,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Executioner,28.0,,,,4,False,False,0.0,0.0
+08235,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Executioner,28.0,,,,5,False,False,0.0,0.0
+08250,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Executioner,28.0,,,,5,False,False,0.0,0.0
+08265,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Executioner,28.0,,,,6,False,False,0.0,0.0
+08280,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,Executioner,28.0,4.0,1,True,True,5.0,5.0
+08295,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,2,False,False,0.0,0.0
+08310,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,3,False,False,0.0,0.0
+08325,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,3,False,False,0.0,0.0
+08340,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,4,False,False,0.0,0.0
+08355,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,4,False,False,0.0,0.0
+08370,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,5,False,False,0.0,0.0
+08385,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,5,False,False,0.0,0.0
+08400,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,6,False,False,0.0,0.0
+08415,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,6,False,False,0.0,0.0
+08430,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,4,False,True,2.0,0.0
+08445,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,4,False,False,0.0,0.0
+08460,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,5,False,False,0.0,0.0
+08475,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,5,False,False,0.0,0.0
+08490,Minion Horde,68.0,Dart Goblin,19.0,Tornado,101.0,Zap,107.0,,,,6,False,False,0.0,0.0
+08505,Minion Horde,68.0,Dart Goblin,19.0,Witch,104.0,Zap,107.0,Tornado,101.0,3.0,4,True,True,2.0,3.0
+08520,Minion Horde,68.0,Dart Goblin,19.0,Witch,104.0,Zap,107.0,,,,4,False,False,0.0,0.0
+08535,Minion Horde,68.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,Zap,107.0,4.0,3,True,True,1.0,2.0
+08550,Minion Horde,68.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+08565,Minion Horde,68.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+08580,Minion Horde,68.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+08595,Minion Horde,68.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+08610,Minion Horde,68.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+08625,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,Minion Horde,68.0,1.0,3,True,True,2.0,5.0
+08640,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,1,False,True,2.0,0.0
+08655,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+08670,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+08685,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+08700,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+08715,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+08730,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+08745,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,5,False,False,0.0,0.0
+08760,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Dart Goblin,19.0,Skeleton Army,90.0,4.0,3,True,True,2.0,3.0
+08775,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Dart Goblin,19.0,,,,3,False,False,0.0,0.0
+08790,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Dart Goblin,19.0,,,,4,False,False,0.0,0.0
+08805,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Dart Goblin,19.0,,,,4,False,False,0.0,0.0
+08820,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Tornado,101.0,Dart Goblin,19.0,4.0,2,True,True,2.0,3.0
+08835,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+08850,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+08865,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+08880,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+08895,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Zap,107.0,Tornado,101.0,4.0,2,True,True,2.0,3.0
+08910,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Zap,107.0,,,,2,False,False,0.0,0.0
+08925,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Zap,107.0,,,,3,False,False,0.0,0.0
+08940,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Minion Horde,68.0,Zap,107.0,4.0,3,True,True,1.0,2.0
+08955,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+08970,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Minion Horde,68.0,,,,2,False,False,0.0,0.0
+08985,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+09000,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Minion Horde,68.0,,,,3,False,False,0.0,0.0
+09015,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+09030,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Minion Horde,68.0,,,,4,False,False,0.0,0.0
+09045,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+09060,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Minion Horde,68.0,,,,5,False,False,0.0,0.0
+09075,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,Minion Horde,68.0,4.0,1,True,True,4.0,5.0
+09090,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,1,False,False,0.0,0.0
+09105,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+09120,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+09135,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,3,False,False,0.0,0.0
+09150,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,4,False,False,0.0,0.0
+09165,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,1,False,True,3.0,0.0
+09180,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+09195,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+09210,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+09225,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+09240,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+09255,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+09270,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+09285,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+09300,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+09315,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0
+09330,Executioner,28.0,Dart Goblin,19.0,Witch,104.0,Skeleton Army,90.0,,,,2,False,False,0.0,0.0

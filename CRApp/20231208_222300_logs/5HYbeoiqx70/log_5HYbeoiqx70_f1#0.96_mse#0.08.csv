@@ -1,0 +1,607 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,6,False,False,0.0,0.0
+00255,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,6,False,False,0.0,0.0
+00270,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,6,False,False,0.0,0.0
+00285,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,6,False,False,0.0,0.0
+00300,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00315,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00330,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00345,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00360,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00375,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00390,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00405,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00420,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00435,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00450,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00465,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00480,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00495,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00510,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00525,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,Miner,66.0,3.0,6,True,True,3.0,3.0
+00540,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,6,False,False,0.0,0.0
+00555,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00570,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00585,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00600,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00615,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00630,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00645,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00660,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00675,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00690,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00705,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00720,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00735,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00750,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00765,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00780,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,9,False,False,0.0,0.0
+00795,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,10,False,False,0.0,0.0
+00810,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,10,False,False,0.0,0.0
+00825,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,10,False,False,0.0,0.0
+00840,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,10,False,False,0.0,0.0
+00855,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,10,False,False,0.0,0.0
+00870,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,10,False,False,0.0,0.0
+00885,Royal Delivery,85.0,Skeletons,94.0,Tesla,97.0,Poison,78.0,Knight,58.0,2.0,7,True,True,3.0,3.0
+00900,Royal Delivery,85.0,Skeletons,94.0,Tesla,97.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00915,Royal Delivery,85.0,Skeletons,94.0,Tesla,97.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00930,Royal Delivery,85.0,Skeletons,94.0,Tesla,97.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00945,Royal Delivery,85.0,Skeletons,94.0,Tesla,97.0,Poison,78.0,,,,7,False,False,0.0,0.0
+00960,Royal Delivery,85.0,Skeletons,94.0,Tesla,97.0,Poison,78.0,,,,8,False,False,0.0,0.0
+00975,Royal Delivery,85.0,Skeletons,94.0,Electro Wizard,24.0,Poison,78.0,Tesla,97.0,3.0,4,True,True,4.0,4.0
+00990,Royal Delivery,85.0,The Log,98.0,Electro Wizard,24.0,Poison,78.0,Skeletons,94.0,2.0,3,True,True,1.0,1.0
+01005,Royal Delivery,85.0,The Log,98.0,Electro Wizard,24.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01020,Royal Delivery,85.0,The Log,98.0,Electro Wizard,24.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01035,Royal Delivery,85.0,The Log,98.0,Electro Wizard,24.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01050,Royal Delivery,85.0,The Log,98.0,Electro Wizard,24.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01065,Royal Delivery,85.0,The Log,98.0,Electro Wizard,24.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01080,Royal Delivery,85.0,The Log,98.0,Electro Wizard,24.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01095,Royal Delivery,85.0,The Log,98.0,Electro Wizard,24.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01110,Royal Delivery,85.0,The Log,98.0,Electro Wizard,24.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01125,Royal Delivery,85.0,The Log,98.0,Electro Wizard,24.0,Poison,78.0,,,,5,False,False,0.0,0.0
+01140,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,Electro Wizard,24.0,3.0,1,True,True,4.0,4.0
+01155,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,1,False,False,0.0,0.0
+01170,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,1,False,False,0.0,0.0
+01185,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,1,False,False,0.0,0.0
+01200,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,1,False,False,0.0,0.0
+01215,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,2,False,False,0.0,0.0
+01230,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,2,False,False,0.0,0.0
+01245,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,2,False,False,0.0,0.0
+01260,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,2,False,False,0.0,0.0
+01275,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,2,False,False,0.0,0.0
+01290,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01305,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01320,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01335,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01350,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01365,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,3,False,False,0.0,0.0
+01380,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01395,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01410,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01425,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01440,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01455,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,4,False,False,0.0,0.0
+01470,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,5,False,False,0.0,0.0
+01485,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,5,False,False,0.0,0.0
+01500,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,5,False,False,0.0,0.0
+01515,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,5,False,False,0.0,0.0
+01530,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,5,False,False,0.0,0.0
+01545,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01560,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01575,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01590,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01605,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01620,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01635,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01650,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01665,Royal Delivery,85.0,The Log,98.0,Miner,66.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01680,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,The Log,98.0,2.0,5,True,True,2.0,2.0
+01695,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,5,False,False,0.0,0.0
+01710,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01725,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01740,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01755,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01770,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01785,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,6,False,False,0.0,0.0
+01800,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01815,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01830,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01845,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01860,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01875,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,7,False,False,0.0,0.0
+01890,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01905,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01920,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01935,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01950,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,8,False,False,0.0,0.0
+01965,Royal Delivery,85.0,Knight,58.0,Miner,66.0,Poison,78.0,,,,9,False,False,0.0,0.0
+01980,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,Miner,66.0,3.0,6,True,True,3.0,3.0
+01995,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02010,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02025,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02040,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,6,False,False,0.0,0.0
+02055,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02070,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02085,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02100,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02115,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02130,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02145,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02160,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02175,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02190,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02205,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02220,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02235,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02250,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02265,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02280,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02295,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,9,False,False,0.0,0.0
+02310,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,10,False,False,0.0,0.0
+02325,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,10,False,False,0.0,0.0
+02340,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,10,False,False,0.0,0.0
+02355,Skeletons,94.0,Knight,58.0,Tesla,97.0,Poison,78.0,Royal Delivery,85.0,1.0,7,True,True,3.0,3.0
+02370,Skeletons,94.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02385,Skeletons,94.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02400,Skeletons,94.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02415,Skeletons,94.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02430,Skeletons,94.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,7,False,False,0.0,0.0
+02445,Skeletons,94.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02460,Skeletons,94.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02475,Skeletons,94.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02490,Skeletons,94.0,Knight,58.0,Tesla,97.0,Poison,78.0,,,,8,False,False,0.0,0.0
+02505,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,Poison,78.0,4.0,4,True,True,4.0,4.0
+02520,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+02535,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+02550,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+02565,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+02580,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+02595,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+02610,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02625,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02640,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02655,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02670,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+02685,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02700,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02715,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02730,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02745,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02760,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+02775,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02790,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02805,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02820,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02835,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02850,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+02865,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+02880,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+02895,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+02910,The Log,98.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,Skeletons,94.0,1.0,8,True,True,1.0,1.0
+02925,The Log,98.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+02940,The Log,98.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+02955,The Log,98.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+02970,The Log,98.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+02985,Miner,66.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,The Log,98.0,1.0,7,True,True,2.0,2.0
+03000,Miner,66.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03015,Miner,66.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03030,Miner,66.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03045,Miner,66.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03060,Miner,66.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03075,Miner,66.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03090,Miner,66.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03105,Miner,66.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03120,Miner,66.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03135,Miner,66.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03150,Miner,66.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03165,Miner,66.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03180,Miner,66.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03195,Miner,66.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+03210,Miner,66.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+03225,Miner,66.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+03240,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,Miner,66.0,1.0,7,True,True,3.0,3.0
+03255,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03270,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03285,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03300,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03315,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03330,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03345,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03360,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03375,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03390,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03405,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03420,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03435,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,Royal Delivery,85.0,1.0,6,True,True,3.0,3.0
+03450,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03465,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03480,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03495,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03510,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03525,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03540,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03555,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03570,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03585,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03600,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03615,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03630,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03645,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03660,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03675,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,Poison,78.0,1.0,5,True,True,4.0,4.0
+03690,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03705,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03720,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03735,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+03750,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03765,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03780,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03795,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03810,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+03825,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03840,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03855,Skeletons,94.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03870,The Log,98.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,Skeletons,94.0,1.0,8,True,False,0.0,1.0
+03885,The Log,98.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03900,The Log,98.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03915,Miner,66.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,The Log,98.0,1.0,9,True,True,2.0,2.0
+03930,Miner,66.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+03945,Miner,66.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+03960,Miner,66.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03975,Miner,66.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+03990,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,Miner,66.0,1.0,5,True,True,3.0,3.0
+04005,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04020,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04035,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04050,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04065,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04080,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+04095,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+04110,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+04125,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+04140,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+04155,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+04170,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+04185,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+04200,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,Royal Delivery,85.0,1.0,10,True,True,3.0,3.0
+04215,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+04230,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04245,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+04260,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+04275,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+04290,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+04305,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+04320,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+04335,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+04350,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+04365,Poison,78.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+04380,Poison,78.0,Skeletons,94.0,Tesla,97.0,Electro Wizard,24.0,Knight,58.0,2.0,10,True,True,3.0,3.0
+04395,Poison,78.0,Skeletons,94.0,Tesla,97.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+04410,Poison,78.0,Skeletons,94.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+04425,Poison,78.0,Skeletons,94.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+04440,Poison,78.0,Skeletons,94.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+04455,The Log,98.0,Skeletons,94.0,Tesla,97.0,Electro Wizard,24.0,Poison,78.0,1.0,4,True,True,4.0,4.0
+04470,The Log,98.0,Skeletons,94.0,Tesla,97.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04485,The Log,98.0,Miner,66.0,Tesla,97.0,Electro Wizard,24.0,Skeletons,94.0,2.0,4,True,True,1.0,1.0
+04500,The Log,98.0,Miner,66.0,Tesla,97.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04515,The Log,98.0,Miner,66.0,Tesla,97.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04530,The Log,98.0,Miner,66.0,Tesla,97.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04545,The Log,98.0,Miner,66.0,Tesla,97.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+04560,The Log,98.0,Royal Delivery,85.0,Tesla,97.0,Electro Wizard,24.0,Miner,66.0,2.0,3,True,True,3.0,3.0
+04575,The Log,98.0,Royal Delivery,85.0,Tesla,97.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+04590,The Log,98.0,Royal Delivery,85.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04605,The Log,98.0,Royal Delivery,85.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04620,The Log,98.0,Royal Delivery,85.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+04635,The Log,98.0,Royal Delivery,85.0,Tesla,97.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04650,The Log,98.0,Royal Delivery,85.0,Tesla,97.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+04665,The Log,98.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,Electro Wizard,24.0,4.0,1,True,True,4.0,4.0
+04680,The Log,98.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+04695,The Log,98.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+04710,The Log,98.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+04725,The Log,98.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+04740,The Log,98.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+04755,Poison,78.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,The Log,98.0,1.0,2,True,True,1.0,2.0
+04770,Poison,78.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+04785,Poison,78.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+04800,Poison,78.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+04815,Poison,78.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+04830,Poison,78.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+04845,Poison,78.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+04860,Poison,78.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+04875,Poison,78.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+04890,Poison,78.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+04905,Poison,78.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+04920,Poison,78.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+04935,Poison,78.0,Royal Delivery,85.0,Skeletons,94.0,Knight,58.0,Tesla,97.0,3.0,2,True,True,4.0,4.0
+04950,Poison,78.0,Royal Delivery,85.0,Skeletons,94.0,Knight,58.0,,,,2,False,False,0.0,0.0
+04965,Poison,78.0,Royal Delivery,85.0,Skeletons,94.0,Knight,58.0,,,,3,False,False,0.0,0.0
+04980,Poison,78.0,Royal Delivery,85.0,Skeletons,94.0,Knight,58.0,,,,3,False,False,0.0,0.0
+04995,Poison,78.0,Royal Delivery,85.0,Skeletons,94.0,Knight,58.0,,,,3,False,False,0.0,0.0
+05010,Poison,78.0,Royal Delivery,85.0,Skeletons,94.0,Knight,58.0,,,,4,False,False,0.0,0.0
+05025,Poison,78.0,Royal Delivery,85.0,Skeletons,94.0,Knight,58.0,,,,4,False,False,0.0,0.0
+05040,Poison,78.0,Royal Delivery,85.0,Skeletons,94.0,Knight,58.0,,,,4,False,False,0.0,0.0
+05055,Poison,78.0,Royal Delivery,85.0,Skeletons,94.0,Knight,58.0,,,,5,False,False,0.0,0.0
+05070,Poison,78.0,Royal Delivery,85.0,Skeletons,94.0,Knight,58.0,,,,5,False,False,0.0,0.0
+05085,Poison,78.0,Royal Delivery,85.0,Skeletons,94.0,Knight,58.0,,,,5,False,False,0.0,0.0
+05100,Poison,78.0,Royal Delivery,85.0,Skeletons,94.0,Knight,58.0,,,,6,False,False,0.0,0.0
+05115,Poison,78.0,Royal Delivery,85.0,Skeletons,94.0,Knight,58.0,,,,6,False,False,0.0,0.0
+05130,Poison,78.0,Royal Delivery,85.0,Skeletons,94.0,Knight,58.0,,,,7,False,False,0.0,0.0
+05145,Poison,78.0,Royal Delivery,85.0,Skeletons,94.0,Knight,58.0,,,,7,False,False,0.0,0.0
+05160,Poison,78.0,Royal Delivery,85.0,Miner,66.0,Knight,58.0,Skeletons,94.0,3.0,6,True,True,1.0,1.0
+05175,Poison,78.0,Royal Delivery,85.0,Miner,66.0,Knight,58.0,,,,7,False,False,0.0,0.0
+05190,Poison,78.0,Royal Delivery,85.0,Miner,66.0,Knight,58.0,,,,7,False,False,0.0,0.0
+05205,Poison,78.0,Royal Delivery,85.0,Miner,66.0,Knight,58.0,,,,7,False,False,0.0,0.0
+05220,Poison,78.0,Royal Delivery,85.0,Miner,66.0,Knight,58.0,,,,8,False,False,0.0,0.0
+05235,Poison,78.0,Royal Delivery,85.0,Miner,66.0,Knight,58.0,,,,8,False,False,0.0,0.0
+05250,Poison,78.0,Royal Delivery,85.0,Miner,66.0,Knight,58.0,,,,8,False,False,0.0,0.0
+05265,Poison,78.0,Royal Delivery,85.0,Miner,66.0,Knight,58.0,,,,9,False,False,0.0,0.0
+05280,Poison,78.0,Royal Delivery,85.0,Miner,66.0,Knight,58.0,,,,9,False,False,0.0,0.0
+05295,Poison,78.0,Royal Delivery,85.0,Miner,66.0,Knight,58.0,,,,9,False,False,0.0,0.0
+05310,Poison,78.0,Electro Wizard,24.0,Miner,66.0,Knight,58.0,Royal Delivery,85.0,2.0,7,True,True,2.0,3.0
+05325,Poison,78.0,Electro Wizard,24.0,Miner,66.0,Knight,58.0,,,,7,False,False,0.0,0.0
+05340,Poison,78.0,Electro Wizard,24.0,Miner,66.0,Knight,58.0,,,,8,False,False,0.0,0.0
+05355,Poison,78.0,Electro Wizard,24.0,Miner,66.0,Knight,58.0,,,,8,False,False,0.0,0.0
+05370,Poison,78.0,Electro Wizard,24.0,Miner,66.0,Knight,58.0,,,,8,False,False,0.0,0.0
+05385,Poison,78.0,Electro Wizard,24.0,Miner,66.0,Knight,58.0,,,,9,False,False,0.0,0.0
+05400,Poison,78.0,Electro Wizard,24.0,Miner,66.0,Knight,58.0,,,,9,False,False,0.0,0.0
+05415,Poison,78.0,Electro Wizard,24.0,Miner,66.0,Knight,58.0,,,,9,False,False,0.0,0.0
+05430,Poison,78.0,Electro Wizard,24.0,Miner,66.0,Knight,58.0,,,,10,False,False,0.0,0.0
+05445,Poison,78.0,Electro Wizard,24.0,Miner,66.0,Knight,58.0,,,,10,False,False,0.0,0.0
+05460,Poison,78.0,Electro Wizard,24.0,Miner,66.0,Knight,58.0,,,,10,False,False,0.0,0.0
+05475,Poison,78.0,Electro Wizard,24.0,The Log,98.0,Knight,58.0,Miner,66.0,3.0,7,True,True,3.0,3.0
+05490,Poison,78.0,Electro Wizard,24.0,The Log,98.0,Knight,58.0,,,,7,False,False,0.0,0.0
+05505,Poison,78.0,Electro Wizard,24.0,The Log,98.0,Knight,58.0,,,,7,False,False,0.0,0.0
+05520,Poison,78.0,Electro Wizard,24.0,The Log,98.0,Knight,58.0,,,,8,False,False,0.0,0.0
+05535,Poison,78.0,Electro Wizard,24.0,The Log,98.0,Knight,58.0,,,,8,False,False,0.0,0.0
+05550,Poison,78.0,Electro Wizard,24.0,The Log,98.0,Knight,58.0,,,,8,False,False,0.0,0.0
+05565,Poison,78.0,Electro Wizard,24.0,The Log,98.0,Knight,58.0,,,,9,False,False,0.0,0.0
+05580,Poison,78.0,Electro Wizard,24.0,Tesla,97.0,Knight,58.0,The Log,98.0,3.0,10,True,True,2.0,2.0
+05595,Poison,78.0,Electro Wizard,24.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+05610,Poison,78.0,Electro Wizard,24.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+05625,Poison,78.0,Electro Wizard,24.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+05640,Poison,78.0,Electro Wizard,24.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+05655,Poison,78.0,Electro Wizard,24.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+05670,Poison,78.0,Skeletons,94.0,Tesla,97.0,Knight,58.0,Electro Wizard,24.0,2.0,5,True,True,4.0,4.0
+05685,Poison,78.0,Skeletons,94.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+05700,Poison,78.0,Skeletons,94.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+05715,Poison,78.0,Skeletons,94.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+05730,Poison,78.0,Skeletons,94.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+05745,Poison,78.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,Skeletons,94.0,2.0,6,True,True,1.0,1.0
+05760,Poison,78.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+05775,Poison,78.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+05790,Poison,78.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+05805,Poison,78.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+05820,Poison,78.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+05835,Poison,78.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+05850,Poison,78.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+05865,Poison,78.0,Miner,66.0,Tesla,97.0,Knight,58.0,Royal Delivery,85.0,2.0,6,True,True,3.0,3.0
+05880,Poison,78.0,Miner,66.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+05895,Poison,78.0,Miner,66.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+05910,Poison,78.0,Miner,66.0,Tesla,97.0,The Log,98.0,Knight,58.0,4.0,4,True,True,3.0,3.0
+05925,Poison,78.0,Miner,66.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+05940,Poison,78.0,Miner,66.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+05955,Poison,78.0,Miner,66.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+05970,Poison,78.0,Miner,66.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+05985,Poison,78.0,Miner,66.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+06000,Poison,78.0,Miner,66.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+06015,Poison,78.0,Miner,66.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+06030,Poison,78.0,Miner,66.0,Tesla,97.0,The Log,98.0,,,,7,False,False,0.0,0.0
+06045,Poison,78.0,Miner,66.0,Tesla,97.0,Electro Wizard,24.0,The Log,98.0,4.0,5,True,True,2.0,2.0
+06060,Poison,78.0,Miner,66.0,Tesla,97.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+06075,Poison,78.0,Miner,66.0,Tesla,97.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+06090,Poison,78.0,Miner,66.0,Tesla,97.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+06105,Poison,78.0,Miner,66.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+06120,Poison,78.0,Miner,66.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+06135,Poison,78.0,Miner,66.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+06150,Poison,78.0,Miner,66.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+06165,Poison,78.0,Miner,66.0,Tesla,97.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+06180,Poison,78.0,Miner,66.0,Tesla,97.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+06195,Poison,78.0,Skeletons,94.0,Tesla,97.0,Electro Wizard,24.0,Miner,66.0,2.0,6,True,True,3.0,3.0
+06210,Poison,78.0,Skeletons,94.0,Tesla,97.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+06225,Poison,78.0,Skeletons,94.0,Tesla,97.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+06240,Royal Delivery,85.0,Skeletons,94.0,Tesla,97.0,Electro Wizard,24.0,Poison,78.0,1.0,3,True,True,4.0,4.0
+06255,Royal Delivery,85.0,Skeletons,94.0,Tesla,97.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+06270,Royal Delivery,85.0,Skeletons,94.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06285,Royal Delivery,85.0,Skeletons,94.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06300,Royal Delivery,85.0,Skeletons,94.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06315,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,Skeletons,94.0,2.0,4,True,False,0.0,1.0
+06330,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06345,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06360,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+06375,Royal Delivery,85.0,Knight,58.0,Tesla,97.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+06390,Royal Delivery,85.0,The Log,98.0,Tesla,97.0,Electro Wizard,24.0,Knight,58.0,2.0,2,True,True,3.0,3.0
+06405,Royal Delivery,85.0,The Log,98.0,Tesla,97.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+06420,Royal Delivery,85.0,The Log,98.0,Tesla,97.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+06435,Royal Delivery,85.0,The Log,98.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06450,Royal Delivery,85.0,The Log,98.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06465,Royal Delivery,85.0,The Log,98.0,Tesla,97.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06480,Royal Delivery,85.0,The Log,98.0,Tesla,97.0,Miner,66.0,Electro Wizard,24.0,4.0,3,True,True,1.0,4.0
+06495,Royal Delivery,85.0,The Log,98.0,Tesla,97.0,Miner,66.0,,,,1,False,True,2.0,0.0
+06510,Royal Delivery,85.0,The Log,98.0,Tesla,97.0,Miner,66.0,,,,1,False,False,0.0,0.0
+06525,Royal Delivery,85.0,The Log,98.0,Tesla,97.0,Miner,66.0,,,,2,False,False,0.0,0.0
+06540,Royal Delivery,85.0,The Log,98.0,Tesla,97.0,Miner,66.0,,,,2,False,False,0.0,0.0
+06555,Royal Delivery,85.0,The Log,98.0,Tesla,97.0,Miner,66.0,,,,2,False,False,0.0,0.0
+06570,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,The Log,98.0,2.0,1,True,True,1.0,2.0
+06585,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,1,False,False,0.0,0.0
+06600,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,1,False,False,0.0,0.0
+06615,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,2,False,False,0.0,0.0
+06630,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,2,False,False,0.0,0.0
+06645,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,3,False,False,0.0,0.0
+06660,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,3,False,False,0.0,0.0
+06675,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,3,False,False,0.0,0.0
+06690,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,4,False,False,0.0,0.0
+06705,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,4,False,False,0.0,0.0
+06720,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,4,False,False,0.0,0.0
+06735,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,5,False,False,0.0,0.0
+06750,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,5,False,False,0.0,0.0
+06765,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,5,False,False,0.0,0.0
+06780,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,6,False,False,0.0,0.0
+06795,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,6,False,False,0.0,0.0
+06810,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,6,False,False,0.0,0.0
+06825,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,7,False,False,0.0,0.0
+06840,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,7,False,False,0.0,0.0
+06855,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,7,False,False,0.0,0.0
+06870,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Skeletons,94.0,Miner,66.0,4.0,5,True,True,2.0,3.0
+06885,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+06900,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+06915,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+06930,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+06945,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+06960,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+06975,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+06990,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+07005,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+07020,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+07035,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+07050,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+07065,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Knight,58.0,Skeletons,94.0,4.0,9,True,False,0.0,1.0
+07080,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+07095,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+07110,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+07125,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+07140,Electro Wizard,24.0,Poison,78.0,Tesla,97.0,Knight,58.0,Royal Delivery,85.0,1.0,7,True,True,3.0,3.0
+07155,Electro Wizard,24.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+07170,Electro Wizard,24.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+07185,Electro Wizard,24.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+07200,Electro Wizard,24.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+07215,Electro Wizard,24.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+07230,Electro Wizard,24.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+07245,Electro Wizard,24.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+07260,Electro Wizard,24.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+07275,Electro Wizard,24.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+07290,Electro Wizard,24.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+07305,Electro Wizard,24.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+07320,Electro Wizard,24.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+07335,Electro Wizard,24.0,Poison,78.0,The Log,98.0,Knight,58.0,Tesla,97.0,3.0,6,True,True,4.0,4.0
+07350,Electro Wizard,24.0,Poison,78.0,The Log,98.0,Knight,58.0,,,,6,False,False,0.0,0.0
+07365,Electro Wizard,24.0,Poison,78.0,The Log,98.0,Knight,58.0,,,,7,False,False,0.0,0.0
+07380,Electro Wizard,24.0,Poison,78.0,The Log,98.0,Knight,58.0,,,,7,False,False,0.0,0.0
+07395,Electro Wizard,24.0,Poison,78.0,The Log,98.0,Knight,58.0,,,,7,False,False,0.0,0.0
+07410,Electro Wizard,24.0,Poison,78.0,The Log,98.0,Knight,58.0,,,,8,False,False,0.0,0.0
+07425,Electro Wizard,24.0,Poison,78.0,The Log,98.0,Knight,58.0,,,,8,False,False,0.0,0.0
+07440,Electro Wizard,24.0,Poison,78.0,Miner,66.0,Knight,58.0,The Log,98.0,3.0,7,True,True,1.0,2.0
+07455,Electro Wizard,24.0,Poison,78.0,Miner,66.0,Knight,58.0,,,,7,False,False,0.0,0.0
+07470,Electro Wizard,24.0,Poison,78.0,Miner,66.0,Knight,58.0,,,,8,False,False,0.0,0.0
+07485,Electro Wizard,24.0,Poison,78.0,Miner,66.0,Knight,58.0,,,,8,False,False,0.0,0.0
+07500,Electro Wizard,24.0,Poison,78.0,Miner,66.0,Knight,58.0,,,,9,False,False,0.0,0.0
+07515,Electro Wizard,24.0,Poison,78.0,Miner,66.0,Skeletons,94.0,Knight,58.0,4.0,6,True,True,3.0,3.0
+07530,Electro Wizard,24.0,Poison,78.0,Miner,66.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+07545,Electro Wizard,24.0,Royal Delivery,85.0,Miner,66.0,Skeletons,94.0,Poison,78.0,2.0,3,True,True,3.0,4.0
+07560,Electro Wizard,24.0,Royal Delivery,85.0,Miner,66.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+07575,Electro Wizard,24.0,Royal Delivery,85.0,Miner,66.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+07590,Electro Wizard,24.0,Royal Delivery,85.0,Tesla,97.0,Skeletons,94.0,Miner,66.0,3.0,2,True,True,2.0,3.0
+07605,Electro Wizard,24.0,Royal Delivery,85.0,Tesla,97.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+07620,Electro Wizard,24.0,Royal Delivery,85.0,Tesla,97.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+07635,Electro Wizard,24.0,Royal Delivery,85.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,4.0,3,True,False,0.0,1.0
+07650,Electro Wizard,24.0,Royal Delivery,85.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+07665,Electro Wizard,24.0,Royal Delivery,85.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+07680,Electro Wizard,24.0,Royal Delivery,85.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+07695,Electro Wizard,24.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,The Log,98.0,4.0,3,True,True,1.0,2.0
+07710,Electro Wizard,24.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+07725,Electro Wizard,24.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+07740,Electro Wizard,24.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+07755,Electro Wizard,24.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+07770,Electro Wizard,24.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+07785,Electro Wizard,24.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+07800,Electro Wizard,24.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+07815,Electro Wizard,24.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+07830,Electro Wizard,24.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+07845,Electro Wizard,24.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+07860,Electro Wizard,24.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+07875,Electro Wizard,24.0,Royal Delivery,85.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+07890,Electro Wizard,24.0,Poison,78.0,Tesla,97.0,Knight,58.0,Royal Delivery,85.0,2.0,7,True,True,2.0,3.0
+07905,Miner,66.0,Poison,78.0,Tesla,97.0,Knight,58.0,Electro Wizard,24.0,1.0,3,True,True,4.0,4.0
+07920,Miner,66.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+07935,Miner,66.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+07950,Miner,66.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+07965,Miner,66.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+07980,Skeletons,94.0,Poison,78.0,Tesla,97.0,Knight,58.0,Miner,66.0,1.0,3,True,True,2.0,3.0
+07995,Skeletons,94.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+08010,Skeletons,94.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+08025,Skeletons,94.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+08040,Skeletons,94.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+08055,Skeletons,94.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+08070,Skeletons,94.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+08085,Skeletons,94.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+08100,Skeletons,94.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,7,False,False,0.0,0.0
+08115,Skeletons,94.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+08130,Skeletons,94.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,8,False,False,0.0,0.0
+08145,Skeletons,94.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+08160,Skeletons,94.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,9,False,False,0.0,0.0
+08175,Skeletons,94.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,10,False,False,0.0,0.0
+08190,Skeletons,94.0,Poison,78.0,Tesla,97.0,The Log,98.0,Knight,58.0,4.0,7,True,True,3.0,3.0
+08205,Skeletons,94.0,Poison,78.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+08220,Skeletons,94.0,Poison,78.0,Tesla,97.0,The Log,98.0,,,,8,False,False,0.0,0.0
+08235,Skeletons,94.0,Royal Delivery,85.0,Tesla,97.0,The Log,98.0,Poison,78.0,2.0,5,True,True,3.0,4.0
+08250,Skeletons,94.0,Royal Delivery,85.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+08265,Skeletons,94.0,Royal Delivery,85.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+08280,Electro Wizard,24.0,Royal Delivery,85.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,1.0,5,True,True,1.0,1.0
+08295,Electro Wizard,24.0,Miner,66.0,Tesla,97.0,The Log,98.0,Royal Delivery,85.0,2.0,3,True,True,2.0,3.0
+08310,Electro Wizard,24.0,Miner,66.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+08325,Electro Wizard,24.0,Miner,66.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+08340,Electro Wizard,24.0,Miner,66.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+08355,Electro Wizard,24.0,Miner,66.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+08370,Electro Wizard,24.0,Miner,66.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+08385,Electro Wizard,24.0,Miner,66.0,Tesla,97.0,Knight,58.0,The Log,98.0,4.0,4,True,True,1.0,2.0
+08400,Electro Wizard,24.0,Miner,66.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+08415,Electro Wizard,24.0,Poison,78.0,Tesla,97.0,Knight,58.0,Miner,66.0,2.0,2,True,True,3.0,3.0
+08430,Electro Wizard,24.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+08445,Electro Wizard,24.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+08460,Electro Wizard,24.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+08475,Electro Wizard,24.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+08490,Electro Wizard,24.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+08505,Electro Wizard,24.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,5,False,False,0.0,0.0
+08520,Electro Wizard,24.0,Poison,78.0,Tesla,97.0,Knight,58.0,,,,6,False,False,0.0,0.0
+08535,Electro Wizard,24.0,Poison,78.0,Tesla,97.0,Skeletons,94.0,Knight,58.0,4.0,3,True,True,3.0,3.0
+08550,Electro Wizard,24.0,Poison,78.0,Tesla,97.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+08565,Electro Wizard,24.0,Poison,78.0,Tesla,97.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+08580,Electro Wizard,24.0,Poison,78.0,Tesla,97.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+08595,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Skeletons,94.0,Electro Wizard,24.0,1.0,2,True,True,3.0,4.0
+08610,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+08625,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+08640,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+08655,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+08670,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,4.0,3,True,True,1.0,1.0
+08685,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+08700,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,The Log,98.0,,,,4,False,False,0.0,0.0
+08715,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+08730,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,The Log,98.0,,,,5,False,False,0.0,0.0
+08745,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,The Log,98.0,,,,6,False,False,0.0,0.0
+08760,Royal Delivery,85.0,Miner,66.0,Miner,66.0,The Log,98.0,Tesla,97.0,3.0,2,True,True,4.0,4.0
+08775,Royal Delivery,85.0,Miner,66.0,Tesla,97.0,Knight,58.0,The Log,98.0,4.0,1,True,True,1.0,2.0
+08790,Royal Delivery,85.0,Miner,66.0,Tesla,97.0,Knight,58.0,,,,1,False,False,0.0,0.0
+08805,Royal Delivery,85.0,Miner,66.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+08820,Royal Delivery,85.0,Miner,66.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+08835,Royal Delivery,85.0,Miner,66.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+08850,Royal Delivery,85.0,Miner,66.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+08865,Royal Delivery,85.0,Miner,66.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+08880,Royal Delivery,85.0,Electro Wizard,24.0,Tesla,97.0,Knight,58.0,Miner,66.0,2.0,2,True,True,2.0,3.0
+08895,Royal Delivery,85.0,Electro Wizard,24.0,Tesla,97.0,Knight,58.0,,,,2,False,False,0.0,0.0
+08910,Royal Delivery,85.0,Electro Wizard,24.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+08925,Royal Delivery,85.0,Electro Wizard,24.0,Tesla,97.0,Knight,58.0,,,,3,False,False,0.0,0.0
+08940,Royal Delivery,85.0,Electro Wizard,24.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+08955,Royal Delivery,85.0,Electro Wizard,24.0,Tesla,97.0,Knight,58.0,,,,4,False,False,0.0,0.0
+08970,Royal Delivery,85.0,Electro Wizard,24.0,Miner,66.0,Skeletons,94.0,Knight,58.0,4.0,2,True,True,2.0,3.0
+08985,Royal Delivery,85.0,Electro Wizard,24.0,Miner,66.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+09000,Royal Delivery,85.0,Electro Wizard,24.0,Tesla,97.0,Skeletons,94.0,Miner,66.0,3.0,3,True,False,0.0,3.0
+09015,Royal Delivery,85.0,Electro Wizard,24.0,Tesla,97.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+09030,Royal Delivery,85.0,Electro Wizard,24.0,Tesla,97.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+09045,Royal Delivery,85.0,Electro Wizard,24.0,Tesla,97.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+09060,Royal Delivery,85.0,Electro Wizard,24.0,Tesla,97.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+09075,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Skeletons,94.0,Electro Wizard,24.0,2.0,2,True,True,3.0,4.0
+09090,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,The Log,98.0,Skeletons,94.0,4.0,4,True,True,2.0,1.0
+09105,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+09120,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,The Log,98.0,,,,2,False,False,0.0,0.0
+09135,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,The Log,98.0,,,,3,False,False,0.0,0.0
+09150,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,The Log,98.0,4.0,3,True,True,1.0,2.0
+09165,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,2,False,False,0.0,0.0
+09180,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,2,False,False,0.0,0.0
+09195,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,3,False,False,0.0,0.0
+09210,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,4,False,False,0.0,0.0
+09225,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,4,False,False,0.0,0.0
+09240,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,4,False,False,0.0,0.0
+09255,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,4,False,False,0.0,0.0
+09270,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,4,False,False,0.0,0.0
+09285,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,4,False,False,0.0,0.0
+09300,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,4,False,False,0.0,0.0
+09315,Royal Delivery,85.0,Poison,78.0,Tesla,97.0,Miner,66.0,,,,4,False,False,0.0,0.0

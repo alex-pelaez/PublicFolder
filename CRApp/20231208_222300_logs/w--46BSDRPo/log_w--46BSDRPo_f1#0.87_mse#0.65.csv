@@ -1,0 +1,607 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00255,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+00270,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+00285,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+00300,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+00315,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+00330,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+00345,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+00360,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+00375,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+00390,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+00405,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+00420,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+00435,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+00450,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+00465,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+00480,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+00495,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+00510,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+00525,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+00540,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00555,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00570,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00585,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00600,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00615,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00630,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00645,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00660,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00675,Giant Skeleton,37.0,Fisherman,32.0,Poison,78.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00690,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Electro Wizard,24.0,Fisherman,32.0,2.0,7,True,True,3.0,3.0
+00705,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+00720,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+00735,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+00750,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+00765,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+00780,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+00795,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+00810,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+00825,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+00840,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+00855,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+00870,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+00885,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+00900,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+00915,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+00930,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Electro Wizard,24.0,,,,10,False,False,0.0,0.0
+00945,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,Electro Wizard,24.0,4.0,6,True,True,4.0,4.0
+00960,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+00975,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+00990,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01005,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01020,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01035,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01050,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01065,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01080,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01095,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01110,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01125,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01140,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01155,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01170,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01185,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01200,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01215,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01230,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01245,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01260,Giant Skeleton,37.0,Barbarian Barrel,6.0,Poison,78.0,Cannon Cart,16.0,Hunter,52.0,2.0,5,True,True,4.0,4.0
+01275,Giant Skeleton,37.0,Barbarian Barrel,6.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01290,Giant Skeleton,37.0,Barbarian Barrel,6.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01305,Giant Skeleton,37.0,Barbarian Barrel,6.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01320,Giant Skeleton,37.0,Barbarian Barrel,6.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01335,Giant Skeleton,37.0,Barbarian Barrel,6.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01350,Giant Skeleton,37.0,Barbarian Barrel,6.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01365,Giant Skeleton,37.0,Barbarian Barrel,6.0,Poison,78.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01380,Giant Skeleton,37.0,Barbarian Barrel,6.0,Poison,78.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01395,Giant Skeleton,37.0,Barbarian Barrel,6.0,Poison,78.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01410,Giant Skeleton,37.0,Barbarian Barrel,6.0,Poison,78.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01425,Giant Skeleton,37.0,Barbarian Barrel,6.0,Poison,78.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01440,Giant Skeleton,37.0,Barbarian Barrel,6.0,Poison,78.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01455,Giant Skeleton,37.0,Barbarian Barrel,6.0,Poison,78.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01470,Giant Skeleton,37.0,Barbarian Barrel,6.0,Poison,78.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01485,Giant Skeleton,37.0,Barbarian Barrel,6.0,Poison,78.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01500,Giant Skeleton,37.0,Barbarian Barrel,6.0,Poison,78.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01515,Giant Skeleton,37.0,Barbarian Barrel,6.0,Poison,78.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01530,Giant Skeleton,37.0,Barbarian Barrel,6.0,Poison,78.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01545,Giant Skeleton,37.0,Barbarian Barrel,6.0,Poison,78.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01560,Giant Skeleton,37.0,Barbarian Barrel,6.0,Poison,78.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01575,Giant Skeleton,37.0,Barbarian Barrel,6.0,Poison,78.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01590,Giant Skeleton,37.0,Barbarian Barrel,6.0,Poison,78.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01605,Giant Skeleton,37.0,Barbarian Barrel,6.0,Poison,78.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01620,Giant Skeleton,37.0,Barbarian Barrel,6.0,Poison,78.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01635,Giant Skeleton,37.0,Barbarian Barrel,6.0,Lumberjack,61.0,Cannon Cart,16.0,Poison,78.0,3.0,6,True,True,4.0,4.0
+01650,Giant Skeleton,37.0,Barbarian Barrel,6.0,Lumberjack,61.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01665,Giant Skeleton,37.0,Barbarian Barrel,6.0,Lumberjack,61.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01680,Giant Skeleton,37.0,Barbarian Barrel,6.0,Lumberjack,61.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01695,Giant Skeleton,37.0,Barbarian Barrel,6.0,Lumberjack,61.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01710,Giant Skeleton,37.0,Barbarian Barrel,6.0,Lumberjack,61.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01725,Giant Skeleton,37.0,Barbarian Barrel,6.0,Lumberjack,61.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01740,Giant Skeleton,37.0,Barbarian Barrel,6.0,Lumberjack,61.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01755,Giant Skeleton,37.0,Barbarian Barrel,6.0,Lumberjack,61.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01770,Giant Skeleton,37.0,Barbarian Barrel,6.0,Lumberjack,61.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01785,Giant Skeleton,37.0,Barbarian Barrel,6.0,Lumberjack,61.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01800,Giant Skeleton,37.0,Barbarian Barrel,6.0,Lumberjack,61.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01815,Giant Skeleton,37.0,Barbarian Barrel,6.0,Lumberjack,61.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01830,Giant Skeleton,37.0,Barbarian Barrel,6.0,Lumberjack,61.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01845,Giant Skeleton,37.0,Barbarian Barrel,6.0,Lumberjack,61.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01860,Giant Skeleton,37.0,Barbarian Barrel,6.0,Lumberjack,61.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01875,Giant Skeleton,37.0,Barbarian Barrel,6.0,Lumberjack,61.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01890,Giant Skeleton,37.0,Barbarian Barrel,6.0,Lumberjack,61.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01905,Giant Skeleton,37.0,Barbarian Barrel,6.0,Lumberjack,61.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01920,Giant Skeleton,37.0,Barbarian Barrel,6.0,Lumberjack,61.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01935,Giant Skeleton,37.0,Barbarian Barrel,6.0,Lumberjack,61.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01950,Giant Skeleton,37.0,Barbarian Barrel,6.0,Lumberjack,61.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01965,Giant Skeleton,37.0,Barbarian Barrel,6.0,Lumberjack,61.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01980,Giant Skeleton,37.0,Barbarian Barrel,6.0,Lumberjack,61.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01995,Giant Skeleton,37.0,Barbarian Barrel,6.0,Fisherman,32.0,Cannon Cart,16.0,Lumberjack,61.0,3.0,6,True,True,4.0,4.0
+02010,Giant Skeleton,37.0,Barbarian Barrel,6.0,Fisherman,32.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+02025,Giant Skeleton,37.0,Barbarian Barrel,6.0,Fisherman,32.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+02040,Giant Skeleton,37.0,Barbarian Barrel,6.0,Fisherman,32.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+02055,Giant Skeleton,37.0,Barbarian Barrel,6.0,Fisherman,32.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+02070,Giant Skeleton,37.0,Barbarian Barrel,6.0,Fisherman,32.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02085,Giant Skeleton,37.0,Barbarian Barrel,6.0,Fisherman,32.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02100,Giant Skeleton,37.0,Barbarian Barrel,6.0,Fisherman,32.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02115,Giant Skeleton,37.0,Barbarian Barrel,6.0,Fisherman,32.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02130,Giant Skeleton,37.0,Barbarian Barrel,6.0,Fisherman,32.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02145,Giant Skeleton,37.0,Barbarian Barrel,6.0,Fisherman,32.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02160,Giant Skeleton,37.0,Barbarian Barrel,6.0,Fisherman,32.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02175,Giant Skeleton,37.0,Barbarian Barrel,6.0,Fisherman,32.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02190,Giant Skeleton,37.0,Barbarian Barrel,6.0,Fisherman,32.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02205,Giant Skeleton,37.0,Barbarian Barrel,6.0,Fisherman,32.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02220,Giant Skeleton,37.0,Barbarian Barrel,6.0,Fisherman,32.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02235,Giant Skeleton,37.0,Barbarian Barrel,6.0,Fisherman,32.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+02250,Giant Skeleton,37.0,Barbarian Barrel,6.0,Fisherman,32.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+02265,Giant Skeleton,37.0,Barbarian Barrel,6.0,Fisherman,32.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+02280,Giant Skeleton,37.0,Barbarian Barrel,6.0,Fisherman,32.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+02295,Giant Skeleton,37.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Cannon Cart,16.0,Fisherman,32.0,3.0,6,True,True,3.0,3.0
+02310,Giant Skeleton,37.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+02325,Giant Skeleton,37.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02340,Giant Skeleton,37.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02355,Giant Skeleton,37.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02370,Giant Skeleton,37.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02385,Giant Skeleton,37.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02400,Giant Skeleton,37.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02415,Giant Skeleton,37.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02430,Giant Skeleton,37.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02445,Giant Skeleton,37.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02460,Giant Skeleton,37.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02475,Giant Skeleton,37.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02490,Giant Skeleton,37.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+02505,Giant Skeleton,37.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+02520,Giant Skeleton,37.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+02535,Giant Skeleton,37.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+02550,Giant Skeleton,37.0,Barbarian Barrel,6.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+02565,Giant Skeleton,37.0,Hunter,52.0,Electro Wizard,24.0,Cannon Cart,16.0,Barbarian Barrel,6.0,2.0,7,True,True,2.0,2.0
+02580,Giant Skeleton,37.0,Hunter,52.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02595,Giant Skeleton,37.0,Hunter,52.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02610,Giant Skeleton,37.0,Hunter,52.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02625,Giant Skeleton,37.0,Hunter,52.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02640,Giant Skeleton,37.0,Hunter,52.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02655,Giant Skeleton,37.0,Hunter,52.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+02670,Giant Skeleton,37.0,Hunter,52.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+02685,Giant Skeleton,37.0,Hunter,52.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+02700,Giant Skeleton,37.0,Hunter,52.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+02715,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,Electro Wizard,24.0,3.0,5,True,True,4.0,4.0
+02730,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+02745,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+02760,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+02775,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+02790,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+02805,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+02820,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02835,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02850,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02865,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02880,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02895,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02910,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02925,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02940,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02955,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02970,Giant Skeleton,37.0,Hunter,52.0,Poison,78.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02985,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Cannon Cart,16.0,Poison,78.0,3.0,4,True,True,4.0,4.0
+03000,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+03015,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+03030,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+03045,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+03060,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+03075,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+03090,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+03105,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+03120,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+03135,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+03150,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+03165,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+03180,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+03195,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+03210,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+03225,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+03240,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+03255,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+03270,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+03285,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+03300,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+03315,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+03330,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+03345,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+03360,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+03375,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+03390,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Cannon Cart,16.0,Lumberjack,61.0,3.0,5,True,True,4.0,4.0
+03405,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+03420,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+03435,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+03450,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,Cannon Cart,16.0,4.0,6,True,False,0.0,5.0
+03465,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+03480,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+03495,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03510,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03525,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03540,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03555,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03570,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03585,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03600,Giant Skeleton,37.0,Giant Skeleton,37.0,Fisherman,32.0,Barbarian Barrel,6.0,Hunter,52.0,2.0,2,True,True,6.0,4.0
+03615,Giant Skeleton,37.0,Giant Skeleton,37.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+03630,Giant Skeleton,37.0,Giant Skeleton,37.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+03645,Giant Skeleton,37.0,Cannon Cart,16.0,Fisherman,32.0,Barbarian Barrel,6.0,Giant Skeleton,37.0,2.0,2,True,False,0.0,6.0
+03660,Giant Skeleton,37.0,Cannon Cart,16.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+03675,Giant Skeleton,37.0,Cannon Cart,16.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+03690,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,Cannon Cart,16.0,2.0,3,True,False,0.0,5.0
+03705,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+03720,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+03735,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+03750,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+03765,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+03780,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+03795,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+03810,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+03825,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+03840,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+03855,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+03870,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03885,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03900,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+03915,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03930,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03945,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+03960,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+03975,Giant Skeleton,37.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,Fisherman,32.0,3.0,6,True,True,3.0,3.0
+03990,Giant Skeleton,37.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+04005,Giant Skeleton,37.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+04020,Giant Skeleton,37.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+04035,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,Giant Skeleton,37.0,1.0,1,True,True,6.0,6.0
+04050,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+04065,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+04080,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+04095,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+04110,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+04125,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Lumberjack,61.0,Barbarian Barrel,6.0,4.0,2,True,True,1.0,2.0
+04140,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Lumberjack,61.0,,,,2,False,False,0.0,0.0
+04155,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Lumberjack,61.0,,,,2,False,False,0.0,0.0
+04170,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Lumberjack,61.0,,,,3,False,False,0.0,0.0
+04185,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Lumberjack,61.0,,,,3,False,False,0.0,0.0
+04200,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Lumberjack,61.0,,,,3,False,False,0.0,0.0
+04215,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Lumberjack,61.0,,,,4,False,False,0.0,0.0
+04230,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Lumberjack,61.0,,,,4,False,False,0.0,0.0
+04245,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Lumberjack,61.0,,,,4,False,False,0.0,0.0
+04260,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Lumberjack,61.0,,,,5,False,False,0.0,0.0
+04275,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Lumberjack,61.0,,,,5,False,False,0.0,0.0
+04290,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Lumberjack,61.0,,,,6,False,False,0.0,0.0
+04305,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Lumberjack,61.0,,,,6,False,False,0.0,0.0
+04320,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Lumberjack,61.0,,,,6,False,False,0.0,0.0
+04335,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Lumberjack,61.0,,,,7,False,False,0.0,0.0
+04350,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Lumberjack,61.0,,,,7,False,False,0.0,0.0
+04365,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Lumberjack,61.0,,,,7,False,False,0.0,0.0
+04380,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Lumberjack,61.0,,,,8,False,False,0.0,0.0
+04395,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Lumberjack,61.0,,,,8,False,False,0.0,0.0
+04410,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,Lumberjack,61.0,4.0,4,True,True,4.0,4.0
+04425,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+04440,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+04455,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+04470,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+04485,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+04500,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+04515,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+04530,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+04545,Poison,78.0,Giant Skeleton,37.0,Electro Wizard,24.0,Fisherman,32.0,Hunter,52.0,2.0,2,True,True,5.0,4.0
+04560,Poison,78.0,Giant Skeleton,37.0,Electro Wizard,24.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+04575,Poison,78.0,Giant Skeleton,37.0,Electro Wizard,24.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+04590,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,Giant Skeleton,37.0,2.0,3,True,False,0.0,6.0
+04605,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+04620,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+04635,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+04650,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,Fisherman,32.0,4.0,1,True,True,3.0,3.0
+04665,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,1,False,False,0.0,0.0
+04680,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+04695,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+04710,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+04725,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+04740,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+04755,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+04770,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+04785,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+04800,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+04815,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+04830,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+04845,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+04860,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+04875,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+04890,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+04905,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+04920,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+04935,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+04950,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+04965,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+04980,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+04995,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,Giant Skeleton,37.0,4.0,3,True,True,6.0,6.0
+05010,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05025,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05040,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05055,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05070,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05085,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05100,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05115,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05130,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05145,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05160,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05175,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05190,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05205,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05220,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+05235,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+05250,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Barbarian Barrel,6.0,Electro Wizard,24.0,3.0,5,True,True,4.0,4.0
+05265,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05280,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05295,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05310,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05325,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05340,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05355,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05370,Poison,78.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,Lumberjack,61.0,3.0,4,True,True,4.0,4.0
+05385,Poison,78.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05400,Poison,78.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05415,Poison,78.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05430,Poison,78.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05445,Poison,78.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05460,Poison,78.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,0,False,True,6.0,0.0
+05475,Poison,78.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+05490,Poison,78.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+05505,Poison,78.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+05520,Poison,78.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+05535,Poison,78.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+05550,Poison,78.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05565,Poison,78.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05580,Poison,78.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05595,Poison,78.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05610,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Fisherman,32.0,3.0,1,True,True,3.0,3.0
+05625,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+05640,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+05655,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+05670,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+05685,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05700,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05715,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05730,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05745,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05760,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05775,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05790,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05805,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05820,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05835,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05850,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05865,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05880,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05895,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05910,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05925,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05940,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+05955,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+05970,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+05985,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Electro Wizard,24.0,Barbarian Barrel,6.0,4.0,8,True,True,1.0,2.0
+06000,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+06015,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+06030,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+06045,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+06060,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Electro Wizard,24.0,Giant Skeleton,37.0,3.0,4,True,True,5.0,6.0
+06075,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06090,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06105,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+06120,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+06135,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+06150,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+06165,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+06180,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+06195,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+06210,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Electro Wizard,24.0,,,,7,False,False,0.0,0.0
+06225,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+06240,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,Electro Wizard,24.0,4.0,4,True,True,3.0,4.0
+06255,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+06270,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+06285,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+06300,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+06315,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+06330,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+06345,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,0,False,True,6.0,0.0
+06360,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,1,False,False,0.0,0.0
+06375,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,1,False,False,0.0,0.0
+06390,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+06405,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+06420,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+06435,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+06450,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+06465,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+06480,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+06495,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+06510,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+06525,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+06540,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+06555,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+06570,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+06585,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+06600,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+06615,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+06630,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+06645,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+06660,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+06675,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+06690,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+06705,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Barbarian Barrel,6.0,Fisherman,32.0,4.0,6,True,True,3.0,3.0
+06720,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06735,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06750,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06765,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06780,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+06795,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+06810,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+06825,Poison,78.0,Hunter,52.0,Lumberjack,61.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+06840,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Lumberjack,61.0,3.0,5,True,True,4.0,4.0
+06855,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06870,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06885,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06900,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06915,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06930,Poison,78.0,Hunter,52.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06945,Poison,78.0,Cannon Cart,16.0,Electro Wizard,24.0,Barbarian Barrel,6.0,Giant Skeleton,37.0,3.0,2,True,True,5.0,6.0
+06960,Poison,78.0,Cannon Cart,16.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06975,Poison,78.0,Cannon Cart,16.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06990,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,Cannon Cart,16.0,2.0,3,True,False,0.0,5.0
+07005,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+07020,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+07035,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+07050,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+07065,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+07080,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+07095,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+07110,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,Barbarian Barrel,6.0,4.0,4,True,True,1.0,2.0
+07125,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+07140,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+07155,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+07170,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+07185,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+07200,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+07215,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+07230,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,0,False,True,6.0,0.0
+07245,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,1,False,False,0.0,0.0
+07260,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,1,False,False,0.0,0.0
+07275,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+07290,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+07305,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+07320,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+07335,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+07350,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+07365,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+07380,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+07395,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Lumberjack,61.0,Fisherman,32.0,4.0,1,True,True,3.0,3.0
+07410,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Lumberjack,61.0,,,,2,False,False,0.0,0.0
+07425,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Lumberjack,61.0,,,,2,False,False,0.0,0.0
+07440,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Lumberjack,61.0,,,,3,False,False,0.0,0.0
+07455,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Lumberjack,61.0,,,,4,False,False,0.0,0.0
+07470,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Lumberjack,61.0,,,,4,False,False,0.0,0.0
+07485,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Lumberjack,61.0,,,,5,False,False,0.0,0.0
+07500,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Lumberjack,61.0,,,,5,False,False,0.0,0.0
+07515,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,Lumberjack,61.0,4.0,2,True,True,3.0,4.0
+07530,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+07545,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+07560,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+07575,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+07590,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+07605,Poison,78.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+07620,Barbarian Barrel,6.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,Poison,78.0,1.0,1,True,True,4.0,4.0
+07635,Barbarian Barrel,6.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+07650,Barbarian Barrel,6.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,2,False,False,0.0,0.0
+07665,Barbarian Barrel,6.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+07680,Barbarian Barrel,6.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+07695,Barbarian Barrel,6.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+07710,Barbarian Barrel,6.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+07725,Barbarian Barrel,6.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+07740,Barbarian Barrel,6.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+07755,Barbarian Barrel,6.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+07770,Barbarian Barrel,6.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+07785,Barbarian Barrel,6.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+07800,Barbarian Barrel,6.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+07815,Barbarian Barrel,6.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+07830,Cannon Cart,16.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,1.0,7,True,True,1.0,2.0
+07845,Cannon Cart,16.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+07860,Cannon Cart,16.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+07875,Cannon Cart,16.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+07890,Cannon Cart,16.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+07905,Cannon Cart,16.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,10,False,False,0.0,0.0
+07920,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,Giant Skeleton,37.0,4.0,4,True,True,6.0,6.0
+07935,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+07950,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+07965,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+07980,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+07995,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+08010,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,1,False,True,5.0,0.0
+08025,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+08040,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+08055,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+08070,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+08085,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+08100,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+08115,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+08130,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+08145,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+08160,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+08175,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Poison,78.0,Fisherman,32.0,4.0,4,True,True,2.0,3.0
+08190,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Poison,78.0,,,,5,False,False,0.0,0.0
+08205,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Poison,78.0,,,,5,False,False,0.0,0.0
+08220,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+08235,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Poison,78.0,,,,6,False,False,0.0,0.0
+08250,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,Poison,78.0,4.0,3,True,True,3.0,4.0
+08265,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+08280,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+08295,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+08310,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+08325,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+08340,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,4.0,4,True,True,1.0,2.0
+08355,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+08370,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+08385,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+08400,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+08415,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+08430,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+08445,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+08460,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+08475,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+08490,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Giant Skeleton,37.0,,,,9,False,False,0.0,0.0
+08505,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Cannon Cart,16.0,Giant Skeleton,37.0,4.0,4,True,True,5.0,6.0
+08520,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+08535,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+08550,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+08565,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+08580,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+08595,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+08610,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+08625,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+08640,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+08655,Lumberjack,61.0,Hunter,52.0,Electro Wizard,24.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+08670,Lumberjack,61.0,Hunter,52.0,Fisherman,32.0,Cannon Cart,16.0,Electro Wizard,24.0,3.0,6,True,True,3.0,4.0
+08685,Lumberjack,61.0,Hunter,52.0,Fisherman,32.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+08700,Lumberjack,61.0,Hunter,52.0,Fisherman,32.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+08715,Lumberjack,61.0,Hunter,52.0,Fisherman,32.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+08730,Poison,78.0,Hunter,52.0,Fisherman,32.0,Cannon Cart,16.0,Lumberjack,61.0,1.0,4,True,True,3.0,4.0
+08745,Poison,78.0,Hunter,52.0,Fisherman,32.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+08760,Poison,78.0,Hunter,52.0,Fisherman,32.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+08775,Poison,78.0,Hunter,52.0,Fisherman,32.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+08790,Poison,78.0,Hunter,52.0,Fisherman,32.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+08805,Poison,78.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,Cannon Cart,16.0,4.0,7,True,False,0.0,5.0
+08820,Poison,78.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+08835,Poison,78.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+08850,Poison,78.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,2,False,True,6.0,0.0
+08865,Poison,78.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+08880,Poison,78.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+08895,Poison,78.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+08910,Poison,78.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+08925,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,Poison,78.0,1.0,2,True,True,2.0,4.0
+08940,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,1,False,True,1.0,0.0
+08955,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+08970,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+08985,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+09000,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Electro Wizard,24.0,Barbarian Barrel,6.0,4.0,2,True,True,1.0,2.0
+09015,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+09030,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+09045,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+09060,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09075,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09090,Giant Skeleton,37.0,Hunter,52.0,Fisherman,32.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+09105,Giant Skeleton,37.0,Cannon Cart,16.0,Lumberjack,61.0,Electro Wizard,24.0,Fisherman,32.0,3.0,2,True,True,3.0,3.0
+09120,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Electro Wizard,24.0,Cannon Cart,16.0,2.0,3,True,False,0.0,5.0
+09135,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+09150,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09165,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+09180,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+09195,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Electro Wizard,24.0,,,,5,False,False,0.0,0.0
+09210,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+09225,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+09240,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+09255,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+09270,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+09285,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+09300,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+09315,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0
+09330,Giant Skeleton,37.0,Hunter,52.0,Lumberjack,61.0,Electro Wizard,24.0,,,,6,False,False,0.0,0.0

@@ -1,0 +1,549 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00225,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+00240,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+00255,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+00270,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+00285,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+00300,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+00315,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+00330,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+00345,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+00360,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+00375,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+00390,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+00405,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+00420,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+00435,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+00450,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+00465,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+00480,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+00495,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+00510,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+00525,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+00540,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+00555,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+00570,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+00585,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+00600,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+00615,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+00630,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+00645,Fireball,30.0,Skeleton Dragons,92.0,X,106.0,Musketeer,73.0,Bats,9.0,3.0,8,True,True,2.0,2.0
+00660,Fireball,30.0,Skeleton Dragons,92.0,X,106.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+00675,Fireball,30.0,Skeleton Dragons,92.0,X,106.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+00690,Fireball,30.0,Skeleton Dragons,92.0,X,106.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+00705,Fireball,30.0,Skeleton Dragons,92.0,X,106.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+00720,Fireball,30.0,Skeleton Dragons,92.0,X,106.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+00735,Fireball,30.0,Skeleton Dragons,92.0,X,106.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+00750,Fireball,30.0,Skeleton Dragons,92.0,X,106.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+00765,Fireball,30.0,Skeleton Dragons,92.0,X,106.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+00780,Fireball,30.0,Skeleton Dragons,92.0,X,106.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+00795,Fireball,30.0,Skeleton Dragons,92.0,X,106.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+00810,Fireball,30.0,Skeleton Dragons,92.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+00825,Fireball,30.0,Skeleton Dragons,92.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+00840,Fireball,30.0,Skeleton Dragons,92.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+00855,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,Skeleton Dragons,92.0,2.0,6,True,True,4.0,4.0
+00870,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+00885,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+00900,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+00915,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+00930,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+00945,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+00960,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+00975,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+00990,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+01005,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+01020,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+01035,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+01050,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+01065,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+01080,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+01095,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+01110,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+01125,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+01140,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+01155,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+01170,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+01185,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01200,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01215,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01230,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01245,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01260,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01275,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01290,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01305,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01320,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01335,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01350,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01365,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01380,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01395,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01410,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01425,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01440,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01455,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01470,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01485,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01500,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01515,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01530,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01545,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01560,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01575,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01590,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01605,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01620,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01635,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01650,Fireball,30.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+01665,Fireball,30.0,Knight,58.0,X,106.0,Musketeer,73.0,Sparky,95.0,2.0,4,True,True,6.0,6.0
+01680,Fireball,30.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+01695,Fireball,30.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+01710,Fireball,30.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+01725,Fireball,30.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+01740,Fireball,30.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+01755,Fireball,30.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+01770,Fireball,30.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+01785,Fireball,30.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+01800,Fireball,30.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+01815,Fireball,30.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+01830,Fireball,30.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+01845,Fireball,30.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+01860,Fireball,30.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+01875,Fireball,30.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+01890,Fireball,30.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+01905,Fireball,30.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+01920,Fireball,30.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+01935,Fireball,30.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+01950,Fireball,30.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+01965,Fireball,30.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+01980,Fireball,30.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+01995,Barbarian Barrel,6.0,Knight,58.0,X,106.0,Musketeer,73.0,Fireball,30.0,1.0,4,True,True,3.0,4.0
+02010,Barbarian Barrel,6.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+02025,Barbarian Barrel,6.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+02040,Barbarian Barrel,6.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+02055,Barbarian Barrel,6.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+02070,Barbarian Barrel,6.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+02085,Barbarian Barrel,6.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+02100,Barbarian Barrel,6.0,Knight,58.0,X,106.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+02115,Barbarian Barrel,6.0,Bats,9.0,X,106.0,Musketeer,73.0,Knight,58.0,2.0,2,True,True,3.0,3.0
+02130,Barbarian Barrel,6.0,Bats,9.0,X,106.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+02145,Barbarian Barrel,6.0,Bats,9.0,X,106.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+02160,Barbarian Barrel,6.0,Bats,9.0,X,106.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+02175,Barbarian Barrel,6.0,Bats,9.0,X,106.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+02190,Barbarian Barrel,6.0,Bats,9.0,X,106.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+02205,Barbarian Barrel,6.0,Bats,9.0,X,106.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+02220,Barbarian Barrel,6.0,Bats,9.0,X,106.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+02235,Barbarian Barrel,6.0,Bats,9.0,X,106.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+02250,Barbarian Barrel,6.0,Bats,9.0,X,106.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+02265,Barbarian Barrel,6.0,Bats,9.0,X,106.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+02280,Barbarian Barrel,6.0,Bats,9.0,X,106.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+02295,Barbarian Barrel,6.0,Bats,9.0,X,106.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+02310,Barbarian Barrel,6.0,Bats,9.0,X,106.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+02325,Barbarian Barrel,6.0,Bats,9.0,X,106.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+02340,Barbarian Barrel,6.0,Bats,9.0,X,106.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+02355,Barbarian Barrel,6.0,Skeleton Dragons,92.0,X,106.0,Musketeer,73.0,Bats,9.0,2.0,3,True,True,2.0,2.0
+02370,Barbarian Barrel,6.0,Skeleton Dragons,92.0,X,106.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+02385,Barbarian Barrel,6.0,Skeleton Dragons,92.0,X,106.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+02400,Barbarian Barrel,6.0,Skeleton Dragons,92.0,X,106.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+02415,Barbarian Barrel,6.0,Skeleton Dragons,92.0,X,106.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+02430,Barbarian Barrel,6.0,Skeleton Dragons,92.0,X,106.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+02445,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,Skeleton Dragons,92.0,2.0,0,True,True,4.0,4.0
+02460,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,0,False,False,0.0,0.0
+02475,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,0,False,False,0.0,0.0
+02490,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,0,False,False,0.0,0.0
+02505,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+02520,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+02535,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+02550,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+02565,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+02580,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+02595,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+02610,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+02625,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+02640,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+02655,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+02670,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+02685,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+02700,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+02715,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+02730,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+02745,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+02760,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+02775,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+02790,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+02805,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+02820,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+02835,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+02850,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+02865,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+02880,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+02895,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+02910,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+02925,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+02940,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+02955,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+02970,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+02985,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+03000,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+03015,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+03030,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+03045,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+03060,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+03075,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+03090,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+03105,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+03120,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+03135,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+03150,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+03165,Barbarian Barrel,6.0,Sparky,95.0,X,106.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+03180,Barbarian Barrel,6.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,X,106.0,3.0,3,True,True,5.0,6.0
+03195,Barbarian Barrel,6.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+03210,Barbarian Barrel,6.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+03225,Barbarian Barrel,6.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+03240,Barbarian Barrel,6.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+03255,Barbarian Barrel,6.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+03270,Barbarian Barrel,6.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+03285,Barbarian Barrel,6.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+03300,Barbarian Barrel,6.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+03315,Barbarian Barrel,6.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+03330,Barbarian Barrel,6.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+03345,Barbarian Barrel,6.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+03360,Barbarian Barrel,6.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+03375,Barbarian Barrel,6.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+03390,Barbarian Barrel,6.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+03405,Barbarian Barrel,6.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+03420,Barbarian Barrel,6.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+03435,Barbarian Barrel,6.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+03450,Barbarian Barrel,6.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+03465,Knight,58.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,Barbarian Barrel,6.0,1.0,4,True,True,2.0,2.0
+03480,Knight,58.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+03495,Knight,58.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+03510,Knight,58.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+03525,Knight,58.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+03540,Knight,58.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+03555,Knight,58.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+03570,Knight,58.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+03585,Knight,58.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+03600,Knight,58.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+03615,Knight,58.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+03630,Knight,58.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+03645,Knight,58.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+03660,Knight,58.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+03675,Knight,58.0,Sparky,95.0,Fireball,30.0,Bats,9.0,Musketeer,73.0,4.0,7,True,False,0.0,4.0
+03690,Knight,58.0,Sparky,95.0,Fireball,30.0,Bats,9.0,,,,7,False,False,0.0,0.0
+03705,Knight,58.0,Sparky,95.0,Fireball,30.0,Bats,9.0,,,,7,False,False,0.0,0.0
+03720,Knight,58.0,Sparky,95.0,Fireball,30.0,Bats,9.0,,,,7,False,False,0.0,0.0
+03735,Knight,58.0,Sparky,95.0,Fireball,30.0,Skeleton Dragons,92.0,Bats,9.0,4.0,7,True,True,6.0,2.0
+03750,Knight,58.0,Sparky,95.0,Fireball,30.0,Skeleton Dragons,92.0,,,,1,False,False,0.0,0.0
+03765,Knight,58.0,Sparky,95.0,Fireball,30.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+03780,Knight,58.0,Sparky,95.0,Fireball,30.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+03795,Knight,58.0,Sparky,95.0,Fireball,30.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+03810,Knight,58.0,Sparky,95.0,Fireball,30.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+03825,Knight,58.0,Sparky,95.0,Fireball,30.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+03840,Knight,58.0,Sparky,95.0,Fireball,30.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+03855,Knight,58.0,Sparky,95.0,Fireball,30.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+03870,Knight,58.0,Sparky,95.0,Fireball,30.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+03885,Knight,58.0,Sparky,95.0,Fireball,30.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+03900,Knight,58.0,Sparky,95.0,Fireball,30.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+03915,Knight,58.0,Sparky,95.0,Fireball,30.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+03930,Knight,58.0,Sparky,95.0,Fireball,30.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+03945,Knight,58.0,Sparky,95.0,Fireball,30.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+03960,Knight,58.0,Sparky,95.0,Fireball,30.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+03975,Knight,58.0,Sparky,95.0,Fireball,30.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+03990,X,106.0,Sparky,95.0,Fireball,30.0,Skeleton Dragons,92.0,Knight,58.0,1.0,4,True,True,3.0,3.0
+04005,X,106.0,Sparky,95.0,Fireball,30.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+04020,X,106.0,Sparky,95.0,Fireball,30.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+04035,X,106.0,Sparky,95.0,Fireball,30.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+04050,X,106.0,Sparky,95.0,Fireball,30.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+04065,X,106.0,Sparky,95.0,Fireball,30.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+04080,X,106.0,Sparky,95.0,Fireball,30.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+04095,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,Skeleton Dragons,92.0,4.0,3,True,True,3.0,4.0
+04110,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+04125,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+04140,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+04155,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+04170,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+04185,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+04200,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+04215,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+04230,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+04245,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+04260,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+04275,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+04290,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+04305,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+04320,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+04335,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+04350,X,106.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,Barbarian Barrel,6.0,4.0,7,True,True,1.0,2.0
+04365,X,106.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+04380,X,106.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+04395,X,106.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+04410,X,106.0,Sparky,95.0,Fireball,30.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+04425,X,106.0,Sparky,95.0,Fireball,30.0,Bats,9.0,Musketeer,73.0,4.0,4,True,True,4.0,4.0
+04440,X,106.0,Sparky,95.0,Fireball,30.0,Bats,9.0,,,,5,False,False,0.0,0.0
+04455,X,106.0,Sparky,95.0,Fireball,30.0,Bats,9.0,,,,5,False,False,0.0,0.0
+04470,X,106.0,Sparky,95.0,Fireball,30.0,Bats,9.0,,,,5,False,False,0.0,0.0
+04485,X,106.0,Sparky,95.0,Fireball,30.0,Bats,9.0,,,,6,False,False,0.0,0.0
+04500,X,106.0,Sparky,95.0,Fireball,30.0,Bats,9.0,,,,6,False,False,0.0,0.0
+04515,X,106.0,Sparky,95.0,Fireball,30.0,Bats,9.0,,,,7,False,False,0.0,0.0
+04530,X,106.0,Sparky,95.0,Fireball,30.0,Bats,9.0,,,,7,False,False,0.0,0.0
+04545,X,106.0,Sparky,95.0,Fireball,30.0,Bats,9.0,,,,7,False,False,0.0,0.0
+04560,X,106.0,Sparky,95.0,Fireball,30.0,Knight,58.0,Bats,9.0,4.0,6,True,True,1.0,2.0
+04575,X,106.0,Sparky,95.0,Fireball,30.0,Knight,58.0,,,,6,False,False,0.0,0.0
+04590,X,106.0,Sparky,95.0,Fireball,30.0,Knight,58.0,,,,6,False,False,0.0,0.0
+04605,X,106.0,Sparky,95.0,Fireball,30.0,Knight,58.0,,,,7,False,False,0.0,0.0
+04620,X,106.0,Sparky,95.0,Fireball,30.0,Knight,58.0,,,,7,False,False,0.0,0.0
+04635,X,106.0,Sparky,95.0,Fireball,30.0,Knight,58.0,,,,7,False,False,0.0,0.0
+04650,Skeleton Dragons,92.0,Sparky,95.0,Fireball,30.0,Knight,58.0,X,106.0,1.0,2,True,True,5.0,6.0
+04665,Skeleton Dragons,92.0,Sparky,95.0,Fireball,30.0,Knight,58.0,,,,2,False,False,0.0,0.0
+04680,Skeleton Dragons,92.0,Sparky,95.0,Fireball,30.0,Knight,58.0,,,,2,False,False,0.0,0.0
+04695,Skeleton Dragons,92.0,Sparky,95.0,Fireball,30.0,Knight,58.0,,,,3,False,False,0.0,0.0
+04710,Skeleton Dragons,92.0,Sparky,95.0,Fireball,30.0,Knight,58.0,,,,3,False,False,0.0,0.0
+04725,Skeleton Dragons,92.0,Sparky,95.0,Fireball,30.0,Knight,58.0,,,,4,False,False,0.0,0.0
+04740,Skeleton Dragons,92.0,Sparky,95.0,Fireball,30.0,Knight,58.0,,,,4,False,False,0.0,0.0
+04755,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Knight,58.0,Fireball,30.0,3.0,0,True,True,4.0,4.0
+04770,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Knight,58.0,,,,1,False,False,0.0,0.0
+04785,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Knight,58.0,,,,1,False,False,0.0,0.0
+04800,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Knight,58.0,,,,1,False,False,0.0,0.0
+04815,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Knight,58.0,,,,2,False,False,0.0,0.0
+04830,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Knight,58.0,,,,2,False,False,0.0,0.0
+04845,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Knight,58.0,,,,2,False,False,0.0,0.0
+04860,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Knight,58.0,,,,3,False,False,0.0,0.0
+04875,Skeleton Dragons,92.0,Sparky,95.0,Barbarian Barrel,6.0,Knight,58.0,,,,3,False,False,0.0,0.0
+04890,Skeleton Dragons,92.0,Sparky,95.0,Musketeer,73.0,Knight,58.0,Barbarian Barrel,6.0,3.0,1,True,True,2.0,2.0
+04905,Skeleton Dragons,92.0,Sparky,95.0,Musketeer,73.0,Knight,58.0,,,,2,False,False,0.0,0.0
+04920,Skeleton Dragons,92.0,Sparky,95.0,Musketeer,73.0,Knight,58.0,,,,2,False,False,0.0,0.0
+04935,Skeleton Dragons,92.0,Sparky,95.0,Musketeer,73.0,Knight,58.0,,,,3,False,False,0.0,0.0
+04950,Skeleton Dragons,92.0,Sparky,95.0,Musketeer,73.0,Knight,58.0,,,,3,False,False,0.0,0.0
+04965,Skeleton Dragons,92.0,Sparky,95.0,Musketeer,73.0,Knight,58.0,,,,3,False,False,0.0,0.0
+04980,Skeleton Dragons,92.0,Sparky,95.0,Musketeer,73.0,Knight,58.0,,,,4,False,False,0.0,0.0
+04995,Skeleton Dragons,92.0,Sparky,95.0,Musketeer,73.0,Knight,58.0,,,,4,False,False,0.0,0.0
+05010,Skeleton Dragons,92.0,Sparky,95.0,Musketeer,73.0,Knight,58.0,,,,4,False,False,0.0,0.0
+05025,Bats,9.0,Sparky,95.0,Musketeer,73.0,Knight,58.0,Skeleton Dragons,92.0,1.0,1,True,True,3.0,4.0
+05040,Bats,9.0,Sparky,95.0,Musketeer,73.0,Knight,58.0,,,,1,False,False,0.0,0.0
+05055,Bats,9.0,Sparky,95.0,Musketeer,73.0,Knight,58.0,,,,1,False,False,0.0,0.0
+05070,Bats,9.0,Sparky,95.0,Musketeer,73.0,Knight,58.0,,,,2,False,False,0.0,0.0
+05085,Bats,9.0,Sparky,95.0,Musketeer,73.0,Knight,58.0,,,,2,False,False,0.0,0.0
+05100,Bats,9.0,Sparky,95.0,Musketeer,73.0,Knight,58.0,,,,3,False,False,0.0,0.0
+05115,Bats,9.0,Sparky,95.0,Musketeer,73.0,Knight,58.0,,,,3,False,False,0.0,0.0
+05130,Bats,9.0,Sparky,95.0,Musketeer,73.0,Knight,58.0,,,,3,False,False,0.0,0.0
+05145,Bats,9.0,Sparky,95.0,Musketeer,73.0,Knight,58.0,,,,4,False,False,0.0,0.0
+05160,Bats,9.0,Sparky,95.0,Musketeer,73.0,Knight,58.0,,,,4,False,False,0.0,0.0
+05175,Bats,9.0,Sparky,95.0,X,106.0,Knight,58.0,Musketeer,73.0,3.0,0,True,True,4.0,4.0
+05190,Bats,9.0,Sparky,95.0,X,106.0,Knight,58.0,,,,1,False,False,0.0,0.0
+05205,Bats,9.0,Sparky,95.0,X,106.0,Knight,58.0,,,,1,False,False,0.0,0.0
+05220,Bats,9.0,Sparky,95.0,X,106.0,Knight,58.0,,,,1,False,False,0.0,0.0
+05235,Bats,9.0,Sparky,95.0,X,106.0,Knight,58.0,,,,2,False,False,0.0,0.0
+05250,Bats,9.0,Sparky,95.0,X,106.0,Knight,58.0,,,,2,False,False,0.0,0.0
+05265,Bats,9.0,Sparky,95.0,X,106.0,Knight,58.0,,,,2,False,False,0.0,0.0
+05280,Bats,9.0,Sparky,95.0,X,106.0,Knight,58.0,,,,3,False,False,0.0,0.0
+05295,Bats,9.0,Sparky,95.0,X,106.0,Knight,58.0,,,,3,False,False,0.0,0.0
+05310,Bats,9.0,Sparky,95.0,X,106.0,Fireball,30.0,Knight,58.0,4.0,0,True,True,3.0,3.0
+05325,Bats,9.0,Sparky,95.0,X,106.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+05340,Bats,9.0,Sparky,95.0,X,106.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+05355,Bats,9.0,Sparky,95.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05370,Bats,9.0,Sparky,95.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05385,Bats,9.0,Sparky,95.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05400,Bats,9.0,Sparky,95.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05415,Bats,9.0,Sparky,95.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05430,Bats,9.0,Sparky,95.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05445,Bats,9.0,Sparky,95.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05460,Bats,9.0,Sparky,95.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05475,Bats,9.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,Fireball,30.0,4.0,0,True,True,4.0,4.0
+05490,Bats,9.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+05505,Bats,9.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+05520,Bats,9.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+05535,Bats,9.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+05550,Bats,9.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+05565,Bats,9.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05580,Bats,9.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05595,Bats,9.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05610,Bats,9.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05625,Bats,9.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05640,Bats,9.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05655,Bats,9.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05670,Bats,9.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05685,Bats,9.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05700,Bats,9.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05715,Bats,9.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05730,Bats,9.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05745,Bats,9.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05760,Bats,9.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05775,Bats,9.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05790,Bats,9.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05805,Bats,9.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05820,Skeleton Dragons,92.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,Bats,9.0,1.0,7,True,True,1.0,2.0
+05835,Skeleton Dragons,92.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05850,Skeleton Dragons,92.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+05865,Skeleton Dragons,92.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05880,Skeleton Dragons,92.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05895,Skeleton Dragons,92.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+05910,Skeleton Dragons,92.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+05925,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,Skeleton Dragons,92.0,1.0,5,True,True,4.0,4.0
+05940,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05955,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05970,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05985,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06000,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06015,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06030,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+06045,Knight,58.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,Musketeer,73.0,1.0,4,True,True,4.0,4.0
+06060,Knight,58.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06075,Knight,58.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06090,Knight,58.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06105,Knight,58.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06120,Knight,58.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06135,Knight,58.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06150,Knight,58.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06165,Knight,58.0,Sparky,95.0,X,106.0,Fireball,30.0,Barbarian Barrel,6.0,4.0,5,True,True,1.0,2.0
+06180,Knight,58.0,Sparky,95.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+06195,Knight,58.0,Sparky,95.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06210,Knight,58.0,Sparky,95.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06225,Knight,58.0,Sparky,95.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+06240,Knight,58.0,Sparky,95.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+06255,Knight,58.0,Sparky,95.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+06270,Knight,58.0,Sparky,95.0,X,106.0,Bats,9.0,Fireball,30.0,4.0,3,True,True,4.0,4.0
+06285,Knight,58.0,Sparky,95.0,X,106.0,Bats,9.0,,,,4,False,False,0.0,0.0
+06300,Knight,58.0,Sparky,95.0,X,106.0,Bats,9.0,,,,4,False,False,0.0,0.0
+06315,Knight,58.0,Sparky,95.0,X,106.0,Skeleton Dragons,92.0,Bats,9.0,4.0,2,True,True,2.0,2.0
+06330,Knight,58.0,Sparky,95.0,X,106.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+06345,Knight,58.0,Sparky,95.0,X,106.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+06360,Knight,58.0,Sparky,95.0,X,106.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+06375,Knight,58.0,Sparky,95.0,X,106.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+06390,Knight,58.0,Sparky,95.0,X,106.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+06405,Knight,58.0,Sparky,95.0,X,106.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+06420,Knight,58.0,Sparky,95.0,X,106.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+06435,Knight,58.0,Sparky,95.0,X,106.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+06450,Knight,58.0,Sparky,95.0,X,106.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+06465,Knight,58.0,Sparky,95.0,X,106.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+06480,Knight,58.0,Sparky,95.0,X,106.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+06495,Musketeer,73.0,Sparky,95.0,X,106.0,Skeleton Dragons,92.0,Knight,58.0,1.0,4,True,True,2.0,3.0
+06510,Musketeer,73.0,Sparky,95.0,X,106.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+06525,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,Skeleton Dragons,92.0,4.0,0,True,True,4.0,4.0
+06540,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+06555,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+06570,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+06585,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06600,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+06615,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+06630,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+06645,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+06660,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06675,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06690,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+06705,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06720,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06735,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06750,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06765,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06780,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06795,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06810,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06825,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+06840,Musketeer,73.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+06855,Fireball,30.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,Musketeer,73.0,1.0,4,True,True,4.0,4.0
+06870,Fireball,30.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06885,Fireball,30.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06900,Fireball,30.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+06915,Fireball,30.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06930,Fireball,30.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06945,Fireball,30.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06960,Fireball,30.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06975,Fireball,30.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06990,Fireball,30.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+07005,Fireball,30.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+07020,Fireball,30.0,Sparky,95.0,X,106.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+07035,Fireball,30.0,Sparky,95.0,Bats,9.0,Barbarian Barrel,6.0,X,106.0,3.0,3,True,True,5.0,6.0
+07050,Fireball,30.0,Sparky,95.0,Bats,9.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+07065,Fireball,30.0,Sparky,95.0,Bats,9.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+07080,Fireball,30.0,Sparky,95.0,Bats,9.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+07095,Fireball,30.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,Bats,9.0,3.0,2,True,True,2.0,2.0
+07110,Fireball,30.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+07125,Fireball,30.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+07140,Fireball,30.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+07155,Fireball,30.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+07170,Fireball,30.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+07185,Fireball,30.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+07200,Fireball,30.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+07215,Fireball,30.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+07230,Fireball,30.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+07245,Fireball,30.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+07260,Fireball,30.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+07275,Fireball,30.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+07290,Fireball,30.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+07305,Fireball,30.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+07320,Fireball,30.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+07335,Fireball,30.0,Sparky,95.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Knight,58.0,3.0,5,True,True,2.0,3.0
+07350,Fireball,30.0,Sparky,95.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+07365,Fireball,30.0,Sparky,95.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+07380,Fireball,30.0,Sparky,95.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+07395,Fireball,30.0,Sparky,95.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+07410,Fireball,30.0,Sparky,95.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+07425,Fireball,30.0,Sparky,95.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+07440,Fireball,30.0,Sparky,95.0,Musketeer,73.0,Barbarian Barrel,6.0,Skeleton Dragons,92.0,3.0,4,True,True,3.0,4.0
+07455,Fireball,30.0,Sparky,95.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+07470,Fireball,30.0,Sparky,95.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+07485,X,106.0,Sparky,95.0,Musketeer,73.0,Barbarian Barrel,6.0,Fireball,30.0,1.0,2,True,True,3.0,4.0
+07500,X,106.0,Sparky,95.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+07515,X,106.0,Sparky,95.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+07530,X,106.0,Sparky,95.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+07545,X,106.0,Sparky,95.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+07560,X,106.0,Sparky,95.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+07575,X,106.0,Sparky,95.0,Bats,9.0,Barbarian Barrel,6.0,Musketeer,73.0,3.0,1,True,True,3.0,4.0
+07590,X,106.0,Sparky,95.0,Bats,9.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+07605,X,106.0,Sparky,95.0,Bats,9.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+07620,X,106.0,Sparky,95.0,Bats,9.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+07635,X,106.0,Sparky,95.0,Bats,9.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+07650,X,106.0,Sparky,95.0,Bats,9.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+07665,X,106.0,Sparky,95.0,Bats,9.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+07680,X,106.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,Bats,9.0,3.0,3,True,True,1.0,2.0
+07695,X,106.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+07710,X,106.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+07725,X,106.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+07740,X,106.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+07755,X,106.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+07770,X,106.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+07785,X,106.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+07800,X,106.0,Sparky,95.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Knight,58.0,3.0,4,True,True,2.0,3.0
+07815,X,106.0,Sparky,95.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+07830,X,106.0,Sparky,95.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+07845,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,Skeleton Dragons,92.0,3.0,1,True,True,4.0,4.0
+07860,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+07875,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+07890,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+07905,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+07920,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+07935,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+07950,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+07965,X,106.0,Sparky,95.0,Musketeer,73.0,Barbarian Barrel,6.0,Fireball,30.0,3.0,2,True,True,3.0,4.0
+07980,X,106.0,Sparky,95.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+07995,X,106.0,Sparky,95.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+08010,X,106.0,Sparky,95.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+08025,X,106.0,Sparky,95.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+08040,X,106.0,Sparky,95.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+08055,X,106.0,Sparky,95.0,Bats,9.0,Barbarian Barrel,6.0,Musketeer,73.0,3.0,1,True,True,3.0,4.0
+08070,X,106.0,Sparky,95.0,Bats,9.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+08085,X,106.0,Sparky,95.0,Bats,9.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+08100,X,106.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,Bats,9.0,3.0,2,True,True,1.0,2.0
+08115,X,106.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+08130,X,106.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+08145,X,106.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+08160,X,106.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+08175,X,106.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+08190,X,106.0,Sparky,95.0,Knight,58.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+08205,X,106.0,Sparky,95.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Knight,58.0,3.0,1,True,True,3.0,3.0
+08220,X,106.0,Sparky,95.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+08235,X,106.0,Sparky,95.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+08250,X,106.0,Sparky,95.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+08265,X,106.0,Sparky,95.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+08280,X,106.0,Sparky,95.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+08295,X,106.0,Sparky,95.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+08310,X,106.0,Sparky,95.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+08325,X,106.0,Sparky,95.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+08340,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,Skeleton Dragons,92.0,3.0,2,True,True,4.0,4.0
+08355,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+08370,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+08385,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+08400,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+08415,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,1,False,True,3.0,0.0
+08430,X,106.0,Sparky,95.0,Fireball,30.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0

@@ -1,0 +1,361 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00255,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00270,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00285,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00300,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00315,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00330,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00345,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00360,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00375,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00390,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00405,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00420,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00435,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,8,False,False,0.0,0.0
+00450,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00465,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00480,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00495,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,9,False,False,0.0,0.0
+00510,Skeletons,94.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,Mortar,71.0,1.0,5,True,True,4.0,4.0
+00525,Skeletons,94.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+00540,Skeletons,94.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00555,Skeletons,94.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00570,Skeletons,94.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00585,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,Skeletons,94.0,1.0,5,True,True,1.0,1.0
+00600,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+00615,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00630,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00645,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00660,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00675,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00690,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,6,False,False,0.0,0.0
+00705,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Hunter,52.0,,,,7,False,False,0.0,0.0
+00720,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,Hunter,52.0,4.0,3,True,True,4.0,4.0
+00735,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+00750,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+00765,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+00780,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+00795,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+00810,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+00825,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+00840,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+00855,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+00870,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+00885,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+00900,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+00915,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+00930,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+00945,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+00960,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+00975,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+00990,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01005,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01020,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01035,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01050,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01065,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01080,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01095,Royal Delivery,85.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01110,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,Royal Delivery,85.0,1.0,4,True,True,3.0,3.0
+01125,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01140,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01155,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01170,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01185,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+01200,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01215,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01230,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01245,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01260,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01275,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+01290,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01305,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01320,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01335,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01350,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01365,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01380,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01395,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01410,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01425,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01440,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+01455,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01470,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01485,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01500,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01515,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01530,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+01545,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01560,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01575,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01590,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01605,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01620,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01635,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01650,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01665,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01680,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01695,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01710,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01725,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01740,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01755,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01770,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01785,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01800,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01815,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01830,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01845,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01860,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01875,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01890,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01905,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01920,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01935,Knight,58.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+01950,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,Knight,58.0,1.0,7,True,True,3.0,3.0
+01965,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01980,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+01995,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02010,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+02025,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02040,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02055,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02070,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02085,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02100,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+02115,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+02130,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+02145,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Skeletons,94.0,Cannon Cart,16.0,4.0,4,True,True,5.0,5.0
+02160,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+02175,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+02190,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+02205,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+02220,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+02235,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+02250,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+02265,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+02280,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+02295,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+02310,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+02325,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+02340,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+02355,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+02370,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+02385,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+02400,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+02415,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+02430,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+02445,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+02460,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+02475,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+02490,Mortar,71.0,Arrows,2.0,Graveyard,48.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+02505,Mortar,71.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,Arrows,2.0,2.0,5,True,True,3.0,3.0
+02520,Mortar,71.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+02535,Mortar,71.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+02550,Mortar,71.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+02565,Mortar,71.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+02580,Mortar,71.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+02595,Mortar,71.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+02610,Mortar,71.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+02625,Mortar,71.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+02640,Mortar,71.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+02655,Mortar,71.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+02670,Mortar,71.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+02685,Mortar,71.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+02700,Mortar,71.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+02715,Mortar,71.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+02730,Mortar,71.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+02745,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,Mortar,71.0,1.0,4,True,True,4.0,4.0
+02760,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+02775,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+02790,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+02805,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+02820,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+02835,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+02850,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+02865,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+02880,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+02895,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+02910,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+02925,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+02940,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+02955,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+02970,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+02985,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+03000,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+03015,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+03030,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+03045,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+03060,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+03075,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+03090,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Knight,58.0,Skeletons,94.0,4.0,9,True,True,1.0,1.0
+03105,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Knight,58.0,,,,9,False,False,0.0,0.0
+03120,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Knight,58.0,,,,8,False,False,0.0,0.0
+03135,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Knight,58.0,,,,8,False,False,0.0,0.0
+03150,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Knight,58.0,,,,8,False,False,0.0,0.0
+03165,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Knight,58.0,,,,8,False,False,0.0,0.0
+03180,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Knight,58.0,,,,8,False,False,0.0,0.0
+03195,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Knight,58.0,,,,8,False,False,0.0,0.0
+03210,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,Knight,58.0,4.0,6,True,True,2.0,3.0
+03225,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+03240,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+03255,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+03270,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+03285,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+03300,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+03315,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+03330,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+03345,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+03360,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+03375,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+03390,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+03405,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+03420,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+03435,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+03450,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+03465,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+03480,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+03495,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+03510,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+03525,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+03540,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+03555,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,10,False,False,0.0,0.0
+03570,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Arrows,2.0,Cannon Cart,16.0,4.0,5,True,True,5.0,5.0
+03585,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+03600,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+03615,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+03630,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+03645,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+03660,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Arrows,2.0,4.0,3,True,True,3.0,3.0
+03675,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Mortar,71.0,,,,3,False,False,0.0,0.0
+03690,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Mortar,71.0,,,,3,False,False,0.0,0.0
+03705,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Mortar,71.0,,,,3,False,False,0.0,0.0
+03720,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Mortar,71.0,,,,3,False,False,0.0,0.0
+03735,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Mortar,71.0,,,,4,False,False,0.0,0.0
+03750,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Mortar,71.0,,,,4,False,False,0.0,0.0
+03765,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Mortar,71.0,,,,4,False,False,0.0,0.0
+03780,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Mortar,71.0,,,,4,False,False,0.0,0.0
+03795,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Mortar,71.0,,,,4,False,False,0.0,0.0
+03810,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Mortar,71.0,,,,5,False,False,0.0,0.0
+03825,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Mortar,71.0,,,,6,False,False,0.0,0.0
+03840,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Mortar,71.0,,,,6,False,False,0.0,0.0
+03855,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Mortar,71.0,,,,6,False,False,0.0,0.0
+03870,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Mortar,71.0,,,,7,False,False,0.0,0.0
+03885,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Mortar,71.0,,,,7,False,False,0.0,0.0
+03900,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+03915,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+03930,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+03945,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Mortar,71.0,Royal Delivery,85.0,1.0,6,True,True,2.0,3.0
+03960,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Mortar,71.0,,,,6,False,False,0.0,0.0
+03975,Skeletons,94.0,Cannon Cart,16.0,Graveyard,48.0,Knight,58.0,Mortar,71.0,4.0,2,True,True,4.0,4.0
+03990,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Knight,58.0,Cannon Cart,16.0,2.0,3,True,False,0.0,5.0
+04005,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Knight,58.0,,,,3,False,False,0.0,0.0
+04020,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Knight,58.0,,,,3,False,False,0.0,0.0
+04035,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Knight,58.0,,,,4,False,False,0.0,0.0
+04050,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Knight,58.0,,,,4,False,False,0.0,0.0
+04065,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Knight,58.0,,,,4,False,False,0.0,0.0
+04080,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Knight,58.0,,,,5,False,False,0.0,0.0
+04095,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Knight,58.0,,,,5,False,False,0.0,0.0
+04110,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Knight,58.0,,,,6,False,False,0.0,0.0
+04125,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Knight,58.0,,,,6,False,False,0.0,0.0
+04140,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Knight,58.0,,,,6,False,False,0.0,0.0
+04155,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Knight,58.0,,,,7,False,False,0.0,0.0
+04170,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Knight,58.0,,,,7,False,False,0.0,0.0
+04185,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Knight,58.0,,,,7,False,False,0.0,0.0
+04200,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,Knight,58.0,4.0,5,True,True,2.0,3.0
+04215,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+04230,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+04245,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+04260,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+04275,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+04290,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+04305,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+04320,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+04335,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+04350,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+04365,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Arrows,2.0,Cannon Cart,16.0,4.0,4,True,True,4.0,5.0
+04380,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+04395,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+04410,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+04425,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+04440,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+04455,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+04470,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+04485,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+04500,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+04515,Skeletons,94.0,Hunter,52.0,Graveyard,48.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+04530,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Arrows,2.0,Skeletons,94.0,1.0,7,True,False,0.0,1.0
+04545,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+04560,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+04575,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+04590,Royal Delivery,85.0,Mortar,71.0,Graveyard,48.0,Arrows,2.0,Hunter,52.0,2.0,4,True,True,4.0,4.0
+04605,Royal Delivery,85.0,Mortar,71.0,Graveyard,48.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+04620,Royal Delivery,85.0,Mortar,71.0,Graveyard,48.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+04635,Royal Delivery,85.0,Mortar,71.0,Graveyard,48.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+04650,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Arrows,2.0,Mortar,71.0,2.0,2,True,True,3.0,4.0
+04665,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+04680,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+04695,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+04710,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+04725,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+04740,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Cannon Cart,16.0,Arrows,2.0,4.0,1,True,True,2.0,3.0
+04755,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+04770,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+04785,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+04800,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+04815,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+04830,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+04845,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+04860,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+04875,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+04890,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+04905,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+04920,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+04935,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+04950,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+04965,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+04980,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+04995,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Skeletons,94.0,Cannon Cart,16.0,4.0,2,True,True,4.0,5.0
+05010,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+05025,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Skeletons,94.0,,,,2,False,False,0.0,0.0
+05040,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+05055,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+05070,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+05085,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+05100,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+05115,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+05130,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+05145,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Skeletons,94.0,,,,5,False,False,0.0,0.0
+05160,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+05175,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+05190,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Skeletons,94.0,,,,6,False,False,0.0,0.0
+05205,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+05220,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+05235,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+05250,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+05265,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+05280,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+05295,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+05310,Royal Delivery,85.0,Knight,58.0,Graveyard,48.0,Skeletons,94.0,,,,9,False,False,0.0,0.0
+05325,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,Knight,58.0,2.0,6,True,True,3.0,3.0
+05340,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+05355,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,7,False,False,0.0,0.0
+05370,Royal Delivery,85.0,Hunter,52.0,Graveyard,48.0,Skeletons,94.0,,,,8,False,False,0.0,0.0
+05385,Royal Delivery,85.0,Hunter,52.0,Mortar,71.0,Skeletons,94.0,Graveyard,48.0,3.0,3,True,True,5.0,5.0
+05400,Royal Delivery,85.0,Hunter,52.0,Mortar,71.0,Skeletons,94.0,,,,3,False,False,0.0,0.0
+05415,Royal Delivery,85.0,Hunter,52.0,Mortar,71.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+05430,Royal Delivery,85.0,Hunter,52.0,Mortar,71.0,Skeletons,94.0,,,,4,False,False,0.0,0.0
+05445,Royal Delivery,85.0,Hunter,52.0,Mortar,71.0,Arrows,2.0,Skeletons,94.0,4.0,3,True,True,1.0,1.0
+05460,Royal Delivery,85.0,Hunter,52.0,Mortar,71.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+05475,Royal Delivery,85.0,Hunter,52.0,Mortar,71.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+05490,Royal Delivery,85.0,Hunter,52.0,Mortar,71.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+05505,Royal Delivery,85.0,Hunter,52.0,Mortar,71.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+05520,Royal Delivery,85.0,Hunter,52.0,Mortar,71.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+05535,Royal Delivery,85.0,Hunter,52.0,Mortar,71.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+05550,Royal Delivery,85.0,Hunter,52.0,Mortar,71.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+05565,Royal Delivery,85.0,Hunter,52.0,Mortar,71.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+05580,Royal Delivery,85.0,Hunter,52.0,Mortar,71.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+05595,Royal Delivery,85.0,Hunter,52.0,Mortar,71.0,Cannon Cart,16.0,Arrows,2.0,4.0,4,True,True,3.0,3.0
+05610,Royal Delivery,85.0,Hunter,52.0,Mortar,71.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+05625,Royal Delivery,85.0,Hunter,52.0,Mortar,71.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0

@@ -1,0 +1,1362 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Sparky,95.0,,,,,,,,,,6,False,False,0.0,0.0
+00255,Sparky,95.0,,,,,,,,,,6,False,False,0.0,0.0
+00270,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,4.0,6,True,False,0.0,0.0
+00285,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+00300,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+00315,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+00330,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+00345,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+00360,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+00375,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+00390,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+00405,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+00420,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+00435,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+00450,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+00465,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+00480,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+00495,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+00510,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+00525,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,6,False,True,3.0,0.0
+00540,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+00555,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+00570,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+00585,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+00600,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+00615,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+00630,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+00645,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+00660,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+00675,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+00690,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+00705,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+00720,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+00735,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+00750,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+00765,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+00780,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+00795,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,4,False,True,5.0,0.0
+00810,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+00825,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+00840,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+00855,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+00870,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+00885,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+00900,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+00915,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+00930,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+00945,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+00960,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+00975,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+00990,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+01005,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+01020,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+01035,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+01050,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+01065,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+01080,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+01095,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+01110,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+01125,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+01140,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+01155,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+01170,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+01185,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+01200,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+01215,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+01230,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+01245,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+01260,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+01275,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+01290,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01305,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01320,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01335,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,1.0,4,True,True,6.0,6.0
+01350,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+01365,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+01380,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+01395,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+01410,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+01425,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+01440,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+01455,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+01470,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+01485,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+01500,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+01515,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,1,False,True,5.0,0.0
+01530,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,1,False,False,0.0,0.0
+01545,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,1,False,False,0.0,0.0
+01560,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,1,False,False,0.0,0.0
+01575,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+01590,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+01605,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+01620,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+01635,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+01650,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+01665,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+01680,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+01695,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+01710,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+01725,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+01740,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+01755,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+01770,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+01785,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+01800,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+01815,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+01830,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+01845,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+01860,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+01875,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+01890,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+01905,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+01920,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+01935,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+01950,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+01965,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+01980,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+01995,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+02010,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+02025,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+02040,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+02055,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+02070,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+02085,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+02100,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+02115,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+02130,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+02145,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+02160,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+02175,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+02190,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+02205,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+02220,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,5,False,True,4.0,0.0
+02235,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+02250,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+02265,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+02280,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+02295,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+02310,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+02325,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+02340,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+02355,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+02370,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+02385,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+02400,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+02415,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+02430,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+02445,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+02460,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+02475,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+02490,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+02505,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+02520,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+02535,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+02550,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+02565,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,6,False,True,3.0,0.0
+02580,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+02595,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+02610,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+02625,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+02640,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+02655,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+02670,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+02685,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+02700,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+02715,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,2,False,True,6.0,0.0
+02730,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+02745,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+02760,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+02775,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+02790,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+02805,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+02820,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+02835,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+02850,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,1,False,True,3.0,0.0
+02865,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,1,False,False,0.0,0.0
+02880,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,1,False,False,0.0,0.0
+02895,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,1,False,False,0.0,0.0
+02910,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,1,False,False,0.0,0.0
+02925,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+02940,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+02955,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+02970,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+02985,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+03000,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+03015,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+03030,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+03045,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+03060,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+03075,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+03090,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+03105,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+03120,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+03135,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+03150,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+03165,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+03180,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+03195,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+03210,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+03225,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+03240,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+03255,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+03270,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+03285,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+03300,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+03315,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+03330,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+03345,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+03360,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+03375,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+03390,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+03405,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+03420,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+03435,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+03450,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+03465,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+03480,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+03495,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+03510,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+03525,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+03540,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+03555,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+03570,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+03585,Zap,107.0,Hog Rider,51.0,Hog Rider,51.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+03600,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,Hog Rider,51.0,3.0,6,True,True,3.0,4.0
+03615,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+03630,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+03645,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+03660,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+03675,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,2,False,True,4.0,0.0
+03690,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+03705,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+03720,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+03735,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+03750,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+03765,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+03780,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+03795,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+03810,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+03825,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+03840,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+03855,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+03870,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+03885,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+03900,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+03915,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+03930,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+03945,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+03960,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+03975,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+03990,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+04005,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+04020,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+04035,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+04050,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+04065,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+04080,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+04095,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+04110,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,6,False,True,4.0,0.0
+04125,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+04140,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+04155,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+04170,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+04185,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+04200,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+04215,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+04230,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,6,False,True,2.0,0.0
+04245,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+04260,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+04275,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+04290,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+04305,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+04320,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+04335,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+04350,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,6,False,True,2.0,0.0
+04365,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+04380,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+04395,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+04410,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+04425,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+04440,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,2,False,True,5.0,0.0
+04455,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+04470,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+04485,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+04500,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+04515,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+04530,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+04545,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+04560,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+04575,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+04590,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+04605,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+04620,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+04635,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+04650,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+04665,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+04680,Zap,107.0,Tornado,101.0,Sparky,95.0,Hog Rider,51.0,Sparky,95.0,4.0,1,True,True,6.0,6.0
+04695,Zap,107.0,Tornado,101.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+04710,Zap,107.0,Tornado,101.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+04725,Zap,107.0,Tornado,101.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+04740,Zap,107.0,Tornado,101.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+04755,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,Tornado,101.0,2.0,3,True,False,0.0,3.0
+04770,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+04785,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+04800,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+04815,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+04830,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+04845,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+04860,Zap,107.0,Tornado,101.0,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,2.0,1,True,True,4.0,4.0
+04875,Zap,107.0,Tornado,101.0,Sparky,95.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+04890,Zap,107.0,Tornado,101.0,Sparky,95.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+04905,Zap,107.0,Tornado,101.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+04920,Zap,107.0,Tornado,101.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+04935,Zap,107.0,Tornado,101.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+04950,Zap,107.0,Tornado,101.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+04965,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,Tornado,101.0,2.0,3,True,False,0.0,3.0
+04980,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+04995,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+05010,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+05025,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+05040,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+05055,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+05070,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+05085,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+05100,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+05115,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,True,2.0,0.0
+05130,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+05145,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+05160,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+05175,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+05190,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+05205,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+05220,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+05235,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+05250,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,True,3.0,0.0
+05265,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+05280,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+05295,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+05310,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+05325,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+05340,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+05355,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+05370,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+05385,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+05400,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+05415,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+05430,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+05445,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+05460,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+05475,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,True,6.0,0.0
+05490,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+05505,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+05520,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,0,False,True,4.0,0.0
+05535,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+05550,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+05565,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+05580,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+05595,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+05610,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+05625,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+05640,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+05655,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+05670,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+05685,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+05700,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+05715,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+05730,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+05745,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,True,1.0,0.0
+05760,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+05775,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+05790,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+05805,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+05820,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+05835,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+05850,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+05865,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+05880,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+05895,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+05910,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+05925,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,True,4.0,0.0
+05940,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+05955,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+05970,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+05985,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+06000,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+06015,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+06030,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+06045,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+06060,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+06075,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+06090,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+06105,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+06120,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+06135,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,True,5.0,0.0
+06150,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+06165,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+06180,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+06195,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+06210,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+06225,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+06240,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,1,False,True,5.0,0.0
+06255,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+06270,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+06285,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06300,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06315,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06330,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06345,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06360,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06375,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+06390,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+06405,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+06420,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+06435,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+06450,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,2.0,2,True,True,3.0,4.0
+06465,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06480,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06495,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06510,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06525,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06540,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+06555,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+06570,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,1,False,True,3.0,0.0
+06585,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06600,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06615,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06630,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06645,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06660,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+06675,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+06690,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+06705,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+06720,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,1,False,True,4.0,0.0
+06735,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+06750,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06765,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06780,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+06795,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06810,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+06825,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+06840,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+06855,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+06870,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+06885,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+06900,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+06915,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+06930,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+06945,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+06960,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+06975,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,True,5.0,0.0
+06990,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+07005,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+07020,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+07035,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+07050,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+07065,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+07080,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+07095,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+07110,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+07125,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+07140,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+07155,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+07170,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+07185,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,1,False,True,6.0,0.0
+07200,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,1,False,False,0.0,0.0
+07215,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+07230,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+07245,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+07260,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+07275,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+07290,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+07305,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+07320,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,True,2.0,0.0
+07335,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+07350,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+07365,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+07380,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+07395,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+07410,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+07425,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+07440,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+07455,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+07470,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+07485,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+07500,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+07515,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+07530,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+07545,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,10,False,False,0.0,0.0
+07560,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,7,False,True,3.0,0.0
+07575,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+07590,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+07605,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+07620,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+07635,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,10,False,False,0.0,0.0
+07650,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,10,False,False,0.0,0.0
+07665,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,7,False,True,3.0,0.0
+07680,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+07695,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+07710,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+07725,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+07740,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,10,False,False,0.0,0.0
+07755,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,10,False,False,0.0,0.0
+07770,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,10,False,False,0.0,0.0
+07785,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,10,False,False,0.0,0.0
+07800,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,True,4.0,0.0
+07815,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+07830,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+07845,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,True,5.0,0.0
+07860,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+07875,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+07890,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+07905,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+07920,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+07935,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+07950,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,True,1.0,0.0
+07965,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,1,False,True,2.0,0.0
+07980,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+07995,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+08010,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+08025,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+08040,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+08055,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+08070,Zap,107.0,Zap,107.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+08085,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,Zap,107.0,2.0,4,True,True,1.0,2.0
+08100,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+08115,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+08130,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+08145,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+08160,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+08175,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+08190,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+08205,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+08220,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+08235,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,9,False,False,0.0,0.0
+08250,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,True,3.0,0.0
+08265,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+08280,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+08295,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+08310,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,8,False,False,0.0,0.0
+08325,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,True,5.0,0.0
+08340,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+08355,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+08370,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+08385,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+08400,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,True,3.0,0.0
+08415,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+08430,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+08445,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+08460,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+08475,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+08490,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+08505,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+08520,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,7,False,False,0.0,0.0
+08535,Zap,107.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,2.0,2,True,True,5.0,4.0
+08550,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,Rocket,84.0,2.0,2,True,False,0.0,6.0
+08565,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+08580,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+08595,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+08610,Zap,107.0,Hog Rider,51.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+08625,Zap,107.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,Hog Rider,51.0,2.0,7,True,True,5.0,4.0
+08640,Zap,107.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+08655,Zap,107.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+08670,Zap,107.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+08685,Zap,107.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+08700,Knight,58.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,Zap,107.0,1.0,2,True,True,1.0,2.0
+08715,Knight,58.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+08730,Knight,58.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+08745,Knight,58.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+08760,Knight,58.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+08775,Knight,58.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+08790,Knight,58.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+08805,Knight,58.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,True,3.0,0.0
+08820,Knight,58.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+08835,Knight,58.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+08850,Knight,58.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+08865,Knight,58.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+08880,Knight,58.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+08895,Knight,58.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,True,2.0,0.0
+08910,Knight,58.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,,,,2,False,False,0.0,0.0
+08925,Knight,58.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+08940,Knight,58.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,,,,3,False,False,0.0,0.0
+08955,Knight,58.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+08970,Knight,58.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+08985,Knight,58.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+09000,Knight,58.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+09015,Knight,58.0,Rocket,84.0,Sparky,95.0,Hog Rider,51.0,,,,6,False,False,0.0,0.0
+09030,Knight,58.0,Rocket,84.0,X,106.0,Hog Rider,51.0,Sparky,95.0,3.0,4,True,True,2.0,6.0
+09045,Knight,58.0,Rocket,84.0,X,106.0,Hog Rider,51.0,,,,4,False,False,0.0,0.0
+09060,Knight,58.0,Rocket,84.0,X,106.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+09075,Knight,58.0,Rocket,84.0,X,106.0,Hog Rider,51.0,,,,5,False,False,0.0,0.0
+09090,Knight,58.0,Rocket,84.0,X,106.0,Zap,107.0,Hog Rider,51.0,4.0,2,True,True,3.0,4.0
+09105,Knight,58.0,Rocket,84.0,X,106.0,Zap,107.0,,,,2,False,False,0.0,0.0
+09120,Knight,58.0,Rocket,84.0,X,106.0,Zap,107.0,,,,3,False,False,0.0,0.0
+09135,Knight,58.0,Rocket,84.0,X,106.0,Zap,107.0,,,,3,False,False,0.0,0.0
+09150,Knight,58.0,Rocket,84.0,X,106.0,Zap,107.0,,,,4,False,False,0.0,0.0
+09165,Knight,58.0,Rocket,84.0,X,106.0,Zap,107.0,,,,4,False,False,0.0,0.0
+09180,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,Zap,107.0,4.0,3,True,True,1.0,2.0
+09195,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+09210,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+09225,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+09240,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+09255,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+09270,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+09285,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+09300,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+09315,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+09330,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+09345,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+09360,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+09375,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+09390,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+09405,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+09420,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+09435,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+09450,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+09465,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+09480,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+09495,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+09510,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+09525,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+09540,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+09555,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+09570,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+09585,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+09600,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+09615,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+09630,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+09645,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+09660,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+09675,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+09690,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+09705,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+09720,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+09735,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+09750,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+09765,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+09780,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+09795,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+09810,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+09825,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+09840,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+09855,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+09870,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+09885,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+09900,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+09915,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+09930,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+09945,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+09960,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+09975,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+09990,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+10005,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+10020,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+10035,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+10050,Knight,58.0,Rocket,84.0,X,106.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+10065,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,Rocket,84.0,2.0,4,True,True,6.0,6.0
+10080,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+10095,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+10110,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+10125,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+10140,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+10155,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+10170,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+10185,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+10200,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+10215,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+10230,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+10245,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+10260,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+10275,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+10290,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+10305,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+10320,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+10335,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+10350,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+10365,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+10380,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+10395,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+10410,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+10425,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+10440,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+10455,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+10470,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+10485,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+10500,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+10515,Knight,58.0,Tesla,97.0,X,106.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+10530,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,Tesla,97.0,2.0,5,True,True,4.0,4.0
+10545,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+10560,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+10575,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+10590,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+10605,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+10620,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+10635,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+10650,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+10665,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+10680,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+10695,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+10710,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+10725,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+10740,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+10755,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+10770,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+10785,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+10800,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+10815,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+10830,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+10845,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+10860,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+10875,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+10890,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+10905,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,,,,7,False,True,3.0,0.0
+10920,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+10935,Knight,58.0,Knight,58.0,X,106.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+10950,Knight,58.0,Knight,58.0,X,106.0,Tesla,97.0,Tornado,101.0,4.0,4,True,True,3.0,3.0
+10965,Knight,58.0,Knight,58.0,X,106.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+10980,Knight,58.0,Knight,58.0,X,106.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+10995,Knight,58.0,Knight,58.0,X,106.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+11010,Knight,58.0,Knight,58.0,X,106.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+11025,Knight,58.0,Knight,58.0,X,106.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+11040,Knight,58.0,Knight,58.0,X,106.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+11055,Knight,58.0,Knight,58.0,X,106.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+11070,Knight,58.0,Knight,58.0,X,106.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+11085,Knight,58.0,Knight,58.0,X,106.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+11100,Knight,58.0,Knight,58.0,X,106.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+11115,Knight,58.0,Knight,58.0,X,106.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+11130,Knight,58.0,Knight,58.0,X,106.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+11145,Knight,58.0,Knight,58.0,X,106.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+11160,Knight,58.0,Knight,58.0,X,106.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+11175,Rocket,84.0,Knight,58.0,X,106.0,Tesla,97.0,Knight,58.0,1.0,4,True,True,3.0,3.0
+11190,Rocket,84.0,Knight,58.0,X,106.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+11205,Rocket,84.0,Knight,58.0,X,106.0,Tesla,97.0,,,,3,False,True,1.0,0.0
+11220,Rocket,84.0,Knight,58.0,X,106.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+11235,Rocket,84.0,Knight,58.0,X,106.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+11250,Rocket,84.0,Knight,58.0,X,106.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+11265,Rocket,84.0,Knight,58.0,X,106.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+11280,Rocket,84.0,Knight,58.0,X,106.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+11295,Rocket,84.0,Knight,58.0,X,106.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+11310,Rocket,84.0,Knight,58.0,X,106.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+11325,Rocket,84.0,Knight,58.0,X,106.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+11340,Rocket,84.0,Knight,58.0,X,106.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+11355,Rocket,84.0,Knight,58.0,X,106.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+11370,Rocket,84.0,Knight,58.0,X,106.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+11385,Rocket,84.0,Knight,58.0,X,106.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+11400,Rocket,84.0,Knight,58.0,X,106.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+11415,Rocket,84.0,Knight,58.0,X,106.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+11430,Rocket,84.0,Knight,58.0,X,106.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+11445,Rocket,84.0,Knight,58.0,X,106.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+11460,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,X,106.0,3.0,0,True,True,6.0,6.0
+11475,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,0,False,False,0.0,0.0
+11490,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+11505,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+11520,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+11535,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+11550,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+11565,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+11580,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+11595,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+11610,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+11625,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+11640,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+11655,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+11670,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+11685,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+11700,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+11715,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+11730,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+11745,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+11760,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+11775,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+11790,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,1,False,True,3.0,0.0
+11805,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+11820,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+11835,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+11850,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+11865,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,0,False,True,2.0,0.0
+11880,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,0,False,False,0.0,0.0
+11895,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,0,False,False,0.0,0.0
+11910,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+11925,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+11940,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+11955,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+11970,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+11985,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+12000,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+12015,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+12030,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+12045,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+12060,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+12075,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+12090,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+12105,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+12120,Rocket,84.0,Knight,58.0,Tornado,101.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+12135,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,Knight,58.0,2.0,0,True,True,3.0,3.0
+12150,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,0,False,False,0.0,0.0
+12165,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+12180,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+12195,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+12210,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+12225,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,1,False,False,0.0,0.0
+12240,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+12255,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+12270,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+12285,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+12300,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+12315,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,2,False,False,0.0,0.0
+12330,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+12345,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+12360,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+12375,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+12390,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+12405,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+12420,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+12435,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+12450,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+12465,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+12480,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+12495,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+12510,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+12525,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+12540,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+12555,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+12570,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+12585,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+12600,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+12615,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+12630,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+12645,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+12660,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,Tornado,101.0,3.0,3,True,True,3.0,3.0
+12675,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+12690,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+12705,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+12720,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+12735,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+12750,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+12765,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+12780,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+12795,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+12810,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+12825,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+12840,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+12855,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+12870,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+12885,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+12900,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+12915,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+12930,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+12945,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+12960,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+12975,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+12990,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+13005,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+13020,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+13035,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+13050,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+13065,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+13080,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,8,False,False,0.0,0.0
+13095,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+13110,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+13125,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+13140,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+13155,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+13170,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,9,False,False,0.0,0.0
+13185,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,10,False,False,0.0,0.0
+13200,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,10,False,False,0.0,0.0
+13215,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,7,False,True,3.0,0.0
+13230,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,7,False,False,0.0,0.0
+13245,Rocket,84.0,X,106.0,X,106.0,Knight,58.0,Tesla,97.0,4.0,3,True,True,4.0,4.0
+13260,Rocket,84.0,X,106.0,X,106.0,Knight,58.0,,,,4,False,False,0.0,0.0
+13275,Rocket,84.0,X,106.0,X,106.0,Knight,58.0,,,,4,False,False,0.0,0.0
+13290,Rocket,84.0,X,106.0,X,106.0,Knight,58.0,,,,5,False,False,0.0,0.0
+13305,Rocket,84.0,X,106.0,X,106.0,Knight,58.0,,,,5,False,False,0.0,0.0
+13320,Rocket,84.0,X,106.0,X,106.0,Knight,58.0,,,,5,False,False,0.0,0.0
+13335,Rocket,84.0,X,106.0,X,106.0,Knight,58.0,,,,6,False,False,0.0,0.0
+13350,Rocket,84.0,X,106.0,X,106.0,Knight,58.0,,,,6,False,False,0.0,0.0
+13365,Rocket,84.0,X,106.0,X,106.0,Knight,58.0,,,,6,False,False,0.0,0.0
+13380,Rocket,84.0,X,106.0,X,106.0,Knight,58.0,,,,7,False,False,0.0,0.0
+13395,Rocket,84.0,X,106.0,X,106.0,Knight,58.0,,,,7,False,False,0.0,0.0
+13410,Rocket,84.0,X,106.0,X,106.0,Knight,58.0,,,,7,False,False,0.0,0.0
+13425,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,X,106.0,3.0,2,True,True,5.0,6.0
+13440,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,2,False,False,0.0,0.0
+13455,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,3,False,False,0.0,0.0
+13470,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,3,False,False,0.0,0.0
+13485,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,3,False,False,0.0,0.0
+13500,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,4,False,False,0.0,0.0
+13515,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,4,False,False,0.0,0.0
+13530,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,4,False,False,0.0,0.0
+13545,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,5,False,False,0.0,0.0
+13560,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,5,False,False,0.0,0.0
+13575,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,5,False,False,0.0,0.0
+13590,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,6,False,False,0.0,0.0
+13605,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,6,False,False,0.0,0.0
+13620,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,6,False,False,0.0,0.0
+13635,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,7,False,False,0.0,0.0
+13650,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,7,False,False,0.0,0.0
+13665,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,5,False,True,2.0,0.0
+13680,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,6,False,False,0.0,0.0
+13695,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,6,False,False,0.0,0.0
+13710,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,7,False,False,0.0,0.0
+13725,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,6,False,True,1.0,0.0
+13740,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,6,False,False,0.0,0.0
+13755,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,7,False,False,0.0,0.0
+13770,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,7,False,False,0.0,0.0
+13785,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,7,False,False,0.0,0.0
+13800,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,8,False,False,0.0,0.0
+13815,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,8,False,False,0.0,0.0
+13830,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,Knight,58.0,4.0,5,True,True,3.0,3.0
+13845,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+13860,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+13875,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+13890,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,4,False,True,2.0,0.0
+13905,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+13920,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+13935,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+13950,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+13965,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,6,False,False,0.0,0.0
+13980,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,Tesla,97.0,4.0,2,True,True,4.0,4.0
+13995,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,2,False,False,0.0,0.0
+14010,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,3,False,False,0.0,0.0
+14025,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,3,False,False,0.0,0.0
+14040,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,1,False,True,2.0,0.0
+14055,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,2,False,False,0.0,0.0
+14070,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,2,False,False,0.0,0.0
+14085,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,2,False,False,0.0,0.0
+14100,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,2,False,False,0.0,0.0
+14115,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,2,False,False,0.0,0.0
+14130,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,3,False,False,0.0,0.0
+14145,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,3,False,False,0.0,0.0
+14160,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,3,False,False,0.0,0.0
+14175,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,4,False,False,0.0,0.0
+14190,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,4,False,False,0.0,0.0
+14205,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,4,False,False,0.0,0.0
+14220,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,5,False,False,0.0,0.0
+14235,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,5,False,False,0.0,0.0
+14250,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,5,False,False,0.0,0.0
+14265,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,6,False,False,0.0,0.0
+14280,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,6,False,False,0.0,0.0
+14295,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,6,False,False,0.0,0.0
+14310,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,7,False,False,0.0,0.0
+14325,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,1,False,True,6.0,0.0
+14340,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,2,False,False,0.0,0.0
+14355,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,2,False,False,0.0,0.0
+14370,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,2,False,False,0.0,0.0
+14385,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,3,False,False,0.0,0.0
+14400,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,3,False,False,0.0,0.0
+14415,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,3,False,False,0.0,0.0
+14430,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,4,False,False,0.0,0.0
+14445,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,4,False,False,0.0,0.0
+14460,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,4,False,False,0.0,0.0
+14475,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,5,False,False,0.0,0.0
+14490,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,5,False,False,0.0,0.0
+14505,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,5,False,False,0.0,0.0
+14520,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,6,False,False,0.0,0.0
+14535,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,6,False,False,0.0,0.0
+14550,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,7,False,False,0.0,0.0
+14565,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,7,False,False,0.0,0.0
+14580,Rocket,84.0,X,106.0,Tornado,101.0,Knight,58.0,,,,7,False,False,0.0,0.0
+14595,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,Knight,58.0,4.0,5,True,True,2.0,3.0
+14610,Rocket,84.0,X,106.0,Tornado,101.0,Tesla,97.0,,,,5,False,False,0.0,0.0
+14625,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,Tornado,101.0,3.0,2,True,True,3.0,3.0
+14640,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+14655,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+14670,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,3,False,False,0.0,0.0
+14685,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+14700,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+14715,Rocket,84.0,X,106.0,X,106.0,Tesla,97.0,,,,4,False,False,0.0,0.0
+14730,Rocket,84.0,X,106.0,X,106.0,Tornado,101.0,Tesla,97.0,4.0,1,True,True,3.0,4.0
+14745,Rocket,84.0,X,106.0,X,106.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+14760,Rocket,84.0,X,106.0,X,106.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+14775,Rocket,84.0,X,106.0,X,106.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+14790,Rocket,84.0,X,106.0,X,106.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+14805,Rocket,84.0,X,106.0,X,106.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+14820,Rocket,84.0,X,106.0,X,106.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+14835,Rocket,84.0,X,106.0,X,106.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+14850,Rocket,84.0,X,106.0,X,106.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+14865,Rocket,84.0,X,106.0,X,106.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+14880,Rocket,84.0,X,106.0,X,106.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+14895,Rocket,84.0,X,106.0,X,106.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+14910,Rocket,84.0,X,106.0,X,106.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+14925,Rocket,84.0,X,106.0,X,106.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+14940,Rocket,84.0,X,106.0,X,106.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+14955,Rocket,84.0,X,106.0,X,106.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+14970,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,Rocket,84.0,1.0,1,True,True,5.0,6.0
+14985,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+15000,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+15015,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+15030,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+15045,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+15060,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15075,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15090,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15105,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15120,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15135,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15150,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15165,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15180,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15195,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15210,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15225,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15240,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15255,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15270,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15285,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15300,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15315,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15330,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15345,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15360,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15375,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15390,Knight,58.0,X,106.0,X,106.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15405,Knight,58.0,X,106.0,Tesla,97.0,Tornado,101.0,X,106.0,3.0,3,True,False,0.0,6.0
+15420,Knight,58.0,X,106.0,Tesla,97.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15435,Knight,58.0,X,106.0,Tesla,97.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15450,Knight,58.0,X,106.0,Tesla,97.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15465,Knight,58.0,X,106.0,Tesla,97.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15480,Knight,58.0,X,106.0,Tesla,97.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15495,Knight,58.0,X,106.0,Tesla,97.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15510,Knight,58.0,X,106.0,Tesla,97.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15525,Knight,58.0,X,106.0,Tesla,97.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15540,Knight,58.0,X,106.0,Tesla,97.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15555,Knight,58.0,X,106.0,Tesla,97.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15570,Knight,58.0,X,106.0,Tesla,97.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15585,Knight,58.0,X,106.0,Tesla,97.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15600,Knight,58.0,X,106.0,Tesla,97.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15615,Knight,58.0,X,106.0,Tesla,97.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15630,Knight,58.0,X,106.0,Tesla,97.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15645,Knight,58.0,X,106.0,Tesla,97.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15660,Knight,58.0,X,106.0,Tesla,97.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+15675,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,Tesla,97.0,3.0,4,True,False,0.0,4.0
+15690,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+15705,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+15720,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+15735,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+15750,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+15765,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+15780,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+15795,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+15810,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+15825,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+15840,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+15855,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+15870,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+15885,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+15900,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+15915,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+15930,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+15945,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+15960,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+15975,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+15990,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+16005,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+16020,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+16035,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+16050,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+16065,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+16080,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+16095,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+16110,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+16125,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+16140,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+16155,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+16170,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,7,False,True,3.0,0.0
+16185,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+16200,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+16215,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+16230,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+16245,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+16260,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+16275,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+16290,Knight,58.0,X,106.0,Rocket,84.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+16305,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,X,106.0,2.0,2,True,True,6.0,6.0
+16320,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+16335,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+16350,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+16365,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,Knight,58.0,1.0,0,True,True,3.0,3.0
+16380,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,0,False,False,0.0,0.0
+16395,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,0,False,False,0.0,0.0
+16410,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+16425,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+16440,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+16455,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+16470,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+16485,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+16500,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+16515,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+16530,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+16545,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+16560,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+16575,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+16590,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+16605,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+16620,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+16635,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+16650,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+16665,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+16680,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+16695,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+16710,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+16725,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,True,2.0,0.0
+16740,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+16755,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+16770,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+16785,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+16800,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+16815,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,True,1.0,0.0
+16830,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+16845,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+16860,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+16875,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+16890,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+16905,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+16920,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+16935,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+16950,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+16965,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+16980,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+16995,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+17010,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+17025,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+17040,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+17055,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+17070,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+17085,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+17100,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+17115,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+17130,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+17145,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+17160,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+17175,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+17190,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+17205,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+17220,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+17235,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+17250,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+17265,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+17280,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+17295,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+17310,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+17325,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+17340,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,6,False,True,2.0,0.0
+17355,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+17370,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+17385,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+17400,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+17415,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+17430,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+17445,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+17460,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+17475,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+17490,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+17505,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+17520,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+17535,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+17550,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+17565,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,X,106.0,1.0,2,True,True,6.0,6.0
+17580,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+17595,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+17610,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+17625,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+17640,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,Knight,58.0,1.0,0,True,True,3.0,3.0
+17655,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,0,False,False,0.0,0.0
+17670,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+17685,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+17700,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+17715,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+17730,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+17745,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+17760,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+17775,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+17790,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+17805,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+17820,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+17835,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+17850,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+17865,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+17880,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+17895,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+17910,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+17925,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+17940,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+17955,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+17970,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,0,False,True,4.0,0.0
+17985,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,0,False,False,0.0,0.0
+18000,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+18015,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+18030,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+18045,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+18060,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+18075,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+18090,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+18105,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+18120,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+18135,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+18150,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+18165,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+18180,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+18195,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+18210,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+18225,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+18240,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,True,1.0,0.0
+18255,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+18270,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+18285,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,True,2.0,0.0
+18300,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+18315,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+18330,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+18345,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+18360,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+18375,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+18390,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+18405,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+18420,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+18435,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+18450,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+18465,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+18480,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+18495,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+18510,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+18525,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+18540,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+18555,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+18570,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+18585,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+18600,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+18615,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+18630,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+18645,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+18660,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+18675,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+18690,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+18705,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+18720,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,X,106.0,1.0,0,True,True,6.0,6.0
+18735,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,0,False,False,0.0,0.0
+18750,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,0,False,False,0.0,0.0
+18765,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+18780,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+18795,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+18810,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+18825,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+18840,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+18855,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+18870,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+18885,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+18900,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+18915,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+18930,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+18945,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+18960,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+18975,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+18990,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+19005,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+19020,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+19035,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+19050,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+19065,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+19080,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+19095,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+19110,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+19125,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+19140,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+19155,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+19170,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+19185,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,6,False,True,2.0,0.0
+19200,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+19215,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,True,3.0,0.0
+19230,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+19245,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+19260,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+19275,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+19290,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+19305,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+19320,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,True,2.0,0.0
+19335,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+19350,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+19365,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+19380,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+19395,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+19410,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+19425,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+19440,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+19455,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+19470,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+19485,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,True,6.0,0.0
+19500,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+19515,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+19530,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+19545,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+19560,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+19575,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+19590,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+19605,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,True,2.0,0.0
+19620,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+19635,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+19650,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+19665,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+19680,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+19695,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+19710,Knight,58.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+19725,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,Knight,58.0,1.0,3,True,True,2.0,3.0
+19740,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+19755,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+19770,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+19785,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+19800,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+19815,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+19830,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+19845,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+19860,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+19875,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+19890,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+19905,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+19920,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+19935,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,True,1.0,0.0
+19950,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+19965,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+19980,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+19995,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+20010,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+20025,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+20040,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+20055,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+20070,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+20085,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+20100,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+20115,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+20130,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+20145,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+20160,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,True,6.0,0.0
+20175,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+20190,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+20205,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+20220,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+20235,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+20250,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+20265,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+20280,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+20295,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+20310,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+20325,X,106.0,Tesla,97.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+20340,X,106.0,Knight,58.0,Rocket,84.0,Tornado,101.0,Tesla,97.0,2.0,2,True,True,4.0,4.0
+20355,X,106.0,Knight,58.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+20370,X,106.0,Knight,58.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+20385,X,106.0,Knight,58.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+20400,X,106.0,Knight,58.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+20415,X,106.0,Knight,58.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+20430,X,106.0,Knight,58.0,Rocket,84.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+20445,X,106.0,Knight,58.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+20460,X,106.0,Knight,58.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+20475,X,106.0,Knight,58.0,Rocket,84.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+20490,X,106.0,Knight,58.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+20505,X,106.0,Knight,58.0,Rocket,84.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+20520,X,106.0,Knight,58.0,Rocket,84.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+20535,X,106.0,Knight,58.0,Rocket,84.0,Tornado,101.0,,,,1,False,True,6.0,0.0
+20550,X,106.0,Knight,58.0,Rocket,84.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+20565,X,106.0,Knight,58.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+20580,X,106.0,Knight,58.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+20595,X,106.0,Knight,58.0,Rocket,84.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+20610,X,106.0,Knight,58.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+20625,X,106.0,Knight,58.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+20640,X,106.0,Knight,58.0,Rocket,84.0,Tornado,101.0,,,,3,False,False,0.0,0.0

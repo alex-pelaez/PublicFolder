@@ -1,0 +1,610 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00225,Heal Spirit,50.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+00240,Heal Spirit,50.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+00255,Heal Spirit,50.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+00270,Heal Spirit,50.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+00285,Heal Spirit,50.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+00300,Heal Spirit,50.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+00315,Heal Spirit,50.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+00330,Heal Spirit,50.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+00345,Heal Spirit,50.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+00360,Heal Spirit,50.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+00375,Heal Spirit,50.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+00390,Heal Spirit,50.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+00405,Heal Spirit,50.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+00420,Heal Spirit,50.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+00435,Heal Spirit,50.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+00450,Heal Spirit,50.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+00465,Heal Spirit,50.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+00480,Heal Spirit,50.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+00495,Heal Spirit,50.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+00510,Heal Spirit,50.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+00525,Heal Spirit,50.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+00540,Barbarian Hut,7.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,Heal Spirit,50.0,1.0,9,True,True,1.0,1.0
+00555,Barbarian Hut,7.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+00570,Barbarian Hut,7.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+00585,Barbarian Hut,7.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+00600,Barbarian Hut,7.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+00615,Barbarian Hut,7.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+00630,Barbarian Hut,7.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+00645,Barbarian Hut,7.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,10,False,False,0.0,0.0
+00660,Royal Hogs,88.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,Barbarian Hut,7.0,1.0,3,True,True,7.0,6.0
+00675,Royal Hogs,88.0,Fireball,30.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Musketeer,73.0,4.0,3,True,False,0.0,4.0
+00690,Royal Hogs,88.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,Barbarian Barrel,6.0,4.0,3,True,False,0.0,2.0
+00705,Royal Hogs,88.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+00720,Royal Hogs,88.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+00735,Royal Hogs,88.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+00750,Royal Hogs,88.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+00765,Royal Hogs,88.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+00780,Royal Hogs,88.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+00795,Royal Hogs,88.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+00810,Royal Hogs,88.0,Fireball,30.0,Skeleton Dragons,92.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+00825,Royal Hogs,88.0,Fireball,30.0,Skeletons,94.0,Musketeer,73.0,Skeleton Dragons,92.0,3.0,1,True,True,3.0,4.0
+00840,Royal Hogs,88.0,Fireball,30.0,Skeletons,94.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+00855,Royal Hogs,88.0,Fireball,30.0,Skeletons,94.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+00870,Royal Hogs,88.0,Fireball,30.0,Skeletons,94.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+00885,Royal Hogs,88.0,Fireball,30.0,Skeletons,94.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+00900,Royal Hogs,88.0,Fireball,30.0,Skeletons,94.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+00915,Royal Hogs,88.0,Fireball,30.0,Skeletons,94.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+00930,Royal Hogs,88.0,Fireball,30.0,Skeletons,94.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+00945,Royal Hogs,88.0,Fireball,30.0,Skeletons,94.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+00960,Royal Hogs,88.0,Fireball,30.0,Skeletons,94.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+00975,Royal Hogs,88.0,Fireball,30.0,Skeletons,94.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+00990,Royal Hogs,88.0,Fireball,30.0,Skeletons,94.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+01005,Royal Hogs,88.0,Fireball,30.0,Skeletons,94.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+01020,Royal Hogs,88.0,Fireball,30.0,Skeletons,94.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+01035,Royal Hogs,88.0,Fireball,30.0,Skeletons,94.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+01050,Royal Hogs,88.0,Fireball,30.0,Skeletons,94.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+01065,Royal Hogs,88.0,Fireball,30.0,Skeletons,94.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+01080,Royal Hogs,88.0,Fireball,30.0,Skeletons,94.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+01095,Royal Hogs,88.0,Fireball,30.0,Skeletons,94.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+01110,Royal Hogs,88.0,Fireball,30.0,Skeletons,94.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+01125,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,Fireball,30.0,2.0,0,True,True,4.0,4.0
+01140,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,0,False,False,0.0,0.0
+01155,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,0,False,False,0.0,0.0
+01170,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+01185,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+01200,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+01215,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+01230,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+01245,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,1,False,False,0.0,0.0
+01260,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+01275,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+01290,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+01305,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+01320,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+01335,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+01350,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+01365,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+01380,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+01395,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+01410,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+01425,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+01440,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+01455,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+01470,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+01485,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+01500,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+01515,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+01530,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+01545,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+01560,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+01575,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+01590,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+01605,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+01620,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+01635,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+01650,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+01665,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+01680,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+01695,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+01710,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+01725,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+01740,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+01755,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+01770,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+01785,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+01800,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+01815,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+01830,Royal Hogs,88.0,Barbarian Barrel,6.0,Skeletons,94.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+01845,Royal Hogs,88.0,Heal Spirit,50.0,Skeletons,94.0,Musketeer,73.0,Barbarian Barrel,6.0,2.0,7,True,True,1.0,2.0
+01860,Royal Hogs,88.0,Heal Spirit,50.0,Skeletons,94.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+01875,Royal Hogs,88.0,Heal Spirit,50.0,Skeletons,94.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+01890,Royal Hogs,88.0,Heal Spirit,50.0,Skeletons,94.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+01905,Royal Hogs,88.0,Heal Spirit,50.0,Skeletons,94.0,Musketeer,73.0,,,,7,False,False,0.0,0.0
+01920,Royal Hogs,88.0,Heal Spirit,50.0,Skeletons,94.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+01935,Royal Hogs,88.0,Heal Spirit,50.0,Skeletons,94.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+01950,Royal Hogs,88.0,Heal Spirit,50.0,Skeletons,94.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+01965,Royal Hogs,88.0,Heal Spirit,50.0,Skeletons,94.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+01980,Royal Hogs,88.0,Heal Spirit,50.0,Skeletons,94.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+01995,Royal Hogs,88.0,Heal Spirit,50.0,Skeletons,94.0,Musketeer,73.0,,,,8,False,False,0.0,0.0
+02010,Royal Hogs,88.0,Heal Spirit,50.0,Skeletons,94.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+02025,Royal Hogs,88.0,Heal Spirit,50.0,Skeletons,94.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+02040,Royal Hogs,88.0,Heal Spirit,50.0,Skeletons,94.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+02055,Royal Hogs,88.0,Heal Spirit,50.0,Skeletons,94.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+02070,Royal Hogs,88.0,Heal Spirit,50.0,Skeletons,94.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+02085,Royal Hogs,88.0,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,Skeletons,94.0,3.0,8,True,True,1.0,1.0
+02100,Royal Hogs,88.0,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,,,,9,False,False,0.0,0.0
+02115,Skeleton Dragons,92.0,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,Royal Hogs,88.0,1.0,4,True,True,5.0,5.0
+02130,Skeleton Dragons,92.0,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+02145,Skeleton Dragons,92.0,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+02160,Skeleton Dragons,92.0,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+02175,Skeleton Dragons,92.0,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+02190,Skeleton Dragons,92.0,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+02205,Skeleton Dragons,92.0,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+02220,Skeleton Dragons,92.0,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+02235,Skeleton Dragons,92.0,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+02250,Skeleton Dragons,92.0,Heal Spirit,50.0,Barbarian Hut,7.0,Fireball,30.0,Musketeer,73.0,4.0,1,True,True,4.0,4.0
+02265,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,Heal Spirit,50.0,2.0,1,True,False,0.0,1.0
+02280,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+02295,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+02310,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+02325,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+02340,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02355,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02370,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02385,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02400,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02415,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+02430,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02445,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02460,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02475,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02490,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+02505,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+02520,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+02535,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+02550,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+02565,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+02580,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+02595,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+02610,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+02625,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+02640,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+02655,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+02670,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+02685,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+02700,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+02715,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+02730,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+02745,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+02760,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+02775,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+02790,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+02805,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+02820,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+02835,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+02850,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+02865,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+02880,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+02895,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+02910,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+02925,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+02940,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+02955,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+02970,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+02985,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Skeletons,94.0,Fireball,30.0,Barbarian Hut,7.0,3.0,2,True,True,7.0,6.0
+03000,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Skeletons,94.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+03015,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Skeletons,94.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03030,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Skeletons,94.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03045,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Skeletons,94.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03060,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Skeletons,94.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03075,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Skeletons,94.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03090,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Skeletons,94.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03105,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Skeletons,94.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03120,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Skeletons,94.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03135,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Skeletons,94.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03150,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Skeletons,94.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03165,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Skeletons,94.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03180,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Skeletons,94.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03195,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Skeletons,94.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03210,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Skeletons,94.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03225,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Skeletons,94.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03240,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Skeletons,94.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03255,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Skeletons,94.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03270,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Skeletons,94.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03285,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Skeletons,94.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03300,Skeleton Dragons,92.0,Barbarian Barrel,6.0,Skeletons,94.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03315,Skeleton Dragons,92.0,Royal Hogs,88.0,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,2.0,4,True,True,2.0,2.0
+03330,Skeleton Dragons,92.0,Royal Hogs,88.0,Skeletons,94.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03345,Skeleton Dragons,92.0,Royal Hogs,88.0,Skeletons,94.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03360,Skeleton Dragons,92.0,Royal Hogs,88.0,Skeletons,94.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03375,Skeleton Dragons,92.0,Royal Hogs,88.0,Skeletons,94.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03390,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,Royal Hogs,88.0,2.0,0,True,True,5.0,5.0
+03405,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,0,False,False,0.0,0.0
+03420,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,0,False,False,0.0,0.0
+03435,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+03450,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+03465,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+03480,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+03495,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+03510,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+03525,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+03540,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+03555,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+03570,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+03585,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+03600,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03615,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03630,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03645,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03660,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03675,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03690,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03705,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03720,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03735,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03750,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03765,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03780,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03795,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03810,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03825,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03840,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03855,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03870,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03885,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03900,Skeleton Dragons,92.0,Musketeer,73.0,Skeletons,94.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+03915,Skeleton Dragons,92.0,Heal Spirit,50.0,Skeletons,94.0,Fireball,30.0,Musketeer,73.0,2.0,4,True,True,4.0,4.0
+03930,Skeleton Dragons,92.0,Heal Spirit,50.0,Skeletons,94.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03945,Skeleton Dragons,92.0,Heal Spirit,50.0,Skeletons,94.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03960,Skeleton Dragons,92.0,Heal Spirit,50.0,Skeletons,94.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03975,Skeleton Dragons,92.0,Heal Spirit,50.0,Skeletons,94.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03990,Skeleton Dragons,92.0,Heal Spirit,50.0,Skeletons,94.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04005,Skeleton Dragons,92.0,Heal Spirit,50.0,Skeletons,94.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04020,Skeleton Dragons,92.0,Heal Spirit,50.0,Skeletons,94.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04035,Skeleton Dragons,92.0,Heal Spirit,50.0,Skeletons,94.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04050,Skeleton Dragons,92.0,Heal Spirit,50.0,Skeletons,94.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04065,Skeleton Dragons,92.0,Heal Spirit,50.0,Skeletons,94.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+04080,Skeleton Dragons,92.0,Heal Spirit,50.0,Skeletons,94.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+04095,Barbarian Hut,7.0,Heal Spirit,50.0,Skeletons,94.0,Fireball,30.0,Skeleton Dragons,92.0,1.0,4,True,True,4.0,4.0
+04110,Barbarian Hut,7.0,Heal Spirit,50.0,Skeletons,94.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04125,Barbarian Hut,7.0,Heal Spirit,50.0,Skeletons,94.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04140,Barbarian Hut,7.0,Heal Spirit,50.0,Skeletons,94.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04155,Barbarian Hut,7.0,Heal Spirit,50.0,Skeletons,94.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04170,Barbarian Hut,7.0,Heal Spirit,50.0,Skeletons,94.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04185,Barbarian Hut,7.0,Heal Spirit,50.0,Skeletons,94.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04200,Barbarian Hut,7.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Fireball,30.0,Skeletons,94.0,3.0,6,True,False,0.0,1.0
+04215,Barbarian Hut,7.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04230,Barbarian Hut,7.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04245,Barbarian Hut,7.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04260,Barbarian Hut,7.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+04275,Barbarian Hut,7.0,Heal Spirit,50.0,Royal Hogs,88.0,Fireball,30.0,Barbarian Barrel,6.0,3.0,6,True,True,1.0,2.0
+04290,Barbarian Hut,7.0,Heal Spirit,50.0,Royal Hogs,88.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04305,Barbarian Hut,7.0,Heal Spirit,50.0,Royal Hogs,88.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+04320,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Fireball,30.0,Royal Hogs,88.0,3.0,2,True,True,4.0,5.0
+04335,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04350,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+04365,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04380,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+04395,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04410,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04425,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+04440,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04455,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+04470,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,Fireball,30.0,4.0,3,True,True,2.0,4.0
+04485,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,2,False,True,1.0,0.0
+04500,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+04515,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+04530,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+04545,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+04560,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+04575,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+04590,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+04605,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+04620,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+04635,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+04650,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+04665,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+04680,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+04695,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+04710,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+04725,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+04740,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+04755,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+04770,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+04785,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+04800,Skeletons,94.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,1.0,2,True,True,7.0,6.0
+04815,Skeletons,94.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+04830,Skeletons,94.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+04845,Skeletons,94.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+04860,Skeletons,94.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+04875,Skeletons,94.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+04890,Skeletons,94.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+04905,Skeletons,94.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+04920,Skeletons,94.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+04935,Skeletons,94.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+04950,Skeletons,94.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+04965,Skeletons,94.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+04980,Skeletons,94.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+04995,Skeletons,94.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+05010,Barbarian Barrel,6.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,Skeletons,94.0,1.0,6,True,True,1.0,1.0
+05025,Barbarian Barrel,6.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+05040,Barbarian Barrel,6.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+05055,Barbarian Barrel,6.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+05070,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,1.0,6,True,True,1.0,2.0
+05085,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+05100,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+05115,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+05130,Fireball,30.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,Royal Hogs,88.0,1.0,2,True,True,5.0,5.0
+05145,Fireball,30.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+05160,Fireball,30.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+05175,Fireball,30.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+05190,Fireball,30.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+05205,Fireball,30.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+05220,Fireball,30.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+05235,Fireball,30.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+05250,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,Fireball,30.0,1.0,1,True,True,3.0,4.0
+05265,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,1,False,False,0.0,0.0
+05280,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+05295,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+05310,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+05325,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+05340,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+05355,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+05370,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+05385,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+05400,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+05415,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+05430,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+05445,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+05460,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+05475,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+05490,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+05505,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+05520,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,7,False,False,0.0,0.0
+05535,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+05550,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+05565,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,8,False,False,0.0,0.0
+05580,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+05595,Barbarian Hut,7.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,9,False,False,0.0,0.0
+05610,Skeletons,94.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,1.0,2,True,True,7.0,6.0
+05625,Skeletons,94.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+05640,Skeletons,94.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+05655,Skeletons,94.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+05670,Skeletons,94.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+05685,Skeletons,94.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+05700,Skeletons,94.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+05715,Skeletons,94.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+05730,Skeletons,94.0,Heal Spirit,50.0,Musketeer,73.0,Barbarian Barrel,6.0,Skeleton Dragons,92.0,4.0,1,True,True,4.0,4.0
+05745,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Barbarian Barrel,6.0,Skeletons,94.0,1.0,1,True,False,0.0,1.0
+05760,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+05775,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,1,False,False,0.0,0.0
+05790,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+05805,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+05820,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+05835,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05850,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05865,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+05880,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05895,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+05910,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05925,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05940,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+05955,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05970,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+05985,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+06000,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06015,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06030,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06045,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+06060,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+06075,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+06090,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+06105,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+06120,Royal Hogs,88.0,Heal Spirit,50.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+06135,Royal Hogs,88.0,Fireball,30.0,Musketeer,73.0,Barbarian Barrel,6.0,Heal Spirit,50.0,2.0,9,True,True,1.0,1.0
+06150,Royal Hogs,88.0,Fireball,30.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+06165,Royal Hogs,88.0,Fireball,30.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+06180,Royal Hogs,88.0,Fireball,30.0,Musketeer,73.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,4.0,8,True,True,1.0,2.0
+06195,Royal Hogs,88.0,Fireball,30.0,Musketeer,73.0,Barbarian Hut,7.0,,,,8,False,False,0.0,0.0
+06210,Royal Hogs,88.0,Fireball,30.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,Musketeer,73.0,3.0,4,True,True,4.0,4.0
+06225,Royal Hogs,88.0,Fireball,30.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,5,False,False,0.0,0.0
+06240,Royal Hogs,88.0,Fireball,30.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,5,False,False,0.0,0.0
+06255,Royal Hogs,88.0,Fireball,30.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,6,False,False,0.0,0.0
+06270,Royal Hogs,88.0,Fireball,30.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,6,False,False,0.0,0.0
+06285,Royal Hogs,88.0,Fireball,30.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,6,False,False,0.0,0.0
+06300,Royal Hogs,88.0,Fireball,30.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,7,False,False,0.0,0.0
+06315,Royal Hogs,88.0,Fireball,30.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,8,False,False,0.0,0.0
+06330,Royal Hogs,88.0,Fireball,30.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,8,False,False,0.0,0.0
+06345,Royal Hogs,88.0,Fireball,30.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,8,False,False,0.0,0.0
+06360,Royal Hogs,88.0,Fireball,30.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,8,False,False,0.0,0.0
+06375,Royal Hogs,88.0,Fireball,30.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,8,False,False,0.0,0.0
+06390,Royal Hogs,88.0,Fireball,30.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,9,False,False,0.0,0.0
+06405,Skeletons,94.0,Fireball,30.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,Royal Hogs,88.0,1.0,4,True,True,5.0,5.0
+06420,Skeletons,94.0,Fireball,30.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,4,False,False,0.0,0.0
+06435,Skeletons,94.0,Fireball,30.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,5,False,False,0.0,0.0
+06450,Skeletons,94.0,Fireball,30.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,5,False,False,0.0,0.0
+06465,Skeletons,94.0,Fireball,30.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,6,False,False,0.0,0.0
+06480,Skeletons,94.0,Fireball,30.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,6,False,False,0.0,0.0
+06495,Skeletons,94.0,Heal Spirit,50.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,Fireball,30.0,2.0,2,True,True,4.0,4.0
+06510,Skeletons,94.0,Heal Spirit,50.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,3,False,False,0.0,0.0
+06525,Skeletons,94.0,Heal Spirit,50.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,3,False,False,0.0,0.0
+06540,Skeletons,94.0,Heal Spirit,50.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,3,False,False,0.0,0.0
+06555,Skeletons,94.0,Heal Spirit,50.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,4,False,False,0.0,0.0
+06570,Skeletons,94.0,Heal Spirit,50.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,4,False,False,0.0,0.0
+06585,Skeletons,94.0,Heal Spirit,50.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,4,False,False,0.0,0.0
+06600,Skeletons,94.0,Heal Spirit,50.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,5,False,False,0.0,0.0
+06615,Skeletons,94.0,Heal Spirit,50.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,5,False,False,0.0,0.0
+06630,Skeletons,94.0,Heal Spirit,50.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,5,False,False,0.0,0.0
+06645,Skeletons,94.0,Heal Spirit,50.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,6,False,False,0.0,0.0
+06660,Skeletons,94.0,Heal Spirit,50.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,6,False,False,0.0,0.0
+06675,Skeletons,94.0,Heal Spirit,50.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,,,,2,False,False,0.0,0.0
+06690,Skeletons,94.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Skeleton Dragons,92.0,3.0,3,True,True,4.0,4.0
+06705,Skeletons,94.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,3,False,False,0.0,0.0
+06720,Skeletons,94.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,4,False,False,0.0,0.0
+06735,Skeletons,94.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,4,False,False,0.0,0.0
+06750,Skeletons,94.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,4,False,False,0.0,0.0
+06765,Skeletons,94.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,5,False,False,0.0,0.0
+06780,Skeletons,94.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,5,False,False,0.0,0.0
+06795,Skeletons,94.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,5,False,False,0.0,0.0
+06810,Skeletons,94.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,6,False,False,0.0,0.0
+06825,Skeletons,94.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,6,False,False,0.0,0.0
+06840,Skeletons,94.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,6,False,False,0.0,0.0
+06855,Skeletons,94.0,Heal Spirit,50.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,7,False,False,0.0,0.0
+06870,Skeletons,94.0,Musketeer,73.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Heal Spirit,50.0,2.0,6,True,True,1.0,1.0
+06885,Skeletons,94.0,Musketeer,73.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,7,False,False,0.0,0.0
+06900,Skeletons,94.0,Musketeer,73.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,7,False,False,0.0,0.0
+06915,Skeletons,94.0,Royal Hogs,88.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Musketeer,73.0,2.0,3,True,True,4.0,4.0
+06930,Skeletons,94.0,Royal Hogs,88.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,4,False,False,0.0,0.0
+06945,Skeletons,94.0,Royal Hogs,88.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,4,False,False,0.0,0.0
+06960,Skeletons,94.0,Royal Hogs,88.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,4,False,False,0.0,0.0
+06975,Skeletons,94.0,Royal Hogs,88.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,5,False,False,0.0,0.0
+06990,Skeletons,94.0,Royal Hogs,88.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,5,False,False,0.0,0.0
+07005,Skeletons,94.0,Royal Hogs,88.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,5,False,False,0.0,0.0
+07020,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,Royal Hogs,88.0,2.0,2,True,True,3.0,5.0
+07035,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,1,False,True,1.0,0.0
+07050,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,1,False,False,0.0,0.0
+07065,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,2,False,False,0.0,0.0
+07080,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,2,False,False,0.0,0.0
+07095,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,3,False,False,0.0,0.0
+07110,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,3,False,False,0.0,0.0
+07125,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,3,False,False,0.0,0.0
+07140,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,4,False,False,0.0,0.0
+07155,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,4,False,False,0.0,0.0
+07170,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,4,False,False,0.0,0.0
+07185,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,5,False,False,0.0,0.0
+07200,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,5,False,False,0.0,0.0
+07215,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,5,False,False,0.0,0.0
+07230,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,6,False,False,0.0,0.0
+07245,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,6,False,False,0.0,0.0
+07260,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,6,False,False,0.0,0.0
+07275,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,7,False,False,0.0,0.0
+07290,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,7,False,False,0.0,0.0
+07305,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Barbarian Hut,7.0,,,,7,False,False,0.0,0.0
+07320,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Skeleton Dragons,92.0,Barbarian Hut,7.0,4.0,1,True,True,6.0,6.0
+07335,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Skeleton Dragons,92.0,,,,1,False,False,0.0,0.0
+07350,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+07365,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+07380,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+07395,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+07410,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+07425,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+07440,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+07455,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+07470,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+07485,Skeletons,94.0,Fireball,30.0,Barbarian Barrel,6.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+07500,Skeletons,94.0,Fireball,30.0,Heal Spirit,50.0,Skeleton Dragons,92.0,Barbarian Barrel,6.0,3.0,5,True,True,1.0,2.0
+07515,Skeletons,94.0,Fireball,30.0,Heal Spirit,50.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+07530,Skeletons,94.0,Fireball,30.0,Heal Spirit,50.0,Musketeer,73.0,Skeleton Dragons,92.0,4.0,2,True,True,3.0,4.0
+07545,Skeletons,94.0,Fireball,30.0,Heal Spirit,50.0,Musketeer,73.0,,,,2,False,False,0.0,0.0
+07560,Skeletons,94.0,Fireball,30.0,Heal Spirit,50.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+07575,Skeletons,94.0,Fireball,30.0,Heal Spirit,50.0,Musketeer,73.0,,,,3,False,False,0.0,0.0
+07590,Skeletons,94.0,Fireball,30.0,Heal Spirit,50.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+07605,Skeletons,94.0,Fireball,30.0,Heal Spirit,50.0,Musketeer,73.0,,,,4,False,False,0.0,0.0
+07620,Skeletons,94.0,Fireball,30.0,Heal Spirit,50.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+07635,Skeletons,94.0,Fireball,30.0,Heal Spirit,50.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+07650,Skeletons,94.0,Fireball,30.0,Heal Spirit,50.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+07665,Skeletons,94.0,Fireball,30.0,Heal Spirit,50.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+07680,Skeletons,94.0,Fireball,30.0,Heal Spirit,50.0,Royal Hogs,88.0,Musketeer,73.0,4.0,3,True,True,3.0,4.0
+07695,Skeletons,94.0,Fireball,30.0,Heal Spirit,50.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+07710,Skeletons,94.0,Fireball,30.0,Heal Spirit,50.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+07725,Skeletons,94.0,Fireball,30.0,Heal Spirit,50.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+07740,Skeletons,94.0,Fireball,30.0,Heal Spirit,50.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+07755,Skeletons,94.0,Fireball,30.0,Heal Spirit,50.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+07770,Skeletons,94.0,Fireball,30.0,Heal Spirit,50.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+07785,Skeletons,94.0,Fireball,30.0,Heal Spirit,50.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+07800,Skeletons,94.0,Fireball,30.0,Heal Spirit,50.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+07815,Skeletons,94.0,Fireball,30.0,Heal Spirit,50.0,Royal Hogs,88.0,,,,8,False,False,0.0,0.0
+07830,Skeletons,94.0,Fireball,30.0,Heal Spirit,50.0,Royal Hogs,88.0,,,,8,False,False,0.0,0.0
+07845,Skeletons,94.0,Fireball,30.0,Heal Spirit,50.0,Royal Hogs,88.0,,,,9,False,False,0.0,0.0
+07860,Skeletons,94.0,Fireball,30.0,Heal Spirit,50.0,Royal Hogs,88.0,,,,9,False,False,0.0,0.0
+07875,Skeletons,94.0,Barbarian Hut,7.0,Heal Spirit,50.0,Royal Hogs,88.0,Fireball,30.0,2.0,6,True,True,3.0,4.0
+07890,Skeletons,94.0,Barbarian Hut,7.0,Heal Spirit,50.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+07905,Skeletons,94.0,Barbarian Hut,7.0,Heal Spirit,50.0,Royal Hogs,88.0,,,,7,False,False,0.0,0.0
+07920,Skeletons,94.0,Barbarian Hut,7.0,Heal Spirit,50.0,Royal Hogs,88.0,,,,8,False,False,0.0,0.0
+07935,Skeletons,94.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,Royal Hogs,88.0,Heal Spirit,50.0,3.0,7,True,True,1.0,1.0
+07950,Skeletons,94.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,Royal Hogs,88.0,,,,8,False,False,0.0,0.0
+07965,Skeletons,94.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,Royal Hogs,88.0,,,,8,False,False,0.0,0.0
+07980,Skeletons,94.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,Royal Hogs,88.0,,,,9,False,False,0.0,0.0
+07995,Skeletons,94.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,Royal Hogs,88.0,,,,9,False,False,0.0,0.0
+08010,Skeleton Dragons,92.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,Royal Hogs,88.0,Skeletons,94.0,1.0,9,True,False,0.0,1.0
+08025,Skeleton Dragons,92.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,Royal Hogs,88.0,,,,9,False,False,0.0,0.0
+08040,Skeleton Dragons,92.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,Musketeer,73.0,Royal Hogs,88.0,4.0,5,True,True,4.0,5.0
+08055,Skeleton Dragons,92.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,Musketeer,73.0,,,,5,False,False,0.0,0.0
+08070,Skeleton Dragons,92.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+08085,Skeleton Dragons,92.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,Musketeer,73.0,,,,6,False,False,0.0,0.0
+08100,Skeleton Dragons,92.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,Fireball,30.0,Musketeer,73.0,4.0,3,True,True,3.0,4.0
+08115,Skeleton Dragons,92.0,Barbarian Hut,7.0,Barbarian Barrel,6.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+08130,Skeleton Dragons,92.0,Barbarian Hut,7.0,Heal Spirit,50.0,Fireball,30.0,Barbarian Barrel,6.0,3.0,2,True,True,1.0,2.0
+08145,Skeleton Dragons,92.0,Barbarian Hut,7.0,Heal Spirit,50.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+08160,Skeleton Dragons,92.0,Barbarian Hut,7.0,Heal Spirit,50.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+08175,Skeleton Dragons,92.0,Barbarian Hut,7.0,Heal Spirit,50.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+08190,Skeleton Dragons,92.0,Barbarian Hut,7.0,Heal Spirit,50.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+08205,Skeleton Dragons,92.0,Barbarian Hut,7.0,Heal Spirit,50.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+08220,Skeleton Dragons,92.0,Barbarian Hut,7.0,Heal Spirit,50.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+08235,Skeleton Dragons,92.0,Barbarian Hut,7.0,Heal Spirit,50.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+08250,Skeleton Dragons,92.0,Barbarian Hut,7.0,Heal Spirit,50.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+08265,Skeleton Dragons,92.0,Barbarian Hut,7.0,Heal Spirit,50.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+08280,Skeleton Dragons,92.0,Barbarian Hut,7.0,Heal Spirit,50.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+08295,Skeleton Dragons,92.0,Barbarian Hut,7.0,Heal Spirit,50.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+08310,Skeleton Dragons,92.0,Barbarian Hut,7.0,Heal Spirit,50.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+08325,Skeleton Dragons,92.0,Barbarian Hut,7.0,Heal Spirit,50.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+08340,Skeleton Dragons,92.0,Barbarian Hut,7.0,Heal Spirit,50.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+08355,Skeleton Dragons,92.0,Barbarian Hut,7.0,Heal Spirit,50.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+08370,Skeleton Dragons,92.0,Barbarian Hut,7.0,Skeletons,94.0,Fireball,30.0,Heal Spirit,50.0,3.0,9,True,True,1.0,1.0
+08385,Skeleton Dragons,92.0,Barbarian Hut,7.0,Skeletons,94.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+08400,Royal Hogs,88.0,Barbarian Hut,7.0,Skeletons,94.0,Fireball,30.0,Skeleton Dragons,92.0,1.0,6,True,True,3.0,4.0
+08415,Royal Hogs,88.0,Barbarian Hut,7.0,Skeletons,94.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+08430,Royal Hogs,88.0,Barbarian Hut,7.0,Musketeer,73.0,Fireball,30.0,Skeletons,94.0,3.0,6,True,False,0.0,1.0
+08445,Royal Hogs,88.0,Barbarian Hut,7.0,Musketeer,73.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+08460,Royal Hogs,88.0,Barbarian Hut,7.0,Musketeer,73.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+08475,Barbarian Barrel,6.0,Barbarian Hut,7.0,Musketeer,73.0,Fireball,30.0,Royal Hogs,88.0,1.0,2,True,True,5.0,5.0
+08490,Barbarian Barrel,6.0,Barbarian Hut,7.0,Musketeer,73.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+08505,Barbarian Barrel,6.0,Barbarian Hut,7.0,Musketeer,73.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+08520,Barbarian Barrel,6.0,Barbarian Hut,7.0,Musketeer,73.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+08535,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,Fireball,30.0,Barbarian Barrel,6.0,1.0,2,True,True,2.0,2.0
+08550,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+08565,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+08580,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+08595,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+08610,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,Skeleton Dragons,92.0,Fireball,30.0,4.0,7,True,True,5.0,4.0
+08625,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+08640,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,2,False,False,0.0,0.0
+08655,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+08670,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,3,False,False,0.0,0.0
+08685,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+08700,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,4,False,False,0.0,0.0
+08715,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+08730,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,5,False,False,0.0,0.0
+08745,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+08760,Skeletons,94.0,Barbarian Hut,7.0,Musketeer,73.0,Skeleton Dragons,92.0,Heal Spirit,50.0,1.0,6,True,False,0.0,1.0
+08775,Skeletons,94.0,Barbarian Hut,7.0,Musketeer,73.0,Skeleton Dragons,92.0,,,,6,False,False,0.0,0.0
+08790,Skeletons,94.0,Barbarian Hut,7.0,Barbarian Hut,7.0,Royal Hogs,88.0,Skeleton Dragons,92.0,4.0,3,True,True,3.0,4.0
+08805,Skeletons,94.0,Barbarian Hut,7.0,Musketeer,73.0,Royal Hogs,88.0,Barbarian Hut,7.0,3.0,3,True,False,0.0,6.0
+08820,Skeletons,94.0,Barbarian Hut,7.0,Musketeer,73.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+08835,Skeletons,94.0,Barbarian Hut,7.0,Musketeer,73.0,Royal Hogs,88.0,,,,4,False,False,0.0,0.0
+08850,Skeletons,94.0,Barbarian Hut,7.0,Musketeer,73.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+08865,Skeletons,94.0,Barbarian Hut,7.0,Musketeer,73.0,Royal Hogs,88.0,,,,5,False,False,0.0,0.0
+08880,Skeletons,94.0,Barbarian Hut,7.0,Musketeer,73.0,Royal Hogs,88.0,,,,6,False,False,0.0,0.0
+08895,Skeletons,94.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,Royal Hogs,88.0,4.0,7,True,True,5.0,5.0
+08910,Skeletons,94.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+08925,Skeletons,94.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+08940,Skeletons,94.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+08955,Fireball,30.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,Skeletons,94.0,1.0,3,True,False,0.0,1.0
+08970,Fireball,30.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+08985,Fireball,30.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+09000,Fireball,30.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+09015,Fireball,30.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+09030,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,Fireball,30.0,1.0,1,True,True,4.0,4.0
+09045,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+09060,Heal Spirit,50.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+09075,Skeleton Dragons,92.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,Heal Spirit,50.0,1.0,2,True,False,0.0,1.0
+09090,Skeleton Dragons,92.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,2,False,False,0.0,0.0
+09105,Skeleton Dragons,92.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+09120,Skeleton Dragons,92.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,3,False,False,0.0,0.0
+09135,Skeleton Dragons,92.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+09150,Skeleton Dragons,92.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,4,False,False,0.0,0.0
+09165,Skeleton Dragons,92.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,5,False,False,0.0,0.0
+09180,Skeleton Dragons,92.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+09195,Skeleton Dragons,92.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+09210,Skeleton Dragons,92.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+09225,Skeleton Dragons,92.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+09240,Skeleton Dragons,92.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+09255,Skeleton Dragons,92.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+09270,Skeleton Dragons,92.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+09285,Skeleton Dragons,92.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+09300,Skeleton Dragons,92.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+09315,Skeleton Dragons,92.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+09330,Skeleton Dragons,92.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+09345,Skeleton Dragons,92.0,Barbarian Hut,7.0,Musketeer,73.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0

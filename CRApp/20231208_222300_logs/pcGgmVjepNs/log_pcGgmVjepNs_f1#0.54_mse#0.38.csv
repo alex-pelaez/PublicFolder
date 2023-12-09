@@ -1,0 +1,1603 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00255,Rocket,84.0,,,,,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+00270,Rocket,84.0,,,,,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+00285,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,3.0,7,True,False,0.0,0.0
+00300,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+00315,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+00330,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+00345,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+00360,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,True,3.0,0.0
+00375,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,3,False,True,1.0,0.0
+00390,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+00405,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+00420,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+00435,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+00450,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+00465,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+00480,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+00495,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+00510,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+00525,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+00540,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+00555,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+00570,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+00585,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+00600,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+00615,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+00630,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+00645,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+00660,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+00675,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+00690,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+00705,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+00720,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+00735,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+00750,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+00765,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+00780,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+00795,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+00810,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,Ice Wizard,55.0,4.0,5,True,True,3.0,3.0
+00825,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+00840,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+00855,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+00870,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00885,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00900,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00915,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00930,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+00945,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,4,False,True,2.0,0.0
+00960,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+00975,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+00990,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+01005,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+01020,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+01035,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+01050,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+01065,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+01080,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+01095,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+01110,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+01125,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+01140,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,3,False,True,4.0,0.0
+01155,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+01170,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+01185,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+01200,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+01215,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+01230,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+01245,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+01260,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+01275,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+01290,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+01305,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+01320,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,Bomb Tower,12.0,4.0,1,True,True,4.0,4.0
+01335,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,1,False,False,0.0,0.0
+01350,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,1,False,False,0.0,0.0
+01365,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,1,False,False,0.0,0.0
+01380,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+01395,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+01410,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+01425,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+01440,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+01455,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+01470,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+01485,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+01500,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,1,False,True,2.0,0.0
+01515,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,1,False,False,0.0,0.0
+01530,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,1,False,False,0.0,0.0
+01545,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+01560,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+01575,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+01590,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+01605,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+01620,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+01635,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+01650,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+01665,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+01680,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+01695,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+01710,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+01725,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+01740,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+01755,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+01770,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+01785,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+01800,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+01815,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+01830,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+01845,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+01860,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+01875,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+01890,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+01905,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+01920,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+01935,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+01950,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+01965,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+01980,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+01995,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+02010,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+02025,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+02040,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+02055,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+02070,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+02085,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,True,3.0,0.0
+02100,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+02115,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+02130,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,True,1.0,0.0
+02145,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+02160,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+02175,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+02190,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+02205,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+02220,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+02235,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+02250,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+02265,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+02280,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+02295,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+02310,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+02325,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+02340,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+02355,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+02370,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+02385,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+02400,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+02415,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+02430,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+02445,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,Ice Wizard,55.0,4.0,4,True,True,3.0,3.0
+02460,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+02475,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+02490,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+02505,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+02520,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+02535,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+02550,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02565,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02580,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02595,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02610,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02625,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02640,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02655,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02670,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02685,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02700,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02715,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+02730,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02745,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02760,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02775,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02790,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+02805,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02820,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02835,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02850,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02865,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02880,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+02895,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,Valkyrie,102.0,2.0,6,True,True,3.0,4.0
+02910,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02925,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02940,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02955,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02970,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+02985,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+03000,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+03015,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+03030,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+03045,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+03060,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+03075,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+03090,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+03105,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+03120,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+03135,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+03150,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+03165,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,Bomb Tower,12.0,4.0,5,True,True,4.0,4.0
+03180,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+03195,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+03210,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+03225,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03240,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03255,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03270,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03285,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03300,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03315,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+03330,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+03345,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+03360,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+03375,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+03390,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+03405,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+03420,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+03435,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+03450,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+03465,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,5,False,True,3.0,0.0
+03480,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03495,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03510,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,4,False,True,2.0,0.0
+03525,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+03540,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+03555,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+03570,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+03585,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+03600,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+03615,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+03630,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+03645,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03660,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03675,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03690,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,Rocket,84.0,1.0,0,True,True,6.0,6.0
+03705,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,0,False,False,0.0,0.0
+03720,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,0,False,False,0.0,0.0
+03735,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+03750,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+03765,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+03780,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+03795,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+03810,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+03825,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+03840,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+03855,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+03870,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+03885,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+03900,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+03915,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+03930,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+03945,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03960,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03975,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+03990,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+04005,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+04020,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+04035,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+04050,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+04065,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+04080,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+04095,Valkyrie,102.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Ice Wizard,55.0,2.0,6,True,True,3.0,3.0
+04110,Valkyrie,102.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+04125,Valkyrie,102.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+04140,Valkyrie,102.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+04155,Valkyrie,102.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+04170,Valkyrie,102.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+04185,Valkyrie,102.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+04200,Valkyrie,102.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+04215,Valkyrie,102.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+04230,Valkyrie,102.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+04245,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Valkyrie,102.0,1.0,6,True,True,3.0,4.0
+04260,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+04275,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+04290,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+04305,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+04320,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+04335,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+04350,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+04365,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+04380,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+04395,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+04410,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+04425,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,8,False,True,2.0,0.0
+04440,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,5,False,True,3.0,0.0
+04455,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+04470,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+04485,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+04500,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+04515,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Rocket,84.0,1.0,1,True,True,6.0,6.0
+04530,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+04545,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+04560,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+04575,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+04590,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+04605,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+04620,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+04635,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+04650,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+04665,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,3,False,True,1.0,0.0
+04680,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+04695,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+04710,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+04725,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+04740,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+04755,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+04770,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+04785,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+04800,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+04815,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+04830,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+04845,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+04860,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+04875,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+04890,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+04905,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+04920,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+04935,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+04950,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,6,False,True,3.0,0.0
+04965,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+04980,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+04995,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+05010,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+05025,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+05040,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+05055,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+05070,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+05085,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Rocket,84.0,Valkyrie,102.0,4.0,6,True,True,3.0,4.0
+05100,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+05115,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+05130,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+05145,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+05160,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+05175,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Rocket,84.0,,,,5,False,True,2.0,0.0
+05190,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+05205,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+05220,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+05235,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,Tornado,101.0,3.0,3,True,True,3.0,3.0
+05250,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,3,False,False,0.0,0.0
+05265,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+05280,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,4,False,False,0.0,0.0
+05295,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+05310,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+05325,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,5,False,False,0.0,0.0
+05340,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+05355,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+05370,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+05385,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+05400,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+05415,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+05430,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+05445,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,6,False,True,2.0,0.0
+05460,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+05475,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+05490,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+05505,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+05520,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,6,False,True,2.0,0.0
+05535,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+05550,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+05565,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+05580,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+05595,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+05610,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+05625,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+05640,Ice Wizard,55.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+05655,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,Ice Wizard,55.0,1.0,6,True,True,3.0,3.0
+05670,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,6,False,False,0.0,0.0
+05685,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+05700,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,7,False,False,0.0,0.0
+05715,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+05730,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+05745,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,8,False,False,0.0,0.0
+05760,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Rocket,84.0,,,,9,False,False,0.0,0.0
+05775,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,Rocket,84.0,4.0,3,True,True,6.0,6.0
+05790,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+05805,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+05820,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+05835,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+05850,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+05865,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+05880,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+05895,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+05910,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+05925,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+05940,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+05955,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+05970,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,4,False,True,3.0,0.0
+05985,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+06000,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+06015,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+06030,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+06045,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+06060,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+06075,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+06090,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+06105,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+06120,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+06135,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+06150,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+06165,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,5,False,True,3.0,0.0
+06180,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+06195,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+06210,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Ice Wizard,55.0,Tornado,101.0,4.0,3,True,True,3.0,3.0
+06225,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Ice Wizard,55.0,,,,2,False,True,1.0,0.0
+06240,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+06255,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+06270,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+06285,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+06300,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+06315,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+06330,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+06345,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+06360,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+06375,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+06390,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Ice Wizard,55.0,,,,4,False,True,1.0,0.0
+06405,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+06420,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+06435,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+06450,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+06465,Rocket,84.0,Bomb Tower,12.0,Valkyrie,102.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+06480,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Valkyrie,102.0,3.0,2,True,True,3.0,4.0
+06495,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+06510,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+06525,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+06540,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+06555,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+06570,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+06585,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+06600,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+06615,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+06630,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+06645,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+06660,Rocket,84.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+06675,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,Rocket,84.0,1.0,0,True,True,6.0,6.0
+06690,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,1,False,False,0.0,0.0
+06705,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,1,False,False,0.0,0.0
+06720,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+06735,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+06750,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+06765,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+06780,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+06795,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+06810,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+06825,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+06840,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,Ice Wizard,55.0,4.0,1,True,True,3.0,3.0
+06855,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+06870,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+06885,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+06900,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+06915,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,1,False,True,2.0,0.0
+06930,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+06945,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+06960,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+06975,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+06990,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+07005,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+07020,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+07035,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+07050,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+07065,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+07080,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+07095,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,3,False,True,2.0,0.0
+07110,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+07125,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+07140,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+07155,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+07170,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+07185,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+07200,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+07215,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+07230,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+07245,Tornado,101.0,Bomb Tower,12.0,Tornado,101.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+07260,Tornado,101.0,Rocket,84.0,Tornado,101.0,Valkyrie,102.0,Bomb Tower,12.0,2.0,3,True,True,4.0,4.0
+07275,Tornado,101.0,Rocket,84.0,Tornado,101.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+07290,Tornado,101.0,Rocket,84.0,Tornado,101.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+07305,Tornado,101.0,Rocket,84.0,Tornado,101.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+07320,Tornado,101.0,Rocket,84.0,Tornado,101.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+07335,Tornado,101.0,Rocket,84.0,Tornado,101.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+07350,Tornado,101.0,Rocket,84.0,Tornado,101.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+07365,Tornado,101.0,Rocket,84.0,Tornado,101.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+07380,Tornado,101.0,Rocket,84.0,Tornado,101.0,Ice Wizard,55.0,Valkyrie,102.0,4.0,2,True,True,4.0,4.0
+07395,Tornado,101.0,Rocket,84.0,Tornado,101.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+07410,Tornado,101.0,Rocket,84.0,Tornado,101.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+07425,Tornado,101.0,Rocket,84.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+07440,Tornado,101.0,Rocket,84.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+07455,Tornado,101.0,Rocket,84.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+07470,Tornado,101.0,Rocket,84.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+07485,Tornado,101.0,Rocket,84.0,Tornado,101.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+07500,Tornado,101.0,Rocket,84.0,Tornado,101.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+07515,Tornado,101.0,Rocket,84.0,Tornado,101.0,Ice Wizard,55.0,,,,4,False,True,2.0,0.0
+07530,Tornado,101.0,Rocket,84.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+07545,Tornado,101.0,Rocket,84.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+07560,Tornado,101.0,Rocket,84.0,Tornado,101.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+07575,Tornado,101.0,Rocket,84.0,Tornado,101.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+07590,Tornado,101.0,Rocket,84.0,Tornado,101.0,Valkyrie,102.0,Ice Wizard,55.0,4.0,4,True,True,2.0,3.0
+07605,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Valkyrie,102.0,Tornado,101.0,1.0,1,True,True,3.0,3.0
+07620,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+07635,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+07650,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+07665,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+07680,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Valkyrie,102.0,,,,2,False,True,1.0,0.0
+07695,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+07710,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+07725,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+07740,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+07755,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+07770,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,Valkyrie,102.0,4.0,1,True,True,3.0,4.0
+07785,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+07800,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+07815,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+07830,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+07845,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+07860,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+07875,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+07890,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,Bomb Tower,12.0,1.0,1,True,True,4.0,4.0
+07905,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+07920,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+07935,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,1,False,True,1.0,0.0
+07950,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+07965,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+07980,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+07995,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+08010,Ice Wizard,55.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+08025,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,Ice Wizard,55.0,1.0,1,True,True,3.0,3.0
+08040,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+08055,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+08070,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+08085,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+08100,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+08115,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+08130,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+08145,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+08160,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+08175,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+08190,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+08205,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+08220,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+08235,Bomb Tower,12.0,Rocket,84.0,Tornado,101.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+08250,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,Tornado,101.0,Rocket,84.0,2.0,3,True,True,6.0,6.0
+08265,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,Tornado,101.0,,,,2,False,True,1.0,0.0
+08280,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+08295,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+08310,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+08325,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+08340,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+08355,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+08370,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+08385,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+08400,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+08415,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+08430,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+08445,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+08460,Bomb Tower,12.0,Valkyrie,102.0,Tornado,101.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+08475,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Tornado,101.0,Bomb Tower,12.0,1.0,5,True,True,4.0,4.0
+08490,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+08505,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+08520,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+08535,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+08550,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+08565,Rocket,84.0,Valkyrie,102.0,Tornado,101.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+08580,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Tornado,101.0,Valkyrie,102.0,2.0,5,True,True,4.0,4.0
+08595,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+08610,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Tornado,101.0,,,,4,False,True,2.0,0.0
+08625,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+08640,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Tornado,101.0,,,,2,False,True,3.0,0.0
+08655,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+08670,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+08685,Rocket,84.0,Ice Wizard,55.0,Tornado,101.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+08700,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Tornado,101.0,3.0,1,True,True,3.0,3.0
+08715,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+08730,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+08745,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+08760,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+08775,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+08790,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+08805,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+08820,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+08835,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+08850,Rocket,84.0,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+08865,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,Rocket,84.0,1.0,1,True,True,6.0,6.0
+08880,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+08895,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+08910,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+08925,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+08940,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+08955,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+08970,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+08985,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,,,,4,False,True,1.0,0.0
+09000,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+09015,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,,,,3,False,True,1.0,0.0
+09030,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+09045,Valkyrie,102.0,Ice Wizard,55.0,Bomb Tower,12.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+09060,Archers,1.0,Ice Wizard,55.0,Fireball,30.0,Tornado,101.0,Bomb Tower,12.0,3.0,1,True,True,3.0,4.0
+09075,Archers,1.0,Ice Wizard,55.0,Fireball,30.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+09090,Archers,1.0,Ice Wizard,55.0,Fireball,30.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+09105,Archers,1.0,Ice Wizard,55.0,Fireball,30.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+09120,Archers,1.0,Ice Wizard,55.0,Fireball,30.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+09135,Archers,1.0,Ice Wizard,55.0,Fireball,30.0,Archers,1.0,Tornado,101.0,4.0,3,True,True,1.0,3.0
+09150,Archers,1.0,Ice Wizard,55.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+09165,Archers,1.0,Ice Wizard,55.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+09180,Archers,1.0,Ice Wizard,55.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+09195,Archers,1.0,Ice Wizard,55.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+09210,Archers,1.0,Ice Wizard,55.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+09225,Archers,1.0,Ice Wizard,55.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+09240,Archers,1.0,Ice Wizard,55.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+09255,Archers,1.0,Ice Wizard,55.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+09270,Archers,1.0,Ice Wizard,55.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+09285,Archers,1.0,Ice Wizard,55.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+09300,Archers,1.0,Ice Wizard,55.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+09315,Archers,1.0,Ice Wizard,55.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+09330,Archers,1.0,Ice Wizard,55.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+09345,Archers,1.0,Ice Wizard,55.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+09360,Archers,1.0,Ice Wizard,55.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+09375,Archers,1.0,Archers,1.0,Fireball,30.0,Archers,1.0,Ice Wizard,55.0,2.0,3,True,False,0.0,3.0
+09390,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,Archers,1.0,2.0,3,True,True,1.0,3.0
+09405,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+09420,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+09435,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+09450,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+09465,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+09480,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+09495,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+09510,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+09525,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,5,False,False,0.0,0.0
+09540,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,5,False,False,0.0,0.0
+09555,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,6,False,False,0.0,0.0
+09570,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,6,False,False,0.0,0.0
+09585,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,6,False,False,0.0,0.0
+09600,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,6,False,False,0.0,0.0
+09615,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,6,False,False,0.0,0.0
+09630,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,1,False,True,5.0,0.0
+09645,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,1,False,False,0.0,0.0
+09660,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,1,False,False,0.0,0.0
+09675,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,1,False,False,0.0,0.0
+09690,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+09705,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+09720,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+09735,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+09750,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+09765,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+09780,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+09795,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+09810,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+09825,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+09840,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+09855,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+09870,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+09885,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+09900,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+09915,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+09930,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+09945,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+09960,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+09975,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+09990,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+10005,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+10020,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+10035,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+10050,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+10065,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,2,False,False,0.0,0.0
+10080,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+10095,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+10110,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+10125,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+10140,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+10155,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+10170,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+10185,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+10200,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+10215,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+10230,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,3,False,False,0.0,0.0
+10245,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+10260,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+10275,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+10290,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+10305,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+10320,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+10335,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+10350,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+10365,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+10380,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,4,False,False,0.0,0.0
+10395,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,5,False,False,0.0,0.0
+10410,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,6,False,False,0.0,0.0
+10425,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,6,False,False,0.0,0.0
+10440,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,6,False,False,0.0,0.0
+10455,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,6,False,False,0.0,0.0
+10470,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,6,False,False,0.0,0.0
+10485,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,6,False,False,0.0,0.0
+10500,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,7,False,False,0.0,0.0
+10515,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,7,False,False,0.0,0.0
+10530,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,7,False,False,0.0,0.0
+10545,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,7,False,False,0.0,0.0
+10560,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,7,False,False,0.0,0.0
+10575,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,7,False,False,0.0,0.0
+10590,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,8,False,False,0.0,0.0
+10605,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,8,False,False,0.0,0.0
+10620,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,8,False,False,0.0,0.0
+10635,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,8,False,False,0.0,0.0
+10650,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,8,False,False,0.0,0.0
+10665,Archers,1.0,X,106.0,Fireball,30.0,Archers,1.0,,,,9,False,False,0.0,0.0
+10680,Archers,1.0,X,106.0,X,106.0,Archers,1.0,Fireball,30.0,3.0,5,True,True,4.0,4.0
+10695,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,5,False,False,0.0,0.0
+10710,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,5,False,False,0.0,0.0
+10725,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,5,False,False,0.0,0.0
+10740,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,5,False,False,0.0,0.0
+10755,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+10770,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+10785,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+10800,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+10815,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+10830,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+10845,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+10860,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+10875,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+10890,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+10905,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+10920,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0
+10935,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0
+10950,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0
+10965,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0
+10980,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0
+10995,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,5,False,True,3.0,0.0
+11010,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+11025,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+11040,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+11055,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+11070,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+11085,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+11100,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+11115,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+11130,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+11145,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+11160,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+11175,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0
+11190,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0
+11205,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0
+11220,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0
+11235,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0
+11250,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,9,False,False,0.0,0.0
+11265,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,9,False,False,0.0,0.0
+11280,Archers,1.0,X,106.0,X,106.0,Archers,1.0,,,,9,False,False,0.0,0.0
+11295,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,Archers,1.0,4.0,6,True,True,3.0,3.0
+11310,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+11325,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+11340,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+11355,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+11370,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+11385,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+11400,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+11415,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+11430,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+11445,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+11460,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+11475,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+11490,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+11505,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+11520,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,8,False,True,1.0,0.0
+11535,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+11550,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+11565,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+11580,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+11595,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+11610,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,5,False,True,4.0,0.0
+11625,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+11640,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+11655,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+11670,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,4,False,True,1.0,0.0
+11685,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11700,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11715,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11730,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11745,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+11760,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+11775,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,2,False,True,3.0,0.0
+11790,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+11805,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+11820,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+11835,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+11850,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,2,False,True,1.0,0.0
+11865,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+11880,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+11895,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+11910,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+11925,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+11940,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+11955,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+11970,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+11985,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+12000,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+12015,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+12030,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+12045,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+12060,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+12075,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+12090,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+12105,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+12120,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+12135,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+12150,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+12165,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+12180,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+12195,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+12210,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+12225,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+12240,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+12255,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+12270,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+12285,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+12300,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+12315,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+12330,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+12345,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12360,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12375,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12390,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12405,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12420,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+12435,Archers,1.0,X,106.0,X,106.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+12450,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,Archers,1.0,1.0,6,True,True,3.0,3.0
+12465,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+12480,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+12495,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+12510,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,3,False,True,3.0,0.0
+12525,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+12540,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+12555,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,2,False,True,1.0,0.0
+12570,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+12585,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+12600,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+12615,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+12630,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,0,False,True,3.0,0.0
+12645,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,0,False,False,0.0,0.0
+12660,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,0,False,False,0.0,0.0
+12675,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,0,False,False,0.0,0.0
+12690,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+12705,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+12720,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+12735,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+12750,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+12765,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+12780,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+12795,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+12810,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+12825,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+12840,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+12855,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+12870,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+12885,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+12900,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+12915,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+12930,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+12945,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+12960,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+12975,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+12990,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+13005,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+13020,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+13035,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+13050,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+13065,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+13080,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+13095,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+13110,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+13125,Fireball,30.0,X,106.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+13140,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,X,106.0,2.0,0,True,True,6.0,6.0
+13155,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,0,False,False,0.0,0.0
+13170,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,0,False,False,0.0,0.0
+13185,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+13200,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+13215,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+13230,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+13245,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+13260,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,1,False,False,0.0,0.0
+13275,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+13290,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+13305,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+13320,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+13335,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+13350,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+13365,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+13380,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+13395,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+13410,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+13425,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+13440,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+13455,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,4,False,True,2.0,0.0
+13470,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,3,False,True,1.0,0.0
+13485,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+13500,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+13515,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+13530,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+13545,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+13560,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+13575,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+13590,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+13605,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+13620,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+13635,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+13650,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+13665,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+13680,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+13695,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+13710,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+13725,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+13740,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+13755,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,6,False,True,3.0,0.0
+13770,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+13785,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+13800,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+13815,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+13830,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+13845,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,5,False,True,3.0,0.0
+13860,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+13875,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+13890,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+13905,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+13920,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+13935,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+13950,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+13965,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+13980,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+13995,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+14010,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+14025,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+14040,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+14055,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,6,False,True,4.0,0.0
+14070,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+14085,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+14100,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+14115,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+14130,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+14145,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+14160,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,6,False,True,2.0,0.0
+14175,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+14190,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+14205,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+14220,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+14235,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+14250,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+14265,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+14280,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,8,False,True,1.0,0.0
+14295,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+14310,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+14325,Fireball,30.0,Archers,1.0,X,106.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+14340,Fireball,30.0,Archers,1.0,Archers,1.0,Fireball,30.0,X,106.0,3.0,3,True,True,6.0,6.0
+14355,Fireball,30.0,Archers,1.0,Archers,1.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+14370,Fireball,30.0,Archers,1.0,Archers,1.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+14385,Fireball,30.0,Archers,1.0,Archers,1.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+14400,Fireball,30.0,Archers,1.0,Archers,1.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+14415,Fireball,30.0,Archers,1.0,Archers,1.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+14430,Fireball,30.0,Archers,1.0,Archers,1.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+14445,Fireball,30.0,Archers,1.0,Archers,1.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+14460,Fireball,30.0,Archers,1.0,Archers,1.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+14475,Fireball,30.0,Archers,1.0,Archers,1.0,Archers,1.0,Fireball,30.0,4.0,3,True,True,3.0,4.0
+14490,Fireball,30.0,Archers,1.0,Archers,1.0,Archers,1.0,,,,3,False,False,0.0,0.0
+14505,Fireball,30.0,Archers,1.0,Archers,1.0,Archers,1.0,,,,2,False,True,1.0,0.0
+14520,Fireball,30.0,Archers,1.0,Archers,1.0,Archers,1.0,,,,3,False,False,0.0,0.0
+14535,Fireball,30.0,Archers,1.0,Archers,1.0,Archers,1.0,,,,3,False,False,0.0,0.0
+14550,Fireball,30.0,Archers,1.0,Archers,1.0,Archers,1.0,,,,3,False,False,0.0,0.0
+14565,Fireball,30.0,Archers,1.0,Archers,1.0,Archers,1.0,,,,4,False,False,0.0,0.0
+14580,Fireball,30.0,Archers,1.0,Archers,1.0,Archers,1.0,,,,4,False,False,0.0,0.0
+14595,Fireball,30.0,Archers,1.0,Archers,1.0,Archers,1.0,,,,3,False,True,1.0,0.0
+14610,Fireball,30.0,Archers,1.0,Archers,1.0,Archers,1.0,,,,3,False,False,0.0,0.0
+14625,Fireball,30.0,Archers,1.0,Archers,1.0,Archers,1.0,,,,3,False,False,0.0,0.0
+14640,Fireball,30.0,Archers,1.0,Archers,1.0,Archers,1.0,,,,4,False,False,0.0,0.0
+14655,Fireball,30.0,Archers,1.0,Archers,1.0,Archers,1.0,,,,4,False,False,0.0,0.0
+14670,Fireball,30.0,Archers,1.0,Archers,1.0,Archers,1.0,,,,4,False,False,0.0,0.0
+14685,Fireball,30.0,Archers,1.0,Archers,1.0,Archers,1.0,,,,5,False,False,0.0,0.0
+14700,Fireball,30.0,Archers,1.0,Archers,1.0,Archers,1.0,,,,5,False,False,0.0,0.0
+14715,Fireball,30.0,Archers,1.0,Archers,1.0,Archers,1.0,,,,5,False,False,0.0,0.0
+14730,Fireball,30.0,Archers,1.0,Archers,1.0,Archers,1.0,,,,6,False,False,0.0,0.0
+14745,Fireball,30.0,Archers,1.0,Archers,1.0,Archers,1.0,,,,6,False,False,0.0,0.0
+14760,Fireball,30.0,Archers,1.0,Archers,1.0,Archers,1.0,,,,6,False,False,0.0,0.0
+14775,Fireball,30.0,Archers,1.0,Archers,1.0,Archers,1.0,,,,7,False,False,0.0,0.0
+14790,Fireball,30.0,Archers,1.0,Archers,1.0,Archers,1.0,,,,7,False,False,0.0,0.0
+14805,Fireball,30.0,Archers,1.0,Archers,1.0,Archers,1.0,,,,8,False,False,0.0,0.0
+14820,Fireball,30.0,Archers,1.0,Archers,1.0,Archers,1.0,,,,8,False,False,0.0,0.0
+14835,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,Archers,1.0,3.0,5,True,True,3.0,3.0
+14850,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+14865,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+14880,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,3,False,True,3.0,0.0
+14895,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,4,False,False,0.0,0.0
+14910,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,4,False,False,0.0,0.0
+14925,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,4,False,False,0.0,0.0
+14940,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,5,False,False,0.0,0.0
+14955,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,2,False,True,3.0,0.0
+14970,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,1,False,True,1.0,0.0
+14985,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,2,False,False,0.0,0.0
+15000,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,1,False,True,1.0,0.0
+15015,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,2,False,False,0.0,0.0
+15030,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,2,False,False,0.0,0.0
+15045,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,0,False,True,2.0,0.0
+15060,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,1,False,False,0.0,0.0
+15075,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,1,False,False,0.0,0.0
+15090,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,1,False,False,0.0,0.0
+15105,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,1,False,False,0.0,0.0
+15120,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,1,False,False,0.0,0.0
+15135,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,1,False,False,0.0,0.0
+15150,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,2,False,False,0.0,0.0
+15165,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,2,False,False,0.0,0.0
+15180,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,2,False,False,0.0,0.0
+15195,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,3,False,False,0.0,0.0
+15210,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,3,False,False,0.0,0.0
+15225,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,4,False,False,0.0,0.0
+15240,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,4,False,False,0.0,0.0
+15255,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,1,False,True,3.0,0.0
+15270,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,2,False,False,0.0,0.0
+15285,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,2,False,False,0.0,0.0
+15300,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,2,False,False,0.0,0.0
+15315,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,3,False,False,0.0,0.0
+15330,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,3,False,False,0.0,0.0
+15345,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,3,False,False,0.0,0.0
+15360,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,4,False,False,0.0,0.0
+15375,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,4,False,False,0.0,0.0
+15390,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,4,False,False,0.0,0.0
+15405,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,5,False,False,0.0,0.0
+15420,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,5,False,False,0.0,0.0
+15435,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+15450,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+15465,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+15480,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+15495,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+15510,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+15525,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0
+15540,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0
+15555,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,2,False,True,6.0,0.0
+15570,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,3,False,False,0.0,0.0
+15585,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,3,False,False,0.0,0.0
+15600,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,3,False,False,0.0,0.0
+15615,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,4,False,False,0.0,0.0
+15630,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,4,False,False,0.0,0.0
+15645,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,5,False,False,0.0,0.0
+15660,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,5,False,False,0.0,0.0
+15675,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,5,False,False,0.0,0.0
+15690,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+15705,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+15720,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+15735,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+15750,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+15765,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+15780,Fireball,30.0,Archers,1.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0
+15795,Tornado,101.0,Archers,1.0,X,106.0,Archers,1.0,Fireball,30.0,1.0,4,True,True,4.0,4.0
+15810,Tornado,101.0,Archers,1.0,X,106.0,Archers,1.0,,,,4,False,False,0.0,0.0
+15825,Tornado,101.0,Archers,1.0,X,106.0,Archers,1.0,,,,5,False,False,0.0,0.0
+15840,Tornado,101.0,Archers,1.0,X,106.0,Archers,1.0,,,,5,False,False,0.0,0.0
+15855,Tornado,101.0,Archers,1.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+15870,Tornado,101.0,Archers,1.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+15885,Tornado,101.0,Archers,1.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+15900,Tornado,101.0,Archers,1.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+15915,Tornado,101.0,Archers,1.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+15930,Tornado,101.0,Archers,1.0,X,106.0,Archers,1.0,,,,6,False,True,1.0,0.0
+15945,Tornado,101.0,Archers,1.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+15960,Tornado,101.0,Archers,1.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+15975,Tornado,101.0,Archers,1.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+15990,Tornado,101.0,Archers,1.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0
+16005,Tornado,101.0,Archers,1.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0
+16020,Tornado,101.0,Archers,1.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0
+16035,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,Archers,1.0,2.0,6,True,True,2.0,3.0
+16050,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+16065,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+16080,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+16095,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+16110,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0
+16125,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0
+16140,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0
+16155,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,9,False,False,0.0,0.0
+16170,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,8,False,True,1.0,0.0
+16185,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0
+16200,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,9,False,False,0.0,0.0
+16215,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,9,False,False,0.0,0.0
+16230,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,6,False,True,3.0,0.0
+16245,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+16260,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+16275,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+16290,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0
+16305,Tornado,101.0,Fireball,30.0,Archers,1.0,Archers,1.0,X,106.0,3.0,2,True,True,6.0,6.0
+16320,Tornado,101.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,3,False,False,0.0,0.0
+16335,Tornado,101.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,3,False,False,0.0,0.0
+16350,Tornado,101.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,3,False,False,0.0,0.0
+16365,Tornado,101.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,4,False,False,0.0,0.0
+16380,Tornado,101.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,4,False,False,0.0,0.0
+16395,Tornado,101.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,4,False,False,0.0,0.0
+16410,Tornado,101.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,5,False,False,0.0,0.0
+16425,Tornado,101.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,5,False,False,0.0,0.0
+16440,Tornado,101.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,4,False,True,1.0,0.0
+16455,Tornado,101.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,5,False,False,0.0,0.0
+16470,Tornado,101.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,5,False,False,0.0,0.0
+16485,Tornado,101.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,6,False,False,0.0,0.0
+16500,Tornado,101.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,6,False,False,0.0,0.0
+16515,Tornado,101.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,6,False,False,0.0,0.0
+16530,Tornado,101.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,7,False,False,0.0,0.0
+16545,Tornado,101.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,7,False,False,0.0,0.0
+16560,Tornado,101.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,7,False,False,0.0,0.0
+16575,Tornado,101.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,8,False,False,0.0,0.0
+16590,Tornado,101.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,8,False,False,0.0,0.0
+16605,Tornado,101.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,8,False,False,0.0,0.0
+16620,Tornado,101.0,Fireball,30.0,Archers,1.0,Archers,1.0,,,,9,False,False,0.0,0.0
+16635,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,Archers,1.0,3.0,6,True,True,3.0,3.0
+16650,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+16665,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+16680,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+16695,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0
+16710,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0
+16725,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,7,False,True,1.0,0.0
+16740,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0
+16755,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,5,False,True,3.0,0.0
+16770,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,5,False,False,0.0,0.0
+16785,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+16800,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,4,False,True,2.0,0.0
+16815,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,4,False,False,0.0,0.0
+16830,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,5,False,False,0.0,0.0
+16845,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,5,False,False,0.0,0.0
+16860,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,5,False,False,0.0,0.0
+16875,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,2,False,True,3.0,0.0
+16890,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,2,False,False,0.0,0.0
+16905,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,2,False,False,0.0,0.0
+16920,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,3,False,False,0.0,0.0
+16935,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,3,False,False,0.0,0.0
+16950,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,3,False,False,0.0,0.0
+16965,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,3,False,False,0.0,0.0
+16980,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,4,False,False,0.0,0.0
+16995,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,4,False,False,0.0,0.0
+17010,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,5,False,False,0.0,0.0
+17025,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,5,False,False,0.0,0.0
+17040,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+17055,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,6,False,False,0.0,0.0
+17070,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,7,False,False,0.0,0.0
+17085,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0
+17100,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,8,False,False,0.0,0.0
+17115,Tornado,101.0,Fireball,30.0,X,106.0,Archers,1.0,,,,9,False,False,0.0,0.0
+17130,Tornado,101.0,Fireball,30.0,X,106.0,Fireball,30.0,Archers,1.0,4.0,6,True,True,3.0,3.0
+17145,Tornado,101.0,Fireball,30.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+17160,Tornado,101.0,Fireball,30.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+17175,Tornado,101.0,Fireball,30.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+17190,Tornado,101.0,Fireball,30.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+17205,Tornado,101.0,Fireball,30.0,X,106.0,Fireball,30.0,,,,7,False,True,1.0,0.0
+17220,Tornado,101.0,Fireball,30.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+17235,Tornado,101.0,Fireball,30.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+17250,Tornado,101.0,Fireball,30.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+17265,Tornado,101.0,Fireball,30.0,X,106.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+17280,Tornado,101.0,Fireball,30.0,X,106.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+17295,Tornado,101.0,Fireball,30.0,X,106.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+17310,Tornado,101.0,Fireball,30.0,X,106.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+17325,Tornado,101.0,Fireball,30.0,X,106.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+17340,Tornado,101.0,Fireball,30.0,X,106.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+17355,Tornado,101.0,Fireball,30.0,X,106.0,Fireball,30.0,,,,10,False,False,0.0,0.0
+17370,Tornado,101.0,Archers,1.0,X,106.0,Fireball,30.0,Fireball,30.0,2.0,5,True,True,5.0,4.0
+17385,Tornado,101.0,Archers,1.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+17400,Tornado,101.0,Archers,1.0,X,106.0,Fireball,30.0,,,,2,False,True,3.0,0.0
+17415,Tornado,101.0,Archers,1.0,X,106.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+17430,Tornado,101.0,Archers,1.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+17445,Tornado,101.0,Archers,1.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+17460,Tornado,101.0,Archers,1.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+17475,Tornado,101.0,Archers,1.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+17490,Tornado,101.0,Archers,1.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+17505,Tornado,101.0,Archers,1.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+17520,Tornado,101.0,Archers,1.0,X,106.0,Fireball,30.0,,,,4,False,True,2.0,0.0
+17535,Tornado,101.0,Archers,1.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+17550,Tornado,101.0,Archers,1.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+17565,Tornado,101.0,Archers,1.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+17580,Tornado,101.0,Archers,1.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+17595,Tornado,101.0,Archers,1.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+17610,Tornado,101.0,Archers,1.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+17625,Tornado,101.0,Archers,1.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+17640,Tornado,101.0,Archers,1.0,X,106.0,Fireball,30.0,,,,7,False,True,1.0,0.0
+17655,Tornado,101.0,Archers,1.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+17670,Tornado,101.0,Archers,1.0,X,106.0,Fireball,30.0,,,,8,False,False,0.0,0.0
+17685,Tornado,101.0,Archers,1.0,X,106.0,Fireball,30.0,,,,9,False,False,0.0,0.0
+17700,Tornado,101.0,Archers,1.0,X,106.0,Fireball,30.0,,,,7,False,True,2.0,0.0
+17715,Tornado,101.0,X,106.0,X,106.0,Fireball,30.0,Archers,1.0,2.0,4,True,True,3.0,3.0
+17730,Tornado,101.0,X,106.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+17745,Tornado,101.0,X,106.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+17760,Tornado,101.0,X,106.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+17775,Tornado,101.0,X,106.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+17790,Tornado,101.0,X,106.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+17805,Tornado,101.0,X,106.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+17820,Tornado,101.0,X,106.0,X,106.0,Fireball,30.0,,,,3,False,True,3.0,0.0
+17835,Tornado,101.0,X,106.0,X,106.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+17850,Tornado,101.0,X,106.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+17865,Tornado,101.0,X,106.0,X,106.0,Fireball,30.0,,,,3,False,True,1.0,0.0
+17880,Tornado,101.0,X,106.0,X,106.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+17895,Tornado,101.0,X,106.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+17910,Tornado,101.0,X,106.0,X,106.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+17925,Tornado,101.0,X,106.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+17940,Tornado,101.0,X,106.0,X,106.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+17955,Tornado,101.0,X,106.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+17970,Tornado,101.0,X,106.0,X,106.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+17985,Tornado,101.0,X,106.0,Archers,1.0,Fireball,30.0,X,106.0,3.0,2,True,True,5.0,6.0
+18000,Tornado,101.0,X,106.0,Archers,1.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+18015,Tornado,101.0,X,106.0,Archers,1.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+18030,Tornado,101.0,X,106.0,Archers,1.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+18045,Tornado,101.0,X,106.0,Archers,1.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+18060,Tornado,101.0,X,106.0,Archers,1.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+18075,Tornado,101.0,X,106.0,Archers,1.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+18090,Tornado,101.0,X,106.0,Archers,1.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+18105,Tornado,101.0,X,106.0,Archers,1.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+18120,Tornado,101.0,X,106.0,Archers,1.0,Fireball,30.0,,,,4,False,True,2.0,0.0
+18135,Tornado,101.0,X,106.0,Archers,1.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+18150,Tornado,101.0,X,106.0,Archers,1.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+18165,Tornado,101.0,X,106.0,Archers,1.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+18180,Tornado,101.0,X,106.0,Archers,1.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+18195,Tornado,101.0,X,106.0,Archers,1.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+18210,Tornado,101.0,X,106.0,Archers,1.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+18225,Tornado,101.0,X,106.0,Archers,1.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+18240,Tornado,101.0,X,106.0,Archers,1.0,Fireball,30.0,,,,3,False,True,3.0,0.0
+18255,Tornado,101.0,X,106.0,Archers,1.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+18270,Tornado,101.0,X,106.0,Archers,1.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+18285,Tornado,101.0,X,106.0,Archers,1.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+18300,Tornado,101.0,X,106.0,Archers,1.0,Fireball,30.0,,,,4,False,True,1.0,0.0
+18315,Tornado,101.0,X,106.0,Archers,1.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+18330,Tornado,101.0,X,106.0,Archers,1.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+18345,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,Fireball,30.0,4.0,2,True,True,3.0,4.0
+18360,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+18375,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,1,False,True,1.0,0.0
+18390,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+18405,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+18420,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+18435,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+18450,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+18465,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+18480,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+18495,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+18510,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+18525,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+18540,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+18555,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+18570,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+18585,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+18600,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+18615,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+18630,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+18645,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+18660,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+18675,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+18690,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+18705,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+18720,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+18735,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+18750,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+18765,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+18780,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+18795,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+18810,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+18825,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+18840,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+18855,Tornado,101.0,X,106.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+18870,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,X,106.0,2.0,10,True,True,6.0,6.0
+18885,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+18900,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+18915,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,True,1.0,0.0
+18930,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,1,False,True,2.0,0.0
+18945,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+18960,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+18975,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+18990,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+19005,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+19020,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+19035,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+19050,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+19065,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+19080,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+19095,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+19110,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+19125,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+19140,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+19155,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+19170,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+19185,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+19200,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+19215,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+19230,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+19245,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+19260,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19275,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19290,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19305,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19320,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19335,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19350,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19365,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19380,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19395,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19410,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19425,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19440,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19455,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19470,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19485,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19500,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19515,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19530,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19545,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19560,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19575,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19590,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19605,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19620,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19635,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19650,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19665,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19680,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19695,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19710,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19725,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19740,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19755,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19770,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19785,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19800,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19815,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19830,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19845,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19860,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19875,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19890,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19905,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19920,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19935,Tornado,101.0,Tornado,101.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+19950,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,Valkyrie,102.0,4.0,3,True,False,0.0,4.0
+19965,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+19980,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+19995,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+20010,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+20025,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+20040,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+20055,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+20070,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+20085,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+20100,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+20115,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+20130,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+20145,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+20160,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+20175,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+20190,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+20205,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+20220,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+20235,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+20250,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+20265,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+20280,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+20295,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+20310,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+20325,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+20340,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+20355,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+20370,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+20385,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+20400,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+20415,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,True,4.0,0.0
+20430,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+20445,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+20460,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+20475,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+20490,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+20505,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+20520,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+20535,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+20550,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+20565,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+20580,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+20595,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+20610,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+20625,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+20640,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+20655,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+20670,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+20685,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+20700,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+20715,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+20730,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+20745,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+20760,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+20775,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+20790,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+20805,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+20820,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+20835,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+20850,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+20865,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,9,False,False,0.0,0.0
+20880,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,9,False,False,0.0,0.0
+20895,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,9,False,False,0.0,0.0
+20910,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,9,False,False,0.0,0.0
+20925,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,9,False,False,0.0,0.0
+20940,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,9,False,False,0.0,0.0
+20955,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,10,False,False,0.0,0.0
+20970,Tornado,101.0,Tornado,101.0,Archers,1.0,Ice Wizard,55.0,,,,10,False,False,0.0,0.0
+20985,Tornado,101.0,Ice Wizard,55.0,Archers,1.0,Ice Wizard,55.0,Tornado,101.0,2.0,7,True,True,3.0,3.0
+21000,Tornado,101.0,Ice Wizard,55.0,Archers,1.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+21015,Tornado,101.0,Ice Wizard,55.0,Archers,1.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+21030,Tornado,101.0,Ice Wizard,55.0,Archers,1.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+21045,Tornado,101.0,Ice Wizard,55.0,Archers,1.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+21060,Tornado,101.0,Ice Wizard,55.0,Archers,1.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+21075,Tornado,101.0,Ice Wizard,55.0,Archers,1.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+21090,Tornado,101.0,Ice Wizard,55.0,Archers,1.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+21105,Tornado,101.0,Ice Wizard,55.0,Archers,1.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+21120,Tornado,101.0,Ice Wizard,55.0,Archers,1.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+21135,Tornado,101.0,Ice Wizard,55.0,Archers,1.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+21150,Tornado,101.0,Ice Wizard,55.0,Archers,1.0,Ice Wizard,55.0,,,,9,False,False,0.0,0.0
+21165,Tornado,101.0,Ice Wizard,55.0,Archers,1.0,Ice Wizard,55.0,,,,9,False,False,0.0,0.0
+21180,Tornado,101.0,Ice Wizard,55.0,Archers,1.0,Ice Wizard,55.0,,,,9,False,False,0.0,0.0
+21195,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,Ice Wizard,55.0,2.0,6,True,True,3.0,3.0
+21210,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+21225,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+21240,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+21255,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+21270,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+21285,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+21300,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+21315,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+21330,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+21345,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,4,False,True,4.0,0.0
+21360,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+21375,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+21390,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+21405,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+21420,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+21435,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+21450,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+21465,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+21480,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+21495,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+21510,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+21525,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+21540,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+21555,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+21570,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+21585,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+21600,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+21615,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+21630,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,7,False,False,0.0,0.0
+21645,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,8,False,False,0.0,0.0
+21660,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,True,5.0,0.0
+21675,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+21690,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+21705,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+21720,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+21735,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+21750,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+21765,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+21780,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+21795,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+21810,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+21825,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+21840,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+21855,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+21870,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+21885,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+21900,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+21915,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+21930,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,1,False,True,5.0,0.0
+21945,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,1,False,False,0.0,0.0
+21960,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,1,False,False,0.0,0.0
+21975,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,1,False,False,0.0,0.0
+21990,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+22005,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+22020,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+22035,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+22050,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+22065,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+22080,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+22095,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+22110,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+22125,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+22140,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+22155,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+22170,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+22185,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+22200,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+22215,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+22230,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+22245,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+22260,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+22275,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+22290,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+22305,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,5,False,False,0.0,0.0
+22320,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+22335,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+22350,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,6,False,False,0.0,0.0
+22365,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,2,False,True,4.0,0.0
+22380,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+22395,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,2,False,False,0.0,0.0
+22410,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+22425,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+22440,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+22455,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+22470,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,3,False,False,0.0,0.0
+22485,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+22500,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+22515,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Ice Wizard,55.0,,,,4,False,False,0.0,0.0
+22530,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,Ice Wizard,55.0,4.0,1,True,True,3.0,3.0
+22545,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+22560,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+22575,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+22590,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+22605,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+22620,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+22635,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+22650,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+22665,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+22680,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+22695,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+22710,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+22725,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+22740,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+22755,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+22770,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+22785,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+22800,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,1,False,True,4.0,0.0
+22815,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+22830,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+22845,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+22860,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+22875,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+22890,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+22905,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+22920,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+22935,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+22950,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+22965,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+22980,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,1,False,True,4.0,0.0
+22995,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+23010,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+23025,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+23040,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+23055,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+23070,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,0,False,True,3.0,0.0
+23085,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+23100,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+23115,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,1,False,False,0.0,0.0
+23130,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+23145,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,2,False,False,0.0,0.0
+23160,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+23175,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+23190,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,3,False,False,0.0,0.0
+23205,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+23220,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+23235,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,4,False,False,0.0,0.0
+23250,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+23265,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+23280,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,5,False,False,0.0,0.0
+23295,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+23310,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,6,False,False,0.0,0.0
+23325,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+23340,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+23355,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,7,False,False,0.0,0.0
+23370,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+23385,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+23400,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,8,False,False,0.0,0.0
+23415,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+23430,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+23445,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,9,False,False,0.0,0.0
+23460,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23475,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23490,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23505,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23520,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23535,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23550,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23565,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23580,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23595,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23610,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23625,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23640,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23655,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23670,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23685,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23700,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23715,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23730,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23745,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23760,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23775,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23790,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23805,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23820,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23835,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23850,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23865,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23880,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23895,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23910,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23925,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23940,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23955,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23970,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+23985,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+24000,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+24015,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+24030,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+24045,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+24060,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+24075,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+24090,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+24105,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+24120,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+24135,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+24150,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+24165,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+24180,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+24195,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+24210,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+24225,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+24240,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+24255,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
+24270,Tornado,101.0,Valkyrie,102.0,Archers,1.0,Valkyrie,102.0,,,,10,False,False,0.0,0.0
