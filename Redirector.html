@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Open File Share</title>
+    <script>
+        window.onload = function() {
+            var urlParams = new URLSearchParams(window.location.search);
+            var fileShare = urlParams.get('fileShare');
+            if (fileShare) {
+                window.location.href = fileShare;
+            }
+        };
+    </script>
+</head>
+<body>
+    <p>If you are not redirected, <a id="fileShareLink">click here</a> to open the file share.</p>
+    <script>
+        document.getElementById('fileShareLink').href = new URLSearchParams(window.location.search).get('fileShare');
+    </script>
+</body>
+</html>
